@@ -1,0 +1,111 @@
+# External Dependencies / Partners
+
+_Last updated: 2026-05-21_
+
+---
+
+## Active / Critical
+
+### Mid-desk
+- **Area:** GBC – State Tax Registration (STR)
+- **Status:** Active — critical dependency
+- **Relationship owner (day-to-day):** Chris Elkins
+- **Brandon's role:** Strategy, contract renewal
+- **Current pricing:** ~$35/registration, ~82% margin to Gusto
+- **Contract:** November 2026 renewal. 90-day notice = ~late July trigger.
+- **Key risks:**
+  - Pricing likely to increase significantly upon renewal (mid-desk hinting at 2x+)
+  - Andrew Adams back-channeling Gusto's first-party plans to mid-desk contacts
+  - Mid-desk aware of Mosey acquisition and GBC first-party intent
+  - Potential scaling/POA compliance issues in certain states (e.g., Hawaii)
+  - Mid-desk may push for payroll closure / additional integrations as leverage
+- **Strategic direction:** Multi-provider strategy. First-party STR target ~Dec 1, 2026. Get Palm as optionality.
+- **Next milestone:** Jessica Sacks to handle mid-desk scribing model notification week of May 26 (Chris OOO). Renewal prep Aug–Sep.
+
+---
+
+### Zen Business
+- **Area:** SYB + Entity Management — EIN, LLC formation, registered agent, initial reports
+- **Status:** Active — at least 1 more year
+- **Relationship owner:** Farron Hicks (product); Brandon (partner dev)
+- **Contract:** No exclusivity clause blocking first-party build. Review exact language.
+- **Key risks:** Ransomware attack (March 2026) — DPA was inadequate; amendments signed. Template fix in progress.
+- **Strategic direction:** Browser base POC may reduce dependency. First-party entity formation a medium-term goal.
+- **Next milestone:** EIN going GA (AB test complete); browser base go/no-go.
+
+---
+
+### Browser Base
+- **Area:** GBC + SYB – first-party state tax registration + entity formation
+- **Status:** POC in progress — ongoing
+- **Classification:** Vendor (Ashby direction: treat as vendor, explore with Andrew Adams)
+- **Key contact:** Unknown (Alex Kehayias managing POC; Brandon to engage Andrew Adams)
+- **Strategic direction:** If go → pilot → target first-party readiness ~Dec 1, 2026
+- **Next milestone:** Brandon to connect with Andrew Adams week of May 26 to explore further.
+
+---
+
+### Legal Link (owned by Legal Zoom)
+- **Area:** Entity Management – registered agent
+- **Status:** Active
+- **Relationship owner:** Currently Alex Kehayias (Brandon to be introduced)
+- **Key risks:** SLA adherence issues (tracked by Becky Grant, Farron's head of ops). No binding SLA commitments in current contract.
+- **Fallback:** Computer Share (same team as former CorpNet people; performance inferior to Legal Link)
+- **Next milestone:** Alex to intro Brandon as relationship owner. Renegotiate SLA commitments when contract allows.
+
+---
+
+### Earth Class Mail / Stable
+- **Area:** Entity Management – physical mail
+- **Status:** Active
+- **Earth Class Mail:** Primary (owned by Legal Zoom). Stripe is payment processor for this surface.
+- **Stable:** Fallback. Has accepted Gusto's legal opinion on mail scanning compliance.
+- **Key risks:** Gusto is not largest customer (Stripe Atlas is). Responsiveness issues with contacts.
+- **Next milestone:** No immediate action. Monitor SLAs.
+
+---
+
+### Get Palm
+- **Area:** GBC + SYB – potential 3rd-party STR and/or entity formation provider
+- **Status:** Exploratory — initial meeting completed May 23
+- **Key contacts:** Connor (last name unknown, Brandon's contact — likely oversharer, useful for intel); Helen (sent API docs post-meeting)
+- **Company size:** ~20–50 employees. Doing a lot at once, not super focused.
+
+**Products (all à la carte, API-first):**
+- **Onboard:** Business search + verification (live)
+- **Verify:** KYB/KYC with risk levels + compliance checks (live)
+- **Monitor:** Subscription-based change tracking — ownership, filings, liens, adverse actions (live)
+- **Comply:** Action on monitoring alerts — annual reports, DBAs, S-corp filings (live)
+- **Entity formation:** All 50 states, LLCs/corps/professional entities — launching in next couple weeks
+- **STR (state tax registration):** In development pipeline
+- **Registered agent:** Through state partners; considering in-house
+
+**Gusto fit analysis:**
+- Compare Palm APIs vs. Mosey's current methods (cheaper/better/faster — need 2 of 3)
+- Monitor/Verify APIs: evaluate with Gusto risk team
+- Entity formation: highly relevant to SYB first-party spike — Izzy hasn't seen anyone doing e2e with minimal humans
+- Comply: potentially relevant to GBC annual reports / foreign qualifications
+
+**Strategic angle:** May be a 6–12 month rental while Gusto builds first-party. Worth understanding what's a huge lift vs. what could be rented short-term.
+
+**Next steps:**
+- Helen to send API docs + entity formation documentation (awaiting)
+- Brandon to pass docs + notes to Alex to kick the tires (COM-001)
+- Brandon to email Connor for lunch/dinner — extract how they built entity formation (COM-010)
+- Gusto risk team to evaluate Monitor/Verify APIs
+
+**Next milestone:** COM-001 (pass to Alex, week of May 26). COM-010 (email Connor, week of May 26).
+
+---
+
+## Inactive / No Longer Tracking
+
+| Partner | Area | Reason |
+|---|---|---|
+| HiBob | HR integration | No longer relevant to Brandon's scope |
+| Studio Designer | Design software | No longer relevant |
+| BQE | Accounting software | No longer relevant |
+| Lettuce Financial | Accountant platform | No longer relevant |
+| Melio | AP/AR platform | No longer relevant |
+| Imprest.ai | Expense mgmt | One-off intro meeting only |
+| CorpNet | State tax registration | No revival — too much engineering/CX overhead |

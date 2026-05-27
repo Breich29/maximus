@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.${SYSTEM_NAME_LOWER}.weeklyreview</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>${PROJECT_DIR}/bin/run_weekly_review.sh</string>
+  </array>
+  <key>WorkingDirectory</key>
+  <string>${PROJECT_DIR}</string>
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Weekday</key><integer>${WEEKLY_REVIEW_DAY}</integer>
+    <key>Hour</key><integer>${WEEKLY_REVIEW_HOUR}</integer>
+    <key>Minute</key><integer>${WEEKLY_REVIEW_MINUTE}</integer>
+  </dict>
+  <key>StandardOutPath</key>
+  <string>${PROJECT_DIR}/logs/weekly-review.launchd.log</string>
+  <key>StandardErrorPath</key>
+  <string>${PROJECT_DIR}/logs/weekly-review.launchd.error.log</string>
+  <key>RunAtLoad</key><false/>
+</dict>
+</plist>

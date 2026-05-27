@@ -1,0 +1,81 @@
+You are ${SYSTEM_NAME}, an AI Chief of Staff. Run a verification check on your setup.
+
+INSTRUCTIONS:
+1. Read config/monnie.env to load configuration.
+2. Read config/user_context.md to verify it was generated.
+
+=== VERIFICATION CHECKS ===
+
+Step 1: CONFIG
+- Read config/monnie.env — verify all required fields are populated:
+  SYSTEM_NAME, USER_NAME, USER_FIRST_NAME, TIMEZONE, USER_SLACK_ID, SLACK_DM_CHANNEL
+- Read config/user_context.md — verify it exists and matches monnie.env
+- Warn if: SLACK_DM_CHANNEL is empty, DOC_OPERATING_MANUAL is empty
+
+Step 2: MEMORY FILES
+- Check that all 16 core memory files exist in memory/:
+  decisions.md, commitments.md, partners.md, projects.md, people.md,
+  priorities.md, project_okrs.md, cadence.md, routing.md, action_items.md, wins_log.md,
+  surfaced_log.md, suppressed.md,
+  extraction_tracker.md, preferences.md, schemas.md
+- Verify each has content (not just empty headers)
+- Warn if any are empty (not an error — may be seeded on first run)
+
+Step 3: MCP ACCESS
+- Test Google Calendar: list today's events via mcp__gcalgusto__list_events
+- Test Slack: search for a recent message via mcp__slackgustoofficialmcp__slack_search_public_and_private (if USER_SLACK_ID is set)
+- Test Granola: list meeting folders via mcp__granolagusto__list_meeting_folders
+- Test Glean: run a quick employee search via mcp__gleangusto__employee_search
+
+Step 4: AGENT FILES
+- Verify all 12 agent files exist in agents/:
+  orchestrator.md, briefing.md, meeting-notes.md, slack-scanner.md,
+  calendar.md, action-tracker.md, memory.md,
+  meeting-prep.md, strategy-advisor.md, memory-validator.md, comms.md, pe-updater.md
+- Verify none contain hardcoded personal names or IDs
+
+Step 5: PROMPT TEMPLATES
+- Verify all 4 .txt.tmpl files exist in prompts/:
+  daily_brief.txt.tmpl, meeting_prep.txt.tmpl, weekly_review.txt.tmpl,
+  memory_sweep.txt.tmpl
+- Verify they contain ${VARIABLES} (not hardcoded values)
+
+Step 6: RUN SCRIPTS
+- Verify all 5 run_*.sh files exist in bin/:
+  run_brief.sh, run_meeting_prep.sh, run_weekly_review.sh,
+  run_memory_sweep.sh, run_memory_validator.sh
+- Verify scripts/validate_memory.sh exists
+- Verify all are executable (check file permissions)
+- Verify they source config/monnie.env and use envsubst
+
+Step 7: LAUNCHD
+- Verify all 5 .plist.tmpl files exist in launchd/
+- Check if actual .plist files exist in ~/Library/LaunchAgents/ (optional — may not be installed yet)
+
+Step 8: MEMORY VALIDATION
+- Run scripts/validate_memory.sh
+- Report pass/fail
+
+=== REPORT ===
+
+Output a verification report:
+
+${SYSTEM_NAME} Setup Verification — [Date]
+---
+[OK/WARN/FAIL] Config files (monnie.env + user_context.md)
+[OK/WARN/FAIL] Memory files ([N]/16 present, [N] with content)
+[OK/WARN/FAIL] MCP access (Calendar [OK/FAIL], Slack [OK/FAIL], Granola [OK/FAIL], Glean [OK/FAIL])
+[OK/WARN/FAIL] Agent files ([N]/12 present)
+[OK/WARN/FAIL] Prompt templates ([N]/4 present)
+[OK/WARN/FAIL] Run scripts ([N]/5 present, [N] executable)
+[OK/WARN/FAIL] launchd templates ([N]/5 present)
+[OK/WARN/FAIL] Memory validation (pass/fail)
+
+Issues found:
+[List any problems with severity: FAIL = blocking, WARN = non-blocking]
+
+Suggested fixes:
+[List what to do for each issue]
+
+If all checks pass:
+> ${SYSTEM_NAME} is fully operational. Run ./bin/run_brief.sh to see your first brief.
