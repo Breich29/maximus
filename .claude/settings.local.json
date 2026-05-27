@@ -1,4 +1,19 @@
 {
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "file=$(jq -r '.tool_input.file_path // empty'); if [[ \"$file\" == /Users/brandon.reich/maximus/* ]]; then cd /Users/brandon.reich/maximus && git add -A && git diff --cached --quiet || (git commit -m \"Auto-sync: $(date '+%Y-%m-%d %H:%M')\" && git push); fi 2>/dev/null || true",
+            "statusMessage": "Syncing maximus to GitHub...",
+            "async": true
+          }
+        ]
+      }
+    ]
+  },
   "permissions": {
     "allow": [
       "mcp__claude_ai_Granola_Gusto__list_meetings",
