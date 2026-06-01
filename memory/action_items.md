@@ -1,15 +1,14 @@
 # Action Items
 
-_Last updated: 2026-05-29_
+_Last updated: 2026-06-01_
 _Lightweight follow-ups and "needs confirmation" items. Formal commitments tracked in commitments.md._
 
 ---
 
 ## Needs Confirmation
 
-- [ ] **COM-007 done?** Did the Get Palm meeting happen on ~May 23?
-- [ ] **COM-005 done?** Did Chris Elkins get the mid-desk pre-flight call done before vacation? — _Awaiting update from Jessica Sacks (as of May 28)_
-- [ ] **COM-006 done?** Did Farron send the Notion home base / roadmap link? — _7 days unconfirmed as of May 29_
+- [ ] **COM-005 done?** Did Chris Elkins get the mid-desk pre-flight call done before vacation? — _Awaiting update from Jessica Sacks (as of May 28) — 11 days stale as of Jun 1_
+- [ ] **COM-006 done?** Did Farron send the Notion home base / roadmap link? — _11 days unconfirmed as of Jun 1; confirm still applicable given Farron's first-party recusal_
 
 ---
 
@@ -38,4 +37,5 @@ _Lightweight follow-ups and "needs confirmation" items. Formal commitments track
 
 ## Completed
 
+- [x] **COM-007** — Get Palm exploratory meeting happened May 23; Helen sent API docs post-call. Confirmed in weekly review May 29. _(was: Did the Get Palm meeting happen on ~May 23?)_
 - [x] **COM-002** — Brandon engaged Andrew Adams on Browser Base. Confirmed done by Brandon on May 28. _(was: confirm Brandon asked Ashby about Browser Base vendor vs. partner, May 22)_
