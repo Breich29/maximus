@@ -1,6 +1,6 @@
 # Action Items
 
-_Last updated: 2026-06-02_
+_Last updated: 2026-06-02 (eve scan)_
 _Lightweight follow-ups and "needs confirmation" items. Formal commitments tracked in commitments.md._
 
 ---
@@ -29,6 +29,7 @@ _Lightweight follow-ups and "needs confirmation" items. Formal commitments track
 
 - [ ] Andrew Adams back-channeling risk — Alex + Jessica are aware. Consider whether Brandon should speak to Andrew directly or leave to Alex to manage.
 - [ ] 3,000 CorpNet orders in non-terminal status (~250 days avg age) — cleanup needed. Confirm who owns this (Alex? Namrata?).
+- [ ] **COM-004** — Share KPIs + role definition → Chris Elkins + Jessica Sacks — deferred to **June 20** (Chris OOO through Jun 9). _(Brandon, Jun 2)_
 - [ ] MSA template upgrades (COM-003) — pushed to July per Brandon Jun 2. Brandon to loop in Allison Hess.
 - [ ] Legal Link SLA renegotiation — no hard timeline. Brandon to be introduced first, then assess.
 - [ ] GustoPro partnerships (COM-009) — Jun 8 multi-client MCP meeting set. Lauren Snyder done; Gowri Nambiar being scheduled Jun 2.
