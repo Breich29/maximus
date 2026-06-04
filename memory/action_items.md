@@ -1,6 +1,6 @@
 # Action Items
 
-_Last updated: 2026-06-04 (morning scan)_
+_Last updated: 2026-06-04 (afternoon scan — #maximus-updates)_
 _Lightweight follow-ups and "needs confirmation" items. Formal commitments tracked in commitments.md._
 
 ---
@@ -9,19 +9,18 @@ _Lightweight follow-ups and "needs confirmation" items. Formal commitments track
 
 - [ ] **Future of STR prep — TODAY** — Sync with Bridgette or Daniella before Jun 5 9 AM STR meeting. First-party STR direction confirmed Jun 3. Andrew Adams will be in the room — decide what is/isn't shareable re: first-party timeline. — _Urgent: before EOD Jun 4_
 - [ ] **Ken Webster (Rocket Lawyer) reply** — Reply to Andrew Gates intro. Warm, brief — acknowledge Cofounder angle, offer a time. — _Due: today Jun 4_
-- [ ] **M&A thesis on DoubleHQ → Tomer** — Requested in Jun 3 Double/STR internal meeting. — _Due: ASAP_
-- [ ] **Intuit T&C review + contractor agreement → Ben (work with Allison Hess)** — IP protection language for DoubleHQ partnership. — _Due: ASAP_
-- [ ] **Igor <> Jeff (GlassJar) intro** — Facilitate API integration intro connection. — _Due: this week_
+- [ ] **M&A thesis on DoubleHQ → Tomer** — Requested in Jun 3 Double/STR internal meeting. Brandon signaled Jun 4 this will come from Bridgette — watch for her to produce it. — _Due: ASAP_
+- [ ] **Intuit T&C review + contractor agreement → Ben (work with Allison Hess)** — IP protection language for DoubleHQ partnership. Meeting with Allison at 2pm Jun 4 in progress. — _Due: ASAP_
 - [ ] **Message Ben Stein** re: double internal recap — _(from Brandon's Jun 3 status note)_
 - [ ] **Ping Jessica Sacks — MidDesk headless API status** — Get her answer before Jun 5 STR meeting. Hard answer deadline Jun 12; sets negotiating posture for renewal. — _Due: today Jun 4_
-- [ ] **COM-008 — Ping Alex Kehayias for Legal Link intro** — 13 days stale. MidDesk meeting ~Jun 10 makes this time-sensitive. — _Due: this week_
+- [ ] **COM-008 — Ping Alex Kehayias for Legal Link intro** — Brandon deferred Jun 4: "pushed to next month, non urgent." — _Due: early July_
 - [ ] **Resolve 1 PM calendar conflict (Jun 4)** — Brian/Brandon weekly vs. Corp & Partner Dev weekly. Corp & Partner Dev has Ashby — likely priority.
 
 ---
 
 ## Needs Confirmation
 
-- [ ] **COM-005 done?** Did Jessica Sacks confirm the mid-desk pre-flight call happened before Chris's vacation? — _Awaiting update from Jessica Sacks (as of May 28) — 13 days stale as of Jun 4_
+_(nothing pending)_
 
 ---
 
@@ -56,3 +55,5 @@ _Lightweight follow-ups and "needs confirmation" items. Formal commitments track
 - [x] **COM-010** — Connor Patterson (Get Palm) lunch/HH confirmed done. Confirmed by Brandon Jun 2. _(was: Email Connor at Get Palm for lunch/intel; HH locked June 10)_
 - [x] **COM-007** — Get Palm exploratory meeting happened May 23; Helen sent API docs post-call. Confirmed in weekly review May 29. _(was: Did the Get Palm meeting happen on ~May 23?)_
 - [x] **COM-002** — Brandon engaged Andrew Adams on Browser Base. Confirmed done by Brandon on May 28. _(was: confirm Brandon asked Ashby about Browser Base vendor vs. partner, May 22)_
+- [x] **COM-005** — Jessica Sacks pre-flight call confirmed done; MidDesk meeting scheduled for next Friday (~Jun 12). Confirmed by Brandon Jun 4. _(was: COM-005 done? Did Jessica Sacks confirm the mid-desk pre-flight call happened before Chris's vacation?)_
+- [x] **Igor <> Jeff (GlassJar) intro** — Intro sent. Confirmed by Brandon Jun 4: "Igor<>Jeff intro sent."
