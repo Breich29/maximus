@@ -8,22 +8,10 @@ Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 
 ## Open
 
-**COM-001** — Brandon → Alex Kehayias (+ Chris Elkins + Jessica Sacks)
-- **What:** Pass Get Palm monitor/comply docs + meeting notes to Alex to kick the tires. Also share with Chris + Jessica.
-- **Due:** Week of May 26
-- **Status:** Open — meeting happened; notes not yet shared
-- **Source:** Granola: Alex/Brandon + Slack: Brandon<>Izzy May 22
-
-**COM-002** — Brandon → Andrew Adams (via Ashby direction)
-- **What:** Explore Browser Base with Andrew Adams — Ashby said to engage Andrew on this
-- **Due:** Week of May 26
-- **Status:** Open — ongoing; Ashby directed Brandon to explore with Andrew
-- **Source:** Granola: Farron/Brandon + Ashby 1:1 May 22
-
 **COM-003** — Brandon → Allison Hess
 - **What:** Draft MSA template recommendations incorporating Zen Business DPA lessons + security-earlier approach
-- **Due:** TBD (no hard deadline — medium-term)
-- **Status:** Open
+- **Due:** July 2026
+- **Status:** Open — deferred to next month
 - **Source:** Granola: Chris<>Jessica<>Brandon
 
 **COM-004** — Brandon → Chris Elkins + Jessica Sacks
