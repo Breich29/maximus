@@ -1,4 +1,27 @@
 {
+  "permissions": {
+    "allow": [
+      "mcp__claude_ai_Granola_Gusto__list_meetings",
+      "mcp__claude_ai_Glean__user_activity",
+      "mcp__claude_ai_Glean__employee_search",
+      "mcp__claude_ai_Gcal_Gusto__list_events",
+      "mcp__claude_ai_Slack_Gusto_Offical__slack_search_public_and_private",
+      "mcp__claude_ai_Granola_Gusto__get_meeting_transcript",
+      "mcp__claude_ai_Slack_Gusto_Offical__slack_search_users",
+      "mcp__claude_ai_Gdrive_Gusto__create_doc_from_markdown",
+      "mcp__claude_ai_Gdrive_Gusto__update_doc_from_markdown",
+      "Bash(claude mcp:*)",
+      "Skill(schedule)",
+      "mcp__claude_ai_Notion_Gusto__notion-fetch",
+      "mcp__claude_ai_Granola_Gusto__query_granola_meetings",
+      "mcp__claude_ai_Notion_Gusto__notion-update-page",
+      "mcp__claude_ai_Notion_Gusto__notion-search",
+      "mcp__claude_ai_Glean__search",
+      "mcp__claude_ai_Gslides_Gusto__get_slide",
+      "Bash(brew upgrade:*)",
+      "Bash(brew list:*)"
+    ]
+  },
   "hooks": {
     "PostToolUse": [
       {
@@ -12,21 +35,6 @@
           }
         ]
       }
-    ]
-  },
-  "permissions": {
-    "allow": [
-      "mcp__claude_ai_Granola_Gusto__list_meetings",
-      "mcp__claude_ai_Glean__user_activity",
-      "mcp__claude_ai_Glean__employee_search",
-      "mcp__claude_ai_Gcal_Gusto__list_events",
-      "mcp__claude_ai_Slack_Gusto_Offical__slack_search_public_and_private",
-      "mcp__claude_ai_Granola_Gusto__get_meeting_transcript",
-      "mcp__claude_ai_Slack_Gusto_Offical__slack_search_users",
-      "mcp__claude_ai_Gdrive_Gusto__create_doc_from_markdown",
-      "mcp__claude_ai_Gdrive_Gusto__update_doc_from_markdown",
-      "Bash(claude mcp:*)",
-      "Skill(schedule)"
     ]
   }
 }
