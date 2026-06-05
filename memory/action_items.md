@@ -7,10 +7,7 @@ _Lightweight follow-ups and "needs confirmation" items. Formal commitments track
 
 ## Needs Confirmation
 
-- [ ] **COM-002 done?** Did Brandon ask Ashby about Browser Base (vendor vs. partner) on May 22?
-- [ ] **COM-007 done?** Did the Get Palm meeting happen on ~May 23?
 - [ ] **COM-005 done?** Did Chris Elkins get the mid-desk pre-flight call done before vacation?
-- [ ] **COM-006 done?** Did Farron send the Notion home base / roadmap link?
 
 ---
 
