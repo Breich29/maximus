@@ -46,12 +46,12 @@ What the user committed to:
 - Risks
 - Prep links
 
+**Risks / Watchouts**
+[Risk] — Why it matters — Owner
+
 **Quick Hits (Action Items)**
 _(Lightweight follow-ups from recent meetings. Flag any 7+ days stale.)_
 [Owner]: [Item] — from [meeting] ([date])
-
-**Risks / Watchouts**
-[Risk] — Why it matters — Owner
 ```
 
 ## Final Gate
