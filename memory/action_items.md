@@ -1,6 +1,6 @@
 # Action Items
 
-_Last updated: 2026-05-21_
+_Last updated: 2026-06-05_
 _Lightweight follow-ups and "needs confirmation" items. Formal commitments tracked in commitments.md._
 
 ---
