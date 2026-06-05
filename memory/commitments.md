@@ -26,12 +26,6 @@ Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 - **Status:** Open — owner changed from Chris to Jessica (Chris OOO); Brandon to confirm it happened
 - **Source:** Granola: Alex/Brandon + Chris<>Jessica<>Brandon
 
-**COM-006** — Farron Hicks → Brandon
-- **What:** Share Notion home base + roadmap link for SYB/Entity Management
-- **Due:** This week
-- **Status:** Open — confirm receipt
-- **Source:** Granola: Farron/Brandon
-
 **COM-007** — Alex Kehayias + Brandon
 - **What:** Get Palm exploratory meeting
 - **Due:** ~May 23 (Friday)
