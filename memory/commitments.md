@@ -42,9 +42,29 @@ Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 
 ## Completed
 
+**COM-001** — Brandon → Alex Kehayias (+ Chris Elkins + Jessica Sacks)
+- **Completed:** 2026-06-05
+- **What:** Pass Get Palm monitor/comply docs + meeting notes to Alex to kick the tires. Also share with Chris + Jessica.
+
+**COM-002** — Brandon → Andrew Adams (via Ashby direction)
+- **Completed:** 2026-06-05
+- **What:** Explore Browser Base with Andrew Adams — Ashby said to engage Andrew on this
+
+**COM-006** — Farron Hicks → Brandon
+- **Completed:** 2026-06-05
+- **What:** Share Notion home base + roadmap link for SYB/Entity Management
+
 **COM-007** — Alex Kehayias + Brandon → Get Palm exploratory meeting
 - **Completed:** 2026-05-23
 - **Notes:** Meeting happened. Helen (Get Palm) to send API docs + entity formation documentation post-meeting.
+
+**COM-009** — Brandon → GustoPro stakeholders
+- **Completed:** 2026-06-05
+- **What:** Begin GustoPro stakeholder meetings (Bridgette Haymaker, Lauren Snyder, Gowri Nambiar)
+
+**COM-010** — Brandon → Connor (Get Palm)
+- **Completed:** 2026-06-05
+- **What:** Email Connor to set up lunch/dinner — get him to share details on how Get Palm built entity formation (timeline, approach, stack)
 
 ---
 
