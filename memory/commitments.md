@@ -38,20 +38,6 @@ Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 - **Status:** Open
 - **Source:** Granola: Alex/Brandon
 
-**COM-009** — Brandon
-- **What:** Begin GustoPro stakeholder meetings (Bridgette Haymaker, Lauren Snyder, Gowri Nambiar)
-- **Due:** Week of May 26
-- **Status:** Open
-- **Source:** Granola: Chris<>Jessica<>Brandon
-
----
-
-**COM-010** — Brandon → Connor (Get Palm)
-- **What:** Email Connor to set up lunch/dinner — get him to share details on how Get Palm built entity formation (timeline, approach, stack)
-- **Due:** Week of May 26
-- **Status:** Open
-- **Source:** Slack: Brandon<>Izzy May 22
-
 ---
 
 ## Completed
