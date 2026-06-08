@@ -19,7 +19,10 @@
       "mcp__claude_ai_Glean__search",
       "mcp__claude_ai_Gslides_Gusto__get_slide",
       "Bash(brew upgrade:*)",
-      "Bash(brew list:*)"
+      "Bash(brew list:*)",
+      "mcp__claude_ai_Notion_Gusto__notion-create-pages",
+      "mcp__claude_ai_Gdocs_Gusto__fetch",
+      "Bash(xargs ls:*)"
     ]
   },
   "hooks": {
