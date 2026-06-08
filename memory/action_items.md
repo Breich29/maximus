@@ -1,20 +1,18 @@
 # Action Items
 
-_Last updated: 2026-06-04 (afternoon scan — #maximus-updates)_
+_Last updated: 2026-06-08 (AM scan — #maximus-updates)_
 _Lightweight follow-ups and "needs confirmation" items. Formal commitments tracked in commitments.md._
 
 ---
 
-## Fresh Action Items (Jun 3–4)
+## Open Action Items (Jun 4–8)
 
-- [ ] **Future of STR prep — TODAY** — Sync with Bridgette or Daniella before Jun 5 9 AM STR meeting. First-party STR direction confirmed Jun 3. Andrew Adams will be in the room — decide what is/isn't shareable re: first-party timeline. — _Urgent: before EOD Jun 4_
-- [ ] **Ken Webster (Rocket Lawyer) reply** — Reply to Andrew Gates intro. Warm, brief — acknowledge Cofounder angle, offer a time. — _Due: today Jun 4_
-- [ ] **M&A thesis on DoubleHQ → Tomer** — Requested in Jun 3 Double/STR internal meeting. Brandon signaled Jun 4 this will come from Bridgette — watch for her to produce it. — _Due: ASAP_
-- [ ] **Intuit T&C review + contractor agreement → Ben (work with Allison Hess)** — IP protection language for DoubleHQ partnership. Meeting with Allison at 2pm Jun 4 in progress. — _Due: ASAP_
-- [ ] **Message Ben Stein** re: double internal recap — _(from Brandon's Jun 3 status note)_
-- [ ] **Ping Jessica Sacks — MidDesk headless API status** — Get her answer before Jun 5 STR meeting. Hard answer deadline Jun 12; sets negotiating posture for renewal. — _Due: today Jun 4_
-- [ ] **COM-008 — Ping Alex Kehayias for Legal Link intro** — Brandon deferred Jun 4: "pushed to next month, non urgent." — _Due: early July_
-- [ ] **Resolve 1 PM calendar conflict (Jun 4)** — Brian/Brandon weekly vs. Corp & Partner Dev weekly. Corp & Partner Dev has Ashby — likely priority.
+- [ ] **Ken Webster (Rocket Lawyer) reply** — Reply to Andrew Gates intro. Warm, brief — acknowledge Cofounder angle, offer a time. ⚠️ 4 days stale as of Jun 8. — _Due: TODAY Jun 8_
+- [ ] **M&A thesis on DoubleHQ → Tomer** — Requested in Jun 3 Double/STR internal meeting. Bridgette to produce. — _Due: ASAP_
+- [ ] **Intuit T&C review + contractor agreement → Ben (work with Allison Hess)** — IP protection language for DoubleHQ partnership. T&C review in flight. Do not advance Ben engagement until cleared. — _Due: ASAP_
+- [ ] **Message Ben Stein** re: double internal recap — _(from Brandon's Jun 3 status note; still in Jun 5 brief)_
+- [ ] **Ping Jessica Sacks — MidDesk headless API status** — Hard answer deadline Jun 12; GBC Oct 1 launch dependency. — _Due: Jun 12 (hard)_
+- [ ] **COM-008 — Ping Alex Kehayias for Legal Link intro** — Deferred to early July, but Jul 24 renewal window = <3 weeks of relationship runway before negotiation. ⚠️ 18 days stale. — _Due: early July (consider pulling forward)_
 
 ---
 
@@ -39,17 +37,19 @@ _(nothing pending)_
 
 ## Strategic Watch Items
 
-- [ ] Andrew Adams back-channeling risk — **ESCALATED Jun 4**: In today's 7 AM Gov Affairs × Entity Management meeting AND Jun 5 9 AM Future of STR Proposal Feedback meeting. First-party STR direction was confirmed Jun 3 — this is the first exec-level group convening on it. Brief Bridgette or Daniella before walking in tomorrow on what's shareable. Alex + Jessica are aware.
+- [ ] Andrew Adams back-channeling risk — **ACTIVE Jun 8**: Was in Jun 5 STR meeting where first-party direction was confirmed. Back-channeling risk to MidDesk is live. Manage narrative at today's 3pm Solo+Entity standup. Alex + Jessica are aware.
 - [ ] 3,000 CorpNet orders in non-terminal status (~250 days avg age) — cleanup needed. Confirm who owns this (Alex? Namrata?).
-- [ ] **COM-004** — Share KPIs + role definition → Chris Elkins + Jessica Sacks — deferred to **June 20** (Chris OOO through Jun 9). _(Brandon, Jun 2)_
+- [ ] **COM-004** — Share KPIs + role definition → Chris Elkins + Jessica Sacks — deferred to **June 20** (Chris back today Jun 8). _(Brandon, Jun 2)_
 - [ ] MSA template upgrades (COM-003) — pushed to July per Brandon Jun 2. Brandon to loop in Allison Hess.
-- [ ] Legal Link SLA renegotiation / MidDesk — Brandon to be introduced first (COM-008 pending). MidDesk meeting ~Jun 10. **Headless API**: Jessica Sacks driving; answer needed by Jun 12 (GBC Oct 1 launch has hard dependency; if denied, first-party STR path accelerates). **90-day renewal notice window opens Jul 24** — 7 weeks out; 2x+ pricing expected ($70–90/registration).
-- [ ] GustoPro partnerships (COM-009) — Jun 8 multi-client MCP meeting set; prep needed this week. Lauren Snyder done; Gowri Nambiar being scheduled.
+- [ ] Legal Link SLA renegotiation / MidDesk — Brandon to be introduced first (COM-008 pending). MidDesk meeting ~Jun 12. **Headless API**: Jessica Sacks driving; answer needed by Jun 12 (GBC Oct 1 launch has hard dependency; if denied, first-party STR path accelerates). **90-day renewal notice window opens Jul 24** — 6.5 weeks out; 2x+ pricing expected ($70–90/registration).
+- [ ] GustoPro partnerships (COM-009) — Multi-client MCP meeting now **Jun 9 12pm** (AI Surfaces<>GPro); prep needed today. Multi-auth MCP context + GustoPro posture. Lauren Snyder done; Gowri Nambiar being scheduled.
 
 ---
 
 ## Completed
 
+- [x] **Future of STR prep / Jun 5 9 AM STR meeting** — Meeting happened Jun 5. First-party STR direction confirmed: browser base agentic fulfillment, GBC Oct 1 target. Bridgette, Daniella, Izzy, Andre, Andrew Adams in room. _(Completed Jun 5 — confirmed in Jun 5 Weekly Review)_
+- [x] **Resolve 1 PM calendar conflict (Jun 4)** — Date passed; moot. _(Expired Jun 4)_
 - [x] **COM-006** — Farron delivered the Notion home base / roadmap link. Confirmed by Brandon Jun 3. _(was: COM-006 done? Did Farron send the Notion home base / roadmap link?)_
 - [x] **COM-001** — Get Palm docs + meeting notes forwarded to Alex Kehayias. Confirmed done by Brandon Jun 2. _(was: Pass Get Palm docs → Alex Kehayias)_
 - [x] **COM-010** — Connor Patterson (Get Palm) lunch/HH confirmed done. Confirmed by Brandon Jun 2. _(was: Email Connor at Get Palm for lunch/intel; HH locked June 10)_
