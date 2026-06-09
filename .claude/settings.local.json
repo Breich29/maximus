@@ -22,7 +22,18 @@
       "Bash(brew list:*)",
       "mcp__claude_ai_Notion_Gusto__notion-create-pages",
       "mcp__claude_ai_Gdocs_Gusto__fetch",
-      "Bash(xargs ls:*)"
+      "Bash(xargs ls:*)",
+      "mcp__claude_ai_Gsheets_Gusto__fetch",
+      "mcp__claude_ai_Gsheets_Gusto__get_metadata",
+      "WebFetch(domain:www.protocol.com)",
+      "WebFetch(domain:techcrunch.com)",
+      "WebFetch(domain:www.wsj.com)",
+      "WebFetch(domain:www.reuters.com)",
+      "WebFetch(domain:developer.intuit.com)",
+      "WebFetch(domain:quickbooks.intuit.com)",
+      "WebFetch(domain:news.ycombinator.com)",
+      "WebFetch(domain:www.accountingtoday.com)",
+      "WebFetch(domain:www.forbes.com)"
     ]
   },
   "hooks": {

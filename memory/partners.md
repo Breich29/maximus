@@ -98,6 +98,20 @@ _Last updated: 2026-05-21_
 
 ---
 
+---
+
+### Curative
+- **Area:** Solo Health Insurance
+- **Status:** Exploratory — partnership potential
+- **Current state:** Powers Lettuce's solo PEO offering (not all 50 states)
+- **Relationship owner:** Stephanie Liu (Solo PM), Brandon (partner exploration)
+- **Competitive context:** Lettuce built solo PEO using Curative, 10% → 50% adoption, 5K solos at Summit
+- **Gusto gap:** 0.3% health insurance attach for solos vs. 16-26% for other plans; current Stride referral minimal revenue
+- **Strategic direction:** Exploring solo insurance marketplace — multiple options (HBG Solo captive, Curative, Catch, ICHRA, MEC plans)
+- **Next milestone:** Stephanie to engage Curative (with Vivian); Aaron (prior health insurance analyses) to help scope paths + limitations; Brandon + Stephanie consolidating strategic one-pager
+
+---
+
 ## Inactive / No Longer Tracking
 
 | Partner | Area | Reason |
@@ -105,7 +119,7 @@ _Last updated: 2026-05-21_
 | HiBob | HR integration | No longer relevant to Brandon's scope |
 | Studio Designer | Design software | No longer relevant |
 | BQE | Accounting software | No longer relevant |
-| Lettuce Financial | Accountant platform | No longer relevant |
+| Lettuce Financial | Accountant platform | Competitive threat (solo PEO via Curative) — monitoring, not partnering |
 | Melio | AP/AR platform | No longer relevant |
 | Imprest.ai | Expense mgmt | One-off intro meeting only |
 | CorpNet | State tax registration | No revival — too much engineering/CX overhead |
