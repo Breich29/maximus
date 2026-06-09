@@ -1,14 +1,13 @@
 # Action Items
 
-_Last updated: 2026-06-08 (AM scan — #maximus-updates)_
+_Last updated: 2026-06-09 (AM scan — #maximus-updates)_
 _Lightweight follow-ups and "needs confirmation" items. Formal commitments tracked in commitments.md._
 
 ---
 
 ## Open Action Items (Jun 4–8)
 
-- [ ] **Ken Webster (Rocket Lawyer) reply** — Reply to Andrew Gates intro. Warm, brief — acknowledge Cofounder angle, offer a time. ⚠️ 4 days stale as of Jun 8. — _Due: TODAY Jun 8_
-- [ ] **M&A thesis on DoubleHQ → Tomer** — Requested in Jun 3 Double/STR internal meeting. Bridgette to produce. — _Due: ASAP_
+- [ ] **Ken Webster (Rocket Lawyer) reply** — Reply to Andrew Gates intro. Warm, brief — acknowledge Cofounder angle, offer a time. ⚠️ 6 days stale as of Jun 9. — _Due: TODAY Jun 9 (overdue)_
 - [ ] **Intuit T&C review + contractor agreement → Ben (work with Allison Hess)** — IP protection language for DoubleHQ partnership. T&C review in flight. Do not advance Ben engagement until cleared. — _Due: ASAP_
 - [ ] **Message Ben Stein** re: double internal recap — _(from Brandon's Jun 3 status note; still in Jun 5 brief)_
 - [ ] **Ping Jessica Sacks — MidDesk headless API status** — Hard answer deadline Jun 12; GBC Oct 1 launch dependency. — _Due: Jun 12 (hard)_
@@ -48,6 +47,7 @@ _(nothing pending)_
 
 ## Completed
 
+- [x] **M&A thesis on DoubleHQ → Tomer** — Bridgette Haymaker delivered [DRAFT] Double M&A Thesis to Notion overnight Jun 8. Review before 3:30 PM Tomer prep on Jun 9. _(Delivered Jun 8 — confirmed in Jun 9 AM brief)_
 - [x] **Future of STR prep / Jun 5 9 AM STR meeting** — Meeting happened Jun 5. First-party STR direction confirmed: browser base agentic fulfillment, GBC Oct 1 target. Bridgette, Daniella, Izzy, Andre, Andrew Adams in room. _(Completed Jun 5 — confirmed in Jun 5 Weekly Review)_
 - [x] **Resolve 1 PM calendar conflict (Jun 4)** — Date passed; moot. _(Expired Jun 4)_
 - [x] **COM-006** — Farron delivered the Notion home base / roadmap link. Confirmed by Brandon Jun 3. _(was: COM-006 done? Did Farron send the Notion home base / roadmap link?)_
