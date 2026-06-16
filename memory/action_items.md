@@ -1,17 +1,19 @@
 # Action Items
 
-_Last updated: 2026-06-10 (AM scan — #maximus-updates)_
+_Last updated: 2026-06-16 (AM scan — #maximus-updates)_
 _Lightweight follow-ups and "needs confirmation" items. Formal commitments tracked in commitments.md._
 
 ---
 
-## Open Action Items (Jun 4–8)
+## Open Action Items (Jun 4–16)
 
 - [ ] **Ken Webster (Rocket Lawyer) reply** — Reply to Andrew Gates intro. Warm, brief — acknowledge Cofounder angle, offer a time. ⚠️ 7 days stale as of Jun 10. — _Due: OVERDUE_
 - [ ] **Intuit T&C review + contractor agreement → Ben (work with Allison Hess)** — IP protection language for DoubleHQ partnership. T&C review in flight. Do not advance Ben engagement until cleared. — _Due: ASAP_
 - [ ] **Message Ben Stein** re: double internal recap — _(from Brandon's Jun 3 status note; still in Jun 5 brief)_
-- [ ] **Ping Jessica Sacks — MidDesk headless API status** — Hard answer deadline Jun 12; GBC Oct 1 launch dependency. — _Due: Jun 12 (hard)_
-- [ ] **COM-008 — Ping Alex Kehayias for Legal Link intro** — Deferred to early July, but Jul 24 renewal window = <3 weeks of relationship runway before negotiation. ⚠️ 22 days stale as of Jun 10. — _Due: early July (consider pulling forward)_
+- [ ] **Ping Jessica Sacks — MidDesk headless API status** — Hard answer deadline Jun 12; GBC Oct 1 launch dependency. ⚠️ NOW OVERDUE (4 days past deadline as of Jun 16). — _Due: Jun 12 (hard) — OVERDUE_
+- [ ] **COM-008 — Ping Alex Kehayias for Legal Link intro** — Deferred to early July, but Jul 24 renewal window = <3 weeks of relationship runway before negotiation. ⚠️ 28 days stale as of Jun 16. — _Due: early July (consider pulling forward)_
+- [ ] **Pass Get Palm notes → Alex Kehayias** — Connor Patterson HH (Jun 10) yielded entity formation intel. Pass notes + docs to Alex. _(From Jun 12 weekly review)_ — _Due: this week_
+- [ ] **Watch Eric Harris Loom demo** — Eric Harris 1:1 Jun 10; Accountant Gusto pilot launching late June. Strong MCP + workflow partnership angle. _(From Jun 12 weekly review)_ — _Due: this week_
 
 ---
 
@@ -36,7 +38,7 @@ _(nothing pending)_
 
 ## Strategic Watch Items
 
-- [ ] Andrew Adams back-channeling risk — **ACTIVE as of Jun 9**: Was in Jun 5 STR meeting where first-party direction was confirmed. Back-channeling risk to MidDesk is live. Alex + Jessica are aware.
+- [ ] Andrew Adams back-channeling risk — **ACTIVE as of Jun 9**: Was in Jun 5 STR meeting where first-party direction was confirmed. Back-channeling risk to MidDesk is live. Alex + Jessica are aware. **⚠️ Context shift Jun 12**: Bridgette cancelled STR Proposal — strategic direction may be shifting; monitor closely.
 - [ ] 3,000 CorpNet orders in non-terminal status (~250 days avg age) — cleanup needed. Confirm who owns this (Alex? Namrata?).
 - [ ] **COM-004** — Share KPIs + role definition → Chris Elkins + Jessica Sacks — deferred to **June 20** (Chris back Jun 8). _(Brandon, Jun 2)_
 - [ ] MSA template upgrades (COM-003) — pushed to July per Brandon Jun 2. Brandon to loop in Allison Hess.
