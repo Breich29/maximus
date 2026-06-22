@@ -50,6 +50,19 @@ Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 
 ---
 
+## Completed
+
+**COM-004** — Brandon → Chris Elkins + Jessica Sacks
+- **Completed:** 2026-06-22 (per Brandon's Maximus Updates message)
+- **What:** Share KPIs and role definition once finalized
+
+**COM-008** — Alex Kehayias → Brandon
+- **Completed:** 2026-06-22 (per Brandon's Maximus Updates message)
+- **What:** Intro to Legal Link as Brandon's partner relationship owner
+
+---
+
 ## Overdue / Watch
 
-_(None yet)_
+- **Ken Webster reply** — 15+ days stale as of Jun 19. Still open.
+- **Eric Harris Loom demo** — flagged to watch, 10+ days outstanding.
