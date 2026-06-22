@@ -64,7 +64,18 @@
       "WebFetch(domain:www.policyadvisors.org)",
       "WebFetch(domain:consumer.healthday.com)",
       "WebFetch(domain:www.indeed.com)",
-      "WebFetch(domain:www.stridehealth.com)"
+      "WebFetch(domain:www.stridehealth.com)",
+      "Bash(python3 -m json.tool)",
+      "Read(//Users/brandon.reich/.config/**)",
+      "Read(//Users/brandon.reich/.config/claude/**)",
+      "mcp__claude_ai_Granola_Gusto__get_meetings",
+      "mcp__claude_ai_Slack_Gusto_Offical__slack_search_channels",
+      "mcp__claude_ai_Slack_Gusto_Offical__slack_read_channel",
+      "mcp__claude_ai_Share_some_HTML__get_version",
+      "mcp__claude_ai_Slack_Gusto_Offical__slack_read_thread",
+      "WebFetch(domain:share-some-html.staging.zp-int.com)",
+      "mcp__claude_ai_Share_some_HTML__list_versions",
+      "Bash(python3 *)"
     ]
   },
   "hooks": {
