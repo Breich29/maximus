@@ -14,29 +14,11 @@ Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 - **Status:** Open — deferred to next month
 - **Source:** Granola: Chris<>Jessica<>Brandon
 
-**COM-004** — Brandon → Chris Elkins + Jessica Sacks
-- **What:** Share KPIs and role definition once finalized
-- **Due:** End of ramp period (~Jun 6–13)
-- **Status:** Open
-- **Source:** Granola: Chris<>Jessica<>Brandon
-
 **COM-005** — Jessica Sacks → Mid-desk contact
 - **What:** Pre-flight call + follow-up email notifying mid-desk about GBC scribing/concierge model (do NOT mention POA or first-party plans)
 - **Due:** Week of May 26
-- **Status:** Open — owner changed from Chris to Jessica (Chris OOO); Brandon to confirm it happened
+- **Status:** Open — owner changed from Chris to Jessica (Chris OOO); Brandon to confirm it happened. MidDesk headless API answer confirmed Jun 15: "no capacity for the next year." First-party STR path noted as accelerating.
 - **Source:** Granola: Alex/Brandon + Chris<>Jessica<>Brandon
-
-**COM-007** — Alex Kehayias + Brandon
-- **What:** Get Palm exploratory meeting
-- **Due:** ~May 23 (Friday)
-- **Status:** Completed — meeting happened May 23. Notes to be pulled from Granola.
-- **Source:** Granola: Alex/Brandon
-
-**COM-008** — Alex Kehayias → Brandon
-- **What:** Intro to Legal Link as Brandon's partner relationship owner
-- **Due:** TBD
-- **Status:** Open
-- **Source:** Granola: Alex/Brandon
 
 ---
 
