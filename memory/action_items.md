@@ -29,7 +29,7 @@ _Lightweight follow-ups and "needs confirmation" items. Formal commitments track
 - [ ] Andrew Adams back-channeling risk — still active. Was on Solo+Entity XFN standup Jun 22. Brandon named by Izzy in Solo R&D Business Review as "consultative support."
 - [ ] **Ken Webster** — reply 15+ days overdue (as of Jun 19). Still open.
 - [ ] **Eric Harris Loom demo** — flagged to watch since Jun 12 weekly review. 10+ days outstanding.
-- [ ] **Diomedes** — pre-LOI diligence kicked off Jun 19. Ashby sent P0 questions; Ben replied 6 AM Jun 19. Dinner Tuesday Jun 23 at ilili (NYC). New active workstream — track closely.
+- [ ] **Diomedes** — codename for M&A exploration. Pre-LOI diligence kicked off Jun 19. Ashby sent P0 questions; Ben replied 6 AM Jun 19. Dinner Jun 23 at ilili (NYC). Brandon is supporting/learning from sideline with Ashby + Delia — not leading. Do not assign action items to Brandon on this unless he indicates otherwise.
 - [ ] **Browserbase** — Brandon is now lead (Zip #5888). MSA inbound from Cindy (Browserbase). Term sheet drafting next.
 - [ ] **doola (Arjun Mahadevan)** — NDA signed, in-person happened. Arjun wants IRL meetup Jun 26 at 33rd+8th NYC.
 - [ ] **Vivian "Gusto↔OpenAI Partnership Ideas" doc** — Vivian shared and requested Notion access. Review outstanding.
