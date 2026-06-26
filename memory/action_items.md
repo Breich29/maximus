@@ -1,13 +1,12 @@
 # Action Items
 
-_Last updated: 2026-06-24 (PM scan — #maximus-updates)_
+_Last updated: 2026-06-26 (scheduled scan — #maximus-updates)_
 _Lightweight follow-ups and "needs confirmation" items. Formal commitments tracked in commitments.md._
 
 ---
 
-## Open Action Items (Jun 4–24)
+## Open Action Items (Jun 4–26)
 
-- [ ] **Coordinate MCP multi-auth meeting** — Brandon to schedule ASAP with Ben Kagan, Senthil Sivasubramanian, Carla Sun, Taylor Fahey. Re: MCP multi-auth (COM-009 / GustoPro partnerships). _(From Brandon's Jun 24 message in #maximus-updates)_ — _Due: ASAP_
 - [ ] **Ken Webster (Rocket Lawyer) reply** — Reply to Andrew Gates intro. Warm, brief — acknowledge Cofounder angle, offer a time. ⚠️ 7 days stale as of Jun 10. — _Due: OVERDUE_
 - [ ] **Intuit T&C review + contractor agreement → Ben (work with Allison Hess)** — IP protection language for DoubleHQ partnership. T&C review in flight. Do not advance Ben engagement until cleared. — _Due: ASAP_
 - [ ] **Message Ben Stein** re: double internal recap — _(from Brandon's Jun 3 status note; still in Jun 5 brief)_
@@ -46,6 +45,7 @@ _(nothing pending)_
 
 ## Completed
 
+- [x] **Coordinate MCP multi-auth meeting** — Meeting locked: **July 1 at 1:30 PM ET** with Ben Kagan, Senthil Sivasubramanian, Carla Sun, Taylor Fahey. _(Confirmed Jun 26 — Jun 26 weekly review in #maximus-updates)_
 - [x] **COM-008 — Ping Alex Kehayias for Legal Link intro** — Removed by Brandon Jun 22: "remove COM-004, 008." _(Confirmed Jun 22 — #maximus-updates)_
 - [x] **COM-004 — Share KPIs + role definition → Chris Elkins + Jessica Sacks** — Removed by Brandon Jun 22: "remove COM-004, 008." _(Confirmed Jun 22 — #maximus-updates)_
 - [x] **Pass Get Palm notes → Alex Kehayias** — Confirmed by Brandon Jun 22: "I already passed the palm notes." _(Confirmed Jun 22 — #maximus-updates)_
