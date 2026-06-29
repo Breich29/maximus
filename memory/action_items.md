@@ -1,16 +1,18 @@
 # Action Items
 
-_Last updated: 2026-06-26 (scheduled scan — #maximus-updates)_
+_Last updated: 2026-06-29 (scheduled scan — #maximus-updates)_
 _Lightweight follow-ups and "needs confirmation" items. Formal commitments tracked in commitments.md._
 
 ---
 
 ## Open Action Items (Jun 4–26)
 
-- [ ] **Ken Webster (Rocket Lawyer) reply** — Reply to Andrew Gates intro. Warm, brief — acknowledge Cofounder angle, offer a time. ⚠️ 7 days stale as of Jun 10. — _Due: OVERDUE_
+- [ ] **Ken Webster (Rocket Lawyer) reply** — Reply to Andrew Gates intro. Warm, brief — acknowledge Cofounder angle, offer a time. ⚠️ 18+ days stale as of Jun 29. Andrew Gates intro goes cold every day this sits. — _Due: OVERDUE_
 - [ ] **Intuit T&C review + contractor agreement → Ben (work with Allison Hess)** — IP protection language for DoubleHQ partnership. T&C review in flight. Do not advance Ben engagement until cleared. — _Due: ASAP_
 - [ ] **Message Ben Stein** re: double internal recap — _(from Brandon's Jun 3 status note; still in Jun 5 brief)_
-- [ ] **Watch Eric Harris Loom demo** — Eric Harris 1:1 Jun 10; Accountant Gusto pilot launching late June. Strong MCP + workflow partnership angle. _(From Jun 12 weekly review)_ — _Due: this week_
+- [ ] **Watch Eric Harris Loom demo** — Eric Harris 1:1 Jun 10; Accountant Gusto pilot launching late June. Strong MCP + workflow partnership angle. _(From Jun 12 weekly review)_ ⚠️ 17+ days stale as of Jun 29. — _Due: OVERDUE_
+- [ ] **Confirm SYB handoff owner during Farron OOO** — Farron Hicks OOO Jun 30 → ~Jul 20. SYB CA beta is Aug 3, 2 weeks after she returns. Confirm who holds SYB partnership decisions in her absence (likely Izzy Rogner-Hall). — _Due: EOD Jun 30_
+- [ ] **Pre-brief Ben Kagan on Anthropic "Claude for Small Business"** — Jul 2 sync confirmed with Brittany Halldorson + Ashby. Wildcard that could shift GustoPro/MCP urgency and posture. Brief Ben before the call. — _Due: Jul 1_
 
 ---
 
@@ -38,8 +40,8 @@ _(nothing pending)_
 - [ ] Andrew Adams back-channeling risk — **ACTIVE as of Jun 9**: Was in Jun 5 STR meeting where first-party direction was confirmed. Back-channeling risk to MidDesk is live. Alex + Jessica are aware. **⚠️ Context shift Jun 12**: Bridgette cancelled STR Proposal — strategic direction may be shifting; monitor closely.
 - [ ] 3,000 CorpNet orders in non-terminal status (~250 days avg age) — cleanup needed. Confirm who owns this (Alex? Namrata?).
 - [ ] MSA template upgrades (COM-003) — pushed to July per Brandon Jun 2. Brandon to loop in Allison Hess.
-- [ ] Legal Link SLA renegotiation / MidDesk — Brandon to be introduced first (COM-008 pending). **Headless API: ✅ CLOSED Jun 15** — Jessica Sacks: "my team has zero capacity to build this for easily the next year so it's a no on our side." First-party STR path now accelerates. **90-day renewal notice window opens Jul 24** — 6.5 weeks out; 2x+ pricing expected ($70–90/registration).
-- [ ] GustoPro partnerships (COM-009) — ✅ Jun 9 12pm MCP meeting happened (AI Surfaces<>GPro). Output: multi-auth MCP scoped at 4–6 weeks bare MVP; #5 on H1 AI Interfaces ("commitment to explore, not build"). **New wildcard**: Anthropic "Claude for Small Business" deal could accelerate urgency and shift posture. Follow-up: summarize Jun 9 session + align Lauren Snyder + Bridgette Haymaker on timeline; grab 15 mins with Ben on Claude for Small Business skills architecture.
+- [ ] Legal Link SLA renegotiation / MidDesk — Brandon to be introduced first (COM-008 pending). **Headless API: ✅ CLOSED Jun 15** — Jessica Sacks: "my team has zero capacity to build this for easily the next year so it's a no on our side." First-party STR path now accelerates. **90-day renewal notice window opens Jul 24** — ⚠️ 25 days out as of Jun 29; no formal renewal strategy started yet. Browserbase MSA moving is the leverage play — protect terms. 2x+ pricing expected ($70–90/registration).
+- [ ] GustoPro partnerships (COM-009) — ✅ Jun 9 12pm MCP meeting happened (AI Surfaces<>GPro). ✅ Jun 24: AI Surfaces x GPro session happened; multi-auth security meeting locked Jul 1 at 1:30 PM ET (Ben Kagan, Senthil, Carla Sun, Taylor Fahey). Output: multi-auth MCP scoped at 4–6 weeks bare MVP; #5 on H1 AI Interfaces ("commitment to explore, not build"). **Active wildcard**: Anthropic "Claude for Small Business" — Jul 2 sync with Brittany Halldorson + Ashby; could accelerate urgency and shift posture. Pre-brief Ben Kagan before that call.
 
 ---
 
