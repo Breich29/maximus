@@ -1,12 +1,3 @@
 {
-  "tasks": [
-    {
-      "id": "57e4f8d9",
-      "cron": "0 15 * * 5",
-      "prompt": "Generate Brandon's weekly Team Weeklies update for this week and post to #maximus-updates for review.\n\n**Process:**\n1. **Determine the current week:** Calculate the week of [date range] for the current Friday\n2. **Fetch the Notion page:** Get the Team Weeklies page for this week from https://app.notion.com/p/366ad673c6c28184adbdfcc18452c742\n3. **Gather context:**\n   - Read memory/commitments.md and memory/action_items.md for completed and open items\n   - Query Granola for meetings this week (last 7 days) with key takeaways, decisions, action items\n   - Reference Command Center Strategic POVs if updated this week\n   - Identify key wins, blockers, and next week priorities\n4. **Format the update** using this structure:\n   - **This Week:** Completed commitments, strategic work shipped, meetings/decisions, key wins\n   - **Next Week:** Priorities, scheduled meetings, dependencies\n   - **Needs Attention:** Blockers requiring Ashby or others\n   - **AI Wins:** Specific examples of AI-assisted work this week\n5. **Update the Notion page:** Add Brandon's section to the current week's page\n6. **Post to Slack:** Send the formatted update to #maximus-updates channel with:\n   - \"📅 **Weekly Update Draft (Week of [date range])**\"\n   - Full update text\n   - \"Review and post to Team Weeklies when ready\"\n   - Link to Notion page\n\n**Tone:** Professional, concise, action-oriented. Use bullet points. Highlight strategic impact and cross-functional work. Format like Devesh's and Gavin's updates (reference prior weeks as examples).\n\n**Auto-expires:** This job will run for 7 days. Renew if needed.",
-      "createdAt": 1781355284106,
-      "recurring": true,
-      "lastFiredAt": 1781898019928
-    }
-  ]
+  "tasks": []
 }
