@@ -1,6 +1,6 @@
 # Action Items
 
-_Last updated: 2026-06-29 (scheduled scan — #maximus-updates)_
+_Last updated: 2026-07-01 (scheduled scan — #maximus-updates)_
 _Lightweight follow-ups and "needs confirmation" items. Formal commitments tracked in commitments.md._
 
 ---
@@ -11,7 +11,7 @@ _Lightweight follow-ups and "needs confirmation" items. Formal commitments track
 - [ ] **Intuit T&C review + contractor agreement → Ben (work with Allison Hess)** — IP protection language for DoubleHQ partnership. T&C review in flight. Do not advance Ben engagement until cleared. — _Due: ASAP_
 - [ ] **Message Ben Stein** re: double internal recap — _(from Brandon's Jun 3 status note; still in Jun 5 brief)_
 - [ ] **Watch Eric Harris Loom demo** — Eric Harris 1:1 Jun 10; Accountant Gusto pilot launching late June. Strong MCP + workflow partnership angle. _(From Jun 12 weekly review)_ ⚠️ 17+ days stale as of Jun 29. — _Due: OVERDUE_
-- [ ] **Confirm SYB handoff owner during Farron OOO** — Farron Hicks OOO Jun 30 → ~Jul 20. SYB CA beta is Aug 3, 2 weeks after she returns. Confirm who holds SYB partnership decisions in her absence (likely Izzy Rogner-Hall). — _Due: EOD Jun 30_
+- [ ] **Confirm SYB handoff owner during Farron OOO** — Farron Hicks OOO Jun 30 → ~Jul 20. SYB CA beta is Aug 3, 2 weeks after she returns. Confirm who holds SYB partnership decisions in her absence (likely Izzy Rogner-Hall). Jun 30 AM brief had a 9 AM walk with Izzy planned to lock this — no channel confirmation seen. — _Due: OVERDUE (was EOD Jun 30)_
 - [ ] **Pre-brief Ben Kagan on Anthropic "Claude for Small Business"** — Jul 2 sync confirmed with Brittany Halldorson + Ashby. Wildcard that could shift GustoPro/MCP urgency and posture. Brief Ben before the call. — _Due: Jul 1_
 
 ---
