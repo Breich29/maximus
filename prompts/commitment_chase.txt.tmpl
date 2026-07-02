@@ -64,4 +64,13 @@ Step 11: For each draft nudge, include:
   ---
   Send? [awaiting approval]
 
+Step 12: WRITE TO OBSIDIAN VAULT
+   Build a markdown note with:
+     - Frontmatter: date: [YYYY-MM-DD], type: commitment-chase, source: maximus
+     - Body: the full Commitment Chaser report from Step 10 + all DRAFT NUDGES from Step 11
+   Write to: 90-Maximus/commitment-chase/[YYYY-MM-DD]-commitment-chase.md
+   Use obsidian_connector.write_note() if Obsidian is running; otherwise write directly to:
+     /Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/commitment-chase/[YYYY-MM-DD]-commitment-chase.md
+   Confirm: print OBSIDIAN WRITE: ✅ [path] or OBSIDIAN WRITE: ⚠️ Offline — wrote to filesystem
+
 FAIL-CLOSED: If commitments.md cannot be read, report failure. Do not infer from memory.
