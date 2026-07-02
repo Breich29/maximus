@@ -117,4 +117,13 @@ Step 12: Run memory-validator checks:
 - enum/status consistency
 - orphan IDs
 
+Step 13: WRITE TO OBSIDIAN VAULT
+   Build a markdown note with:
+     - Frontmatter: date: [YYYY-MM-DD], type: memory-sweep, source: maximus
+     - Body: the full sweep summary from Step 11 + validator results from Step 12
+   Write to: 90-Maximus/memory-sweep/[YYYY-MM-DD]-memory-sweep.md
+   Use obsidian_connector.write_note() if Obsidian is running; otherwise write directly to:
+     /Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/memory-sweep/[YYYY-MM-DD]-memory-sweep.md
+   Confirm: print OBSIDIAN WRITE: ✅ [path] or OBSIDIAN WRITE: ⚠️ Offline — wrote to filesystem
+
 FAIL-CLOSED: If any required source is unavailable, report what failed and stop. No partial outputs.
