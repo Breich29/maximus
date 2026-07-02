@@ -39,7 +39,15 @@ INSTRUCTIONS:
    - decisions.md, commitments.md, projects.md, partners.md, people.md
    - surfaced_log.md, extraction_tracker.md
 11. Send or output the brief per OUTBOUND MODE (rule 3 above).
-12. Print:
+12. Write output to Obsidian vault:
+   Build a markdown note with:
+     - Frontmatter: date: [YYYY-MM-DD], type: brief, source: maximus
+     - Body: complete output — DAILY BRIEF + DRAFT OUTBOUND NUDGES + MEMORY UPDATE SUMMARY
+   Write to: 90-Maximus/briefs/[YYYY-MM-DD]-daily-brief.md
+   Use obsidian_connector.write_note() if Obsidian is running; otherwise write directly to:
+     /Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/briefs/[YYYY-MM-DD]-daily-brief.md
+   Confirm: print OBSIDIAN WRITE: ✅ [path] or OBSIDIAN WRITE: ⚠️ Offline — wrote to filesystem
+13. Print:
    - SLACK SEND STATUS (if draft-and-send mode)
    - DAILY BRIEF (sent content or draft)
    - DRAFT OUTBOUND NUDGES (if any — always draft-and-review, never auto-send)
