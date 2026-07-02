@@ -79,4 +79,13 @@ Next extraction: [when]
 If no new meetings found:
 > :brain: No new meetings since last extraction ([timestamp]).
 
+Step 18: WRITE TO OBSIDIAN VAULT
+   Build a markdown note with:
+     - Frontmatter: date: [YYYY-MM-DD], type: post-meeting, source: maximus
+     - Body: the full extraction summary from Step 17 (all sections)
+   Write to: 90-Maximus/post-meeting/[YYYY-MM-DD]-post-meeting.md
+   Use obsidian_connector.write_note() if Obsidian is running; otherwise write directly to:
+     /Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/post-meeting/[YYYY-MM-DD]-post-meeting.md
+   Confirm: print OBSIDIAN WRITE: ✅ [path] or OBSIDIAN WRITE: ⚠️ Offline — wrote to filesystem
+
 FAIL-CLOSED: If Granola MCP cannot be accessed, report failure. Do not infer from memory.
