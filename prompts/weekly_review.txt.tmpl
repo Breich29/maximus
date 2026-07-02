@@ -84,6 +84,15 @@ Step 11c: PE UPDATER PASS
 
 Step 12: Format for Slack and send to ${USER_FIRST_NAME} via DM channel ${SLACK_DM_CHANNEL}.
 
+Step 13: WRITE TO OBSIDIAN VAULT
+   Build a markdown note with:
+     - Frontmatter: date: [YYYY-MM-DD], type: weekly-review, source: maximus
+     - Body: WEEKLY REVIEW MESSAGE + STRATEGIC SYNTHESIS NOTES + PE UPDATE DRAFT READY
+   Write to: 90-Maximus/weekly-review/[YYYY-MM-DD]-weekly-review.md
+   Use obsidian_connector.write_note() if Obsidian is running; otherwise write directly to:
+     /Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/weekly-review/[YYYY-MM-DD]-weekly-review.md
+   Confirm: print OBSIDIAN WRITE: ✅ [path] or OBSIDIAN WRITE: ⚠️ Offline — wrote to filesystem
+
 Format:
 :brain: *Weekly Review — [Date Range]*
 ———
