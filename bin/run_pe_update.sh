@@ -31,6 +31,8 @@ if ! "${SCRIPT_DIR}/scripts/validate_memory.sh" >> "${LOG_DIR}/pe-update.log" 2>
 fi
 
 envsubst < "${SCRIPT_DIR}/prompts/pe_update.txt.tmpl" | claude -p \
-  --allowedTools "mcp__granolagusto__query_granola_meetings,mcp__granolagusto__get_meeting_transcript,mcp__granolagusto__list_meeting_folders,mcp__gcalgusto__list_events,mcp__slackgustoofficialmcp__slack_send_message,mcp__slackgustoofficialmcp__slack_search_channels,mcp__notiongusto__notion-fetch,mcp__notiongusto__notion-replace-text,mcp__notiongusto__notion-update-page,Read,Write,Edit,Bash"
+  --allowedTools "mcp__granolagusto__query_granola_meetings,mcp__granolagusto__get_meeting_transcript,mcp__granolagusto__list_meeting_folders,mcp__gcalgusto__list_events,mcp__slackgustoofficialmcp__slack_send_message,mcp__slackgustoofficialmcp__slack_search_channels,Read,Write,Edit,Bash"
+# Note: Notion MCP (mcp__claude_ai_Notion_Gusto__*) is only available in claude.ai sessions.
+# For automated Notion writes, use the CronCreate living routine in Claude Code Desktop.
 
 echo "$(date): PE update completed." >> "${LOG_DIR}/pe-update.log"
