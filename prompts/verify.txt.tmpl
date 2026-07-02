@@ -79,3 +79,12 @@ Suggested fixes:
 
 If all checks pass:
 > ${SYSTEM_NAME} is fully operational. Run ./bin/run_brief.sh to see your first brief.
+
+Write output to Obsidian vault:
+   Build a markdown note with:
+     - Frontmatter: date: [YYYY-MM-DD], type: verify, source: maximus
+     - Body: the complete verification report
+   Write to: 90-Maximus/verify/[YYYY-MM-DD]-verify.md
+   Use obsidian_connector.write_note() if Obsidian is running; otherwise write directly to:
+     /Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/verify/[YYYY-MM-DD]-verify.md
+   Confirm: print OBSIDIAN WRITE: ✅ [path] or OBSIDIAN WRITE: ⚠️ Offline — wrote to filesystem
