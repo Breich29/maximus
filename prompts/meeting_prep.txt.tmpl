@@ -61,6 +61,15 @@ Step 10: RISKS
 
 Step 11: Format prep as a DRAFT (do not send). Include one draft per meeting and one consolidated draft.
 
+Step 12: WRITE TO OBSIDIAN VAULT
+   Build a markdown note with:
+     - Frontmatter: date: [YYYY-MM-DD], type: meeting-prep, source: maximus
+     - Body: all DRAFT MEETING PREP MESSAGE(S) + NOTES ON RISKS / DECISIONS NEEDED
+   Write to: 90-Maximus/meeting-prep/[YYYY-MM-DD]-meeting-prep.md
+   Use obsidian_connector.write_note() if Obsidian is running; otherwise write directly to:
+     /Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/[YYYY-MM-DD]-meeting-prep.md
+   Confirm: print OBSIDIAN WRITE: ✅ [path] or OBSIDIAN WRITE: ⚠️ Offline — wrote to filesystem
+
 Format per meeting:
 ———
 :calendar: *[Meeting Name]* — [Time ${TIMEZONE}]
