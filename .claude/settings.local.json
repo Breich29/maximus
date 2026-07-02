@@ -99,7 +99,8 @@
       "mcp__claude_ai_Gdocs_Gusto__search",
       "mcp__claude_ai_Glean__read_document",
       "Read(//Users/brandonreich/Obsidian/**)",
-      "Read(//Users/brandon.reich/Obsidian/**)"
+      "Read(//Users/brandon.reich/Obsidian/**)",
+      "Read(//Users/brandon.reich/.claude/**)"
     ]
   },
   "hooks": {
