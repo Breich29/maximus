@@ -74,12 +74,18 @@ WRITING RULES:
 
 === PHASE 5: WRITE TO NOTION ===
 
-Step 7: Fetch this week's Notion page (URL from Step 2) to see ${USER_FIRST_NAME}'s current section.
-Step 8: Update the ## ${USER_FIRST_NAME} section using notion-replace-text:
-  - If the section is blank: insert the drafted content after "## ${USER_FIRST_NAME}"
-  - If the section already has content: replace it fully (this routine is idempotent — safe to run Friday AND Saturday)
-  - ONLY modify content between "## ${USER_FIRST_NAME}" and the next "##" heading
-  - Never touch other teammates' sections
+Step 7: Fetch this week's Notion page using mcp__claude_ai_Notion_Gusto__notion-fetch (URL from Step 2).
+  Read the full page content. Identify:
+    a) The entire page block structure
+    b) The position of the "## Brandon" heading block
+    c) All blocks between "## Brandon" and the next "##" heading
+
+Step 8: Update Brandon's section using mcp__claude_ai_Notion_Gusto__notion-update-page:
+  Strategy: reconstruct the full page content with only Brandon's section replaced.
+  - All other teammates' sections must be preserved exactly
+  - Brandon's section = the drafted content from Step 6
+  - This routine is idempotent — safe to run both Friday AND Saturday (replace, don't append)
+  - Never touch other teammates' sections — if uncertain, stop and report instead of overwriting
 Confirm: print NOTION WRITE: ✅ [page title and URL] or NOTION WRITE: ❌ [error reason]
 
 === PHASE 6: POST TO SLACK ===
