@@ -1,19 +1,15 @@
 # Action Items
 
-_Last updated: 2026-07-02 (scheduled scan — #maximus-updates)_
+_Last updated: 2026-07-03 (scheduled scan — #maximus-updates)_
 _Lightweight follow-ups and "needs confirmation" items. Formal commitments tracked in commitments.md._
 
 ---
 
 ## Open Action Items (Jun 4–26)
 
-- [ ] **Ken Webster (Rocket Lawyer) reply** — Reply to Andrew Gates intro. Warm, brief — acknowledge Cofounder angle, offer a time. ⚠️ 18+ days stale as of Jun 29. Andrew Gates intro goes cold every day this sits. — _Due: OVERDUE_
-- [ ] **Intuit T&C review + contractor agreement → Ben (work with Allison Hess)** — IP protection language for DoubleHQ partnership. T&C review in flight. Do not advance Ben engagement until cleared. — _Due: ASAP_
 - [ ] **Message Ben Stein** re: double internal recap — _(from Brandon's Jun 3 status note; still in Jun 5 brief)_
 - [ ] **Watch Eric Harris Loom demo** — Eric Harris 1:1 Jun 10; Accountant Gusto pilot launching late June. Strong MCP + workflow partnership angle. _(From Jun 12 weekly review)_ ⚠️ 17+ days stale as of Jun 29. — _Due: OVERDUE_
-- [ ] **Confirm SYB handoff owner during Farron OOO** — Farron Hicks OOO Jun 30 → ~Jul 20. SYB CA beta is Aug 3, 2 weeks after she returns. Confirm who holds SYB partnership decisions in her absence (likely Izzy Rogner-Hall). Jun 30 AM brief had a 9 AM walk with Izzy planned to lock this — no channel confirmation seen. — _Due: OVERDUE (was EOD Jun 30)_
-- [ ] **Pre-brief Ben Kagan on Anthropic "Claude for Small Business"** — Jul 2 sync confirmed with Brittany Halldorson + Ashby (TODAY 11am). Partial alignment only from Jul 1 MCP security meeting — Anthropic pitch posture not specifically covered; Ben NOT on the sync invite. — _Due: OVERDUE (was Jul 1)_
-- [ ] **Create Multi-Auth MCP Slack channel** — From Jul 1 MCP security meeting. Add Ben Kagan, Taylor Fahey, Senthil, and Jake (replacing Carla Sun who is on sabbatical). Committed EOD Jul 1. — _Due: OVERDUE (committed Jul 1)_
+- [ ] **Pre-brief Ben Kagan on Anthropic "Claude for Small Business"** — Jul 2 sync confirmed with Brittany Halldorson + Ashby. Partial alignment only from Jul 1 MCP security meeting — Anthropic pitch posture not specifically covered; Ben NOT on the sync invite. — _Due: OVERDUE (was Jul 1)_
 
 ---
 
@@ -48,6 +44,10 @@ _(nothing pending)_
 
 ## Completed
 
+- [x] **Ken Webster (Rocket Lawyer) reply** — Replied to Andrew Gates intro. _(Confirmed Jul 3 — Brandon: "I responded to Ken Webster" in #maximus-updates)_
+- [x] **Create Multi-Auth MCP Slack channel** — Channel created. _(Confirmed Jul 3 — Brandon: "The multi auth MCP slack channel was created two days ago" in #maximus-updates)_
+- [x] **Intuit T&C review + contractor agreement → Ben (Allison Hess)** — Removed per Brandon's explicit instruction. _(Jul 3 — Brandon: "Remove Allison Hess Intuit Ts and Ca action item")_
+- [x] **SYB handoff (Izzy Rogner-Hall during Farron OOO)** — Dismissed; Brandon confirmed this doesn't affect him. Izzy meeting reframed as "how can I support" not ownership transfer. _(Jul 3 — Brandon: "Ignore syb handoff. Doesn't affect me.")_
 - [x] **Coordinate MCP multi-auth meeting** — Meeting locked: **July 1 at 1:30 PM ET** with Ben Kagan, Senthil Sivasubramanian, Carla Sun, Taylor Fahey. _(Confirmed Jun 26 — Jun 26 weekly review in #maximus-updates)_
 - [x] **COM-008 — Ping Alex Kehayias for Legal Link intro** — Removed by Brandon Jun 22: "remove COM-004, 008." _(Confirmed Jun 22 — #maximus-updates)_
 - [x] **COM-004 — Share KPIs + role definition → Chris Elkins + Jessica Sacks** — Removed by Brandon Jun 22: "remove COM-004, 008." _(Confirmed Jun 22 — #maximus-updates)_
