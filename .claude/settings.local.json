@@ -115,7 +115,9 @@
       "Bash(git commit -m ' *)",
       "Bash(git check-ignore *)",
       "Bash(tee /tmp/base_sha.txt)",
-      "Bash(cd *)"
+      "Bash(cd *)",
+      "Bash(open *)",
+      "Bash(git commit *)"
     ]
   },
   "hooks": {
