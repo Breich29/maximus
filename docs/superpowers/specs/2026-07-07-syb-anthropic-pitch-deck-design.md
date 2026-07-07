@@ -6,7 +6,9 @@
 
 ## Context
 
-This is the third of three parallel Anthropic pitch tracks to Lina (Anthropic GTM DRI), alongside the SMB-direct pitch (Sam Haber/Matan Gal) and the accountant pitch ("Claude for Accountants," Brandon/Brittany/Bridgette — already live at `gusto-anthropic-accountants`). This deck covers **Start Your Business (SYB)**: Gusto's pre-GA entity formation product (LLC/corp formation), targeting GA in H1 2027.
+This is the third of three parallel Anthropic pitch tracks to Lina (Anthropic GTM DRI), alongside the SMB-direct pitch (Sam Haber/Matan Gal) and the accountant pitch ("Claude for Accountants," Brandon/Brittany/Bridgette — already live at `gusto-anthropic-accountants`). This deck covers **Start Your Business (SYB)**: Gusto's entity formation product (LLC/corp formation).
+
+Note: SYB's internally-tracked GA target (H1 2027, per `20-Products/Start Your Business (SYB).md`) is considered stale for the purposes of this pitch — this partnership is important enough that Gusto will accelerate dev and make large moves as needed. The deck should not reference that date at all, and should write about the SYB capability in the present tense, as something that exists/is being actively built now, not as a distant future roadmap item.
 
 Brandon's role mirrors his role on the accountant deck: architect and build the HTML deck; Izzy and Abhas present it to Lina. Brandon will likely sit in but probably won't present.
 

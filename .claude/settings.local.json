@@ -110,7 +110,10 @@
       "Bash(git -C /Users/brandon.reich/maximus status)",
       "Read(//Users/brandon.reich/Documents/Gusto-PartnerDevBR/20-Products/**)",
       "Read(//Users/brandon.reich/Documents/Gusto-PartnerDevBR/10-Partners/**)",
-      "WebFetch(domain:gusto.com)"
+      "WebFetch(domain:gusto.com)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git check-ignore *)"
     ]
   },
   "hooks": {
