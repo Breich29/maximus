@@ -56,7 +56,7 @@ Real data (sourced above) is used for market-sizing and AI-adoption stats. Two t
 - Demo GIF/screenshots — none exist yet
 - Frequency/volume of Claude users who specifically ask about starting a business — no internal number found in source notes; distinct from the market-sizing stats, which are real
 
-GA timing (H1 2027 internally, per `20-Products/Start Your Business (SYB).md`) will **not** be stated as a specific date in the external-facing deck, consistent with how the accountant deck avoided committing to hard dates externally.
+No GA date is stated anywhere in the deck. Per the accelerated-priority note above, the whole deck writes about SYB in the present tense — a capability Gusto is building/has now, not a future-dated roadmap item.
 
 ## Publish & asset-tracking plan
 
