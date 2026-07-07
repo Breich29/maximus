@@ -104,7 +104,13 @@
       "Bash(grep -n \"Brandon\\\\|brandon\\\\|Ashby.*Brittany\\\\|Brittany.*Brandon\\\\|10 slides\\\\|10$\\\\|of 10\\\\|/ 10\" /tmp/pitch_deck_original.html)",
       "mcp__claude_ai_Share_some_HTML__promote_version",
       "mcp__claude_ai_Gdrive_Gusto__fetch_file",
-      "WebFetch(domain:claude.ai)"
+      "WebFetch(domain:claude.ai)",
+      "WebSearch",
+      "WebFetch(domain:www.cpapracticeadvisor.com)",
+      "Bash(git -C /Users/brandon.reich/maximus status)",
+      "Read(//Users/brandon.reich/Documents/Gusto-PartnerDevBR/20-Products/**)",
+      "Read(//Users/brandon.reich/Documents/Gusto-PartnerDevBR/10-Partners/**)",
+      "WebFetch(domain:gusto.com)"
     ]
   },
   "hooks": {
