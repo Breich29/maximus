@@ -45,7 +45,7 @@ Order follows Izzy's own story-arc narrative (not the accountant deck's Market�
 7. **What Gusto Will Build — Option 2** — Gusto MCP Connector exposing all SYB skills
 8. **What Gusto Will Build — Option 3** — Native Claude functionality, Gusto-powered under the hood
 
-   Slides 6–8 are presented neutrally as a working menu, not a recommendation — to be decided collaboratively with Anthropic and struck down to one as the conversation progresses.
+   Slides 6–8 are a working set for **internal Gusto deliberation** (Izzy/Abhas/Farron/Brandon, not Anthropic) — the decision on which option(s) to lead with happens inside Gusto before this deck goes in front of Lina. This is not an open menu to be debated live with Anthropic; by the time the deck is pitch-ready, it should present a single chosen direction (or a clear primary + fallback), with the losing option slides struck from the final deck. Build all three now so the internal decision has something concrete to react to.
 9. **The Ask** — GTM only, no technical ask: announcement, website inclusion, enablement sessions (roadshows, webinars). Gusto builds the product; no capital or engineering ask of Anthropic.
 10. **What Anthropic Gets** — doesn't have to build the action layer, doesn't take on the eng work, doesn't own the compliance/registration liability for entity formation.
 11. **Close** — mirrors the accountant deck's closing slide treatment.
