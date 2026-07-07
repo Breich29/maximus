@@ -67,5 +67,5 @@ No GA date is stated anywhere in the deck. Per the accelerated-priority note abo
 ## Out of scope
 
 - Talk track / speaker notes doc (accountant deck has a separate Google Doc for this — not requested here yet)
-- Resolving which of the three "what Gusto will build" options is the lead — explicitly left open per Izzy's collaborative-decision approach
+- Resolving which of the three "what Gusto will build" options is the lead — left open in this build for internal Gusto decision, not for debate with Anthropic (see Slide 6–8 note above)
 - Any mention of ZenBusiness, contract terms, or exclusivity — excluded entirely from this external-facing artifact
