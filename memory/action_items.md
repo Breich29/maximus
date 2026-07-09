@@ -1,15 +1,19 @@
 # Action Items
 
-_Last updated: 2026-07-03 (scheduled scan — #maximus-updates)_
+_Last updated: 2026-07-09 (scheduled scan — #maximus-updates)_
 _Lightweight follow-ups and "needs confirmation" items. Formal commitments tracked in commitments.md._
 
 ---
 
-## Open Action Items (Jun 4–26)
+## Open Action Items
 
-- [ ] **Message Ben Stein** re: double internal recap — _(from Brandon's Jun 3 status note; still in Jun 5 brief)_
-- [ ] **Watch Eric Harris Loom demo** — Eric Harris 1:1 Jun 10; Accountant Gusto pilot launching late June. Strong MCP + workflow partnership angle. _(From Jun 12 weekly review)_ ⚠️ 17+ days stale as of Jun 29. — _Due: OVERDUE_
-- [ ] **Pre-brief Ben Kagan on Anthropic "Claude for Small Business"** — Jul 2 sync confirmed with Brittany Halldorson + Ashby. Partial alignment only from Jul 1 MCP security meeting — Anthropic pitch posture not specifically covered; Ben NOT on the sync invite. — _Due: OVERDUE (was Jul 1)_
+- [ ] **Browserbase MSA → Allison Hess** — DEADLINE TODAY (Jul 10). Signature needed; this is the MidDesk renewal leverage play (protects terms, 2x+ pricing expected). — _Due: Jul 10 — URGENT_
+- [ ] **Pre-brief Ben Kagan on Anthropic "Claude for Small Business"** — OVERDUE 9 days (was Jul 1). Ben was NOT in Jul 2 or Jul 7 pitch syncs. Ben holds the multi-auth MCP decision and has not been looped in. 3 sentences; DM him now. — _Due: OVERDUE_
+- [ ] **MidDesk 90-day renewal strategy** — Notice window opens Jul 24 (15 days out). No owner or timeline set. Push for owner + strategy before Quinn Evans coffee Jul 14 (10am–12pm PT). — _Due: before Jul 14_
+- [ ] **Andrew Adams: Spec (tactics + headcount + sequencing/timeline) → Numerata + boss** — From Jul 6 meeting. — _Due: OVERDUE (was Jul 8–9)_
+- [ ] **Watch Eric Harris Loom demo** — Eric Harris 1:1 Jun 10; Accountant Gusto pilot launched late June. Strong MCP + workflow partnership angle. _(29+ days stale as of Jul 9)_ — _Due: OVERDUE_
+- [ ] **Post-Diomedes follow-up with Ben Stein (DoubleHQ)** — Jul 8 meeting happened (Ben Stein + ksong@doublehq.com). Define thesis and next steps. _(Supersedes "Message Ben Stein re: internal recap" — that window closed; meeting done)_
+- [ ] **Anthropic deck — finalize** — Draft scripting + slides shared Jul 8 ✓. GIFs from Will + Gowri still needed to complete. _(Emerged from Jul 7 pitch sync)_
 
 ---
 
@@ -25,7 +29,7 @@ _(nothing pending)_
 - [ ] Identify **Maggie** — mentioned by Chris Elkins as a key CX partner ("Customer care is a powerful partner"). Need full name + Slack ID.
 - [x] **Janae** — resolved: **Janae Monfort** (janae.monfort@gusto.com). Slack ID still needed. _(Confirmed Jun 2)_
 - [ ] Identify **Becky Grant** — Farron's head of ops, tracks Legal Link SLA metrics. Need Slack ID.
-- [ ] Identify **Delia** — **Name resolved: Delia He (delia.he@gusto.com)**, corp dev team. Slack ID still needed.
+- [ ] Identify **Delia** — **Name resolved: Delia He (delia.he@gusto.com)**, corp dev team. Confirmed Diomedes attendee Jul 8. Slack ID still needed.
 - [ ] Confirm relationship with **John Tullus** — Stripe global contact. Need Slack ID.
 - [ ] Confirm who **Andrew Adams** reports to (GBC team or Tax Experiences team).
 - [x] **Gusto Solo GTM strategy** — Janae Monfort confirmed as Solo/SYB GTM lead. _(Confirmed Jun 2)_
@@ -34,17 +38,23 @@ _(nothing pending)_
 
 ## Strategic Watch Items
 
-- [ ] Andrew Adams back-channeling risk — **ACTIVE as of Jun 9**: Was in Jun 5 STR meeting where first-party direction was confirmed. Back-channeling risk to MidDesk is live. Alex + Jessica are aware. **⚠️ Context shift Jun 12**: Bridgette cancelled STR Proposal — strategic direction may be shifting; monitor closely.
+- [ ] Andrew Adams back-channeling risk — **ACTIVE**: Was in Jun 5 STR meeting where first-party direction was confirmed. Back-channeling risk to MidDesk is live. Alex + Jessica are aware. **⚠️ Jun 12**: Bridgette cancelled STR Proposal — direction may be shifting. Jul 8 Diomedes meeting happened; monitor for back-channel implications.
 - [ ] 3,000 CorpNet orders in non-terminal status (~250 days avg age) — cleanup needed. Confirm who owns this (Alex? Namrata?).
 - [ ] MSA template upgrades (COM-003) — pushed to July per Brandon Jun 2. Brandon to loop in Allison Hess.
-- [ ] Legal Link SLA renegotiation / MidDesk — Brandon to be introduced first (COM-008 pending). **Headless API: ✅ CLOSED Jun 15** — Jessica Sacks: "my team has zero capacity to build this for easily the next year so it's a no on our side." First-party STR path now accelerates. **90-day renewal notice window opens Jul 24** — ⚠️ 25 days out as of Jun 29; no formal renewal strategy started yet. Browserbase MSA moving is the leverage play — protect terms. 2x+ pricing expected ($70–90/registration).
-- [ ] GustoPro partnerships (COM-009) — ✅ Jun 9 12pm MCP meeting happened (AI Surfaces<>GPro). ✅ Jun 24: AI Surfaces x GPro session happened; multi-auth security meeting locked Jul 1 at 1:30 PM ET (Ben Kagan, Senthil, Carla Sun, Taylor Fahey). Output: multi-auth MCP scoped at 4–6 weeks bare MVP; #5 on H1 AI Interfaces ("commitment to explore, not build"). **Active wildcard**: Anthropic "Claude for Small Business" — Jul 2 sync with Brittany Halldorson + Ashby; could accelerate urgency and shift posture. Pre-brief Ben Kagan before that call.
+- [ ] Legal Link SLA renegotiation / MidDesk — **90-day renewal notice window opens Jul 24 — 15 days out.** No formal renewal strategy started. Browserbase MSA (due Jul 10) is the leverage play — protect terms. 2x+ pricing expected ($70–90/registration). Quinn Evans coffee Jul 14 — use it to push for strategy owner/timeline.
+- [ ] GustoPro partnerships (COM-009) — Jul 2 Anthropic pitch sync ✅ (Brittany + Ashby aligned). Jul 7 pitch sync ✅. Multi-auth MCP: 4–6 week bare MVP; #5 on H1 AI Interfaces. **Active wildcard**: "Claude for Small Business" — Ben Kagan pre-brief is OVERDUE (9 days).
 
 ---
 
 ## Completed
 
-- [x] **Ken Webster (Rocket Lawyer) reply** — Replied to Andrew Gates intro. _(Confirmed Jul 3 — Brandon: "I responded to Ken Webster" in #maximus-updates)_
+- [x] **Project Diomedes Jul 8 meeting** — First meeting with Ben Stein (DoubleHQ CEO) + ksong@doublehq.com. _(Completed Jul 8 — confirmed in Jul 9 AM brief)_
+- [x] **Anthropic pitch sync Jul 2** — Brittany Halldorson + Ashby aligned. _(Completed Jul 2 — confirmed in Jul 3 weekly review)_
+- [x] **Anthropic pitch sync Jul 7** — Pitch sync held. Draft deck + scripting shared Jul 8 post-sync. _(Completed Jul 7 — confirmed in Jul 8–9 briefs)_
+- [x] **MidDesk Workflow Review Jul 1** — First live session with Quinn + Lolo (MidDesk) since Jessica killed the headless API. _(Completed Jul 1 — confirmed in Jul 3 weekly review)_
+- [x] **ZB DPA template review** — Met Jun 30 with Henry Schober, Michael Lee, Chris Elkins. _(Completed Jun 30 — confirmed in Jul 3 weekly review)_
+- [x] **Browserbase async with Allison Hess** — Completed Jun 29. _(Confirmed in Jul 3 weekly review)_
+- [x] **Ken Webster (Rocket Lawyer) reply** — Replied to Andrew Gates intro; Vivian Shen intro made; Ken confirmed Jul 6 meeting with Vivian. _(Confirmed Jul 3 — Brandon: "I responded to Ken Webster" in #maximus-updates)_
 - [x] **Create Multi-Auth MCP Slack channel** — Channel created. _(Confirmed Jul 3 — Brandon: "The multi auth MCP slack channel was created two days ago" in #maximus-updates)_
 - [x] **Intuit T&C review + contractor agreement → Ben (Allison Hess)** — Removed per Brandon's explicit instruction. _(Jul 3 — Brandon: "Remove Allison Hess Intuit Ts and Ca action item")_
 - [x] **SYB handoff (Izzy Rogner-Hall during Farron OOO)** — Dismissed; Brandon confirmed this doesn't affect him. Izzy meeting reframed as "how can I support" not ownership transfer. _(Jul 3 — Brandon: "Ignore syb handoff. Doesn't affect me.")_
