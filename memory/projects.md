@@ -12,10 +12,11 @@ _Last updated: 2026-05-21_
 - **Key people:** Alex Kehayias (product lead), Jessica Sacks (PM Tax Experiences), Andrew Adams (GBC/tax team), Chris Elkins (partner mgr)
 - **Core partners:** Mid-desk (state tax registration), Legal Link (registered agent), Earth Class Mail (physical mail), Computer Share (registered agent fallback), Stable (mail fallback)
 - **Current focus:**
-  - Mid-desk notification about GBC scribing model (concierge/do-it-with-me) — Chris setting up call before vacation
-  - Browser base POC for first-party STR — go/no-go this week, leaning go
-  - Multi-provider strategy: Get Palm exploratory meeting this week (Alex + Brandon)
-  - November mid-desk contract renewal — prep starts Aug–Sep
+  - Mid-desk renewal notice window closes ~July 28, 2026 — Quinn call 2026-07-14 is a listening/positioning session (headless API blockers, get asks in writing, no build-timeline commitments)
+  - Browser Base is the confirmed POC vehicle for first-party STR (agentic fulfillment, Gusto owns scripts) — agreement in final procurement, security/GRC cleared Jun 18
+  - STR first-party target: first 100 customers (CA only) by Aug/Sep 2026, FL/TX/NY next cycle; cost target ~$3.50/registration vs. $35 to mid-desk; GBC launch Oct 1, 2026 hard deadline
+  - Internal alignment imperfect: Andrew Adams 100% sold on first-party, Jessica Sacks ~70% (still focused on maintaining Middesk relationship)
+  - Multi-provider strategy: Get Palm exploratory ongoing
 - **Risk:** Andrew Adams back-channeling first-party plans to mid-desk contacts
 
 ---
