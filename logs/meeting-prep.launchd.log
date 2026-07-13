@@ -392,3 +392,19 @@ No memory write-back needed — commitments, decisions, projects, partners, and 
 - **Watch out for:** keep it on contract/commercial terms, not feature/use-case scoping; if Chris Elkins tries to insert himself into use-case discussion again, redirect to procurement as before.
 
 The two earlier meetings (Prep for Quinn<>Brandon, 10:30–11:00 AM; Solo + Entity Management standup, 1:00–1:30 PM) already happened with no material change from this morning's brief — full detail is in the vault note. One open loop worth a direct check: **Jessica Sacks still doesn't know STR ownership is moving off her plate** — that surfaced in the 11:27 AM prep and hasn't been confirmed as addressed.
+OBSIDIAN WRITE: ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-13-meeting-prep.md`
+
+**Summary for Brandon:**
+
+This is already the 6th refresh pass on today's meeting-prep note. The material update this pass: **Gusto <> Browserbase (2:00–2:30 PM, in progress)** now has live Granola notes with real deal specifics that weren't available at the 2:04 PM check:
+
+- **Economics confirmed:** $18K/year upfront as credits (browser hours $0.10/hr, proxies $10/GB, model gateway at cost)
+- **⚠️ Decision needed today:** Browserbase only accepts a customer's own DPA at $60K+/year — below that, you use theirs. You're deciding this with counsel today: stay at $18K + their DPA, or scale to $60K+ + Gusto's DPA
+- **Red lines already sent to Cindy:** no auto-renew, indemnity to lawyers, no marketing use without consent, 48-hr breach notice, data minimization, exclude user-contribution license grant
+- Cindy is sending Browserbase's DPA for review
+- **Close goal slipped** from today to end of July — Eddie (external stakeholder) is pushing to close
+- You're shepherding the deal, not the end signer
+
+Memory write-back completed: `partners.md` (Browser Base section rewritten), `commitments.md` (new COM-012 you→Cindy red lines, COM-013 Cindy→you DPA), `action_items.md`, `surfaced_log.md`.
+
+No other meetings remain today after this one. Full draft prep messages and risk notes are in the Obsidian file above — nothing sent, all draft-only.
