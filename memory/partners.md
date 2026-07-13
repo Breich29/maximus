@@ -38,11 +38,13 @@ _Last updated: 2026-05-21_
 ### Browser Base
 - **Area:** GBC + SYB – first-party state tax registration + entity formation
 - **Status:** Agreement in final procurement stage — go decision effectively made. Security/GRC review (Jun 18, with Shubhankar, Cindy, Nick, Hannah Mullally) cleared major technical hurdles: session data ephemeral by default, BYOS writes direct to Gusto's S3, isolated VM per session, RBAC + SSO available. Gap: no BYOS for session recordings/CDP logs yet (slated this quarter) — workaround is disabling both for sensitive workflows.
-- **Classification:** Vendor. Brandon is lead (Zip #5888).
-- **Key contacts:** Shubhankar, Cindy (Browserbase)
-- **Open negotiation items:** Indemnification; marketing-use clause (Cindy expected to accept Gusto's opt-out position). Allison Hess (legal) reviewing agreement as of Jul 6, signature expected to follow.
+- **Contract economics (confirmed on 2026-07-13 vendor call):** $18K/year upfront as credits (browser hours $0.10/hr, proxies $10/GB, model gateway at cost). Room to negotiate contract size.
+- **⚠️ Open decision — DPA threshold:** Browserbase only accepts a customer's own DPA at $60K+/year; the current $18K deal falls below that line. Choice is: stay at $18K and use Browserbase's DPA, or increase to $60K+ and use Gusto's DPA. Brandon meeting with counsel 2026-07-13 to decide. Cindy sending Browserbase's DPA for review.
+- **Classification:** Vendor. Brandon is lead (Zip #5888), shepherding the deal but not the end signer.
+- **Key contacts:** Shubhankar, Cindy (Browserbase). Eddie (external stakeholder, eager to close, pinged Brandon the week of Jul 6).
+- **Open negotiation items (red lines sent to Cindy 2026-07-13):** No auto-renew (explicit opt-in only); indemnity language (lawyers to handle); no marketing use of Gusto name/logo without written consent; 48-hour breach notice; data minimization confirmed configurable; exclude user contributions from content license grant. Allison Hess (legal) reviewing agreement as of Jul 6.
 - **Strategic direction:** Agentic fulfillment vehicle for first-party STR (state closures = proving ground) and entity formation. Target first-party readiness ~Dec 1, 2026.
-- **Next milestone:** Signature timeline confirmation — vendor call w/ Shubhankar + Cindy 2026-07-13.
+- **Next milestone:** Close by end of July 2026 (originally targeted for 2026-07-13, slipped due to DPA/economics decision). Awaiting Browserbase's DPA from Cindy; DPA-threshold decision with counsel.
 
 ---
 
