@@ -8,6 +8,18 @@ Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 
 ## Open
 
+**COM-012** — Brandon → Cindy (Browserbase)
+- **What:** Send red lines on the Browserbase agreement: no auto-renew (explicit opt-in only), indemnity language, no marketing use of Gusto name/logo without written consent, 48-hour breach notice, data minimization confirmed configurable, exclude user contributions from content license grant
+- **Due:** 2026-07-13 (same day as call)
+- **Status:** Open
+- **Source:** Granola: Gusto<>Browserbase (Jul 13)
+
+**COM-013** — Cindy (Browserbase) → Brandon
+- **What:** Send Browserbase's DPA for review (relevant only if deal stays at $18K/year, below Browserbase's $60K+ threshold for accepting Gusto's own DPA)
+- **Due:** Unspecified — pending
+- **Status:** Open
+- **Source:** Granola: Gusto<>Browserbase (Jul 13)
+
 **COM-011** — Jessica Sacks → Brandon
 - **What:** Stack-rank Middesk agreement wish list (SLA penalties/invoice credits, order status transparency, escalation protocols) and send churn/attrition stats (successful orders churn 10% less; negative terminal status = 1.3x churn risk; 90-day+ turnaround = 1.7x churn risk) ahead of the Quinn call
 - **Due:** Before Quinn call, 2026-07-14
