@@ -37,11 +37,12 @@ _Last updated: 2026-05-21_
 
 ### Browser Base
 - **Area:** GBC + SYB – first-party state tax registration + entity formation
-- **Status:** POC in progress — ongoing
-- **Classification:** Vendor (Ashby direction: treat as vendor, explore with Andrew Adams)
-- **Key contact:** Unknown (Alex Kehayias managing POC; Brandon to engage Andrew Adams)
-- **Strategic direction:** If go → pilot → target first-party readiness ~Dec 1, 2026
-- **Next milestone:** Brandon to connect with Andrew Adams week of May 26 to explore further.
+- **Status:** Agreement in final procurement stage — go decision effectively made. Security/GRC review (Jun 18, with Shubhankar, Cindy, Nick, Hannah Mullally) cleared major technical hurdles: session data ephemeral by default, BYOS writes direct to Gusto's S3, isolated VM per session, RBAC + SSO available. Gap: no BYOS for session recordings/CDP logs yet (slated this quarter) — workaround is disabling both for sensitive workflows.
+- **Classification:** Vendor. Brandon is lead (Zip #5888).
+- **Key contacts:** Shubhankar, Cindy (Browserbase)
+- **Open negotiation items:** Indemnification; marketing-use clause (Cindy expected to accept Gusto's opt-out position). Allison Hess (legal) reviewing agreement as of Jul 6, signature expected to follow.
+- **Strategic direction:** Agentic fulfillment vehicle for first-party STR (state closures = proving ground) and entity formation. Target first-party readiness ~Dec 1, 2026.
+- **Next milestone:** Signature timeline confirmation — vendor call w/ Shubhankar + Cindy 2026-07-13.
 
 ---
 
