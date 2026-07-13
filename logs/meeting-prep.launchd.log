@@ -495,3 +495,17 @@ Today's calendar (7/13) is fully complete — no meetings remain. A thorough pre
 Full drafts, per-meeting breakdowns, and the complete risk list are in the Obsidian note. Memory updated: `commitments.md` (COM-011, new COM-014) and `cadence.md` (Corp & Partner Dev downgraded to unconfirmed).
 
 One gap: Gmail access wasn't authorized this session, so I couldn't rule out the stack-ranked wish list having gone out by email — flagged as unconfirmed rather than assumed.
+Fixed — `people.md` is back to a single Quinn entry, correctly duplicate-free.
+
+**Bottom line: this meeting-prep task already ran twice today**, and the results are current:
+
+- **Today (7/13):** all meetings finished by 2:30 PM. No prep needed — file `2026-07-13-meeting-prep.md` covers it.
+- **Tomorrow (7/14):** night-before pass already written to `2026-07-14-meeting-prep.md` (generated 3:02 PM, refreshed 3:55 PM PT). I re-checked the calendar and the Middesk Slack thread (C0BD1UZ9SUB) just now at 4:16 PM — **nothing has changed** since that last pass.
+
+**What's still open heading into tomorrow, per that brief:**
+1. **Quinn<>Brandon (11:00 AM, 66 Kearny St)** — P0. Jessica's churn stats landed via Slack (use corrected figures: 1.6x / 1.4x / 0.9x churn multipliers), but the **stack-ranked Middesk wish list still hasn't shown up** anywhere I can see (Slack confirmed empty; Gmail access wasn't granted this session, so an email delivery can't be ruled out). Worth a direct nudge to Jessica tonight.
+2. **Project Diomedes (8:30 AM)** — Ben Stein and Ksong (@doublehq.com, the M&A target's own team) are on the invite for what's otherwise confidential pre-LOI diligence — flagged as a possible invite error, not confirmed intentional. Also: Tomer's ask for an M&A thesis from Brandon is still status-unknown.
+3. **"Roi || Brandon Connect Re: Gusto" (10:30 AM)** — unresolved identity, personal Gmail on both sides, no context anywhere.
+4. **Scheduling conflict** — optional Solo+SYB lunch (12:00–12:30) overlaps Pipeline Review (starts 12:15).
+
+I didn't regenerate the full brief since nothing material changed — happy to paste the complete formatted version inline if you want it re-surfaced, or open the file directly at `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-14-meeting-prep.md`.

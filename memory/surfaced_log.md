@@ -55,3 +55,5 @@ _Last updated: 2026-05-21_
 - Scheduling conflict flagged: Solo+SYB lunch overlaps Pipeline Review start
 - New contact added to people.md: Quinn (Mid-desk)
 - Two recurring meetings added to cadence.md: Corp & Partner Dev (weekly), Pipeline Review (bi-weekly)
+
+**4:36 PM PT re-check pass:** No material change. Confirmed Corp & Partner Dev still absent from 7/14 calendar (explicit query, zero results) and COM-011 stack-ranked wish list still not delivered via Slack (checked channel C0BD1UZ9SUB for new messages since 1:10 PM — only unrelated personal thread). Gmail access shows connected but tool call was not authorized this session, so email delivery of the wish list remains unconfirmed either way — flagged to Brandon to check directly with Jessica.
