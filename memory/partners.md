@@ -11,16 +11,16 @@ _Last updated: 2026-05-21_
 - **Status:** Active — critical dependency
 - **Relationship owner (day-to-day):** Chris Elkins
 - **Brandon's role:** Strategy, contract renewal
-- **Current pricing:** ~$35/registration, ~82% margin to Gusto
-- **Contract:** November 2026 renewal. 90-day notice = ~late July trigger.
+- **Current pricing:** $35/registration, ~82% margin to Gusto. Renewal ask expected at $70 (2x) or $105 (3x) — team comfortable accepting ~$70; $105 warrants negotiation. Andrew's read: they'll be "thrilled" at $50.
+- **Contract:** November 2026 renewal. **Renewal notice window closes ~July 28, 2026** (90-day notice, confirmed — was previously an estimate).
 - **Key risks:**
-  - Pricing likely to increase significantly upon renewal (mid-desk hinting at 2x+)
+  - Pricing likely to increase significantly upon renewal (confirmed ask range $70–105)
   - Andrew Adams back-channeling Gusto's first-party plans to mid-desk contacts
   - Mid-desk aware of Mosey acquisition and GBC first-party intent
   - Potential scaling/POA compliance issues in certain states (e.g., Hawaii)
   - Mid-desk may push for payroll closure / additional integrations as leverage
-- **Strategic direction:** Multi-provider strategy. First-party STR target ~Dec 1, 2026. Get Palm as optionality.
-- **Next milestone:** Jessica Sacks to handle mid-desk scribing model notification week of May 26 (Chris OOO). Renewal prep Aug–Sep.
+- **Strategic direction:** Multi-provider strategy. First-party STR target: first 100 customers (CA only) by Aug/Sep 2026, FL/TX/NY next cycle; cost target ~$3.50/registration vs. $35 to mid-desk. GBC launch Oct 1, 2026 is the hard deadline driving urgency. Get Palm as optionality. Negotiation strategy: accept modest price increase in exchange for contractual teeth (SLA penalties/invoice credits), order status transparency, clearer escalation protocols, and Karen's (Middesk's internal decision-maker) explicit buy-in — not just Quinn/Lolo alignment.
+- **Next milestone:** Quinn call 2026-07-14 — listening/positioning session on Middesk's headless API blockers; do not commit to build timeline; request formal renewal asks in writing. Jessica Sacks providing churn/attrition data + stack-ranked wishlist beforehand (COM-011).
 
 ---
 
