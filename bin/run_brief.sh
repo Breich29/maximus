@@ -16,10 +16,14 @@ mkdir -p "${LOG_DIR}"
 # Required when launched from launchd or from inside another Claude session
 unset CLAUDECODE
 
-# Skip if brief already ran today (prevents duplicate runs from launchd + manual)
+# Skip if brief already ran for this slot today (prevents duplicate runs from
+# launchd + manual, while still allowing the separate morning and night-before slots)
 TODAY="$(date '+%Y-%m-%d')"
-if grep -q "\[${TODAY}\]" "${LOG_DIR}/daily-brief.log" 2>/dev/null; then
-  echo "$(date): SKIPPED — brief already ran today." >> "${LOG_DIR}/daily-brief.log"
+SLOT="AM"
+if [ "$(date '+%H')" -ge 12 ]; then SLOT="PM"; fi
+STAMP="${TODAY}-${SLOT}"
+if grep -q "\[${STAMP}\]" "${LOG_DIR}/daily-brief.log" 2>/dev/null; then
+  echo "$(date): SKIPPED — brief already ran for ${STAMP}." >> "${LOG_DIR}/daily-brief.log"
   exit 0
 fi
 

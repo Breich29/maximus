@@ -8,9 +8,9 @@ INSTRUCTIONS:
 
 Step 1: Run `date '+%Y-%m-%d %H:%M:%S %Z'` to get the current time.
 Step 2: Read extraction_tracker.md to find last extraction timestamp.
-Step 3: Use mcp__granolagusto__query_granola_meetings to get all meetings since that timestamp.
+Step 3: Use mcp__claude_ai_Granola_Gusto__query_granola_meetings to get all meetings since that timestamp.
         If timestamp missing: query last 48h as fallback.
-Step 4: For each meeting returned, use mcp__granolagusto__get_meeting_transcript to get full content.
+Step 4: For each meeting returned, use mcp__claude_ai_Granola_Gusto__get_meeting_transcript to get full content.
 Step 5: Read memory files for cross-referencing:
   - memory/decisions.md
   - memory/commitments.md
