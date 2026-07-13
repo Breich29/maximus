@@ -37,3 +37,5 @@ _Last updated: 2026-05-21_
 - Browser Base status update: agreement in final procurement, security cleared Jun 18, open items indemnification + marketing-use clause
 - 8 unrecognized attendees flagged on Solo+EM standup (needs confirmation)
 - Andrew Adams back-channel risk flagged (present in 2 of today's meetings)
+
+**2:23 PM PT refresh:** Gusto <> Browserbase call (in progress) synced to Granola with new specifics — $18K/year contract economics, DPA $60K+ threshold decision pending with counsel, red lines sent to Cindy (COM-012 new), Browserbase's DPA awaited (COM-013 new), close goal slipped to end of July. Written back to partners.md, commitments.md, action_items.md.
