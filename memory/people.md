@@ -207,6 +207,8 @@ _Last updated: 2026-05-21_
 
 | Name | Email | Company | Context |
 |---|---|---|---|
+| Shubhankar | (unknown) | Browserbase | Vendor contact, Browser Base agreement (security/commercial) |
+| Cindy | (unknown) | Browserbase | Vendor contact, Browser Base agreement (commercial/legal terms) |
 | Yoav Gur | yoav.gur@hibob.io | HiBob | Prior partnership (no longer active) |
 | Libby Corvin | libby.corvin@hibob.io | HiBob | Prior partnership (no longer active) |
 | Matt Cooper | mattc@bqe.com | BQE | Prior partnership (no longer active) |
