@@ -21,10 +21,16 @@ Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 - **Source:** Granola: Gusto<>Browserbase (Jul 13)
 
 **COM-011** — Jessica Sacks → Brandon
-- **What:** Stack-rank Middesk agreement wish list (SLA penalties/invoice credits, order status transparency, escalation protocols) and send churn/attrition stats (successful orders churn 10% less; negative terminal status = 1.3x churn risk; 90-day+ turnaround = 1.7x churn risk) ahead of the Quinn call
+- **What:** Stack-rank Middesk agreement wish list (SLA penalties/invoice credits, order status transparency, escalation protocols) and send churn/attrition stats ahead of the Quinn call
 - **Due:** Before Quinn call, 2026-07-14
-- **Status:** Open
-- **Source:** Granola: Prep for Quinn<>Brandon (Jul 13)
+- **Status:** Partially delivered — churn/attrition stats sent via Slack (group DM w/ Chris, Andrew) 2026-07-13 1:10 PM PT. **Actual figures differ from the Granola prep recap:** CX outreach on a Middesk issue = 1.6x churn risk (vs. any tax-issue CX outreach baseline of 1.5x); order "canceled or retired" = 1.4x churn risk (recap said 1.3x); successful completed order = 0.9x churn risk / 10% less likely to churn (matches recap). No 90-day-turnaround stat and no stack-ranked wish list seen yet in Slack — may have gone via email/doc (unconfirmed, Gmail not checked).
+- **Source:** Granola: Prep for Quinn<>Brandon (Jul 13); Slack group DM C0BD1UZ9SUB (Jul 13, 1:10 PM PT)
+
+**COM-014** — Chris Elkins → Brandon/Andrew/Jessica
+- **What:** Share all Middesk agreements + agreement summary (including negotiation "gets") in Slack ahead of Quinn call
+- **Due:** Before Quinn call, 2026-07-14
+- **Status:** Delivered — Google Drive folder link posted in group DM 2026-07-13 11:23 AM PT
+- **Source:** Slack group DM C0BD1UZ9SUB (Jul 13, 11:23 AM PT)
 
 **COM-003** — Brandon → Allison Hess
 - **What:** Draft MSA template recommendations incorporating Zen Business DPA lessons + security-earlier approach
