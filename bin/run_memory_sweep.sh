@@ -7,7 +7,9 @@
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
-source "${SCRIPT_DIR}/config/monnie.env"
+set -a
+ source "${SCRIPT_DIR}/config/maximus.env"
+ set +a
 
 LOG_DIR="${SCRIPT_DIR}/logs"
 mkdir -p "${LOG_DIR}"
@@ -32,7 +34,7 @@ if ! "${SCRIPT_DIR}/scripts/validate_memory.sh" >> "${LOG_DIR}/memory-sweep.log"
 fi
 
 envsubst < "${SCRIPT_DIR}/prompts/memory_sweep.txt.tmpl" | claude -p \
-  --allowedTools "mcp__gcalgusto__list_events,mcp__gleangusto__search,mcp__gleangusto__meeting_lookup,mcp__gleangusto__employee_search,mcp__slackgustoofficialmcp__slack_read_channel,mcp__slackgustoofficialmcp__slack_search_public_and_private,mcp__slackgustoofficialmcp__slack_search_users,mcp__slackgustoofficialmcp__slack_read_user_profile,Read,Write,Edit,Glob,Bash"
+  --allowedTools "mcp__claude_ai_Gcal_Gusto__list_events,mcp__claude_ai_Glean__search,mcp__claude_ai_Glean__meeting_lookup,mcp__claude_ai_Glean__employee_search,mcp__claude_ai_Slack_Gusto_Offical__slack_read_channel,mcp__claude_ai_Slack_Gusto_Offical__slack_search_public_and_private,mcp__claude_ai_Slack_Gusto_Offical__slack_search_users,mcp__claude_ai_Slack_Gusto_Offical__slack_read_user_profile,Read,Write,Edit,Glob,Bash"
 
 if ! "${SCRIPT_DIR}/scripts/validate_memory.sh" >> "${LOG_DIR}/memory-sweep.log" 2>> "${LOG_DIR}/memory-sweep.error.log"; then
   echo "$(date): POST-CHECK FAILED — memory validation failed after sweep." >> "${LOG_DIR}/memory-sweep.error.log"

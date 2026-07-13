@@ -6,7 +6,9 @@
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
-source "${SCRIPT_DIR}/config/monnie.env"
+set -a
+ source "${SCRIPT_DIR}/config/maximus.env"
+ set +a
 
 LOG_DIR="${SCRIPT_DIR}/logs"
 mkdir -p "${LOG_DIR}"
@@ -31,7 +33,7 @@ if ! "${SCRIPT_DIR}/scripts/validate_memory.sh" >> "${LOG_DIR}/pe-update.log" 2>
 fi
 
 envsubst < "${SCRIPT_DIR}/prompts/pe_update.txt.tmpl" | claude -p \
-  --allowedTools "mcp__granolagusto__query_granola_meetings,mcp__granolagusto__get_meeting_transcript,mcp__granolagusto__list_meeting_folders,mcp__gcalgusto__list_events,mcp__slackgustoofficialmcp__slack_send_message,mcp__slackgustoofficialmcp__slack_search_channels,Read,Write,Edit,Bash"
+  --allowedTools "mcp__claude_ai_Granola_Gusto__query_granola_meetings,mcp__claude_ai_Granola_Gusto__get_meeting_transcript,mcp__claude_ai_Granola_Gusto__list_meeting_folders,mcp__claude_ai_Gcal_Gusto__list_events,mcp__claude_ai_Slack_Gusto_Offical__slack_send_message,mcp__claude_ai_Slack_Gusto_Offical__slack_search_channels,mcp__claude_ai_Notion_Gusto__notion-fetch,mcp__claude_ai_Notion_Gusto__notion-update-page,Read,Write,Edit,Bash"
 # Note: Notion MCP (mcp__claude_ai_Notion_Gusto__*) is only available in claude.ai sessions.
 # For automated Notion writes, use the CronCreate living routine in Claude Code Desktop.
 
