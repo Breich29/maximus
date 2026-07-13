@@ -13,6 +13,8 @@ _Source: Granola meetings list (Apr 21 – May 21, 2026) + calendar inference_
 | Brandon / Farron 1:1 | As-needed / recurring | Brandon, Farron Hicks | May 19 instance confirmed |
 | Brandon / Alex 1:1 | As-needed / recurring | Brandon, Alex Kehayias | May 20 instance confirmed |
 | Chris<>Jessica<>Brandon | As-needed (new recurring likely) | Brandon, Chris Elkins, Jessica Sacks | May 21 kickoff — will become regular |
+| Corp & Partner Dev | Weekly | Brandon, Ashby Taylor, Allison Hess, Carlos Cabrera, Vivian Shen, others | Confirmed via calendar 2026-07-14 |
+| Product Partnerships Pipeline Review | Bi-weekly | Brandon, Kevin Werner, Jason Chao, Henry Schober, Allison Hess, large cross-functional group | Confirmed via calendar 2026-07-14 |
 
 ---
 
