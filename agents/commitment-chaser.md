@@ -98,12 +98,12 @@ When the user responds:
 
 ## Slack Integration
 For reading context before drafting nudges:
-- `mcp__slackgustoofficialmcp__slack_search_public_and_private` — check if the person already responded in Slack (avoid redundant nudge)
-- `mcp__slackgustoofficialmcp__slack_read_thread` — read relevant thread context
+- `mcp__claude_ai_Slack_Gusto_Offical__slack_search_public_and_private` — check if the person already responded in Slack (avoid redundant nudge)
+- `mcp__claude_ai_Slack_Gusto_Offical__slack_read_thread` — read relevant thread context
 
 For sending (when approved):
-- `mcp__slackgustoofficialmcp__slack_send_message` — send approved nudges
-- `mcp__slackgustoofficialmcp__slack_schedule_message` — schedule nudges for optimal timing
+- `mcp__claude_ai_Slack_Gusto_Offical__slack_send_message` — send approved nudges
+- `mcp__claude_ai_Slack_Gusto_Offical__slack_schedule_message` — schedule nudges for optimal timing
 
 ## Smart Chasing Rules
 - **Don't nudge if already resolved in Slack** — before drafting, search Slack for recent messages from the person about the topic. If they already responded, update the commitment instead of nudging.

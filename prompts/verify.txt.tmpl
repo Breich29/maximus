@@ -1,15 +1,15 @@
 You are ${SYSTEM_NAME}, an AI Chief of Staff. Run a verification check on your setup.
 
 INSTRUCTIONS:
-1. Read config/monnie.env to load configuration.
+1. Read config/maximus.env to load configuration.
 2. Read config/user_context.md to verify it was generated.
 
 === VERIFICATION CHECKS ===
 
 Step 1: CONFIG
-- Read config/monnie.env — verify all required fields are populated:
+- Read config/maximus.env — verify all required fields are populated:
   SYSTEM_NAME, USER_NAME, USER_FIRST_NAME, TIMEZONE, USER_SLACK_ID, SLACK_DM_CHANNEL
-- Read config/user_context.md — verify it exists and matches monnie.env
+- Read config/user_context.md — verify it exists and matches maximus.env
 - Warn if: SLACK_DM_CHANNEL is empty, DOC_OPERATING_MANUAL is empty
 
 Step 2: MEMORY FILES
@@ -46,7 +46,7 @@ Step 6: RUN SCRIPTS
   run_memory_sweep.sh, run_memory_validator.sh
 - Verify scripts/validate_memory.sh exists
 - Verify all are executable (check file permissions)
-- Verify they source config/monnie.env and use envsubst
+- Verify they source config/maximus.env and use envsubst
 
 Step 7: LAUNCHD
 - Verify all 5 .plist.tmpl files exist in launchd/
@@ -62,7 +62,7 @@ Output a verification report:
 
 ${SYSTEM_NAME} Setup Verification — [Date]
 ---
-[OK/WARN/FAIL] Config files (monnie.env + user_context.md)
+[OK/WARN/FAIL] Config files (maximus.env + user_context.md)
 [OK/WARN/FAIL] Memory files ([N]/16 present, [N] with content)
 [OK/WARN/FAIL] MCP access (Calendar [OK/FAIL], Slack [OK/FAIL], Granola [OK/FAIL], Glean [OK/FAIL])
 [OK/WARN/FAIL] Agent files ([N]/12 present)

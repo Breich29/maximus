@@ -3,6 +3,9 @@
 
 set -euo pipefail
 
+# launchd runs with a minimal PATH that omits Homebrew — needed for claude, envsubst, etc.
+export PATH="/opt/homebrew/bin:/usr/local/bin:${PATH}"
+
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 MEM_DIR="${ROOT_DIR}/memory"
 

@@ -1,12 +1,18 @@
 # Commitments
 
-_Last updated: 2026-06-22_
+_Last updated: 2026-07-13_
 
 Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 
 ---
 
 ## Open
+
+**COM-011** — Jessica Sacks → Brandon
+- **What:** Stack-rank Middesk agreement wish list (SLA penalties/invoice credits, order status transparency, escalation protocols) and send churn/attrition stats (successful orders churn 10% less; negative terminal status = 1.3x churn risk; 90-day+ turnaround = 1.7x churn risk) ahead of the Quinn call
+- **Due:** Before Quinn call, 2026-07-14
+- **Status:** Open
+- **Source:** Granola: Prep for Quinn<>Brandon (Jul 13)
 
 **COM-003** — Brandon → Allison Hess
 - **What:** Draft MSA template recommendations incorporating Zen Business DPA lessons + security-earlier approach

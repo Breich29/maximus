@@ -60,10 +60,10 @@ After the briefing agent assembles output, the memory agent:
 Structured, current state. Use for all standard brief operations.
 
 ### Warm — Glean Search (seconds)
-Use `mcp__gleangusto__search` for semantic search across all indexed docs, Slack, email.
-Use `mcp__gleangusto__gmail_search` for email-specific queries.
-Use `mcp__gleangusto__employee_search` for people lookups.
-Use `mcp__gleangusto__meeting_lookup` for meeting history.
+Use `mcp__claude_ai_Glean__search` for semantic search across all indexed docs, Slack, email.
+Use `mcp__claude_ai_Glean__gmail_search` for email-specific queries.
+Use `mcp__claude_ai_Glean__employee_search` for people lookups.
+Use `mcp__claude_ai_Glean__meeting_lookup` for meeting history.
 
 **When to use warm layer:**
 - User asks "did we discuss X?" and it's not in hot memory
@@ -73,9 +73,9 @@ Use `mcp__gleangusto__meeting_lookup` for meeting history.
 
 ### Cold — Granola MCP (full meeting transcripts)
 Full meeting transcripts. Use only when hot + warm don't answer the question.
-- `mcp__granolagusto__query_granola_meetings` — search/query meetings
-- `mcp__granolagusto__get_meeting_transcript` — full transcript for a specific meeting
-- `mcp__granolagusto__list_meeting_folders` — browse project-organized folders
+- `mcp__claude_ai_Granola_Gusto__query_granola_meetings` — search/query meetings
+- `mcp__claude_ai_Granola_Gusto__get_meeting_transcript` — full transcript for a specific meeting
+- `mcp__claude_ai_Granola_Gusto__list_meeting_folders` — browse project-organized folders
 
 ## User Feedback Loop (Self-Actualization)
 

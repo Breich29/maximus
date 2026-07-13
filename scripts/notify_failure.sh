@@ -4,6 +4,9 @@
 
 set -euo pipefail
 
+# launchd runs with a minimal PATH that omits Homebrew — needed for claude, envsubst, etc.
+export PATH="/opt/homebrew/bin:/usr/local/bin:${PATH}"
+
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 set -a
 source "${SCRIPT_DIR}/config/maximus.env"

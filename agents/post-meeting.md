@@ -14,7 +14,7 @@ After meetings, scan meeting notes for new entries and extract signals into memo
 
 ### Step 1: Identify New Meetings
 1. Read extraction_tracker.md to get last extraction timestamp
-2. Use `mcp__granolagusto__query_granola_meetings` to get all meetings since that timestamp
+2. Use `mcp__claude_ai_Granola_Gusto__query_granola_meetings` to get all meetings since that timestamp
 3. If timestamp is missing: fall back to querying last 48h
 4. Identify all meetings that haven't been processed yet
 

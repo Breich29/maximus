@@ -1,0 +1,233 @@
+OBSIDIAN WRITE: ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-13-meeting-prep.md`
+
+## DRAFT MEETING PREP MESSAGE(S)
+
+———
+:calendar: **Prep for Quinn<>Brandon** — 10:30 AM PT
+*Attendees:* Chris Elkins, Andrew Adams, Jessica Sacks
+
+*Context:* Internal prep for Brandon's upcoming call with Quinn (MidDesk technical contact) on headless API access for GBC. Ties to the multi-provider STR strategy and the Nov 2026 mid-desk renewal.
+
+*Push for:* Align framing ("accelerating MidDesk volume ahead of GA," not first-party intent") + escalate past Quinn to a real technical contact (Anthony/"boss") since Quinn isn't deep enough.
+
+*Watch out for:* Andrew Adams' known back-channeling to mid-desk contacts; mid-desk already aware of Mosey/first-party intent.
+———
+
+———
+:calendar: **AI Market Mapping + Oppty Tracker collab** — 11:00 AM PT
+*Attendees:* Devesh Verma (new — no context), Vivian Shen, Joseph Sarni (new — no context)
+
+*Context:* Coordination effort from the Jul 2 AI Jam to build a company-wide AI-target tracker.
+
+*Push for:* Confirm Ashby's actual buy-in on this role; lock tracker home (Notion) + LLM-vs-app-factory definitions; divide market-mapping coverage.
+
+*Watch out for:* Two unknown attendees — capture context for people.md.
+———
+
+———
+:calendar: **Solo + Entity Management Standup** (Weekly) — 1:00 PM PT
+*Attendees:* Namrata Jain, Farron Hicks, Izzy Rogner-Hall, Chris Elkins, Andrew Adams, Janae Monfort + 8 not in people.md
+
+*Context:* ⚠️ memory/projects.md calls Solo "quiet" — that's stale. Real state: Solo health insurance narrowing, STR first-party build racing an Oct 1 GBC deadline, DoubleHQ under legal review.
+
+*Push for:* Direct status check on two overdue gates — HBG Solo ERISA compliance read (due Jun 26) and the Jul-2nd-week Solo health reconvene. STR tax-tech API readiness update.
+
+*Watch out for:* 8 unrecognized attendees; don't let stale memory drive the conversation.
+———
+
+———
+:calendar: **Gusto <> Browserbase** — 2:00 PM PT
+*Attendees:* Shubhankar, Cindy (Browserbase)
+
+*Context:* Vendor call as the agreement nears signing — underpins first-party STR/entity formation (~Dec 1, 2026 target).
+
+*Push for:* Firm signature timeline now that security's cleared; confirm marketing opt-out clause; status of D. Zhao's parallel CX evaluation (negotiating leverage).
+
+*Watch out for:* Don't let commercial terms slip into feature scoping; hold the boundary if Chris tries to re-insert himself into use-case talk.
+———
+
+## NOTES ON RISKS / DECISIONS NEEDED
+
+- **memory/projects.md + partners.md are ~7 weeks stale** on Solo/GBC/Entity Management — recommend a memory refresh after today's meetings.
+- **New/unrecognized attendees** across 3 of 4 meetings — people.md needs expansion (Devesh Verma, Joseph Sarni, 8 standup attendees, Quinn).
+- **Andrew Adams back-channel risk** live in two meetings today.
+- **"Call with Jared" (9:30–10:00)** — attendee is Samantha's email; no "Jared" found anywhere. Flagged as likely personal — confirm with you.
+- All sources (Calendar, memory, Granola) were accessible; no partial output.
+
+All outbound framing above is prep guidance only — nothing has been sent. Let me know if you want any of this turned into an actual draft Slack message to a specific person.
+Found it — a complete, comprehensive prep note for today already exists in Obsidian, written just 15 minutes ago. I cross-checked it against the current calendar and it's still accurate (no new meetings, same attendees). Rather than duplicate the work, I'm surfacing that existing brief.
+
+**OBSIDIAN WRITE: ✅ already exists at `90-Maximus/meeting-prep/2026-07-13-meeting-prep.md`** (written ~10:15 AM, no changes needed)
+
+---
+
+## Skipped (no business prep needed)
+- Ryan Drop Off (8:15–8:30) — personal
+- Call with Jared (9:30–10:00) — attendee is stolbergsamantha@gmail.com (Samantha); no "Jared" found anywhere — likely personal, flagged for confirmation
+- Deep work block (10:00–11:00)
+- Personal (11:30–12:45)
+- Biz Conductors receive BD Comms / Birthday: Sam Haber — all-day items, not meetings
+
+## DRAFT MEETING PREP MESSAGE(S)
+
+———
+📅 **Prep for Quinn<>Brandon** — 10:30 AM PT
+**Attendees:** Chris Elkins, Andrew Adams (⚠️ back-channel risk), Jessica Sacks
+
+**Context:** Internal prep ahead of Brandon's call with Quinn (MidDesk) on headless API access for GBC. Ties to multi-provider STR strategy (DEC-004) and Nov 2026 mid-desk renewal (DEC-007).
+
+**Push for:** Frame the API ask as "accelerating MidDesk volume ahead of GA" — not first-party intent. Push to escalate past Quinn to a real technical contact (Anthony/"boss").
+
+**Watch out for:** Andrew's back-channel history; mid-desk already knows about Mosey + first-party GBC intent — don't over-expose further.
+———
+
+———
+📅 **AI Market Mapping + Oppty Tracker collab** — 11:00 AM PT
+**Attendees:** Devesh Verma (new), Vivian Shen, Joseph Sarni (new)
+
+**Context:** Coordination effort from the Jul 2 AI Jam — tracker for AI conversations across labs (Anthropic, OpenAI, xAI, Harvey, Gemini).
+
+**Push for:** Confirm Ashby actually greenlit this 4-person role. Land tracker's home (Notion) + LLM-target vs. app-factory-target definitions.
+
+**Watch out for:** Two unrecognized attendees — capture context for people.md.
+———
+
+———
+📅 **Solo + Entity Management — Cross-Functional Standup** — 1:00 PM PT
+**Attendees:** Namrata Jain, Farron Hicks, Izzy Rogner-Hall, Chris Elkins, Andrew Adams, Janae Monfort + 8 unrecognized attendees
+
+**Context:** ⚠️ memory/projects.md and partners.md are stale here (last updated May 21) — Granola shows this workstream has moved (Solo health insurance narrowing, STR first-party confirmed w/ Oct 1 GBC deadline, new Entity Management partner DoubleHQ under review). **Treat live discussion as ground truth over memory today.**
+
+**Push for:** Direct status check on HBG Solo compliance read + Jul-2nd-week reconvene; STR API-readiness update against Oct 1 deadline.
+
+**Watch out for:** 8 of 14 non-Brandon attendees aren't in people.md — flag for update.
+———
+
+———
+📅 **Gusto <> Browserbase** — 2:00 PM PT
+**Attendees:** Shubhankar, Cindy (Browserbase)
+
+**Context:** Vendor call as the Browserbase agreement nears signing — underpins first-party STR (GBC) + entity formation (SYB), targeted ~Dec 1, 2026.
+
+**Push for:** Firm signature timeline now that security's signed off. Confirm final position on marketing opt-out clause.
+
+**Watch out for:** Don't let the call drift into feature scoping before commercial terms are locked; hold the boundary on Chris trying to insert himself into use-case discussions.
+———
+
+## NOTES ON RISKS / DECISIONS NEEDED
+
+**Cross-cutting risks:**
+- `memory/projects.md` and `memory/partners.md` are ~7 weeks stale (last updated 2026-05-21) on Solo, GBC/STR, and Entity Management — recommend a memory refresh pass after today's Solo standup and Browserbase call.
+- New/unrecognized attendees across 3 of 4 meetings — people.md needs expansion (Devesh Verma, Joseph Sarni, 8 standup attendees, Quinn as a MidDesk contact).
+- Andrew Adams back-channel risk is live in two meetings today.
+
+**Decisions to push for:**
+1. Quinn prep → lock framing + escalation ask before the actual Quinn call.
+2. AI Market Mapping → confirm Ashby's sign-off on the coordination role.
+3. Solo standup → force status answers on HBG Solo compliance + Thatch term sheet rather than another rollover.
+4. Browserbase → get a signature timeline, not just "in legal review."
+
+All sources (Calendar, memory/*.md, Granola) were accessible — no partial output.
+Found that this exact meeting-prep note was already generated at 10:15 AM (33 minutes ago, likely the morning brief run) — and it's more thorough than what my own Granola queries surfaced. It's current, pre-dates all of today's meetings, and treats memory files as intentionally stale where Granola shows newer state. Rather than duplicate that work, here it is:
+
+**OBSIDIAN WRITE: ✅** `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-13-meeting-prep.md`
+
+Note: it's currently 10:48 AM — the *Prep for Quinn<>Brandon* meeting (10:30–11:00) is in progress. Next up: AI Market Mapping (11:00).
+
+---
+
+## DRAFT MEETING PREP MESSAGE(S)
+
+———
+📅 **Prep for Quinn<>Brandon** — 10:30 AM PT *(in progress)*
+**Attendees:** Chris Elkins (Partner Mgr, Payroll/Entity), Andrew Adams (GBC/Tax — ⚠️ back-channel risk), Jessica Sacks (PM Tax Experiences)
+
+**Context:** Internal prep ahead of Brandon's upcoming call with Quinn, a MidDesk contact, on headless API access for GBC. Ties to multi-provider STR strategy (DEC-004) and Nov 2026 mid-desk renewal (DEC-007).
+
+**Open items:** Jessica Sacks — COM-005 mid-desk scribing/concierge notification, status open, Brandon to confirm it happened.
+
+**Push for:** Align framing — pitch the API ask as "accelerating MidDesk volume," not first-party intent. Get commitment to escalate past Quinn to a real technical contact (Anthony/"boss"-level) — per Andrew, Quinn tends to say yes without depth to unblock feasibility.
+
+**Watch out for:** Andrew Adams' back-channel history — keep messaging disciplined in this room. Mid-desk already knows about Mosey + first-party GBC intent.
+———
+
+———
+📅 **AI Market Mapping + Oppty Tracker collab** — 11:00 AM PT
+**Attendees:** Devesh Verma (new — no context), Vivian Shen (benefit partnerships, Thatch), Joseph Sarni (new — no context)
+
+**Context:** Coordination effort from the Jul 2 AI Jam — building a shared tracker of AI conversations/targets (Anthropic, OpenAI, xAI, Harvey, Gemini) so teams stop pitching labs independently.
+
+**Push for:** Confirm Ashby actually greenlit the 4-person coordination role. Land the tracker's home (Notion) and deal-type definitions. Divide market-mapping coverage by vertical.
+
+**Watch out for:** Two unrecognized attendees — capture context for people.md. Don't overstate Gusto's "app factory" readiness — it's scoped, not built.
+———
+
+———
+📅 **Solo + Entity Management — XFN Partner Standup (Weekly)** — 1:00 PM PT
+**Attendees:** Namrata Jain, Farron Hicks, Izzy Rogner-Hall, Chris Elkins, Andrew Adams, Janae Monfort, Stephanie Liu-Cossart — plus 7 others not in people.md
+
+**Context:** ⚠️ memory/projects.md calls Gusto Solo "quiet" — that's stale. Treat this standup as ground truth: STR first-party build has an Oct 1 GBC deadline, solo health insurance narrowing, new Entity Management partner (DoubleHQ) under evaluation.
+
+**Push for:** Direct status check on HBG Solo compliance read and the Thatch term sheet (both overdue/unconfirmed). Get an update on tax-tech API readiness against the Oct 1 deadline.
+
+**Watch out for:** 8 attendees not in people.md — flag for update. Don't let stale project assumptions drive the conversation.
+———
+
+———
+📅 **Gusto <> Browserbase** — 2:00 PM PT
+**Attendees:** Shubhankar, Cindy (Browserbase)
+
+**Context:** Contract nearing signature — vendor underpinning first-party STR/entity formation (~Dec 1, 2026 target, DEC-005).
+
+**Push for:** Firm signature timeline now that security has signed off. Confirm Browserbase's final position on the marketing opt-out clause.
+
+**Watch out for:** Don't let the call drift into use-case scoping before commercial terms (indemnification) are locked.
+———
+
+## NOTES ON RISKS / DECISIONS NEEDED
+
+- **memory/projects.md and partners.md are ~7 weeks stale** (last updated 2026-05-21) — today's meetings will surface material updates. Recommend a memory refresh pass after they wrap.
+- **Andrew Adams back-channel risk** live in two meetings today (Quinn prep, Solo standup).
+- **New/unrecognized attendees** across 3 of 4 meetings — people.md needs expansion.
+- Decisions to push for: (1) Quinn framing locked before the actual Quinn call, (2) Ashby's sign-off on the AI coordination role, (3) forced status answers on HBG Solo compliance + Thatch term sheet, (4) a real signature date from Browserbase.
+
+Want me to run the memory write-back now to update projects.md/partners.md with the Solo and Browserbase status changes surfaced here?
+**OBSIDIAN WRITE:** ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-13-meeting-prep.md`
+
+## DRAFT MEETING PREP MESSAGE(S)
+
+**Open commitments due today:** none with a hard date, but ⚠️ mid-desk's 90-day renewal notice window closes ~Jul 28 (15 days out) — directly relevant to today's Quinn prep.
+
+---
+:calendar: *Prep for Quinn<>Brandon* — 10:30–11:00 AM PT — **already occurred**
+*Attendees:* Chris Elkins, Andrew Adams (⚠️ back-channel risk), Jessica Sacks
+
+*Context:* Internal prep for Brandon's call with Quinn (MidDesk contact) to push headless API access without tipping Gusto's first-party STR intent.
+
+*Watch out for:* Andrew Adams was in the room — standing back-channel risk. Capture what actually happened for memory write-back; it feeds the Jul 28 renewal deadline.
+
+---
+:calendar: *Solo + Entity Management Standup* — 1:00–1:30 PM PT
+*Attendees:* Namrata Jain, Farron Hicks, Izzy Rogner-Hall, Chris Elkins, Andrew Adams, Janae Monfort + 8 people not in people.md
+
+*Context:* projects.md/partners.md say Solo is "quiet" — stale. Granola shows STR ownership shifting from Tax to Entity Management (Oct 1 GBC deadline), and Jessica Sacks may not know yet that she's losing STR ownership.
+
+*Push for:* Status on HBG Solo ERISA read + Thatch term sheet (both overdue). Make sure Jessica hears the STR-ownership change directly, not secondhand.
+
+---
+:calendar: *Gusto <> Browserbase* — 2:00–2:30 PM PT
+*Attendees:* Shubhankar, Cindy (external)
+
+*Context:* Contract is the last blocker before signature; security cleared Jun 18. Open: indemnification, marketing opt-out clause, BYOS timeline.
+
+*Push for:* Firm signature date. Keep the call on commercial terms, not feature scoping.
+
+---
+
+## Risks / Decisions Needed
+- **memory/projects.md and partners.md are ~7 weeks stale** — recommend a refresh after today's Solo standup and Browserbase call.
+- **Andrew Adams back-channel risk** live in two meetings today.
+- **Calendar discrepancy:** an "AI Market Mapping" meeting present in an earlier prep pass today no longer exists on the calendar — flagged in case it was cancelled without Brandon's awareness.
+- **"Call with Jared"** (9:30–10:00) — no "Jared" found in work context; assumed personal, confirm if wrong.
+
+All sources (Calendar, memory/*.md, Granola) were accessible — no partial output.
