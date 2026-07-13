@@ -25,3 +25,15 @@ _Last updated: 2026-05-21_
 - GustoPro key people = Bridgette Haymaker + Lauren Snyder (tentative)
 - Accountants and GustoPro/GPro are the same workstream
 - Andrew Adams = Andrew Adams; Izzy = Izzy Rogner-Hall; Gowry = Gowri Nambiar; Namrata = Namrata Jain; Henry = Henry Schober III; Allison = Allison Hess
+
+---
+
+## 2026-07-13 — Meeting Prep
+
+**Type:** Meeting prep brief (today's calendar)
+**Meetings covered:** Prep for Quinn<>Brandon (10:30, already occurred), Solo + Entity Management XFN Standup (13:00), Gusto <> Browserbase (14:00)
+**Items presented:**
+- Mid-desk renewal notice window confirmed ~Jul 28, 2026 (COM-011 new, DEC-007 date confirmed)
+- Browser Base status update: agreement in final procurement, security cleared Jun 18, open items indemnification + marketing-use clause
+- 8 unrecognized attendees flagged on Solo+EM standup (needs confirmation)
+- Andrew Adams back-channel risk flagged (present in 2 of today's meetings)
