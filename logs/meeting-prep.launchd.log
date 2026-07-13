@@ -479,3 +479,19 @@ All required memory files and agent specs are loaded. Checking today's calendar 
 No upcoming meetings remain on Brandon's calendar for the rest of 2026-07-13. The day's real working meetings (Quinn prep, Browserbase) already happened and were already captured into memory (commitments.md COM-011/012/013, decisions.md DEC-007 confirmation) — nothing left to prep for today, so per instructions no Obsidian draft was written.
 
 Want me to run meeting prep for **tomorrow (2026-07-14)** instead? That's the Quinn call day per DEC-007/partners.md — likely worth prepping now if so.
+**OBSIDIAN WRITE: ⚠️ Offline — wrote to filesystem** → `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-14-meeting-prep.md`
+
+## Summary
+
+Today's calendar (7/13) is fully complete — no meetings remain. A thorough prep note for tomorrow (7/14) already existed (generated 3:02 PM by an earlier pass), so rather than duplicate it, I refreshed it with what's changed in the last ~50 minutes:
+
+**Key deltas found and appended to the note:**
+- ✅ **COM-011 (Jessica's Middesk churn data for the Quinn call) landed** via Slack at 1:10 PM — but the **actual numbers differ from the earlier Granola recap**: CX outreach on a Middesk issue = 1.6x churn risk (new stat, wasn't in the recap), order canceled/retired = 1.4x (recap said 1.3x), successful order = 0.9x/10% less (matches). The stack-ranked wish list portion is still unconfirmed.
+- ✅ New find: **Chris Elkins posted the full Middesk agreement summary** (with negotiation "gets") to Slack at 11:23 AM — logged as COM-014, worth a skim before the call.
+- ⚠️ **Correction:** the "Corp & Partner Dev" meeting the earlier pass had at 10:00 AM tomorrow is **no longer on the calendar** — confirmed via a fresh pull and a direct search. Flagged in the note since it also removes the planned venue for nudging Allison Hess on COM-003.
+
+**Tomorrow's real agenda (per the refreshed note):** Project Diomedes (8:30 AM, M&A — sideline role, watch the DoubleHQ attendee-confidentiality flag), an unidentified "Roi" personal-email call (10:30 AM, no context anywhere), the **Quinn<>Middesk call** (11 AM–12 PM, the big one — now walk in with corrected churn numbers + Chris's agreement summary, don't commit to headless-API timeline, push past Quinn to Karen), and the Pipeline Review (12:15 PM, conflicts with the optional Solo+SYB lunch).
+
+Full drafts, per-meeting breakdowns, and the complete risk list are in the Obsidian note. Memory updated: `commitments.md` (COM-011, new COM-014) and `cadence.md` (Corp & Partner Dev downgraded to unconfirmed).
+
+One gap: Gmail access wasn't authorized this session, so I couldn't rule out the stack-ranked wish list having gone out by email — flagged as unconfirmed rather than assumed.
