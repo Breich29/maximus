@@ -31,7 +31,7 @@ _Lightweight follow-ups and "needs confirmation" items. Formal commitments track
 - [ ] **Ken Webster** — reply 15+ days overdue (as of Jun 19). Still open.
 - [ ] **Eric Harris Loom demo** — flagged to watch since Jun 12 weekly review. 10+ days outstanding.
 - [ ] **Diomedes** — codename for M&A exploration. Pre-LOI diligence kicked off Jun 19. Ashby sent P0 questions; Ben replied 6 AM Jun 19. Dinner Jun 23 at ilili (NYC). Brandon is supporting/learning from sideline with Ashby + Delia — not leading. Do not assign action items to Brandon on this unless he indicates otherwise.
-- [ ] **Browserbase** — Brandon is now lead (Zip #5888). Agreement in final procurement; security/GRC cleared Jun 18; Allison Hess reviewing contract as of Jul 6. Open: indemnification, marketing-use clause. Vendor call w/ Shubhankar + Cindy 2026-07-13 — push for signature timeline.
+- [ ] **Browserbase** — Vendor call w/ Shubhankar + Cindy held 2026-07-13. Contract economics confirmed: $18K/year upfront as credits. ⚠️ Open decision: DPA threshold — Browserbase requires $60K+/year to accept a customer's own DPA; deciding with counsel today whether to stay at $18K (use Browserbase's DPA) or scale to $60K+ (use Gusto's DPA). Red lines sent to Cindy (COM-012); awaiting Browserbase's DPA (COM-013). Close goal slipped from today to end of July 2026.
 - [ ] **doola (Arjun Mahadevan)** — NDA signed, in-person happened. Arjun wants IRL meetup Jun 26 at 33rd+8th NYC.
 - [ ] **Vivian "Gusto↔OpenAI Partnership Ideas" doc** — Vivian shared and requested Notion access. Review outstanding.
 - [ ] **Wyatt Angell** — added Brandon to Gusto↔Intuit bi-directional data thread. Wyatt OOO Jun 17–26; follow up after.
