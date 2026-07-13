@@ -38,10 +38,10 @@ Format: DEC-XXX | Summary | Date | Owner | Source
 - **Decided by:** Farron Hicks
 - **Source:** Granola: Farron/Brandon
 
-**DEC-007** — Mid-desk November renewal prep to start August–September 2026. 90-day notice period means intent to renegotiate should be communicated by ~late July if Gusto wants leverage.
-- **Date:** 2026-05-21
+**DEC-007** — Mid-desk November renewal prep to start August–September 2026. 90-day notice period means intent to renegotiate should be communicated by ~late July if Gusto wants leverage. **Confirmed 2026-07-13: renewal notice window closes ~July 28, 2026.**
+- **Date:** 2026-05-21 (date confirmed 2026-07-13)
 - **Decided by:** Brandon + Chris Elkins
-- **Source:** Granola: Chris<>Jessica<>Brandon
+- **Source:** Granola: Chris<>Jessica<>Brandon; Prep for Quinn<>Brandon (Jul 13)
 
 **DEC-008** — MSA/partner agreement templates need upgrading. Lessons from Zen Business ransomware attack (DPA gap, no obligation disclosure) to be rolled into standard templates. Security to be looped in on term sheets before signing, not after.
 - **Date:** 2026-05-21
