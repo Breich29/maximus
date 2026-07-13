@@ -46,4 +46,4 @@ fi
 envsubst < "${SCRIPT_DIR}/prompts/daily_brief.txt.tmpl" | claude -p \
   --allowedTools "mcp__claude_ai_Granola_Gusto__query_granola_meetings,mcp__claude_ai_Granola_Gusto__get_meeting_transcript,mcp__claude_ai_Granola_Gusto__list_meeting_folders,mcp__claude_ai_Granola_Gusto__list_meetings,mcp__claude_ai_Granola_Gusto__get_meetings,mcp__claude_ai_Glean__search,mcp__claude_ai_Glean__meeting_lookup,mcp__claude_ai_Gcal_Gusto__list_events,mcp__claude_ai_Slack_Gusto_Offical__slack_read_channel,mcp__claude_ai_Slack_Gusto_Offical__slack_search_public_and_private,mcp__claude_ai_Slack_Gusto_Offical__slack_search_users,mcp__claude_ai_Slack_Gusto_Offical__slack_read_user_profile,mcp__claude_ai_Slack_Gusto_Offical__slack_send_message,Read,Write,Edit,Glob,Bash"
 
-echo "$(date) [${TODAY}]: Daily brief completed." >> "${LOG_DIR}/daily-brief.log"
+echo "$(date) [${STAMP}]: Daily brief completed." >> "${LOG_DIR}/daily-brief.log"
