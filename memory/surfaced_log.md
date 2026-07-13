@@ -41,3 +41,17 @@ _Last updated: 2026-05-21_
 **2:23 PM PT refresh:** Gusto <> Browserbase call (in progress) synced to Granola with new specifics — $18K/year contract economics, DPA $60K+ threshold decision pending with counsel, red lines sent to Cindy (COM-012 new), Browserbase's DPA awaited (COM-013 new), close goal slipped to end of July. Written back to partners.md, commitments.md, action_items.md.
 
 **2:44 PM PT refresh:** No meetings remain on today's calendar (Browserbase ended 2:30 PM). Browserbase final Granola note confirms 2:23 PM capture — no changes. New item surfaced: the "Quinn call" that COM-011 and partners.md's Mid-desk section are keyed to (due 2026-07-14) does not appear on Brandon's calendar for today or tomorrow — flagged to action_items.md for confirmation. Previewed tomorrow's calendar (Diomedes, Corp & Partner Dev weekly, Roi connect call, Pipeline Review) — not yet formally prepped, deferred to tomorrow's brief.
+
+---
+
+## 2026-07-14 — Meeting Prep (night-before pass, generated 2026-07-13 3:02 PM PT)
+
+**Type:** Meeting prep brief (tomorrow's calendar, since today's is fully complete)
+**Meetings covered:** Project Diomedes (8:30 AM), Corp & Partner Dev weekly (10:00 AM), Roi Connect call (10:30 AM), Quinn<>Brandon (11:00 AM), Product Partnerships Pipeline Review (12:15 PM)
+**Items presented:**
+- Resolved: Quinn call confirmed on calendar (was flagged missing at 2:44 PM today)
+- Diomedes: confidential M&A exploration of DoubleHQ; flagged external attendees (Ben Stein, Ksong @doublehq.com) on the invite as an anomaly; surfaced that Tomer asked Brandon for a formal M&A thesis — a real deliverable despite Brandon's otherwise sideline role
+- Quinn call flagged as P0 — COM-011 (Jessica's churn stats/wishlist) is time-critical, due today, not tomorrow morning
+- Scheduling conflict flagged: Solo+SYB lunch overlaps Pipeline Review start
+- New contact added to people.md: Quinn (Mid-desk)
+- Two recurring meetings added to cadence.md: Corp & Partner Dev (weekly), Pipeline Review (bi-weekly)
