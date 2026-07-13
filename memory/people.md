@@ -207,7 +207,6 @@ _Last updated: 2026-05-21_
 
 | Name | Email | Company | Context |
 |---|---|---|---|
-| Quinn | quinn@middesk.com | Mid-desk | Technical/relationship contact for STR renewal negotiation; per Andrew, tends to agree without being able to unblock feasibility — Karen is the real internal decision-maker |
 | Shubhankar | (unknown) | Browserbase | Vendor contact, Browser Base agreement (security/commercial) |
 | Cindy | (unknown) | Browserbase | Vendor contact, Browser Base agreement (commercial/legal terms) |
 | Quinn | quinn@middesk.com | Mid-desk | Technical/relationship contact for STR renewal negotiation; per Andrew, tends to agree without being able to unblock feasibility — Karen is the real internal decision-maker |
