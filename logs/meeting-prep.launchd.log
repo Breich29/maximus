@@ -746,3 +746,39 @@ Bi-weekly cross-functional review. Report out Quinn call outcome + Browserbase t
 5. **Lunch/Pipeline Review overlap** — can't fully attend both.
 
 Memory updated: `commitments.md` (COM-011), `surfaced_log.md`. All required sources (Calendar, Slack, Granola, memory) were accessible — no fail-closed stop needed.
+OBSIDIAN WRITE: ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-14-meeting-prep.md`
+
+## DRAFT MEETING PREP MESSAGE(S) — Today, 2026-07-14
+
+This is a continuation of today's ongoing prep (10 checks logged since last night). Nothing material has changed since the 9:23 AM pass — here's the consolidated state, with the one new thing: **a drafted Slack nudge to Jessica** (below), which I'm surfacing for your approval, not sending.
+
+———
+📅 **Project Diomedes** — 8:30–10:00 AM (in progress now, no transcript yet)
+*Attendees:* Ashby, Bridgette Haymaker, Delia He + Abhas Bodas/Dan Loomis/Evin Wick/Will Tsui (unknown, no people.md context) + **Ben Stein & Ksong (@doublehq.com, external)**
+*Context:* M&A exploration of DoubleHQ (Ben Stein's company). Pre-LOI diligence. You're sideline/support per Ashby+Delia lead — **but** Tomer directly asked you for a formal M&A thesis on DoubleHQ, still unconfirmed as done.
+*Push for:* Get a status read on the Tomer thesis deliverable.
+*Watch out for:* External DoubleHQ attendees on what's elsewhere described as confidential diligence — gut-check it's intentional, not a calendar error.
+———
+📅 **Roi || Brandon Connect Re: Gusto** — 10:30–10:55 AM
+*Attendees:* "Roi" (roima195@gmail.com) — unknown, personal gmail on both sides, no Granola/people.md history.
+*Watch out for:* Unresolved identity — reads as personal/networking, not work. Flag back if it turns out to be a real partnership lead.
+———
+📅 **Quinn<>Brandon** — 11:00 AM–12:00 PM, 66 Kearny St
+*Context:* The live Mid-desk renewal call. Renewal notice window closes ~Jul 28.
+*Push for:* Don't commit to headless-API build ownership/timeline. Get formal renewal asks in writing. Push past Quinn to **Karen** (real decision-maker).
+*Watch out for:* **Jessica's stack-ranked wish list still hasn't landed (10th check, ~20.5 hrs)** — you have the churn stats but not the wish list. See draft nudge below.
+———
+📅 **Product Partnerships Pipeline Review** — 12:15–1:00 PM
+*Watch out for:* Overlaps the optional Solo+SYB lunch (12:00–12:30) — can't fully attend both.
+———
+
+**Draft Slack nudge to Jessica (not sent — needs your approval):**
+> "Hey Jessica — thanks again for the churn numbers yesterday, really useful. Still don't have the stack-ranked Middesk wish list (SLA penalties/invoice credits, order status transparency, escalation protocols) and I'm sitting down with Quinn at 11. If it's not going to be ready in time, no worries — just let me know so I can plan the call without it. Otherwise even a rough-cut version in the next 30 min would help a lot."
+
+## Risks / Decisions Needed
+1. Diomedes external-attendee anomaly (Ben Stein/Ksong on a confidential M&A meeting) — confirm intentional in the room.
+2. COM-011 wish list gap — send the nudge above or accept walking into Quinn with churn stats only.
+3. Diomedes M&A thesis (Tomer's ask) — status unconfirmed, worth a direct question today.
+4. Pipeline Review / lunch scheduling conflict — pick one.
+
+Want me to send the Jessica nudge now, or hold it?
