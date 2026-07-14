@@ -824,3 +824,38 @@ This isn't something I should resolve unilaterally since it could silently drop 
 3. You resolve it manually and I'll re-run once it's clean.
 
 Let me know which, and I'll proceed with the rest of the meeting-prep workflow (calendar.md/action-tracker.md/memory.md agent specs, today's calendar, Granola, etc.) right after.
+**OBSIDIAN WRITE:** ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-14-meeting-prep.md`
+
+## Where things stand (1:14 PM PT)
+
+Everything with real business content on today's calendar has already happened — Diomedes, its debrief, the Roi call, Quinn<>Brandon, and the Pipeline Review are all done. All that's left is the Asians ERG meeting (in progress, no prep needed) and Padel Academy tonight (personal). So this pass is a recap/write-back, not forward prep.
+
+**Quinn<>Brandon (Middesk) went well.** You posted your own recap to the group DM at 12:48 PM — I pulled it and wrote it back to memory:
+- Middesk verbally committed to the headless API by **10/1/2026** (same date as GBC's own launch deadline — worth confirming that's intentional), and offered co-build sessions with GBC.
+- On pricing, Quinn signaled a **platform fee**, not the 2–3x per-registration hike you'd prepped for — softer than expected, not yet formal.
+- Karen-gap confirmed directly by Quinn (commits, execution scrambles) — validates yesterday's intel.
+- Jessica's stack-ranked wish list never showed up (10 checks, zero movement) — but it didn't seem to matter; closing COM-011 as no-impact rather than chasing it further.
+- New: Chris floated building a standard process with Jessica for onboarding new eng teams/use cases/cost-centers onto existing partner deals — no owner yet, flagging since the cost-center/invoicing piece touches contracts.
+
+Logged as DEC-009, COM-015 (Chris→Lolo on kickoff cadence), COM-016 (Middesk's 10/1 commitment — verbal only, get it in writing).
+
+**Pipeline Review** happened but has no Granola notes synced yet — nothing to report.
+
+**One thing worth flagging directly:** `memory/action_items.md` had actual unresolved git merge-conflict markers committed into it (landed in the 13:05 auto-sync) — an entire "Completed" history section had gotten silently hidden behind the conflict. I fixed it, but you may want to check why the auto-sync process is committing unresolved merges.
+
+Full detail (including tomorrow's prep, which I haven't run yet since today isn't fully over) is in the Obsidian note.
+API Error: Connection closed mid-response. The response above may be incomplete.
+All required sources loaded successfully — memory files, calendar. Here's the situation:
+
+**It's currently 2:44 PM PT.** Every substantive meeting on today's calendar has already happened (Diomedes x2 at 8:30–10am, Roi Connect at 10:30, Quinn<>Brandon at 11–12, Solo+SYB Lunch at 12, Pipeline Review at 12:15, Asians @ Gusto at 1pm). The only thing left on the calendar is **Padel Academy** at 5:30–7pm — no attendees, personal fitness, not a business meeting.
+
+So there's nothing left today that needs forward-looking meeting prep. I'm not going to fabricate prep briefs for meetings that already occurred — that would violate fail-closed (there's no "upcoming" left to enrich).
+
+Two things worth flagging instead:
+
+1. **Quinn<>Brandon already happened at 11am** and is already fully captured in memory — DEC-009, COM-015/016, and the partners.md Mid-desk update all reflect the outcome. No action needed there.
+2. **Project Diomedes / Debrief Diomedes** (8:30–10am) — these aren't in Granola or memory yet from today. If you want, I can pull the Granola transcript and do a post-meeting memory write-back (decisions/commitments extracted) rather than a prep brief, since prep is moot now.
+
+Want me to:
+- (a) do a **post-meeting recap** of Diomedes instead of prep, or
+- (b) skip ahead and run **tomorrow's** meeting prep now (night-before per your Brief Schedule preference)?
