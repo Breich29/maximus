@@ -782,3 +782,45 @@ This is a continuation of today's ongoing prep (10 checks logged since last nigh
 4. Pipeline Review / lunch scheduling conflict — pick one.
 
 Want me to send the Jessica nudge now, or hold it?
+**Blocker found — stopping per fail-closed rule.**
+
+`memory/action_items.md` has an unresolved git merge conflict (still contains `<<<<<<< HEAD` / `=======` / `>>>>>>> origin/main` markers). This file is a PRIMARY source of truth per CLAUDE.md, and I can't reliably read current action items/watch items out of it while it's in this state — the two sides disagree substantially (e.g., HEAD has a Diomedes/Browserbase DPA watch item and several "new people detected" confirmations dated 2026-07-14; origin/main has different Andrew Adams/MidDesk framing and a whole "Completed" section HEAD lacks).
+
+Also notable: your local branch and origin/main have diverged by **106 vs 20 commits** — this isn't a small drift.
+
+I won't guess which side to keep since that's a real decision, not a mechanical merge. A few options:
+
+1. **You tell me which side is authoritative** (HEAD = your local edits, or origin/main = the sync job), and I resolve the conflict accordingly.
+2. **You resolve it yourself** in your editor/git client, then tell me to proceed.
+3. If this is expected (e.g., a scheduled sync job vs. your local session both writing to the same memory file), let me know and I can propose a merge that keeps both sets of live items rather than picking one side.
+
+I haven't touched any files. Let me know how you'd like to proceed, and I'll continue with the meeting-prep run right after.
+**STOP — required memory source is corrupted, per fail-closed rule.**
+
+`memory/action_items.md` has an unresolved git merge conflict (mid-merge from `origin/main`, `MERGE_HEAD` present, 106 vs. 20 commits diverged). The file currently contains raw `<<<<<<< HEAD / ======= / >>>>>>> origin/main` markers in three sections — Needs Confirmation, and Strategic Watch Items — so it's not safely parseable as source-of-truth right now, and the two sides disagree substantively (e.g. local HEAD has detailed Diomedes/Browserbase/Quinn-call notes for **2026-07-14** that origin doesn't; origin has an "Andrew Adams — Jun 5 STR meeting" narrative that local doesn't).
+
+I'm not going to auto-resolve this myself — picking a side (or hand-merging) means deciding which open action items are real, and that's a judgment call plus a git operation on shared history, not something to do silently.
+
+Options, your call:
+1. **Keep local (HEAD)** — looks like the more current/detailed version (last updated 2026-07-13, includes today's Diomedes/Browserbase/Quinn context) — `git checkout --ours memory/action_items.md && git add memory/action_items.md`
+2. **Keep origin** — older (last updated 2026-07-09), but has some content HEAD dropped (Andrew Adams STR narrative, GustoPro COM-009 status) — `git checkout --theirs memory/action_items.md`
+3. **Hand-merge** — I fold both sides together (recommended, since each has unique real content) and you review before commit.
+4. **Abort the merge** (`git merge --abort`) if this merge itself is unwanted/unexpected.
+
+Also flagging: there are separate unstaged changes to `logs/meeting-prep.launchd.log` and `logs/meeting-prep.log` sitting on top of the in-progress merge — unrelated to the conflict, just noting the working tree isn't clean.
+
+Which way do you want to go on the conflict? Once `action_items.md` is resolved and committed, I'll run the meeting-prep flow.
+I found a blocking issue before I can proceed: **`memory/action_items.md` has an unresolved git merge conflict** (both branches modified it — `HEAD` vs `origin/main`, 106 vs 20 commits diverged). The file currently contains literal `<<<<<<<`/`=======`/`>>>>>>>` markers in three places (Open/Needs Confirmation header, Needs Confirmation section, and Strategic Watch Items section), so it's not valid as a source of truth right now.
+
+Per the fail-closed rule ("if a required source is unavailable, stop and report — do not assemble partial output"), I'm stopping here rather than guessing which side is authoritative — the two versions disagree materially:
+
+- **HEAD** has newer-looking content: Browserbase MSA due Jul 10, Diomedes 2026-07-14 attendee anomaly, Quinn call resolved for today 11am-12pm, COM-011 wish list nudge — this looks like *today's* (Jul 14) working state.
+- **origin/main** has older content: STR/Andrew Adams framing from early June, "nothing pending" in Needs Confirmation — looks stale relative to HEAD.
+
+This isn't something I should resolve unilaterally since it could silently drop real action items in either direction (e.g., the Diomedes attendee anomaly note, or the Quinn call resolution). Before I continue with meeting prep, how do you want to handle it?
+
+1. **Keep HEAD's version** (looks like your current, more recent local edits) and resolve the conflict that way, or
+2. **Keep origin's version**, or
+3. You resolve it manually and I'll re-run once it's clean.
+
+Let me know which, and I'll proceed with the rest of the meeting-prep workflow (calendar.md/action-tracker.md/memory.md agent specs, today's calendar, Granola, etc.) right after.

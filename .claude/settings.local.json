@@ -141,7 +141,9 @@
       "Bash(crontab -l)",
       "Bash(find / -maxdepth 6 -iname \"*monnie*\" -o -iname \"*maximus*\")",
       "Bash(git -C /Users/brandon.reich/maximus log --follow --format=\"%ai %s\" -- launchd/)",
-      "Bash(env)"
+      "Bash(env)",
+      "Bash(grep -oE '.{60}[0-9]+K[^0-9]{0,20}accountant.{60}' \"/Users/brandon.reich/Downloads/Gusto x Anthropic Pitch Deck \\(standalone\\) \\(v38 final\\).html\" -i)",
+      "Bash(grep -oE '.{60}60,000.{60}' \"Gusto x Anthropic Pitch Deck \\(standalone\\) \\(v38 final\\).html\")"
     ]
   },
   "hooks": {
