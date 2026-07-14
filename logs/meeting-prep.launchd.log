@@ -643,3 +643,43 @@ Neither Google Calendar MCP nor Granola MCP tools are available in this session 
 I did not write anything to the Obsidian vault, since there's no meeting data to prep against.
 
 **Next step:** this likely means the Google Calendar and Granola MCP connections aren't active for this session (separately, I noticed the startup hook also failed to reach `github.com` over SSL — possibly a broader connectivity issue on this machine/network). Want me to retry, or do you want to point me at the meetings manually (e.g., paste today's agenda) so I can still produce prep briefs from memory + manual input?
+**OBSIDIAN WRITE: ✅ /Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-14-meeting-prep.md** (appended morning-of update to last night's already-thorough prep)
+
+## DRAFT MEETING PREP MESSAGE(S) — 2026-07-14 morning-of pass
+
+The night-before pass already built full drafts for today (in the note above); here's the condensed version with what changed this morning.
+
+———
+:calendar: *Project Diomedes* — 8:30–10:00 AM PT
+*Attendees:* Ashby Taylor, Bridgette Haymaker, Delia He, Abhas Bodas, Dan Loomis, Evin Wick, Will Tsui (internal) + Ben Stein & Ksong (@doublehq.com, external — the acquisition target's own team)
+
+*Context:* M&A exploration of DoubleHQ (accounting practice-management tool), pre-LOI diligence since Jun 19. Brandon's standing role is sideline/support (Ashby + Delia lead), but Tomer separately asked Brandon for a formal M&A thesis on DoubleHQ — a live deliverable of unknown status.
+
+*New this morning:* a `[HOLD-if we end early] Debrief Diomedes` block sits 9:30–10:00 AM with the same attendees minus Ben Stein/Ksong — likely means the external portion is meant to end by 9:30, with internal-only debrief after. Worth confirming live rather than assuming.
+
+*Push for:* status on the Tomer-requested M&A thesis; confirm Brandon's exposure isn't expanding beyond "supporting."
+*Watch out for:* don't let Diomedes specifics bleed into the Pipeline Review later today.
+———
+
+———
+:calendar: *Quinn<>Brandon* (Mid-desk) — 11:00 AM–12:00 PM PT, 66 Kearny St
+*Context:* Live renewal negotiation call. Goal: understand Middesk's headless-API blockers, plant the renewal-notice ask, don't commit to timeline/ownership. Expected price ask $70–105/order (team comfortable ~$70). Push past Quinn to Karen for real buy-in.
+
+*⚠️ Time-critical gap:* Jessica's stack-ranked wish list (COM-011) still hasn't landed after 7 checks since yesterday — churn stats are in hand, wish list isn't, and it's now inside 2.5 hours of this call. **Nudge Jessica directly this morning** rather than walking in without it.
+*Prep:* Chris's agreement summary (Slack, delivered 7/13 11:23 AM) — skim before the call.
+———
+
+———
+:calendar: *Product Partnerships Pipeline Review* — 12:15–1:00 PM PT
+*Context:* Bi-weekly portfolio review. Natural venue to report the Quinn call outcome and Browserbase timeline. Overlaps the start of the optional Solo+SYB lunch (12:00–12:30) — can't fully do both.
+———
+
+**Skipped (no business prep needed):** Ryan Drop Off, Roi Connect call (personal/unclear, no context anywhere — flag to confirm what it actually is), Asians w Gusto ERG meeting, Padel Academy.
+
+## NOTES ON RISKS / DECISIONS NEEDED
+1. **Act now:** Ping Jessica for the Middesk wish list before 11 AM — it's the one open gap that's stopped moving.
+2. Diomedes external-attendee question — likely explained by the new Debrief HOLD block, but confirm live.
+3. Quinn call is the last substantive touchpoint before the ~Jul 28 renewal-notice deadline — outcome shapes negotiating posture directly.
+4. Scheduling conflict: Solo+SYB lunch vs. Pipeline Review start — pick one.
+
+**Fail-closed note:** Calendar, Granola, and local memory files all accessible. Gmail search was attempted (to check if the wish list went by email) but access wasn't authorized this session — flagging as unconfirmed, not assumed either way, consistent with every prior pass since last night.

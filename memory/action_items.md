@@ -9,6 +9,8 @@ _Lightweight follow-ups and "needs confirmation" items. Formal commitments track
 
 - [ ] **COM-005 done?** Did Chris Elkins get the mid-desk pre-flight call done before vacation?
 - [ ] **New people detected — Solo + Entity Management weekly XFN standup:** Sean Zhao, Zach Fricke, Daniella Seim, Stephanie Liucossart (likely = Stephanie Liu, Solo PM per partners.md — confirm), Colby Stilwell, Rebecca Ferrell, Tammy Dang, Jeff Cherukara, John Stumpf. Recurring weekly invite, not in people.md. Add to map?
+- [ ] **New people detected — Abhas Bodas** (abhas.bodas@gusto.com): appeared in 3 recent meetings (GPro Firm API Access disc Jul 10, Anthropic pitch sync Jul 7, Project Diomedes Jul 14), not in people.md. Add to map?
+- [ ] **New people detected — Will Tsui** (will.tsui@gusto.com): appeared in 2 recent meetings (Anthropic pitch sync Jul 7, Project Diomedes Jul 14), not in people.md. Add to map?
 
 ---
 
