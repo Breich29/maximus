@@ -23,8 +23,20 @@ Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 **COM-011** — Jessica Sacks → Brandon
 - **What:** Stack-rank Middesk agreement wish list (SLA penalties/invoice credits, order status transparency, escalation protocols) and send churn/attrition stats ahead of the Quinn call
 - **Due:** Before Quinn call, 2026-07-14
-- **Status:** Partially delivered — churn/attrition stats sent via Slack (group DM w/ Chris, Andrew) 2026-07-13 1:10 PM PT. **Actual figures differ from the Granola prep recap:** CX outreach on a Middesk issue = 1.6x churn risk (vs. any tax-issue CX outreach baseline of 1.5x); order "canceled or retired" = 1.4x churn risk (recap said 1.3x); successful completed order = 0.9x churn risk / 10% less likely to churn (matches recap). Stack-ranked wish list still NOT delivered as of 2026-07-14 9:23 AM PT (9th consecutive check, ~20+ hrs) — Jessica's only Slack activity since is a comment on Chris's agreement-summary doc (unrelated). ~1h37m before the 11:00 AM Quinn call — recommend direct nudge now rather than further passive checking. **9:43 AM pass: draft nudge Slack message to Jessica prepared** (see 2026-07-14 meeting-prep note in Obsidian) — DRAFT ONLY, awaiting Brandon's explicit approval to send.
-- **Source:** Granola: Prep for Quinn<>Brandon (Jul 13); Slack group DM C0BD1UZ9SUB (Jul 13, 1:10 PM PT)
+- **Status:** Closed out (partial). Churn/attrition stats delivered via Slack 2026-07-13 1:10 PM PT (figures: CX outreach on a Middesk issue = 1.6x churn risk; order "canceled or retired" = 1.4x churn risk; successful completed order = 0.9x churn risk). **Stack-ranked wish list was never delivered** — 10 consecutive checks, no movement — and the Quinn call happened at 11 AM 2026-07-14 without it. Per Brandon's post-call recap (Slack, 12:48 PM PT), the call went very well regardless — no apparent negative impact from the missing wish list. Downgrading from time-critical; not reopening as urgent. Revisit stack-ranking with Jessica at normal cadence if still wanted for future negotiation rounds.
+- **Source:** Granola: Prep for Quinn<>Brandon (Jul 13); Slack group DM C0BD1UZ9SUB (Jul 13 1:10 PM PT; Jul 14 12:48 PM PT recap)
+
+**COM-015** — Chris Elkins → Lolo (Middesk)
+- **What:** Follow up with Lolo on cadence for kicking off headless API co-build/co-design sessions between Middesk's build team and Gusto's GBC team (parallel-build approach Quinn proposed on the call)
+- **Due:** Unspecified — Brandon's read: "we should kick this off and start pushing when we meet with them next"
+- **Status:** Open — new, raised in Slack same-day recap thread
+- **Source:** Slack group DM C0BD1UZ9SUB (Jul 14, 12:48–1:05 PM PT — Brandon's Quinn recap + Chris's reply)
+
+**COM-016** — Middesk (Quinn) → Gusto
+- **What:** Deliver the headless API by 10/1/2026 (verbal commitment on the call; not yet in writing)
+- **Due:** 2026-10-01
+- **Status:** Open — verbal only. Worth getting in writing given DEC-007's "asks in writing, no build-timeline commitments" posture was about Gusto's side, not Middesk's — but a verbal-only date from a vendor with a history of slipped commitments (see partners.md) is a risk to track, not treat as locked.
+- **Source:** Slack group DM C0BD1UZ9SUB (Jul 14, 12:48 PM PT)
 
 **COM-014** — Chris Elkins → Brandon/Andrew/Jessica
 - **What:** Share all Middesk agreements + agreement summary (including negotiation "gets") in Slack ahead of Quinn call
