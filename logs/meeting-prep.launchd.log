@@ -683,3 +683,16 @@ The night-before pass already built full drafts for today (in the note above); h
 4. Scheduling conflict: Solo+SYB lunch vs. Pipeline Review start — pick one.
 
 **Fail-closed note:** Calendar, Granola, and local memory files all accessible. Gmail search was attempted (to check if the wish list went by email) but access wasn't authorized this session — flagging as unconfirmed, not assumed either way, consistent with every prior pass since last night.
+Meeting prep for today (2026-07-14) was already generated and actively maintained through 8 re-check passes yesterday and this morning — the file at `90-Maximus/meeting-prep/2026-07-14-meeting-prep.md` is current and complete. I re-verified it against a fresh calendar pull, Slack, and Granola rather than regenerating a duplicate.
+
+**Result: no material change since the 8:42 AM pass.**
+
+Key state, unchanged:
+- **Project Diomedes (8:30–10:00 AM)** — M&A diligence on DoubleHQ. Flagged: Ben Stein/Ksong (@doublehq.com, the target company's own people) are on the invite for what's elsewhere described as confidential pre-LOI diligence — a `[HOLD] Debrief Diomedes` block right after suggests this may be intentionally time-boxed, but worth a gut-check in the room. Also: Tomer directly asked Brandon for an M&A thesis on DoubleHQ — a real deliverable despite Brandon's "sideline" framing on this workstream.
+- **Quinn<>Brandon (11:00 AM–12:00 PM)** — Mid-desk renewal call, feeds the ~Jul 28 renewal-notice deadline. Jessica's churn stats are in hand (with corrected numbers vs. the original recap); **her stack-ranked wish list still hasn't landed after 8 consecutive checks (~20 hrs)** — recommend nudging her directly before the call rather than walking in without it.
+- **Roi call (10:30 AM)** — unresolved identity, personal Gmail addresses on both sides, no work context found.
+- **Pipeline Review (12:15 PM)** overlaps the tail of the optional Solo+SYB lunch.
+
+New this pass: Abhas Bodas and Will Tsui have each now cleared the 2+-meeting new-person-detection threshold without a people.md entry — logged to `action_items.md` for confirmation, not auto-added.
+
+Memory write-back done: `action_items.md` and `surfaced_log.md` updated; full detail appended to the Obsidian note. Nothing required a fail-closed stop — all sources (calendar, Granola, Slack, memory files) were reachable.
