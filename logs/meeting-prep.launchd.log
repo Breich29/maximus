@@ -607,3 +607,39 @@ Today's (7/13) calendar is fully wrapped — last event ended 2:30 PM — so thi
 5. "Roi" contact remains unidentified — Gmail access not authorized this session to check.
 
 Fail-closed check: all required sources (Calendar, memory/*.md, Granola, Slack) were reachable. `query_granola_meetings` itself timed out twice (~15 min each) but `list_meetings`/`get_meetings` worked fine as a substitute, so no partial output. Gmail remains unauthorized for this session — flagged rather than assumed.
+The 2026-07-14 meeting-prep note has been updated with a fresh delta pass. Summary for you:
+
+**No material changes** since the 8:59 PM pass. Tomorrow's calendar is still the same 8 events, and the one open gap — Jessica's stack-ranked Middesk wish list (part of COM-011) — still hasn't landed via Slack, now ~9.5 hours after her churn stats and just ~12 hours before the Quinn call.
+
+**One shift in recommendation:** after six consecutive no-change passes tonight, I'd stop waiting on it — ping Jessica directly first thing tomorrow morning rather than hoping it arrives before the 11:00 AM call.
+
+Everything else holds as already written in the note (Diomedes M&A context, the Roi call being an unknown/likely-personal contact, full Quinn/Middesk negotiation prep, and the Solo+SYB lunch / Pipeline Review scheduling conflict). Full brief: `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-14-meeting-prep.md`
+
+OBSIDIAN WRITE: ✅ appended to existing 2026-07-14-meeting-prep.md
+API Error: Connection closed mid-response. The response above may be incomplete.
+**Calendar access failed — stopping per fail-closed rule.**
+
+I attempted to pull today's (2026-07-14) calendar via the Google Calendar MCP (`mcp__claude_ai_Gcal_Gusto__list_events`) twice:
+- 1st attempt: timed out
+- 2nd attempt: no response after 416s, tool aborted
+
+Per the Hard Rules in CLAUDE.md ("If a required MCP source is unavailable: STOP and report — do not assemble partial output") and `agents/calendar.md`'s fail-closed clause, I'm stopping rather than building a meeting-prep brief from memory files alone — that would risk missing meetings, misjudging attendees, or fabricating a schedule.
+
+What I *did* complete before hitting the blocker:
+- Loaded agent specs (`calendar.md`, `action-tracker.md`, `memory.md`)
+- Loaded local memory (`people.md`, `commitments.md`, `decisions.md`, `projects.md`, `partners.md`) — all current as of last recorded updates (2026-05-21 to 2026-07-13)
+
+Separately, I noticed the session start also logged a GitHub SSL/connection failure (`partnerships-ai-code` repo sync) — likely a network-level issue on this host, which may be related to the Calendar MCP timeout too.
+
+**Next step:** want me to retry the calendar call once more, or would you rather check `/mcp` / network connectivity first? I have no way to safely infer today's schedule without it.
+Neither Google Calendar MCP nor Granola MCP tools are available in this session — no matching tools exist beyond WebFetch. Per the fail-closed rule (both in `CLAUDE.md` and `agents/calendar.md`), I need to stop rather than assemble a partial meeting-prep brief without calendar data.
+
+**MEETING PREP: FAILED — required source unavailable**
+
+- **Missing:** Google Calendar MCP (no `list_events`/`get_free_busy` tool found) and Granola MCP (no `query_granola_meetings`/`get_meeting_transcript` tool found)
+- **Why this blocks the task:** Meeting prep requires today's calendar to know which meetings exist at all — there's no fallback source for that, and per `agents/calendar.md`: *"If calendar cannot be accessed: STOP. Report failure. Do not infer meeting schedule."*
+- **What I did load successfully:** `memory/people.md`, `memory/commitments.md`, `memory/decisions.md`, `memory/projects.md`, `memory/partners.md` — all current as of their last-updated dates shown above.
+
+I did not write anything to the Obsidian vault, since there's no meeting data to prep against.
+
+**Next step:** this likely means the Google Calendar and Granola MCP connections aren't active for this session (separately, I noticed the startup hook also failed to reach `github.com` over SSL — possibly a broader connectivity issue on this machine/network). Want me to retry, or do you want to point me at the meetings manually (e.g., paste today's agenda) so I can still produce prep briefs from memory + manual input?
