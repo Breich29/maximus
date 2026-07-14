@@ -48,6 +48,11 @@ Format: DEC-XXX | Summary | Date | Owner | Source
 - **Decided by:** Brandon + Chris Elkins
 - **Source:** Granola: Chris<>Jessica<>Brandon
 
+**DEC-009** — Quinn (Middesk) call (2026-07-14) outcome: Middesk verbally committed to deliver the headless API by 10/1/2026 and proposed co-build/co-design sessions with Gusto's GBC team to build in parallel. On pricing, Quinn proactively said Middesk is "not coming for our margins" and is instead considering a platform-fee model rather than a straight per-registration increase. Renewal negotiation will double as the forcing function to close the Karen alignment gap — Quinn confirmed Karen commits to priorities (e.g. PFMLs) but execution then scrambles, validating prior intel that Karen's buy-in (not just Quinn/Lolo's) is the real unlock.
+- **Date:** 2026-07-14
+- **Decided by:** Quinn (Middesk) + Brandon
+- **Source:** Slack group DM C0BD1UZ9SUB (Jul 14, 12:48 PM PT recap; Chris Elkins reply 1:05 PM PT)
+
 ---
 
 ## Archived
