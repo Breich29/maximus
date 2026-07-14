@@ -15,6 +15,7 @@ _Source: Granola meetings list (Apr 21 – May 21, 2026) + calendar inference_
 | Chris<>Jessica<>Brandon | As-needed (new recurring likely) | Brandon, Chris Elkins, Jessica Sacks | May 21 kickoff — will become regular |
 | Corp & Partner Dev | Weekly (unconfirmed) | Brandon, Ashby Taylor, Allison Hess, Carlos Cabrera, Vivian Shen, others | Was on the 2026-07-14 calendar as of a 3:02 PM PT check on 2026-07-13, then gone by a 3:55 PM PT recheck the same day. Don't treat as confirmed standing cadence until it reappears. |
 | Product Partnerships Pipeline Review | Bi-weekly | Brandon, Kevin Werner, Jason Chao, Henry Schober, Allison Hess, large cross-functional group | Confirmed via calendar 2026-07-14 |
+| [HOLD-if we end early] Debrief Diomedes | Ad-hoc (tied to Diomedes meetings) | Ashby Taylor, Abhas Bodas, Delia He, Bridgette Haymaker, Evin Wick, Will Tsui, Brandon (internal-only, no DoubleHQ attendees) | Spotted on 2026-07-14 calendar, 9:30–10:00 AM — contingency internal debrief slot immediately after/overlapping the main Diomedes block |
 
 ---
 
