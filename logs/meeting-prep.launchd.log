@@ -552,3 +552,16 @@ Google Calendar access (`Gcal_Gusto` MCP) is not available in this session — i
 - Granola (`Granola_Gusto`) — not yet checked, but moot until calendar resolves.
 
 **Next step:** This session is non-interactive, so I can't run the OAuth/connection flow myself. You'll need to check the MCP connection status for Google Calendar (via `/mcp` or claude.ai connector settings) and re-run this once it's connected. I have not assembled any partial meeting-prep output, per the fail-closed rule.
+**OBSIDIAN WRITE:** ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-14-meeting-prep.md`
+
+## Summary — 7:04 PM PT re-check pass
+
+Today's (7/13) calendar is fully complete; this pass re-checked tomorrow's (7/14) brief for changes since the 5:01 PM pass. **No material change.**
+
+**Still standing from earlier passes:**
+- **Quinn<>Brandon (11:00 AM–12:00 PM, 66 Kearny St)** — the critical Mid-desk renewal call. COM-011 (Jessica's stack-ranked wish list) still hasn't landed via Slack — going on ~6 hours outstanding now. Churn stats did land earlier today (use the corrected Slack figures, not the Granola recap).
+- **Project Diomedes (8:30–10:00 AM)** — confidential M&A diligence on DoubleHQ; Ben Stein and Ksong (the target's own people) are still on the invite, unresolved anomaly worth a gut-check before the meeting.
+- **Roi || Brandon Connect (10:30 AM)** — still unidentified, no context anywhere.
+- Gmail remains unauthorized this session, so whether the wish list went by email is still unconfirmed either way.
+
+**Recommendation:** if the wish list hasn't shown up by tomorrow morning, worth a direct nudge to Jessica tonight rather than walking into the Quinn call without it.
