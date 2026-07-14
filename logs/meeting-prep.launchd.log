@@ -523,3 +523,32 @@ Meeting prep for tomorrow (2026-07-14) is up to date — the full brief already 
 **Confirmed gone:** "Corp & Partner Dev" weekly is no longer on tomorrow's calendar — the planned venue for nudging Allison Hess on COM-003 (MSA templates) no longer exists; needs a different touchpoint.
 
 **One gap I couldn't close:** Gmail now shows as connected but the tool call wasn't authorized this session, so I still can't rule out the wish list having gone by email — you'd need to grant that access for me to check automatically next time.
+**OBSIDIAN WRITE:** ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-14-meeting-prep.md`
+
+## Summary
+
+Today's calendar (7/13) is fully complete — nothing left to prep. Tomorrow's (7/14) meeting-prep brief was already built earlier this afternoon (3:02 PM, with re-checks at 3:55 and 4:36 PM). I ran one more re-check just now — no material change.
+
+**Tomorrow's meetings, prepped:**
+- **Project Diomedes** (8:30–10:00 AM) — DoubleHQ M&A. ⚠️ External attendees (Ben Stein, Ksong @doublehq.com) on an otherwise confidential pre-LOI diligence invite — worth a gut-check. Tomer's requested M&A thesis from Brandon is still an open, unstatus'd deliverable.
+- **~~Corp & Partner Dev~~** — dropped off the calendar sometime after 3:02 PM; treat as cancelled.
+- **Roi || Brandon Connect Re: Gusto** (10:30 AM) — unknown personal contact, no context found; flagged for you to clarify.
+- **Quinn<>Brandon** (11:00 AM–12:00 PM) — the Mid-desk renewal call. P0: walk in with Jessica's corrected churn numbers and Chris's agreement summary; push past Quinn to Karen; don't commit to headless-API timeline.
+- **Product Partnerships Pipeline Review** (12:15 PM) — scheduling conflict with the optional Solo+SYB lunch (12:00–12:30).
+
+**Still-open gap:** Jessica's stack-ranked Middesk wish list (COM-011) has *not* landed via Slack as of 5:01 PM — only the churn stats came through. Gmail access still isn't authorized this session, so I can't rule out email delivery. Worth confirming directly with Jessica tonight if you want it in hand before the Quinn call.
+
+**MCP note:** Gmail (`claude.ai Gmail_Gusto`) needs authorization via `/mcp` or claude.ai connector settings before I can check email-based deliveries automatically — I can't do that from here.
+**FAILURE — Cannot complete meeting prep. Stopping per fail-closed rule.**
+
+Google Calendar access (`Gcal_Gusto` MCP) is not available in this session — it's listed as "still connecting" and its tools aren't yet loaded, so I cannot retrieve today's calendar. Per `agents/calendar.md`: *"If calendar cannot be accessed: STOP. Report failure. Do not infer meeting schedule."* and per the top-level rule: *"If a required MCP source is unavailable: STOP and report — do not assemble partial output."*
+
+**What I completed before hitting the blocker:**
+- Loaded `memory/people.md`, `commitments.md`, `decisions.md`, `projects.md`, `partners.md` — all read successfully.
+- Read `agents/calendar.md`, `agents/action-tracker.md`, `agents/memory.md`.
+
+**What's blocking:**
+- `Gcal_Gusto` (Google Calendar) MCP — tools not loaded/connecting. Without this I cannot see today's meeting list, so I cannot build meeting-specific prep briefs.
+- Granola (`Granola_Gusto`) — not yet checked, but moot until calendar resolves.
+
+**Next step:** This session is non-interactive, so I can't run the OAuth/connection flow myself. You'll need to check the MCP connection status for Google Calendar (via `/mcp` or claude.ai connector settings) and re-run this once it's connected. I have not assembled any partial meeting-prep output, per the fail-closed rule.
