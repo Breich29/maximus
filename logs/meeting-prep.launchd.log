@@ -889,3 +889,81 @@ So there's no forward-looking meeting prep to draft right now. What I did this p
 - **DEC-007** — Mid-desk renewal notice window closes **~July 28** — 14 days out, P0 per your priorities.
 
 Since today's calendar is fully wrapped, I can run a night-before pass for tomorrow (7/15) whenever you'd like — just say the word.
+**OBSIDIAN WRITE: ⚠️ Offline — wrote to filesystem** (`/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-15-meeting-prep.md`)
+
+**Note on scope:** it's 4:12 PM PT and today's (7/14) meetings — Diomedes sessions, Quinn<>Middesk call, Solo+SYB lunch, Pipeline Review — have already happened; only Padel Academy (personal) remains. I pivoted this prep to **tomorrow, 7/15**, which has six real work meetings.
+
+## Tomorrow's meetings, in one line each
+- **8:00 SYB Anthropic sync** (Izzy) — support sync on the entity-formation Anthropic pitch track
+- **9:30 Gusto Pro Partnership Strategy** (Jeremy Grasso, Joshua Burt — both new) — ⚠️ overlaps Brandon's own 9–11 AM deep-work block
+- **11:00 AI Market Mapping + Oppty Tracker** (Devesh Verma, Vivian Shen, Joseph Sarni — all new/thin) — no prior history found, go in with clarifying questions
+- **12:30 Intro: Cory Wanamaker** — first-time, no context
+- **1:30 AI Surfaces<>GPro multi-auth MCP** — direct continuation of Jun 9/Jul 1 threads; surfaces a **9+ day overdue** action item (Ben Kagan pre-brief on "Claude for Small Business," which he still hasn't been looped into despite owning the multi-auth decision)
+- **2:30 Project Diomedes/GustoBooks** (Evin Wick, Bridgette Haymaker) — build-vs-buy on DoubleHQ now the explicit frame; Brandon stays sideline per standing guidance, except his own still-open M&A thesis deliverable
+
+Full per-meeting briefs, risks, and decisions-needed are in the note. I also flagged **Taylor Fahey** and **Vivian Shen** in `action_items.md` as new people crossing the 2+-meeting threshold for a people.md add.
+Today's calendar is essentially done for the day — only **Padel Academy** (personal, 5:30–7 PM) remains, and today's two substantive work meetings (Project Diomedes / Debrief Diomedes, Quinn<>Brandon) already happened and are fully captured in `decisions.md`/`commitments.md`/`action_items.md`. So "upcoming meetings" means **tomorrow, 2026-07-15**.
+
+An automated pass already generated this exact prep at 4:12 PM today (`90-Maximus/meeting-prep/2026-07-15-meeting-prep.md`), and it's still fresh (nothing's changed in the last 20 minutes). Rather than duplicate the work, here it is:
+
+**OBSIDIAN WRITE: ✅** `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-15-meeting-prep.md`
+
+---
+
+**Skipped (no business prep needed):** Update FreshBooks Data (admin), Ryan Drop Off, DNS Deep work block, Block, Ryan pickup/Carnival — all personal/admin.
+
+**⚠️ Scheduling conflict:** "DNS - Deep work" (9–11 AM) overlaps **Gusto Pro Partnership Strategy** (9:30–10 AM) — flag to shrink/move the block.
+
+---
+
+### DRAFT MEETING PREP MESSAGES
+
+———
+📅 **SYB Anthropic sync** — 8:00–8:30 AM PT
+*Attendees:* Izzy Rogner-Hall (PM Solo + Entity)
+*Context:* Follow-up on the SYB/entity-formation Anthropic pitch track — narrative locked (Context → Education → Prototype flash; multi-client MCP as differentiator). Izzy's first real touchpoint on it.
+*Push for:* What Izzy needs from Brandon for the entity-formation deck; keep this track distinct from the accountants deck — don't conflate asks.
+*Watch out for:* Two separate Anthropic tracks running in parallel — status bleed risk.
+*Prep:* [SYB deck](https://share-some-html.staging.zp-int.com/gusto-anthropic-entity-formation)
+———
+📅 **Gusto Pro Partnership Strategy** — 9:30–10:00 AM PT
+*Attendees:* Jeremy Grasso, Joshua Burt *(new — no people.md context)*
+*Context:* Follow-up to Jul 7 unified-doc alignment (Entity Solo/GBC/SYB partner strategy).
+*Push for:* Readout on Joshua's channel-section doc fill-in + Corey roadmap meeting; lock the unified doc before it goes to Lauren/Bridget/Corey; confirm multi-auth MCP + firm API access still P0.
+*Watch out for:* Sits inside Brandon's own deep-work block; new attendees not yet in people.md.
+———
+📅 **AI Market Mapping + Oppty Tracker collab** — 11:00–11:30 AM PT
+*Attendees:* Devesh Verma, Vivian Shen, Joseph Sarni *(all new/thin context)*
+*Context:* No prior Granola history — likely first working session. Vivian separately owes nothing but Brandon owes her a review on the "Gusto↔OpenAI Partnership Ideas" doc.
+*Push for:* Nail down concrete scope/deliverable early; close the loop on Vivian's OpenAI doc if convenient.
+*Watch out for:* Three thin-context attendees — confirm roles for people.md.
+———
+📅 **Intro: Cory / Brandon** — 12:30–1:00 PM PT
+*Attendees:* Cory Wanamaker *(unknown — zero context anywhere)*
+*Watch out for:* Going in blind — no calendar description, no Granola history, no people.md entry.
+———
+📅 **AI Surfaces<>Gpro (multi-auth MCP)** — 1:30–2:00 PM PT
+*Attendees:* Xiao Hu, Tara Bird, Ian Smith, Benjamin Kagan, Wouter Massa, Taylor Fahey
+*Context:* Continuation of Jun 9 scoping (multi-company auth stripped in 2023; 4–6wk bare MVP; #5 on H1 AI Interfaces roadmap; Nov 1 GPro 2.0 is the backstop).
+*Push for:* Status on Taylor's technical design + security review since Jul 1; **use this to finally close Brandon's own 9+ day overdue action item** — brief Ben Kagan on "Claude for Small Business" — he's literally in this meeting.
+*Watch out for:* 🔴 Ben Kagan pre-brief now 9+ days overdue, directly blocking both this and the 9:30 AM meeting.
+———
+📅 **Project Diomedes and GustoBooks strategy** — 2:30–3:00 PM PT
+*Attendees:* Evin Wick, Bridgette Haymaker
+*Context:* Direct follow-on to today's Debrief Diomedes — partnership model ruled out, build-vs-buy frame with DoubleHQ as leading buy candidate.
+*Push for:* Nothing to drive — Brandon's on the sideline here (Ashby/Delia lead) — **except** his own still-open M&A thesis deliverable for Tomer, which may come up.
+*Watch out for:* Evin Wick still not in people.md despite 3+ appearances (already flagged).
+———
+
+### NOTES ON RISKS / DECISIONS NEEDED
+
+**Risks:**
+- Ben Kagan pre-brief (9+ days overdue) blocks both the 9:30 AM and 1:30 PM meetings — same underlying issue, no owner action yet.
+- 9 new/thin-context attendees across tomorrow (Jeremy Grasso, Joshua Burt, Cory Wanamaker, Devesh Verma, Vivian Shen, Joseph Sarni, Xiao Hu, Tara Bird, Ian Smith, Wouter Massa).
+- Scheduling conflict: deep-work block vs. 9:30 AM meeting.
+
+**Decisions needed:**
+- Whether to pull forward multi-auth MCP timeline given Anthropic urgency (raised twice tomorrow).
+- Lock the unified Gusto Pro partnership doc before Lauren/Bridget/Corey review.
+
+Everything else (Ken Webster, Eric Harris Loom demo, Mid-desk Jul 28 window, Browserbase DPA decision) remains tracked in `commitments.md`/`action_items.md`, unrelated to tomorrow's specific meetings.
