@@ -565,3 +565,45 @@ Today's (7/13) calendar is fully complete; this pass re-checked tomorrow's (7/14
 - Gmail remains unauthorized this session, so whether the wish list went by email is still unconfirmed either way.
 
 **Recommendation:** if the wish list hasn't shown up by tomorrow morning, worth a direct nudge to Jessica tonight rather than walking into the Quinn call without it.
+**OBSIDIAN WRITE:** ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-14-meeting-prep.md`
+
+Today's (7/13) calendar is fully wrapped — last event ended 2:30 PM — so this is the night-before prep for **tomorrow, 2026-07-14**. A meeting-prep note for tomorrow already existed (generated 3:02 PM today, re-checked 6 times since). I re-verified everything fresh rather than re-running from scratch, and nothing material changed. Full detail is in the note; here's the current state:
+
+## DRAFT MEETING PREP MESSAGE(S)
+
+———
+📅 **Project Diomedes** — 8:30–10:00 AM PT
+*Attendees:* Ashby Taylor (mgr), Bridgette Haymaker (VP, GPro), Delia He (Corp Dev), Abhas Bodas, Dan Loomis, Evin Wick, Will Tsui (no people.md context) + **Ben Stein & Ksong (@doublehq.com, external)**
+
+*Context:* Codename for pre-LOI M&A diligence on **DoubleHQ** (Ben Stein's practice-management tool for accountants) — potential foundation for a Gusto Pro-adjacent play. Ben is an Intuit Platinum Partner, so this needs careful legal handling to avoid disclosure risk.
+
+*Push for:* Status on the M&A thesis Tomer asked Brandon to deliver — that's a live deliverable sitting with Brandon even inside his "sideline" role.
+
+*Watch out for:* Ben Stein/Ksong on the invite for what should be internal-only diligence — confirm intentional, not a calendar error. Keep specifics need-to-know.
+———
+📅 **Roi || Brandon Connect Re: Gusto** — 10:30–10:55 AM PT
+*Attendees:* "Roi" (personal gmail) — no context in people.md or Granola.
+*Push for:* N/A, light touch. *Watch out for:* If this turns out work-relevant, flag it back for tracking. (Gmail search to identify "Roi" wasn't authorized this session.)
+———
+📅 **Quinn<>Brandon** — 11:00 AM–12:00 PM PT, 66 Kearny St
+*Context:* The live Mid-desk renewal call — directly feeds DEC-007 (notice window closes ~Jul 28). Current $35/order; expect ask of $70–105.
+
+*Push for:* Don't commit to headless-API ownership/timeline. Get formal renewal ask **in writing**. Push past Quinn to **Karen** (actual decision-maker). Trade price increase for SLA penalties/order-status transparency.
+
+*Watch out for:* **COM-011's stack-ranked wish list from Jessica still hasn't landed** (churn stats did, 1:10 PM yesterday — use corrected figures: 1.6x/1.4x/0.9x). This gap has held through 4 straight re-checks — worth pinging Jessica tonight rather than walking in short a piece of leverage.
+———
+📅 **Product Partnerships Pipeline Review (bi-weekly)** — 12:15–1:00 PM PT
+*Context:* Standing portfolio review, right after Quinn call — natural readout venue.
+*Watch out for:* Overlaps the optional Solo+SYB lunch (12:00–12:30) — can't fully attend both.
+———
+**Skipped (no prep needed):** Ryan Drop Off, Asians w Gusto General Meeting, Padel Academy — personal/non-business.
+**Confirmed gone:** "Corp & Partner Dev (weekly)" has not reappeared on the 7/14 calendar across 5 checks today — treat as cancelled, not a glitch. The COM-003/Allison live-nudge plan needs a different venue.
+
+## NOTES ON RISKS / DECISIONS NEEDED
+1. Diomedes external-attendee anomaly (Ben Stein/Ksong on internal diligence invite) — confirm before the meeting.
+2. **COM-011 wish list still outstanding** — the one thing that's moved zero inches since 1:10 PM yesterday; recommend a direct nudge to Jessica tonight, not tomorrow morning.
+3. Scheduling conflict: Solo+SYB lunch vs. Pipeline Review start.
+4. Corp & Partner Dev meeting gone — COM-003/Allison touchpoint needs rescheduling elsewhere.
+5. "Roi" contact remains unidentified — Gmail access not authorized this session to check.
+
+Fail-closed check: all required sources (Calendar, memory/*.md, Granola, Slack) were reachable. `query_granola_meetings` itself timed out twice (~15 min each) but `list_meetings`/`get_meetings` worked fine as a substitute, so no partial output. Gmail remains unauthorized for this session — flagged rather than assumed.
