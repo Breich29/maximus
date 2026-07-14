@@ -859,3 +859,14 @@ Two things worth flagging instead:
 Want me to:
 - (a) do a **post-meeting recap** of Diomedes instead of prep, or
 - (b) skip ahead and run **tomorrow's** meeting prep now (night-before per your Brief Schedule preference)?
+**OBSIDIAN WRITE: ✅** `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-14-meeting-prep.md` (appended)
+
+## Status — 3:05 PM PT pass
+
+Nothing to prep. By the time this pass ran, today's calendar (9 events) was already fully worked through by earlier passes — the last full pass was 1:14 PM PT. Everything with business content already happened: Ryan Drop Off, Project Diomedes, Debrief Diomedes, the Roi call, Quinn<>Brandon, the optional Solo+SYB lunch, Pipeline Review, and the Asians ERG meeting. The only thing left today is **Padel Academy** (5:30–7:00 PM) — personal, no attendees, nothing to prep.
+
+**One thing worth flagging:** I tried to check Granola for a Pipeline Review recap (an open gap since 1:14 PM — no transcript had synced yet). This time the tool itself failed — a dropped socket, then a ~454-second timeout — a real outage, not just "nothing there yet." I didn't fabricate a result; that gap stays open and unconfirmed. Worth a retry next pass.
+
+**Nothing new otherwise:** re-checked the Diomedes debrief content via Granola (that query succeeded, before the tool started failing) — it matches what's already fully captured in `action_items.md`, so no new decisions/commitments to log.
+
+Since today is effectively closed out, the next useful run is the night-before pass for 7/15 — say the word if you want me to kick that off now rather than waiting for the scheduled 8 PM run.
