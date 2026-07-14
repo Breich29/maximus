@@ -509,3 +509,17 @@ Fixed — `people.md` is back to a single Quinn entry, correctly duplicate-free.
 4. **Scheduling conflict** — optional Solo+SYB lunch (12:00–12:30) overlaps Pipeline Review (starts 12:15).
 
 I didn't regenerate the full brief since nothing material changed — happy to paste the complete formatted version inline if you want it re-surfaced, or open the file directly at `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-14-meeting-prep.md`.
+Meeting prep for tomorrow (2026-07-14) is up to date — the full brief already existed from two earlier passes today, and this pass confirmed nothing material changed since 3:55 PM. Here's the current state:
+
+**Today (2026-07-13):** All meetings already completed (last ended 2:30 PM) — no action needed.
+
+**Tomorrow (2026-07-14) — key meetings, per** `90-Maximus/meeting-prep/2026-07-14-meeting-prep.md`:
+
+1. **Project Diomedes** (8:30–10:00 AM) — DoubleHQ M&A diligence. Brandon's officially "sideline," but Tomer directly asked him for a formal M&A thesis — a real deliverable, status unknown. ⚠️ Ben Stein and Ksong (DoubleHQ's own team, @doublehq.com) are on the invite for what's otherwise confidential pre-LOI diligence — worth confirming that's intentional.
+2. **Roi Connect call** (10:30–10:55 AM) — unidentified personal contact, no context anywhere; confirm with Brandon what it is.
+3. **Quinn<>Brandon** (11:00 AM–12:00 PM) — the live Mid-desk renewal call. Push: don't commit to headless-API timeline, get asks in writing, escalate past Quinn to Karen. Jessica's corrected churn stats are in hand; **the stack-ranked wish list still hasn't landed** as of this check (4:36 PM PT) — worth a direct nudge to Jessica tonight rather than walking in without it.
+4. **Product Partnerships Pipeline Review** (12:15–1:00 PM) — natural venue to report the Quinn call outcome; ⚠️ overlaps the optional Solo+SYB lunch.
+
+**Confirmed gone:** "Corp & Partner Dev" weekly is no longer on tomorrow's calendar — the planned venue for nudging Allison Hess on COM-003 (MSA templates) no longer exists; needs a different touchpoint.
+
+**One gap I couldn't close:** Gmail now shows as connected but the tool call wasn't authorized this session, so I still can't rule out the wish list having gone by email — you'd need to grant that access for me to check automatically next time.
