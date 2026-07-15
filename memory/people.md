@@ -201,6 +201,10 @@ _Last updated: 2026-07-14_
 | Gabe Cadavillo | gabe.cadavillo@gusto.com | U02RYRH3ZK7 | Recruiter | Not actively relevant |
 | Paige Hawkins | paige.hawkins@gusto.com | U024JUJAACF | ExecOps for Bridgette Haymaker | Admin access for Bridgette |
 | Maggie Maroon | (unknown) | (unknown) | Customer Care / Product Ops — 50/50 split, also runs tax calc team | Resolves the long-open "Identify Maggie" item — Chris called her out as a valuable CX voice for Middesk renewal input; be mindful of her time given the 2-job split (per Jessica, Jul 13 Quinn-prep). Slack ID still needed. |
+| Ian Smith | ian.smith@gusto.com | (unknown) | Head of Engineering, Gusto Pro | Brandon's primary eng partner on the multi-auth MCP build (11/1/26 milestone). Reports to Abhas Bodas. Denver. Reconciled from vault `40-Stakeholders/Ian-Smith.md` (2026-07-15). |
+| Devesh Verma | devesh.verma@gusto.com | (unknown) | Corporate Development | Peer on Ashby Taylor's CorpDev/Product Partnerships team, NYC, started Dec 2025. Reconciled from vault `40-Stakeholders/Devesh-verma.md` (2026-07-15). |
+| Vivian Shen | vivian.shen@gusto.com | (unknown) | Product Partnerships | Peer on Ashby Taylor's team, NYC, since Jul 2021. Also owns a "Gusto↔OpenAI Partnership Ideas" doc thread per action_items.md. Reconciled from vault `40-Stakeholders/Vivian-Shen.md` (2026-07-15). |
+| Joseph Sarni | joseph.sarni@gusto.com | (unknown) | Product Partnerships | Peer on Ashby Taylor's team, since Jul 2021. Reconciled from vault `40-Stakeholders/Joseph-Sarni.md` (2026-07-15). |
 
 ---
 
