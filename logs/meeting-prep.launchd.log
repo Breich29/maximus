@@ -968,3 +968,22 @@ An automated pass already generated this exact prep at 4:12 PM today (`90-Maximu
 
 Everything else (Ken Webster, Eric Harris Loom demo, Mid-desk Jul 28 window, Browserbase DPA decision) remains tracked in `commitments.md`/`action_items.md`, unrelated to tomorrow's specific meetings.
 API Error: Unable to connect to API (ConnectionRefused)
+## Meeting Prep Status — 2026-07-15
+
+**Today (7/14) is done** — all of Brandon's meetings already happened (it's 7:19 PM PT); Padel Academy just wrapped. No prep needed retroactively.
+
+**Tomorrow (7/15)** already has a comprehensive prep note in the vault from a 4:12 PM PT pass this afternoon. I checked it against fresh Granola context rather than regenerating it from scratch, and found one real gap: the **SYB Anthropic sync (8:00 AM)** section didn't reflect the Jul 13 meeting with **Astrid** (Anthropic, owns Claude for Business small-business offering) — a materially relevant update. I patched that section in; everything else in the note held up.
+
+**What changed:**
+> Astrid wants Gusto in the **V2 launch** of the Claude for Business plugin (V2 = day-to-day business ops; V3 later = incorporating/starting a business — the entity-formation angle this meeting covers). Her framing leans **compliance/knowledge enrichment**, which doesn't fully match Brandon's **action/MCP-oriented** pitch — needs reconciling with Izzy before booking the next Astrid touchpoint. Also surfaced: Gusto Start (entity formation) targets H1 2027 alongside the Mozi acquisition; doola is a candidate V3 formation partner with MCP integrations already live elsewhere.
+
+**New commitment detected (not yet formal):** Brandon owes Astrid a follow-up meeting this week with product/small-business stakeholders. Logged to `action_items.md` under Needs Confirmation — not added to `commitments.md` until you confirm a due date.
+
+**Risks/decisions carried over from the existing note** (unchanged, still live):
+- Gusto Pro Partnership Strategy (9:30 AM) overlaps Brandon's own 9–11 AM deep-work block.
+- Ben Kagan's "Claude for Small Business" pre-brief is 9+ days overdue and blocks both the 9:30 AM and 1:30 PM multi-auth MCP conversations.
+- Several tomorrow attendees (Jeremy Grasso, Joshua Burt, Devesh Verma, Vivian Shen, Joseph Sarni, Cory Wanamaker, plus the AI Surfaces<>GPro roster) still aren't in `people.md`.
+
+OBSIDIAN WRITE: ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-15-meeting-prep.md` (patched, not fully rewritten)
+
+Full note (6 meeting briefs + risks/decisions) is in that file if you want the complete read — let me know if you'd like it pasted here in full instead of just the delta.
