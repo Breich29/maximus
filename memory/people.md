@@ -210,9 +210,9 @@ _Last updated: 2026-07-14_
 |---|---|---|---|
 | Shubhankar | (unknown) | Browserbase | Vendor contact, Browser Base agreement (security/commercial) |
 | Cindy | (unknown) | Browserbase | Vendor contact, Browser Base agreement (commercial/legal terms) |
-| Quinn | quinn@middesk.com | Mid-desk | Technical/relationship contact for STR renewal negotiation; per Andrew, tends to agree without being able to unblock feasibility — Karen is the real internal decision-maker |
+| Quinn | quinn@middesk.com | Mid-desk | **Quinn is the ultimate decision-maker on the renewal** (corrected by Brandon Jul 15 — an earlier "per Andrew" inference that Karen held final authority was wrong; do not carry that forward). Primary relationship/negotiation contact. |
 | Lolo | (unknown) | Mid-desk | Ops/delivery contact, works with Chris day-to-day; per Andrew, should not be treated as source of truth on order-blocker questions — doesn't know the underlying system deeply |
-| Karen | (unknown) | Mid-desk | Internal decision-maker Quinn/Lolo answer to; described as "at odds" with them internally. Renewal terms need her explicit buy-in, not just Quinn/Lolo alignment (per Jul 13 prep + Jul 14 Quinn call) |
+| Karen | (unknown) | Mid-desk | Internal execution-side stakeholder, not the decision-maker (see Quinn correction above). Quinn/Lolo described as "at odds" with her internally; Quinn's commitments have scrambled at the execution stage in ways attributed to her, but she does not hold final renewal authority. |
 | Logan | (unknown) | Mid-desk | Actual technical contact on order-status data, per Andrew (Jul 13 prep) — team wants him on working calls to establish ground truth on order blockers, in parallel with renewal negotiation |
 | Anthony | (unknown) | Mid-desk | Actual technical contact, alongside Logan — Chris: "would love to have Anthony involved too" (Jul 13 prep) |
 | Yoav Gur | yoav.gur@hibob.io | HiBob | Prior partnership (no longer active) |
