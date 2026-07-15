@@ -43,7 +43,6 @@ _Lightweight follow-ups and "needs confirmation" items. Formal commitments track
 
 ## Strategic Watch Items
 
-<<<<<<< HEAD
 - [ ] Andrew Adams back-channeling risk — still active. Was on Solo+Entity XFN standup Jun 22. Brandon named by Izzy in Solo R&D Business Review as "consultative support." _(Earlier context: present at the Jun 5 STR meeting where first-party direction was confirmed; Jun 12 Bridgette cancelled the STR Proposal, which briefly raised a question of whether direction was shifting — direction reconfirmed since.)_
 - [ ] **Ken Webster** — reply 15+ days overdue (as of Jun 19). Still open.
 - [ ] **Eric Harris Loom demo** — flagged to watch since Jun 12 weekly review. 10+ days outstanding.
