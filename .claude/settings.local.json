@@ -148,7 +148,8 @@
       "Bash(git -C /Users/brandon.reich/maximus branch --show-current)",
       "Bash(git fetch *)",
       "Bash(echo \"grep exit: $?\")",
-      "Read(//Users/brandon.reich/Documents/Gusto-PartnerDevBR/40-Stakeholders/**)"
+      "Read(//Users/brandon.reich/Documents/Gusto-PartnerDevBR/40-Stakeholders/**)",
+      "Bash(grep -oE '<section[^>]{0,300}' /Users/brandon.reich/.claude/projects/-Users-brandon-reich-maximus/4a003bdb-eb2f-44e6-9598-ff25ce292a5a/tool-results/mcp-claude_ai_Share_some_HTML-download_page-1784137495257.txt)"
     ]
   },
   "hooks": {
