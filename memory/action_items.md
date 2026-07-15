@@ -20,6 +20,7 @@ _Lightweight follow-ups and "needs confirmation" items. Formal commitments track
 
 ## Needs Confirmation
 
+- [ ] **New commitment detected — Brandon → Astrid (Anthropic):** Book a follow-up this week with Astrid (owns Claude for Business small-business offering) + product/small-business stakeholders to align on V2 plugin integration scope. Surfaced via Jul 13 "New note" (Anthropic Meeting Recap) Granola transcript, not yet in commitments.md. Confirm due date and add as formal commitment?
 - [ ] **COM-005 done?** Did Chris Elkins get the mid-desk pre-flight call done before vacation? _(Note: an earlier, differently-scoped COM-005 — Jessica's MidDesk headless-API pre-flight ping — was confirmed done Jun 4. This question concerns the GBC scribing/concierge-model pre-flight per commitments.md's current open COM-005, a separate item.)_
 - [ ] **New people detected — Solo + Entity Management weekly XFN standup:** Sean Zhao, Zach Fricke, Daniella Seim, Stephanie Liucossart (likely = Stephanie Liu, Solo PM per partners.md — confirm), Colby Stilwell, Rebecca Ferrell, Tammy Dang, Jeff Cherukara, John Stumpf. Recurring weekly invite, not in people.md. Add to map?
 - [ ] **New people detected — Abhas Bodas** (abhas.bodas@gusto.com): appeared in 3+ recent meetings (GPro Firm API Access disc Jul 10, Anthropic pitch sync Jul 7, Project Diomedes Jul 8/14), not in people.md. Add to map?

@@ -143,7 +143,11 @@
       "Bash(git -C /Users/brandon.reich/maximus log --follow --format=\"%ai %s\" -- launchd/)",
       "Bash(env)",
       "Bash(grep -oE '.{60}[0-9]+K[^0-9]{0,20}accountant.{60}' \"/Users/brandon.reich/Downloads/Gusto x Anthropic Pitch Deck \\(standalone\\) \\(v38 final\\).html\" -i)",
-      "Bash(grep -oE '.{60}60,000.{60}' \"Gusto x Anthropic Pitch Deck \\(standalone\\) \\(v38 final\\).html\")"
+      "Bash(grep -oE '.{60}60,000.{60}' \"Gusto x Anthropic Pitch Deck \\(standalone\\) \\(v38 final\\).html\")",
+      "Bash(git -C /Users/brandon.reich/maximus log --oneline -5)",
+      "Bash(git -C /Users/brandon.reich/maximus branch --show-current)",
+      "Bash(git fetch *)",
+      "Bash(echo \"grep exit: $?\")"
     ]
   },
   "hooks": {
