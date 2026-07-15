@@ -1,6 +1,9 @@
 #!/bin/bash
 # ${SYSTEM_NAME} — Weekly Memory Sweep
 # Deep scan of Slack DMs, Calendar, and Glean to refresh people.md, projects.md, commitments.md.
+# Also runs a #maximus-updates channel-sync integrity check (see prompts/memory_sweep.txt.tmpl
+# Phase 2B) as a weekly backstop for bin/run_channel_sync.sh, the daily job that does the
+# primary channel sync.
 # Triggered by launchd Friday 6pm local time, or run manually: ./run_memory_sweep.sh
 # Run end-of-week so context from the workday is still fresh.
 

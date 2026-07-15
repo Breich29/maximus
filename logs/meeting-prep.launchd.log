@@ -1016,3 +1016,74 @@ In the Middesk Slack thread (C0BD1UZ9SUB), after your 12:48 PM recap of the Quin
 Both messages are now logged in `partners.md` (Mid-desk) and `action_items.md` (Strategic Watch Items), and the pass is recorded in `surfaced_log.md`.
 
 No other risks or decisions needed tonight — everything else (Diomedes, Quinn call outcome, Pipeline Review) was already captured in earlier passes today.
+It's 11:25 PM — today's (7/14) calendar is fully complete, so this prep covers tomorrow, **2026-07-15** (the standing night-before convention). I checked calendar, Granola, Slack, and all memory files against the existing 7/15 prep note (built incrementally since 4:12 PM today) — no material changes, so I appended a confirmation pass rather than regenerating from scratch.
+
+**OBSIDIAN WRITE:** ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-15-meeting-prep.md`
+
+---
+
+## DRAFT MEETING PREP MESSAGES — 2026-07-15
+
+**Skipped (personal/no prep needed):** FreshBooks update, Ryan Drop Off, DNS deep-work block, "Block", Ryan pickup/Kindness Carnival.
+
+———
+📅 **SYB Anthropic sync** — 8:00–8:30 AM PT
+**Attendees:** Izzy Rogner-Hall (PM – Solo + Entity Management)
+
+**Context:** Narrative arc for the SYB/entity-formation Anthropic pitch is locked. New context: Astrid (Anthropic, owns Claude for Business SMB) wants Gusto in the **V2 launch** — but her interest leans knowledge/compliance, not action/MCP — a framing mismatch to resolve before the next Astrid follow-up.
+
+**Push for:** Confirm what Izzy needs for the deck; reconcile Astrid's framing vs. your action/MCP framing; keep this track distinct from the accountants deck; mention Gusto Start (H1 2027) + doola as a possible V3 formation partner.
+
+**Watch out for:** ⚠️ Ryan Drop Off overlaps the last 15 min of this meeting. Fragmentation risk — confirm who owns the Astrid follow-up.
+
+**Prep:** [entity-formation deck](https://share-some-html.staging.zp-int.com/gusto-anthropic-entity-formation)
+———
+📅 **Gusto Pro Partnership Strategy** — 9:30–10:00 AM PT
+**Attendees:** Jeremy Grasso, Joshua Burt *(both new — not in people.md)*
+
+**Push for:** Readout on Joshua's channel-section doc + FY27 plan, and the Corey roadmap-targets meeting; lock the unified doc before Lauren/Bridget/Corey; confirm multi-auth MCP + firm API access are still P0.
+
+**Watch out for:** ⚠️ Sits inside your own 9–11 AM deep-work block.
+———
+📅 **AI Market Mapping + Oppty Tracker collab** — 11:00–11:30 AM PT
+**Attendees:** Devesh Verma, Vivian Shen, Joseph Sarni *(no prior history)*
+
+**Push for:** No shared history exists — spend the first minutes nailing the concrete deliverable. Close the loop on Vivian's outstanding "Gusto↔OpenAI" doc review if time allows.
+———
+📅 **Intro: Cory / Brandon** — 12:30–1:00 PM PT
+**Attendees:** Cory Wanamaker *(new, no context)*
+
+Standard intro — no prep material exists; learn role/team and overlap with your 5 areas.
+———
+📅 **AI Surfaces<>GPro (multi-auth MCP)** — 1:30–2:00 PM PT
+**Attendees:** Xiao Hu, Tara Bird, Ian Smith, Benjamin Kagan, Wouter Massa, Taylor Fahey
+
+**Context:** Continuation of Jun 9/Jul 1 work — MVP is 4–6 eng-weeks, #5 on H1 AI Interfaces roadmap, Nov 1 GPro 2.0 is the backstop.
+
+**Push for:** Status on Taylor's design + Senthil's security review; whether Anthropic urgency is pulling this forward.
+
+**Watch out for:** 🔴 Your Jun 9 action item to grab 15 min with Ben Kagan on "Claude for Small Business" is now 9+ days overdue — he owns the multi-auth decision and hasn't seen either Anthropic pitch sync.
+———
+📅 **Project Diomedes and GustoBooks strategy** — 2:30–3:00 PM PT
+**Attendees:** Evin Wick, Bridgette Haymaker
+
+**Context:** Today's debrief reached consensus — Double is more than a close tool; partnership ruled out; frame is now build-vs-buy with Double leading; Phase 1 = Double handles data cleaning to accelerate GustoBooks.
+
+**Push for:** Nothing to drive — you're sideline/learning (Ashby + Delia lead). Exception: your own open deliverable, the Tomer-requested M&A thesis on DoubleHQ, still has no completion evidence.
+
+**Watch out for:** Don't treat this as an action-item meeting beyond the M&A thesis.
+———
+
+## NOTES ON RISKS / DECISIONS NEEDED
+
+**Risks:**
+- Two scheduling conflicts: Ryan Drop Off vs. SYB Anthropic sync; deep-work block vs. Gusto Pro Partnership Strategy.
+- Ben Kagan pre-brief 9+ days overdue — hits both the 9:30 AM and 1:30 PM meetings.
+- Several new external/internal attendees with no people.md context yet.
+
+**Decisions needed:**
+- Pull multi-auth MCP timeline forward given Anthropic urgency? Needs Lauren/Bridgette alignment.
+- Lock the Gusto Pro Partnership Strategy doc before it goes to Lauren/Bridget/Corey.
+- Diomedes build-vs-buy: no decision from you expected — just track Abhas's and Delia's workstreams.
+
+Not tied to a specific meeting but still open: Ken Webster reply, Eric Harris Loom demo, Mid-desk Jul 28 renewal window, Browserbase DPA threshold decision.
