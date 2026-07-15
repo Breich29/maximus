@@ -25,6 +25,8 @@ _Lightweight follow-ups and "needs confirmation" items. Formal commitments track
 - [ ] **New people detected — Delia He, Evin Wick, Dan Loomis** (Project Diomedes regulars, Jun 2 / Jun 3 / Jul 14): Delia's identity is resolved (delia.he@gusto.com, Corp Dev, M&A market-scan owner per project_diomedes memory) but not yet added to people.md; Evin Wick and Dan Loomis appear 2+ times each with no people.md entry. Add to map?
 - [ ] **New people detected — Taylor Fahey** (multi-auth MCP meeting Jun 26, Jul 1 security discussion, Jul 15 AI Surfaces<>GPro): appears 3+ times on multi-auth MCP work, not in people.md. Add to map?
 - [ ] **New people detected — Vivian Shen** (OpenAI partnership ideas doc thread, Curative/Solo Health Insurance context per partners.md, Jul 15 AI Market Mapping + Oppty Tracker collab): appears 2+ times, not in people.md. Add to map?
+- [ ] **New commitment detected — Brandon → Jeremy Grasso / Joshua Burt:** Schedule a follow-up for next Tuesday to review the unified Gusto Pro partnership strategy doc before looping in Corey, Lauren, and Bridget. Surfaced via Gusto Pro Partnership Strategy meeting (Jul 15, 9:30–10:00 AM PT), per Granola. Not yet in commitments.md. Confirm and add?
+- [ ] **New commitment detected — Joshua Burt → Brandon:** Fill in the channel section of the Gusto Pro partnership strategy doc (async) + send FY27 new business plan and product-vs-channel partner-definition docs. Surfaced via same Jul 15 9:30 AM meeting. No due date given beyond the Tuesday follow-up above. Confirm and add?
 
 ---
 

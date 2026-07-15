@@ -1319,3 +1319,144 @@ OBSIDIAN WRITE: ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximu
 - No decision expected from Brandon on Diomedes build-vs-buy — sideline role; just track inputs as they land.
 
 Not tied to today's meetings but still open: Mid-desk renewal-notice window (~Jul 28) and the Browserbase DPA-threshold decision — tracked in commitments.md/action_items.md.
+Now delivering the output.
+
+**OBSIDIAN WRITE:** ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-15-meeting-prep.md`
+
+A note: this file was already being maintained by your automated meeting-prep pipeline (15-min launchd job) with 10+ incremental passes through 8:29 AM covering all 6 business meetings today in more depth than I could reconstruct standalone — including two scheduling conflicts, resolved identities for the new attendees, and a correction to a stale Ben Kagan item. Rather than duplicate it, I appended one incremental update with what was genuinely new: **the SYB Anthropic sync (8:00–8:30 AM) has now concluded**, confirming its outcomes rather than the earlier speculative read.
+
+## DRAFT MEETING PREP MESSAGE(S)
+
+———
+:calendar: *SYB Anthropic sync* — 8:00–8:30 AM PT ✅ *concluded*
+*Attendees:* Izzy Rogner-Hall (PM – Gusto Solo + Entity Management)
+
+*Outcome:* Narrative locked (Claude as decision layer / Gusto as system of record, Bloomberg anchor); "Why Gusto" reframed around live MCP infra + DCLP policy angle + 15-yr SMB trust; ask slide reframed as joint-GTM (mirrors accountant deck); S-corp calculator dropped.
+
+*New commitments:* COM-017 (Izzy → Brandon: demo prototype, due 1:00 PM today, sent to Brittany + Ashby) and COM-018 (Brandon → Izzy: revise deck to joint-GTM framing, send accountant deck as reference).
+
+*Still open:* which of three "what Gusto will build" options to lead with (SYB skill in Claude SMB Plugin / MCP Connector / native) — internal-only decision, not yet made. Demo GIF from Izzy/Abhas still outstanding.
+
+*Push for (rest of today):* Send the accountant deck to Izzy now; check on the 1pm demo target before EOD.
+———
+
+The remaining 5 meetings (Gusto Pro Partnership Strategy 9:30, AI Market Mapping 11:00, Cory intro 12:30, AI Surfaces<>GPro 1:30, Diomedes/GustoBooks 2:30) are fully prepped in the vault note linked above — attendee context, open items, push-for, and risks per meeting, including two live scheduling conflicts (Ryan Drop Off vs. SYB sync; deep-work block vs. Gusto Pro Strategy).
+
+## NOTES ON RISKS / DECISIONS NEEDED
+
+- **Diomedes (2:30 PM):** Brandon's role is sideline (Ashby + Delia lead) — the one exception is his own overdue Tomer M&A-thesis deliverable, worth a status check while in the room.
+- **AI Surfaces<>GPro (1:30 PM):** execution-heavy technical sync — stay in convener/LOE-doc lane per DEC-001, not the build decisions themselves.
+- **Gusto Pro Partnership Strategy (9:30 AM):** Jeremy Grasso/Joshua Burt sit in Channel Partnerships (not GPro product-side) — the channel-vs-product-partner ownership question is unresolved and worth pressing.
+- Mid-desk Jul 28 renewal-notice window and Browserbase DPA decision remain the standing P0s but aren't tied to a meeting today — tracked in commitments.md/action_items.md.
+
+Memory updated: `commitments.md` (COM-017, COM-018), `people.md` (Ian Smith, Devesh Verma, Vivian Shen, Joseph Sarni reconciled from vault), `surfaced_log.md`.
+I've updated today's meeting-prep note. Here's the summary:
+
+**OBSIDIAN WRITE: ✅** `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-15-meeting-prep.md`
+
+A meeting-prep note for today already existed — the cloud routine had run it through 10 re-check passes since yesterday afternoon, including live tracking of the SYB Anthropic sync that happened at 8 AM (COM-017/COM-018 now logged). Rather than duplicate that work, I ran a fresh Phase 1–3 pass and found two real updates to fold in:
+
+1. **AI Market Mapping + Oppty Tracker collab (11:00 AM)** — the existing note had marked this "no prior history." A fresh Granola query surfaced real context: it's a direct follow-on to the Jul 2 AI Jam (Brandon, Vivian, Joe, Devesh) that identified uncoordinated AI-partner outreach and no clear ownership below Ashby. Added the proposed framework, Vivian's existing draft AI strategy doc, and specific questions to resolve today (tracker started? Ashby bought in? work divided?).
+2. **Diomedes/GustoBooks (2:30 PM)** — added Double's concrete GL data requirements as a scoping checklist.
+
+One thing I deliberately did **not** add: Granola also surfaced an "Intuit T&Cs review → Brandon + Allison Hess" item tied to Diomedes. I checked `action_items.md` first and found Brandon explicitly told Maximus to remove that exact item on Jul 3 — so per the dismiss-items-never-resurface rule, I left it out and noted why in the file.
+
+Today's remaining meetings (Gusto Pro Partnership Strategy 9:30, Cory intro 12:30, AI Surfaces<>GPro 1:30) were reconfirmed unchanged — no new content to add there.
+
+**Risks / decisions needing Brandon's attention today:**
+- Two scheduling conflicts already flagged (Ryan Drop Off vs. SYB sync; deep-work block vs. Gusto Pro Partnership Strategy).
+- AI Market Mapping has no exec-anointed owner yet — risk of stalling without Ashby's explicit sign-off.
+- Diomedes: Brandon's Tomer M&A-thesis deliverable still has no completion evidence as of the Jul 14 debrief — his one actionable item in an otherwise sideline workstream.
+OBSIDIAN WRITE: ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-15-meeting-prep.md`
+
+## DRAFT MEETING PREP MESSAGE(S)
+
+———
+📅 *SYB Anthropic sync* — 8:00–8:30 AM PT (already happened)
+*Attendees:* Izzy Rogner-Hall
+
+*Context:* Deck narrative locked — Claude as decision layer, Gusto as system of record. Ask slide reframed as joint-GTM (not wishlist); S-corp calculator idea killed as too niche.
+
+*Open items:* Izzy building the demo prototype, due 1:00 PM PT today (COM-017), then sending to Brittany + Ashby. Brandon owes the deck revision + sending the accountant deck to Izzy as reference (COM-018).
+
+*Watch out for:* Ryan Drop Off (8:15–8:30) overlapped the back half of this meeting.
+———
+
+———
+📅 *Gusto Pro Partnership Strategy* — 9:30–10:00 AM PT
+*Attendees:* Jeremy Grasso (Channel Industry Alliances, NYC), Joshua Burt (Head of Industry Partnerships, Denver) — both in Channel Partnerships, a different org from Brandon's usual GPro product contacts
+
+*Context:* First structured sync on role/scope clarity for GPro partnerships (Entity Solo, GBC, SYB). Channel-vs-product ownership is still fuzzy at the product-team level.
+
+*Push for:* Readout on Joshua's doc additions + the Corey roadmap meeting; lock the unified doc before it goes to Lauren/Bridget/Corey; confirm multi-auth MCP + firm API access are still P0 (feeds the 1:30 PM meeting).
+
+*Watch out for:* This sits inside Brandon's 9–11 AM deep-work block — scheduling conflict.
+———
+
+———
+📅 *AI Market Mapping + Oppty Tracker collab* — 11:00–11:30 AM PT
+*Attendees:* Devesh Verma, Vivian Shen, Joseph Sarni
+
+*Context:* Follow-on to the Jul 2 AI Jam — building a company-wide AI partnership tracker + market mapping, no clear owner below Ashby yet.
+
+*Push for:* Confirm whether the tracker's actually started; get Ashby's explicit buy-in on the four-person coordination model rather than treating it as decided; divide market-mapping coverage.
+
+*Watch out for:* Risk of stalling without an exec-anointed owner.
+———
+
+———
+📅 *Intro: Cory / Brandon* — 12:30–1:00 PM PT
+*Attendees:* Cory Wanamaker (GPro PM, Denver, reports to Lauren Snyder)
+
+*Context:* Not a cold intro — Cory reports to Lauren Snyder, who Brandon already works with on GPro.
+
+*Push for:* Learn which slice of GPro Cory owns and whether it touches multi-auth MCP or practice-management partnerships; use this to deepen the Lauren Snyder relationship.
+———
+
+———
+📅 *AI Surfaces<>Gpro (multi-auth MCP)* — 1:30–2:00 PM PT
+*Attendees:* Xiao Hu, Tara Bird, Ian Smith, Benjamin Kagan, Wouter Massa, Taylor Fahey
+
+*Context:* Continuation of Jun 9/Jul 1 discussion. LOE 4–6 wks bare MVP up to 6–24 wks from scratch; #5 on H1 roadmap; Nov 1 GPro 2.0 is the backstop.
+
+*Push for:* Status on Taylor's security review (ProdSec sign-off moved from Carla Sun to Jacob Meredith); status on Wouter's build-path decision; whether the Anthropic deal is accelerating urgency.
+———
+
+———
+📅 *Project Diomedes and GustoBooks strategy* — 2:30–3:00 PM PT
+*Attendees:* Evin Wick, Bridgette Haymaker
+
+*Context:* Jul 14 debrief consensus: Double (DoubleHQ) is deeper than a close tool; partnership ruled out; frame is now build-vs-buy with Double the leading buy target.
+
+*Push for:* Brandon is sideline/learning here (Ashby + Delia lead) — nothing to drive except staying current, **except** the Tomer-requested M&A thesis, which is his to close out if it comes up.
+
+*Watch out for:* ⚠️ Unresolved memory conflict — one record says this thesis was delivered Jun 8 (by Bridgette), another says it's still outstanding and Brandon-owned as of Jul 14. Worth confirming with Brandon directly rather than assuming either is right.
+———
+
+## NOTES ON RISKS / DECISIONS NEEDED
+
+**Risks:** two scheduling conflicts (Ryan Drop Off vs. SYB sync; deep-work block vs. GPro Strategy meeting); several attendees today have thin/no people.md context; the Diomedes M&A-thesis completion-status conflict flagged above.
+
+**Decisions needed:** whether multi-auth MCP timeline pulls forward given Anthropic urgency (raised in both the 9:30 AM and 1:30 PM meetings); lock the GPro partnership strategy doc before Lauren/Bridget/Corey see it.
+
+This is largely a continuation of a file already built up through several re-check passes today — I verified via Slack, calendar, and memory that nothing material changed since the 9:14 AM version, and added one new finding: a conflict in the record about whether Brandon's Diomedes M&A thesis deliverable is done or still open. Worth a quick "which is it" from you before the 2:30 PM meeting.
+**OBSIDIAN WRITE: ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-15-meeting-prep.md`**
+
+Today's prep was already fully built and current (10+ re-check passes through 9:30 AM). I independently re-verified calendar, all memory files, Granola, and Slack — no material changes, just appended a 9:48 AM confirmation pass. Here's the live brief:
+
+## Where things stand right now (9:48 AM PT)
+- **8:00–8:30 AM SYB Anthropic sync** — already happened. Outcomes captured as **COM-017** (Izzy → Brandon: demo prototype, due 1:00 PM today) and **COM-018** (Brandon → Izzy: revise deck to joint-GTM framing).
+- **9:30–10:00 AM Gusto Pro Partnership Strategy** — in progress now.
+- Remaining: **AI Market Mapping** (11:00), **Intro: Cory Wanamaker** (12:30), **AI Surfaces<>GPro / multi-auth MCP** (1:30), **Diomedes/GustoBooks** (2:30).
+- Skipped: FreshBooks admin task, Ryan drop-off, deep-work block, personal carnival events (per preferences.md work+personal scope + P3 suppression of one-off intros getting light treatment).
+
+## ⚠️ Risks
+- **Scheduling conflict:** Gusto Pro Partnership Strategy sat inside Brandon's own 9–11 AM deep-work block.
+- **Unresolved discrepancy:** the Tomer-requested Diomedes M&A thesis shows as both *completed* (Bridgette, Jun 8) and *still outstanding, Brandon-owned* (per Jul 14 debrief tracking) — worth asking Brandon directly, possibly at 2:30 PM.
+- Several new attendees today (Jeremy Grasso, Joshua Burt, Cory Wanamaker, Xiao Hu, Tara Bird, Wouter Massa) still thin/no context in people.md.
+
+## Decisions needed today
+- Whether multi-auth MCP timeline pulls forward given Anthropic urgency (comes up in both the 9:30 and 1:30 meetings) — needs Lauren/Bridgette alignment.
+- Lock the unified Gusto Pro partnership strategy doc before it goes to Lauren/Bridget/Corey.
+
+Full per-meeting drafts (attendees, context, "push for," "watch out for") are in the vault file linked above — it's long (11 re-check passes of detail), so I kept this summary tight. Let me know if you want me to read out any single meeting's card in full before you walk in.
