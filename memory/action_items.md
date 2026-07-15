@@ -59,9 +59,6 @@ _Lightweight follow-ups and "needs confirmation" items. Formal commitments track
 - [ ] **doola (Arjun Mahadevan)** — NDA signed, in-person happened. Arjun wants IRL meetup Jun 26 at 33rd+8th NYC.
 - [ ] **Vivian "Gusto↔OpenAI Partnership Ideas" doc** — Vivian shared and requested Notion access. Review outstanding.
 - [ ] **Wyatt Angell** — added Brandon to Gusto↔Intuit bi-directional data thread. Wyatt OOO Jun 17–26; follow up after.
-=======
-- [ ] Andrew Adams back-channeling risk — **ACTIVE**: Was in Jun 5 STR meeting where first-party direction was confirmed. Back-channeling risk to MidDesk is live. Alex + Jessica are aware. **⚠️ Jun 12**: Bridgette cancelled STR Proposal — direction may be shifting. Jul 8 Diomedes meeting happened; monitor for back-channel implications.
->>>>>>> origin/main
 - [ ] 3,000 CorpNet orders in non-terminal status (~250 days avg age) — cleanup needed. Confirm who owns this (Alex? Namrata?).
 - [ ] MSA template upgrades (COM-003) — pushed to July per Brandon Jun 2. Brandon to loop in Allison Hess.
 - [ ] Legal Link SLA renegotiation / MidDesk — **90-day renewal notice window opens Jul 24 — 15 days out.** No formal renewal strategy started. Browserbase MSA (due Jul 10) is the leverage play — protect terms. 2x+ pricing expected ($70–90/registration). Quinn Evans coffee Jul 14 — use it to push for strategy owner/timeline.
