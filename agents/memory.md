@@ -41,6 +41,22 @@ These are the canonical, durable source of truth. All reads and writes go here F
 - **After any ad-hoc interaction**: Update if user confirms/changes something
 - **After meeting extractions**: When running mid-day memory refresh
 - **Before every interaction**: Load relevant context from memory
+- **Daily, via Channel Sync** (see below): Extract and persist signal from #maximus-updates
+
+## Channel Sync Write-Back (bin/run_channel_sync.sh, daily)
+The cloud-hosted brief/review routines (Daily Morning Brief, Night-Before Prep, Friday Weekly
+Review, Weekly Update Draft, Competitive & Internal Pulse) run server-side against a fresh
+clone of this repo and are read-only against it — their output only ever lands in Slack
+(#maximus-updates) or email. The Channel Sync job is what turns that Slack-only knowledge back
+into durable memory: it reads #maximus-updates since the last synced marker in
+extraction_tracker.md and writes decisions/commitments/partner+project status/people facts into
+the normal files below, exactly like the Post-Brief Write-Back rules above.
+
+**Hard exclusion:** Channel Sync must NEVER read-for-writing or write to memory/action_items.md.
+That file is the exclusive responsibility of the separate cloud "Channel Scanner (Action Items)"
+routine, which scans the same channel and commits + pushes it to origin/main up to 3x/day.
+Writing to it from Channel Sync would race that routine. See prompts/channel_sync.txt.tmpl for
+the full procedure, including the ts-based idempotency cursor.
 
 ## Post-Brief Write-Back (MANDATORY)
 After the briefing agent assembles output, the memory agent:
