@@ -31,7 +31,7 @@ _Lightweight follow-ups and "needs confirmation" items. Formal commitments track
 ## People Resolution
 
 - [ ] Resolve Slack DM channel IDs for Tier 1 people (currently have user IDs but not D-channel IDs for most). Needed for draft message routing.
-- [ ] Identify **Maggie** — mentioned by Chris Elkins as a key CX partner ("Customer care is a powerful partner"). Need full name + Slack ID.
+- [x] **Maggie** — resolved: **Maggie Maroon**, Customer Care/Product Ops (50/50 split, also runs tax calc team). Slack ID still needed. _(Confirmed Jul 13 Quinn-prep, per Jessica/Chris)_
 - [x] **Janae** — resolved: **Janae Monfort** (janae.monfort@gusto.com). Slack ID still needed. _(Confirmed Jun 2)_
 - [ ] Identify **Becky Grant** — Farron's head of ops, tracks Legal Link SLA metrics. Need Slack ID.
 - [ ] Identify **Delia** — **Name resolved: Delia He (delia.he@gusto.com)**, corp dev team. Confirmed Diomedes attendee Jul 8. Slack ID still needed.
