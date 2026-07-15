@@ -200,6 +200,7 @@ _Last updated: 2026-05-21_
 | Lauren Stolzar | lauren.stolzar@gusto.com | U0972TQ6S81 | Embedded Engineering | Cross-functional |
 | Gabe Cadavillo | gabe.cadavillo@gusto.com | U02RYRH3ZK7 | Recruiter | Not actively relevant |
 | Paige Hawkins | paige.hawkins@gusto.com | U024JUJAACF | ExecOps for Bridgette Haymaker | Admin access for Bridgette |
+| Maggie Maroon | (unknown) | (unknown) | Customer Care / Product Ops — 50/50 split, also runs tax calc team | Resolves the long-open "Identify Maggie" item — Chris called her out as a valuable CX voice for Middesk renewal input; be mindful of her time given the 2-job split (per Jessica, Jul 13 Quinn-prep). Slack ID still needed. |
 
 ---
 
@@ -210,6 +211,10 @@ _Last updated: 2026-05-21_
 | Shubhankar | (unknown) | Browserbase | Vendor contact, Browser Base agreement (security/commercial) |
 | Cindy | (unknown) | Browserbase | Vendor contact, Browser Base agreement (commercial/legal terms) |
 | Quinn | quinn@middesk.com | Mid-desk | Technical/relationship contact for STR renewal negotiation; per Andrew, tends to agree without being able to unblock feasibility — Karen is the real internal decision-maker |
+| Lolo | (unknown) | Mid-desk | Ops/delivery contact, works with Chris day-to-day; per Andrew, should not be treated as source of truth on order-blocker questions — doesn't know the underlying system deeply |
+| Karen | (unknown) | Mid-desk | Internal decision-maker Quinn/Lolo answer to; described as "at odds" with them internally. Renewal terms need her explicit buy-in, not just Quinn/Lolo alignment (per Jul 13 prep + Jul 14 Quinn call) |
+| Logan | (unknown) | Mid-desk | Actual technical contact on order-status data, per Andrew (Jul 13 prep) — team wants him on working calls to establish ground truth on order blockers, in parallel with renewal negotiation |
+| Anthony | (unknown) | Mid-desk | Actual technical contact, alongside Logan — Chris: "would love to have Anthony involved too" (Jul 13 prep) |
 | Yoav Gur | yoav.gur@hibob.io | HiBob | Prior partnership (no longer active) |
 | Libby Corvin | libby.corvin@hibob.io | HiBob | Prior partnership (no longer active) |
 | Matt Cooper | mattc@bqe.com | BQE | Prior partnership (no longer active) |
