@@ -10,7 +10,7 @@ _Last updated: 2026-07-14_
 - **Area:** GBC – State Tax Registration (STR)
 - **Status:** Active — critical dependency
 - **Relationship owner (day-to-day):** Chris Elkins
-- **Brandon's role:** Strategy, contract renewal
+- **Brandon's role:** Strategy, contract renewal — **Brandon drives and owns the renewal strategy and negotiating position outright** (confirmed by Brandon Jul 15). Chris (day-to-day relationship + execution), Jessica (product/tax input, churn data), and Andrew (GBC/first-party input) are inputs into Brandon's strategy, not co-owners of it — do not frame their contributions as shared strategic ownership in briefs or docs. Consistent with the general partner-lifecycle handoff rule already in Chris's stakeholder note: Brandon owns pre-contract and renewal/termination; Chris owns post-launch steady state.
 - **Current pricing:** $35/registration, ~82% margin to Gusto. Renewal ask expected at $70 (2x) or $105 (3x) — team comfortable accepting ~$70; $105 warrants negotiation. Andrew's read: they'll be "thrilled" at $50.
 - **Contract:** November 2026 renewal. **Renewal notice window closes ~July 28, 2026** (90-day notice, confirmed — was previously an estimate).
 - **Key risks:**

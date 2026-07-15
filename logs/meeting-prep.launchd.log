@@ -1104,3 +1104,24 @@ No meetings remain on today's (7/14) calendar — everything's already past. Sin
 **Decisions needed:** whether to pull multi-auth MCP timeline forward given Anthropic urgency; lock the Gusto Pro Partnership Strategy doc before it goes wider.
 
 Full drafts with attendee context, open items, and push-for notes are in the Obsidian note — nothing new to add there this pass.
+The Obsidian file is corrected and updated. Now presenting the final output to Brandon.
+
+**OBSIDIAN WRITE: ✅ /Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-15-meeting-prep.md**
+
+## Summary — Meeting Prep for 2026-07-15
+
+A prep file for today already existed from last night's automated pass (verified fresh as of 11:44 PM). I re-ran full Phase 1–3 independently, confirmed no material change, and found one correction worth flagging directly:
+
+⚠️ **Found and fixed a dismissed-item resurfacing bug.** Last night's draft flagged "Ben Kagan pre-brief" as a 🔴 top risk for the 1:30 PM meeting — but you explicitly told Maximus on Jul 13 to "Remove Ben Kagan and Eric Harris action items." It got pulled back in from raw Granola meeting recall without checking the dismissal record. I removed it from the draft and cleaned up two related stale duplicate entries (Ken Webster — already confirmed done Jul 3; Eric Harris Loom demo — already removed Jul 13) from `commitments.md` and `action_items.md` so this class of bug doesn't recur.
+
+**6 business meetings today**, all detailed in the file with attendee context, open items, pushes, and risks:
+1. **8:00 AM — SYB Anthropic sync** (Izzy) — entity-formation talk track still open (V3 for Anthropic's Astrid; doola is the most-developed formation angle). ⚠️ overlaps Ryan Drop Off.
+2. **9:30 AM — Gusto Pro Partnership Strategy** (Jeremy Grasso, Joshua Burt — both new) — follow-up on unified doc; check Corey roadmap readout. ⚠️ sits inside your deep-work block.
+3. **11:00 AM — AI Market Mapping + Oppty Tracker** (Devesh, Vivian Shen, Joseph Sarni — all new) — Notion tracker follow-up from the Jul 2 AI Jam.
+4. **12:30 PM — Intro: Cory / Brandon** — first-time, no context.
+5. **1:30 PM — AI Surfaces<>GPro multi-auth MCP** — status check on Taylor's technical design + Nov 1 GPro 2.0 backstop.
+6. **2:30 PM — Project Diomedes / GustoBooks** (Bridgette, Evin Wick) — you're sideline on the buy-vs-build call, but your own Tomer M&A-thesis deliverable is still outstanding — worth raising for yourself.
+
+**Two scheduling conflicts** flagged (Ryan Drop Off vs. SYB sync; deep-work block vs. Gusto Pro Partnership Strategy) — worth deciding whether to shift anything before 8 AM.
+
+No outbound messages were sent — everything above is draft-only in the Obsidian file for your review.
