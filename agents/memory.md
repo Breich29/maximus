@@ -75,6 +75,23 @@ After the briefing agent assembles output, the memory agent:
 ### Hot — memory/*.md files (milliseconds)
 Structured, current state. Use for all standard brief operations.
 
+### Reference — Obsidian vault (topic-specific notes)
+Vault root: `${OBSIDIAN_VAULT_PATH}` (from config/maximus.env). Check this whenever a specific
+partner, product, project, deal, or stakeholder is under discussion — the vault often holds
+richer, human-curated detail than memory/*.md carries (contract section numbers, doc/Drive
+links, exact term dates). memory/*.md remains the canonical source of truth for facts used in
+briefs and decisions, but treat the vault as a required cross-check, not optional color, before
+asserting something is fully covered:
+- `10-Partners/[Name].md` — partner relationship detail
+- `20-Products/[Name].md` — product context
+- `30-Projects/[Name].md` / `30-Deals/[Name].md` — active initiatives and M&A/deal exploration
+- `40-Stakeholders/[Name].md` — individual stakeholder notes
+Use `obsidian_connector.read_note()` / `list_notes()` (falls back gracefully if Obsidian isn't
+running — treat an unreachable vault as "no additional context found," not a blocker). If the
+vault has newer or more detailed information than memory/*.md on the same fact, reconcile both:
+update memory/*.md to match, and don't silently prefer one source over the other without noting
+the discrepancy.
+
 ### Warm — Glean Search (seconds)
 Use `mcp__claude_ai_Glean__search` for semantic search across all indexed docs, Slack, email.
 Use `mcp__claude_ai_Glean__gmail_search` for email-specific queries.
