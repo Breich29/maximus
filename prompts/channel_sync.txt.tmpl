@@ -141,10 +141,36 @@ If nothing new: "All clean. No new signal since last sync."
 Step 13: Run memory-validator checks (cross-reference integrity, duplicate people entries,
    enum/status consistency, orphan IDs) per agents/memory-validator.md.
 
-Step 14: WRITE TO OBSIDIAN VAULT
+Step 14: WRITE TO OBSIDIAN VAULT — this is Brandon's primary review surface for this job, so it
+   must be detailed enough to amend from without opening the raw memory files. Do NOT reuse the
+   terse Step 12 summary as the body — build a fuller report from the Step 9 changelog:
+
    Build a markdown note with:
      - Frontmatter: date: [YYYY-MM-DD], type: channel-sync, source: maximus
-     - Body: the full sync summary from Step 12 + validator results from Step 13
+     - Body:
+       ## Channel Sync — [Date]
+       Window synced: [previous last_ts date/time] → [now]
+       Messages/threads processed: [N]
+
+       ### Changes written
+       For EACH item written in Step 9, one block:
+       **[file.md — DEC-XXX / COM-XXX / partner or project name / person name]**
+       - Trigger: "[short quote of the actual Slack message]" — [author], [timestamp]
+       - Before: [prior text, verbatim — omit this line entirely for new entries, don't write "n/a"]
+       - After: [exact new/amended text as written to the file]
+       (If nothing was written this run: "No changes — all clean since last sync.")
+
+       ### Skipped as already-reflected
+       - [item] — already covered by [existing DEC-XXX/COM-XXX/entry], no write needed
+       (Omit this section if nothing was skipped.)
+
+       ### Validator results (Step 13)
+       [cross-reference integrity / duplicate people / enum consistency / orphan ID findings]
+
+       ### How to amend
+       If anything above is wrong, tell Brandon (chat) or a future session what to fix and cite
+       the file + entry — this note is a read-only report, not a synced source; editing it here
+       does not change memory/*.md.
    Write to: 90-Maximus/memory-sync/[YYYY-MM-DD]-channel-sync.md
    Use obsidian_connector.write_note() if Obsidian is running; otherwise write directly to:
      /Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/memory-sync/[YYYY-MM-DD]-channel-sync.md
