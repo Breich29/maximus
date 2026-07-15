@@ -46,6 +46,22 @@ Step 5: GLEAN SCAN (optional — run if time permits)
   - For each project: search "[project name] team" via Glean
   Extract: names of people associated with each project.
 
+=== PHASE 2B: #maximus-updates CHANNEL-SYNC INTEGRITY CHECK ===
+
+This is a weekly backstop, not a duplicate of the daily channel-sync job
+(bin/run_channel_sync.sh / prompts/channel_sync.txt.tmpl), which is the primary mechanism for
+filing cloud-routine knowledge (posted to #maximus-updates) into decisions.md, commitments.md,
+partners.md, projects.md, and people.md. This phase exists purely to catch the case where that
+daily job failed or was skipped for part of the week, since this weekly sweep is the only other
+scheduled touchpoint on the same memory files.
+
+Step 5b: Read the "Slack #maximus-updates channel (channel-sync)" row in
+  memory/extraction_tracker.md. If its Last Scanned timestamp is more than 36 hours old (i.e.
+  the daily channel-sync job missed one or more runs this week), run the exact procedure in
+  prompts/channel_sync.txt.tmpl Steps 4-14 inline as a catch-up pass, using the same last_ts
+  cursor and the same rule: NEVER write to memory/action_items.md. If the timestamp is fresh
+  (<=36 hours old), skip this phase — the daily job is keeping up and there is nothing to do.
+
 === PHASE 3: CROSS-REFERENCE AND DIFF ===
 
 Step 6: PEOPLE DIFF
