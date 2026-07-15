@@ -40,7 +40,7 @@ if ! "${SCRIPT_DIR}/scripts/validate_memory.sh" >> "${LOG_DIR}/memory-sweep.log"
 fi
 
 envsubst < "${SCRIPT_DIR}/prompts/memory_sweep.txt.tmpl" | claude -p \
-  --allowedTools "mcp__claude_ai_Gcal_Gusto__list_events,mcp__claude_ai_Glean__search,mcp__claude_ai_Glean__meeting_lookup,mcp__claude_ai_Glean__employee_search,mcp__claude_ai_Slack_Gusto_Offical__slack_read_channel,mcp__claude_ai_Slack_Gusto_Offical__slack_search_public_and_private,mcp__claude_ai_Slack_Gusto_Offical__slack_search_users,mcp__claude_ai_Slack_Gusto_Offical__slack_read_user_profile,Read,Write,Edit,Glob,Bash"
+  --allowedTools "mcp__claude_ai_Gcal_Gusto__list_events,mcp__claude_ai_Glean__search,mcp__claude_ai_Glean__meeting_lookup,mcp__claude_ai_Glean__employee_search,mcp__claude_ai_Slack_Gusto_Offical__slack_read_channel,mcp__claude_ai_Slack_Gusto_Offical__slack_read_thread,mcp__claude_ai_Slack_Gusto_Offical__slack_search_public_and_private,mcp__claude_ai_Slack_Gusto_Offical__slack_search_users,mcp__claude_ai_Slack_Gusto_Offical__slack_read_user_profile,mcp__claude_ai_Granola_Gusto__query_granola_meetings,mcp__claude_ai_Granola_Gusto__get_meeting_transcript,Read,Write,Edit,Glob,Bash"
 
 if ! "${SCRIPT_DIR}/scripts/validate_memory.sh" >> "${LOG_DIR}/memory-sweep.log" 2>> "${LOG_DIR}/memory-sweep.error.log"; then
   echo "$(date): POST-CHECK FAILED — memory validation failed after sweep." >> "${LOG_DIR}/memory-sweep.error.log"
