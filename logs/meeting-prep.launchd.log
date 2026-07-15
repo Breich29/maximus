@@ -987,3 +987,13 @@ API Error: Unable to connect to API (ConnectionRefused)
 OBSIDIAN WRITE: ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-15-meeting-prep.md` (patched, not fully rewritten)
 
 Full note (6 meeting briefs + risks/decisions) is in that file if you want the complete read — let me know if you'd like it pasted here in full instead of just the delta.
+**OBSIDIAN WRITE: ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-15-meeting-prep.md`**
+
+Today's (7/14) meetings are all complete — no same-day prep was needed. Tomorrow's (7/15) prep note already existed from earlier passes and was thorough (SYB Anthropic sync, Gusto Pro Partnership Strategy, AI Market Mapping, Cory intro, AI Surfaces↔GPro multi-auth, Diomedes/GustoBooks strategy), so I re-verified it against calendar/Granola/memory rather than duplicating it.
+
+**What's new this pass:**
+- ⚠️ **Scheduling conflict** — Ryan Drop Off (8:15–8:30 AM) overlaps SYB Anthropic sync (8:00–8:30 AM), not previously flagged. Added to the note.
+- Granola timed out on a fresh SYB Anthropic sync query — treated as a tool outage (not "no notes"), since the 7:19 PM pass already had the relevant Astrid V2/V3 context from a working query, so I preserved it rather than re-fetching.
+- Everything else — Ben Kagan pre-brief still 9+ days overdue, DNS deep-work/Gusto Pro Partnership Strategy conflict, new-people flags — unchanged and confirmed still accurate.
+
+**Not otherwise duplicated:** Mid-desk Jul 28 renewal window, Browserbase DPA decision, Ken Webster/Eric Harris stale items remain open per commitments.md/action_items.md.
