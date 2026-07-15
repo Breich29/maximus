@@ -38,6 +38,15 @@ _Last updated: 2026-05-21_
 - 8 unrecognized attendees flagged on Solo+EM standup (needs confirmation)
 - Andrew Adams back-channel risk flagged (present in 2 of today's meetings)
 
+---
+
+## 2026-07-15 — Meeting Prep (on-demand)
+
+**Type:** Meeting prep brief (today's calendar, 6 business meetings)
+**Meetings covered:** SYB Anthropic sync (8:00, concluded), Gusto Pro Partnership Strategy (9:30), AI Market Mapping + Oppty Tracker collab (11:00), Intro: Cory/Brandon (12:30), AI Surfaces<>GPro multi-auth MCP (13:30), Project Diomedes and GustoBooks strategy (14:30)
+**Items presented:** Confirmed SYB Anthropic sync outcomes post-meeting (new COM-017, COM-018); surfaced the still-open "which build option to lead with" decision on the SYB Anthropic deck; reconciled Ian Smith/Devesh Verma/Vivian Shen/Joseph Sarni into people.md from existing vault stakeholder notes; deferred to the already-current automated meeting-prep note (`90-Maximus/meeting-prep/2026-07-15-meeting-prep.md`) for the other 5 meetings rather than duplicating.
+**Note:** P0 items (Mid-desk Jul 28 renewal window, Browserbase DPA decision) not tied to today's specific meetings — tracked separately in commitments.md/action_items.md, not re-surfaced here.
+
 **2:23 PM PT refresh:** Gusto <> Browserbase call (in progress) synced to Granola with new specifics — $18K/year contract economics, DPA $60K+ threshold decision pending with counsel, red lines sent to Cindy (COM-012 new), Browserbase's DPA awaited (COM-013 new), close goal slipped to end of July. Written back to partners.md, commitments.md, action_items.md.
 
 **2:44 PM PT refresh:** No meetings remain on today's calendar (Browserbase ended 2:30 PM). Browserbase final Granola note confirms 2:23 PM capture — no changes. New item surfaced: the "Quinn call" that COM-011 and partners.md's Mid-desk section are keyed to (due 2026-07-14) does not appear on Brandon's calendar for today or tomorrow — flagged to action_items.md for confirmation. Previewed tomorrow's calendar (Diomedes, Corp & Partner Dev weekly, Roi connect call, Pipeline Review) — not yet formally prepped, deferred to tomorrow's brief.
