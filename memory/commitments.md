@@ -100,5 +100,4 @@ Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 
 ## Overdue / Watch
 
-- **Ken Webster reply** — 15+ days stale as of Jun 19. Still open.
-- **Eric Harris Loom demo** — flagged to watch, 10+ days outstanding.
+_(None — Ken Webster reply confirmed done Jul 3; Eric Harris Loom demo removed per Brandon's Jul 13 instruction. See action_items.md → Completed.)_
