@@ -8,6 +8,18 @@ Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 
 ## Open
 
+**COM-017** — Izzy Rogner-Hall → Brandon
+- **What:** Build the SYB Anthropic pitch demo prototype; send to Brittany Halldorson and Ashby Taylor for review
+- **Due:** 2026-07-15, 1:00 PM PT (same day as sync)
+- **Status:** Open
+- **Source:** Granola: SYB Anthropic sync (Jul 15, 8:00 AM)
+
+**COM-018** — Brandon → Izzy Rogner-Hall
+- **What:** Revise SYB Anthropic deck to joint-GTM ask framing (mirroring the accountant deck); send the accountant deck to Izzy as reference
+- **Due:** Unspecified — same-day per meeting momentum
+- **Status:** Open
+- **Source:** Granola: SYB Anthropic sync (Jul 15, 8:00 AM)
+
 **COM-012** — Brandon → Cindy (Browserbase)
 - **What:** Send red lines on the Browserbase agreement: no auto-renew (explicit opt-in only), indemnity language, no marketing use of Gusto name/logo without written consent, 48-hour breach notice, data minimization confirmed configurable, exclude user contributions from content license grant
 - **Due:** 2026-07-13 (same day as call)
