@@ -1,6 +1,6 @@
 # Action Items
 
-_Last updated: 2026-07-15 (AI Surfaces<>GPro 1:30 PM outcome added — new commitments surfaced)_
+_Last updated: 2026-07-16 (new-person flags for 7/17 calendar: Mal Arun, Lars Wensel, Corp & Partner Dev weekly gaps)_
 _Lightweight follow-ups and "needs confirmation" items. Formal commitments tracked in commitments.md._
 
 ---
