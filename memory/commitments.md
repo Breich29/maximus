@@ -16,9 +16,9 @@ Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 
 **COM-018** — Brandon → Izzy Rogner-Hall
 - **What:** Revise SYB Anthropic deck to joint-GTM ask framing (mirroring the accountant deck); send the accountant deck to Izzy as reference
-- **Due:** Unspecified — same-day per meeting momentum
-- **Status:** Open
-- **Source:** Granola: SYB Anthropic sync (Jul 15, 8:00 AM)
+- **Due:** Before Monday 2026-07-20 call with Lena (Anthropic) — updated from "same-day" after the 2026-07-16 "final changes" session (DEC-010) locked in the specific edits still to implement
+- **Status:** Open — decisions locked in (DEC-010: Slide 5 → "Why Partner Together" reframe, Slide 6 asks additions), but Brandon still needs to (1) actually update slides 5 & 6 in the Claude Design file, (2) confirm the "1 in 5 new businesses" stat source before it's used live, (3) share the updated deck ahead of Monday's call
+- **Source:** Granola: SYB Anthropic sync (Jul 15, 8:00 AM); "Make final changes to Anthropic materials: SYB" (Jul 16, 2:30 PM)
 
 **COM-012** — Brandon → Cindy (Browserbase)
 - **What:** Send red lines on the Browserbase agreement: no auto-renew (explicit opt-in only), indemnity language, no marketing use of Gusto name/logo without written consent, 48-hour breach notice, data minimization confirmed configurable, exclude user contributions from content license grant
