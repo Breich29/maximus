@@ -205,6 +205,7 @@ _Last updated: 2026-07-14_
 | Devesh Verma | devesh.verma@gusto.com | (unknown) | Corporate Development | Peer on Ashby Taylor's CorpDev/Product Partnerships team, NYC, started Dec 2025. Reconciled from vault `40-Stakeholders/Devesh-verma.md` (2026-07-15). |
 | Vivian Shen | vivian.shen@gusto.com | (unknown) | Product Partnerships | Peer on Ashby Taylor's team, NYC, since Jul 2021. Also owns a "Gusto↔OpenAI Partnership Ideas" doc thread per action_items.md. Reconciled from vault `40-Stakeholders/Vivian-Shen.md` (2026-07-15). |
 | Joseph Sarni | joseph.sarni@gusto.com | (unknown) | Product Partnerships | Peer on Ashby Taylor's team, since Jul 2021. Reconciled from vault `40-Stakeholders/Joseph-Sarni.md` (2026-07-15). |
+| Brian Busch | brian.busch@gusto.com | U0266P707RU | Business Development, Partner Growth (Gusto Embedded Marketing) — reports to Tom Byun | Identified 2026-07-16 via Glean employee search + content match in the recurring "Brian / Brandon weekly" notes doc (marketing/partner-enablement topics: Jasper, banking GTM, PSM process — all Brian Busch's Partner Growth/Marketing domain from Brandon's pre-May-2026 GEP role). Notes doc last updated Jan 9, 2026 — the weekly appears vestigial since Brandon's move to Corp Dev; recommend declining/removing rather than just rescheduling. Also a Growth Team Meeting (Bi-weekly) attendee. |
 
 ---
 
