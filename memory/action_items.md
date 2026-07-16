@@ -27,6 +27,8 @@ _Lightweight follow-ups and "needs confirmation" items. Formal commitments track
 - [ ] **New people detected — Vivian Shen** (OpenAI partnership ideas doc thread, Curative/Solo Health Insurance context per partners.md, Jul 15 AI Market Mapping + Oppty Tracker collab): appears 2+ times, not in people.md. Add to map?
 - [ ] **New commitment detected — Brandon → Jeremy Grasso / Joshua Burt:** Schedule a follow-up for next Tuesday to review the unified Gusto Pro partnership strategy doc before looping in Corey, Lauren, and Bridget. Surfaced via Gusto Pro Partnership Strategy meeting (Jul 15, 9:30–10:00 AM PT), per Granola. Not yet in commitments.md. Confirm and add?
 - [ ] **New commitment detected — Joshua Burt → Brandon:** Fill in the channel section of the Gusto Pro partnership strategy doc (async) + send FY27 new business plan and product-vs-channel partner-definition docs. Surfaced via same Jul 15 9:30 AM meeting. No due date given beyond the Tuesday follow-up above. Confirm and add?
+- [ ] **New commitment detected — Brandon → Ben Kagan/Taylor Fahey/Senthil's team:** Schedule a multi-company-auth security sign-off sync (targeting Friday or early next week). Surfaced via Jul 15 1:30 PM "AI Surfaces<>GPro" meeting (Granola). Not yet in commitments.md. Confirm and add?
+- [ ] **New commitment detected — Brandon (self):** Send a recap of the Jul 15 1:30 PM AI Surfaces<>GPro meeting; fast-follow with Bridgette Haymaker + Ian Smith once the POC LOE signal (Wouter/Tara's steel-thread build, regroup week of Jul 13) is in. Surfaced same meeting. Confirm and add?
 
 ---
 
