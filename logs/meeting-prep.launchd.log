@@ -2489,3 +2489,175 @@ Per the CLAUDE.md hard rule — *"If a required MCP source is unavailable: STOP 
 **Next steps — pick one:**
 1. Authorize Granola via the link above, then say "retry" and I'll finish the full prep with meeting history.
 2. Say "proceed without Granola" and I'll explicitly note the degraded prep (no meeting-history enrichment) rather than silently omitting it — but per the hard rule I won't do this unless you tell me to override.
+**OBSIDIAN WRITE:** ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-16-meeting-prep.md` (appended afternoon refresh)
+
+**Source note:** Google Calendar and Granola tools aren't named/exposed in this session — I used Glean's calendar+transcript lookup as the documented Warm-layer equivalent (per `agents/calendar.md`/`agents/memory.md`). Granola itself never connected this run, so meeting-history enrichment beyond what's already in memory is unverified.
+
+---
+
+## DRAFT MEETING PREP — remaining today (it's 12:58 PM PT)
+
+———
+:calendar: **CONFLICT — Brian / Brandon weekly** vs **Brandon / Avery 1:1** — both 1:00–1:30 PM PT
+
+*Resolved this run:* "Brian" = **Brian Busch** (Business Development/Partner Growth, reports to Tom Byun) — not previously in people.md, now added.
+
+*Context:* The Brian/Brandon weekly's notes doc hasn't been touched since **Jan 9, 2026** and covers topics from Brandon's old GEP Partner Growth role (Jasper/marketing content, banking GTM, PSM process) — not his current Corp Dev scope. This looks vestigial, not just movable.
+
+*Push for:* Take the Avery 1:1 — she's a current, high-touch cross-functional collaborator (per this morning's brief, last live topic was the GPro Firm API access blocker). Decline or archive the Brian Busch weekly rather than reshuffling it again.
+
+*Watch out for:* Confirm with me before declining — a stale doc doesn't prove the meeting is dead, just under-documented.
+———
+:calendar: **Make final changes to Anthropic materials: SYB** — 2:30–3:00 PM PT
+
+No new information since this morning's brief — that section is still current: slides 05/06/07/08 punch list from the Jul 15 sync, COM-017 (Izzy → Brandon, demo prototype) and COM-018 (Brandon → Izzy, deck revision) both now ~1 day overdue and this session is the forcing function for both.
+———
+
+## Risks / Decisions Needed
+1. Double-booking at 1 PM is still unresolved as of 12:58 PM — needs a call before it starts.
+2. Recommend declining the Brian Busch weekly going forward rather than continuing to reshuffle it — confirm with you first.
+3. SYB Anthropic deck: verify slides 05/06/07/08 are actually closed before treating today's session as final.
+
+Let me know if you want me to draft the Slack decline for the Brian Busch weekly or a Slack heads-up to whichever of Brian/Avery gets bumped — nothing sent without your OK.
+**STOP — required source unavailable.**
+
+Per the fail-closed rule, I can't assemble the meeting prep because Granola (a required Phase 1 source for meeting history) is not authorized:
+
+**Failure details:**
+- **Source:** Granola_Gusto MCP (`list_meetings` / `query_granola_meetings`)
+- **Error:** OAuth authorization required
+- **Authorize:** https://gusto.runlayer.com/servers/4d76a9a6-261b-4243-894a-011d4a59a407?action=connect
+
+Calendar pulled fine — today (2026-07-16) has 8 events, including 4 real meetings with attendees (Growth Team bi-weekly, Brian/Brandon weekly, Brandon/Avery 1:1, and the Anthropic SYB materials session with Brittany, Ashby, Izzy). Memory files (people, commitments, decisions, projects, partners) all loaded successfully.
+
+Per the hard rule, I won't assemble a partial prep brief without meeting history — that Granola context (last decisions, open threads with these exact attendees) is what makes the prep useful rather than a stale recap of memory files alone.
+
+**To proceed:** authorize Granola via the link above, then tell me to retry — I'll pick up right where I left off (calendar + memory already loaded).
+**STOP — required source unavailable.**
+
+Granola (MCP) requires OAuth authorization and cannot be queried right now, which blocks Step 4 of the meeting-prep procedure (recent meeting history for today's attendees). Per the fail-closed rule in CLAUDE.md and this task's instructions, I'm not going to assemble partial meeting-prep output without it.
+
+**What's blocked:**
+- `mcp__claude_ai_Granola_Gusto__query_granola_meetings` and `get_meeting_transcript` — both returned "OAuth Authorization Required."
+
+**To unblock:**
+- Authorize here: https://gusto.runlayer.com/servers/4d76a9a6-261b-4243-894a-011d4a59a407?action=connect
+- Then ask me to retry.
+
+**What I already have loaded and ready** (memory + calendar succeeded):
+- Today's calendar: 8 events, including a **double-booking at 1:00–1:30 PM PT** — "Brian / Brandon weekly" and "Brandon / Avery 1:1" are scheduled simultaneously.
+- Business meetings needing prep: Growth Team Meeting (9–10 AM), Brian/Brandon weekly (1–1:30 PM, conflict), Brandon/Avery 1:1 (1–1:30 PM, conflict), "Make final changes to Anthropic materials: SYB" (2:30–3 PM, with Izzy, Ashby, Brittany).
+- Relevant memory context on attendees, open commitments (COM-017, COM-018 re: SYB Anthropic deck), and the vestigial-weekly flag on Brian Busch already loaded.
+
+Once Granola is authorized, I'll pull the last 7 days of meeting history for these attendees and complete the full prep brief + Obsidian write. Want me to proceed with a **partial/no-Granola prep** instead (clearly labeled as such), or wait for authorization?
+**STOP — Required source unavailable.**
+
+Granola MCP (required by Phase 1, Step 4 of the meeting-prep workflow for recent meeting history/transcripts) is not authorized in this session:
+
+```
+OAuth Authorization Required
+Connector: Granola_Gusto
+Tool: list_meetings / query_granola_meetings
+Authorize: https://gusto.runlayer.com/servers/4d76a9a6-261b-4243-894a-011d4a59a407?action=connect
+```
+
+Per the CLAUDE.md hard rule — *"If a required MCP source is unavailable: STOP and report — do not assemble partial output"* — I'm not going to assemble a partial meeting-prep brief without Granola context (prior meeting history/decisions for today's attendees, especially the Anthropic/SYB materials session and the Avery 1:1, both of which likely have recent Granola threads).
+
+**What did load successfully:**
+- memory/people.md, commitments.md, decisions.md, projects.md, partners.md ✅
+- Today's calendar (8 events) ✅
+
+**Today's events, for reference (not a full prep — enrichment blocked):**
+1. Ryan Drop Off — 8:15–8:30am (personal)
+2. Doctor — 8:30–9:00am (personal)
+3. Growth Team Meeting (Bi-weekly) — 9:00–10:00am
+4. Brian / Brandon weekly — 1:00–1:30pm *(flagged in memory as likely vestigial — recommend declining, see people.md → Brian Busch)*
+5. Brandon / Avery 1:1 — 1:00–1:30pm *(conflicts with #4 — double-booked)*
+6. Make final changes to Anthropic materials: SYB — 2:30–3:00pm (with Brittany Halldorson, Ashby Taylor, Izzy Rogner-Hall)
+7. Block — 4:00–4:30pm
+8. Freshbooks reporting — 4:45–5:00pm
+
+Two things worth flagging even before Granola: **#4 and #5 are double-booked** (both 1:00–1:30pm), and #6 directly matches open commitments COM-017/COM-018 (SYB Anthropic deck revisions).
+
+**To proceed:** authorize the Granola_Gusto connector at the link above, then ask me to retry. Want me to continue with a partial brief instead (explicitly marked as missing Granola context), or wait for authorization?
+**FAIL-CLOSED: Required source unavailable.**
+
+Granola (MCP: `claude.ai Granola_Gusto`) needs OAuth re-authorization — every `query_granola_meetings` call returned an authorization-required error, not data. Per the meeting-prep instructions, Granola meeting history is a required Phase 1 source, and per CLAUDE.md's hard rule ("if a required MCP source is unavailable: STOP and report — do not assemble partial output"), I'm stopping here rather than assembling a prep brief without meeting-history context.
+
+**What I already have loaded** (memory/*.md + calendar — all successful):
+- Today's calendar: 8 events, including a **double-book at 1:00–1:30 PM PT** — "Brian / Brandon weekly" and "Brandon / Avery 1:1" are on top of each other.
+- Full memory context (people, commitments, decisions, projects, partners) for today's attendees: Growth Team Meeting (9–10am), Brian Busch, Avery Miller, and the SYB Anthropic materials sync at 2:30 (Brittany Halldorson, Ashby Taylor, Izzy Rogner-Hall).
+
+**To fix and resume:**
+1. Authorize Granola: https://gusto.runlayer.com/servers/4d76a9a6-261b-4243-894a-011d4a59a407?action=connect
+2. Tell me once done and I'll re-run the queries and produce the full prep brief + Obsidian write.
+
+One thing worth flagging now regardless: the **1:00 PM double-book** — memory already notes the Brian/Brandon weekly looks vestigial (last topic update Jan 9, stale since your May move to Corp Dev) and recommends declining it, which would also resolve the conflict with the Avery 1:1. Want me to draft a decline note for Brian's weekly once we're unblocked, or handle that separately from the Granola issue?
+**STOP — required source unavailable.**
+
+Granola (`Granola_Gusto`) needs OAuth authorization and cannot be queried in this non-interactive session. Per CLAUDE.md's hard rule ("If a required MCP source is unavailable: STOP and report — do not assemble partial output") and the meeting-prep instructions (Phase 1, Step 4 mandates Granola history for every meeting), I'm stopping rather than delivering a partial brief.
+
+**What happened:**
+- Connector: `Granola_Gusto`
+- Tools attempted: `query_granola_meetings` (3x — Avery Miller, Brian Busch weekly, Growth Team Meeting)
+- Error: OAuth authorization required
+
+**To fix:** authorize the connector, then ask me to retry:
+- https://gusto.runlayer.com/servers/4d76a9a6-261b-4243-894a-011d4a59a407?action=connect
+
+**What I already gathered (calendar + local memory only, not yet enriched with Granola history):**
+- Calendar loaded successfully — 8 events today, including a real conflict: **"Brian / Brandon weekly" and "Brandon / Avery 1:1" are both booked 1:00–1:30 PM PT.**
+- Local memory (people.md, commitments.md, decisions.md, projects.md, partners.md) loaded successfully.
+- The 2:30 PM "Make final changes to Anthropic materials: SYB" meeting already has rich context from memory (`project_syb_anthropic_deck.md`, `reference_design_syb_deck.md`) — Jul 15 sync decisions on the Claude Design deck (slides 6/7/8 edits, killed S-corp calculator ask).
+
+Once Granola is authorized, I'll pull meeting history for today's attendees (especially Avery Miller and Brian Busch, where memory has only sparse context) and deliver the full draft prep + Obsidian write.
+**STOP — required source unavailable.**
+
+Per the fail-closed rule ("If a required MCP source is unavailable: STOP and report — do not assemble partial output"), I can't complete today's meeting prep. Granola (`Granola_Gusto`) — a required source for Phase 1 Step 4 (meeting history enrichment) — is not authorized in this session:
+
+```
+OAuth Authorization Required
+Connector: Granola_Gusto
+Authorize: https://gusto.runlayer.com/servers/4d76a9a6-261b-4243-894a-011d4a59a407?action=connect
+```
+
+This is a non-interactive session, so I can't run the OAuth flow myself. **What I already loaded successfully** (in case useful before you authorize):
+
+- Local memory (people.md, commitments.md, decisions.md, projects.md, partners.md) — all read fine.
+- Today's calendar (8 events) — pulled fine via Gcal.
+- Notably: **13:00–13:30 has a double-booking** — "Brian / Brandon weekly" and "Brandon / Avery 1:1" are both scheduled at the same time. Worth flagging regardless of Granola.
+- Today's work-relevant meetings: Growth Team Meeting (9:00–10:00), Brian/Brandon weekly (13:00, conflict), Avery 1:1 (13:00, conflict), "Make final changes to Anthropic materials: SYB" (14:30–15:00, with Brittany Halldorson/Ashby/Izzy — ties directly to the open SYB Anthropic deck revisions from Jul 15).
+
+**Next step:** open the authorize link above (or run `/mcp` in an interactive session) to grant Granola access, then tell me to retry — I'll pick back up from Phase 1 Step 4 without re-reading the memory files.
+**STOP — required source unavailable.** Per the fail-closed rule, I can't assemble meeting prep without it.
+
+**Failure details:**
+- **Source:** Granola MCP (`query_granola_meetings`) — required by Phase 1, Step 4 for meeting history enrichment
+- **Issue:** OAuth authorization required; the connector is not authenticated in this session
+- **Authorize:** https://gusto.runlayer.com/servers/4d76a9a6-261b-4243-894a-011d4a59a407?action=connect
+
+I did complete the other required steps before hitting this blocker:
+- ✅ Local memory read (people.md, commitments.md, decisions.md, projects.md, partners.md)
+- ✅ Google Calendar pulled for today (8 events)
+- ❌ Granola — blocked on OAuth
+
+**One thing worth flagging even without the full brief:** your calendar shows a double-booking at 1:00–1:30 PM today — "Brian / Brandon weekly" and "Brandon / Avery 1:1" are both scheduled in that slot.
+
+Per CLAUDE.md's hard rule ("if a required MCP source is unavailable: STOP and report — do not assemble partial output"), I'm not going to generate partial prep briefs or write anything to the Obsidian vault. Once you authorize Granola (link above), tell me and I'll re-run the full prep.
+**STOP — required source unavailable.**
+
+Granola MCP (`query_granola_meetings`) requires OAuth authorization before it can be queried — all four calls came back with an authorization requirement instead of data:
+
+- Authorize: https://gusto.runlayer.com/servers/4d76a9a6-261b-4243-894a-011d4a59a407?action=connect
+
+Per the fail-closed rule in CLAUDE.md ("If a required MCP source is unavailable: STOP and report — do not assemble partial output") and the meeting-prep instructions (Step 4 requires Granola for recent meeting history), I'm stopping here rather than assembling a partial brief without that context — several of today's meetings (the SYB Anthropic materials session especially) depend heavily on prior Granola meeting history that's currently in memory but may be stale or incomplete without a fresh check.
+
+**What I already have loaded and ready to use once Granola is back:**
+- Today's calendar (8 events) — substantive ones: Growth Team Meeting (9–10am), Brian/Brandon weekly (1–1:30pm), Brandon/Avery 1:1 (1–1:30pm, conflicts with Brian/Brandon), "Make final changes to Anthropic materials: SYB" (2:30–3pm, with Brittany Halldorson, Ashby Taylor, Izzy Rogner-Hall)
+- memory/people.md, commitments.md, decisions.md, projects.md, partners.md, action_items.md, preferences.md — all read
+
+**Two things worth flagging now regardless of Granola:**
+1. **Double-booked at 1:00–1:30pm PT** — "Brian / Brandon weekly" and "Brandon / Avery 1:1" overlap exactly.
+2. Per your memory (people.md), the Brian/Brandon weekly looks vestigial (no updates since Jan, pre-dates your move to Corp Dev) — possible candidate to decline instead of resolving the conflict by rescheduling.
+
+Please authorize Granola via the link above, then tell me to retry — I'll pick back up from Phase 2 (enrichment) without re-doing the reads above.

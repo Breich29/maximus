@@ -53,6 +53,11 @@ Format: DEC-XXX | Summary | Date | Owner | Source
 - **Decided by:** Quinn (Middesk) + Brandon
 - **Source:** Slack group DM C0BD1UZ9SUB (Jul 14, 12:48 PM PT recap; Chris Elkins reply 1:05 PM PT)
 
+**DEC-010** — SYB Anthropic deck, "final changes" session (2026-07-16, 2:30–3:00 PM PT, Izzy Rogner-Hall + Ashby Taylor + Brittany Halldorson + Brandon) locked in: (1) Slide 5 reframed from "Why Gusto" to "Why Partner Together" — joint value narrative (brand equity with solopreneurs, 15 years SMB trust, regulatory standing, existing MCP customers), deliberately pulling back from leading with entity-formation expertise to avoid inviting an "why not a specialist" objection; visual changed to 2 mirrored cards (headline + sub-headline each); new stat "1 in 5 new businesses comes to Gusto" added pending source confirmation. (2) Slide 6 (asks/GTM): added co-marketing as its own Gusto commitment (distinct from enablement); added a 4th Anthropic ask — dedicated partner-success POC reporting to Lena who owns the Gusto relationship; new positioning line "Anthropic = decision layer, Gusto = system of record and execution" ("Trojan horse" framing — solopreneurs convert to Gusto payroll downstream). (3) Sequencing: V2 likely October, V3 Winter/Spring — September V2 explicitly ruled out; joint public launch targeted Winter 2027, timed to Claude for Small Business V3 + a Gusto community event (November NYC SMB event floated as a possible Anthropic touchpoint); the October Showcase stays Gusto-only, Anthropic not invited in at this stage.
+- **Date:** 2026-07-16
+- **Decided by:** Brandon + Izzy Rogner-Hall + Ashby Taylor + Brittany Halldorson
+- **Source:** Granola: "Make final changes to Anthropic materials: SYB" (Jul 16, 2:30 PM)
+
 ---
 
 ## Archived
