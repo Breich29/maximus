@@ -10,9 +10,9 @@ Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 
 **COM-017** — Izzy Rogner-Hall → Brandon
 - **What:** Build the SYB Anthropic pitch demo prototype; send to Brittany Halldorson and Ashby Taylor for review
-- **Due:** 2026-07-15, 1:00 PM PT (same day as sync)
-- **Status:** Open
-- **Source:** Granola: SYB Anthropic sync (Jul 15, 8:00 AM)
+- **Due:** 2026-07-15, 1:00 PM PT (same day as sync) — now overdue
+- **Status:** Open — unresolved. Not mentioned either way in the 2026-07-16 "final changes" session recap (which covered slides 5/6, not the demo slide specifically), so status remains unconfirmed rather than closed. Worth a direct check with Izzy.
+- **Source:** Granola: SYB Anthropic sync (Jul 15, 8:00 AM); "Make final changes to Anthropic materials: SYB" (Jul 16, 2:30 PM) — silent on this item
 
 **COM-018** — Brandon → Izzy Rogner-Hall
 - **What:** Revise SYB Anthropic deck to joint-GTM ask framing (mirroring the accountant deck); send the accountant deck to Izzy as reference
