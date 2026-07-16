@@ -13,7 +13,7 @@ _Tracks last scan timestamps per source to avoid re-processing and enable increm
 | Google Calendar | 2026-05-21 | n/a (API returning historical data) | Used for cadence inference | Calendar API returned 2018 data; used Granola as primary calendar signal |
 | Glean org chart | 2026-05-21 | Current state | Brandon's full profile + manager chain | Title shows "Corporate Development" (updated from old role) |
 | Glean user activity | 2026-05-21 | PARTIAL | File 379K tokens — unreadable | Known blind spot; compensated with Granola + Slack |
-| Slack #maximus-updates channel (channel-sync) | not yet run — pending first sync | n/a | 0 | Cursor for bin/run_channel_sync.sh (see prompts/channel_sync.txt.tmpl). `last_ts: 0` — on first real run, the job seeds this to the channel's current latest message and starts capturing forward from that point; it does NOT walk the full channel history back to 2026-05-21. See memory-sync design note below re: separate one-time historical backfill. |
+| Slack #maximus-updates channel (channel-sync) | 2026-07-15 22:17:43 PDT | Seeded only — first run, no backfill (per design) | 0 | Cursor for bin/run_channel_sync.sh (see prompts/channel_sync.txt.tmpl). `last_ts: 1784175078.484179` (Night-Before Prep, Wed Jul 15 @ 9:11 PM PDT — newest message in channel at seed time) — seeded to the channel's current latest message on first run; next run captures forward from here. Does not walk history back to 2026-05-21. See memory-sync design note below re: separate one-time historical backfill. |
 
 ---
 

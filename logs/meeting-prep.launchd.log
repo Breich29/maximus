@@ -1940,3 +1940,79 @@ Today's meeting-prep is fully closed out — nothing new to report.
 - 🟡 **COM-018** (you → Izzy) — revise the SYB Anthropic deck to joint-GTM framing (slide 06/07/08 fixes). Not blocked on anyone — your own action.
 
 **One thing worth flagging:** this launchd job has fired ~24 times since yesterday afternoon, each doing a full re-check even hours after the day's meetings ended and personal time began. It's produced a genuinely bloated vault note (one entry even fabricated a nonexistent 2:30 PM meeting by carrying forward yesterday's Diomedes attendees — caught and corrected at 1:45 PM, but that's the kind of error repeated re-runs risk). Given tonight's prep already pivoted to tomorrow (2026-07-16, which has a real double-booking: Brian Busch weekly vs. Avery Miller 1:1, both 1:00–1:30 PM), you may want to tighten the launchd schedule so it doesn't keep firing every 15 minutes with nothing left to do today.
+**OBSIDIAN WRITE: ✅ `90-Maximus/meeting-prep/2026-07-15-meeting-prep.md`** (incremental update, not a full regenerate)
+
+## Heads up before the recap
+
+It's 6:18 PM PT — **every work meeting on today's calendar has already happened.** There's also already a comprehensive, continuously-updated meeting-prep note for today sitting in the vault (last touched 5:21 PM PT, ~20+ re-check passes since yesterday afternoon by a launchd job). Rather than duplicate that work, I did a fresh Phase 1–3 check against the current state and appended only what's new.
+
+**⚠️ Worth your attention directly (the file flags this too, but it's easy to miss):** that launchd job has re-run the same "day is closed out" conclusion roughly two dozen times since yesterday. It's not wrong, just wasteful — worth checking the job's interval/exit condition when you get a chance.
+
+## What's new since the last pass (5:21 PM)
+
+**AI Surfaces<>GPro (1:30 PM) finally has a real outcome** — Granola only just synced it. It was a check-in, not new scoping:
+- Ben Kagan hasn't connected with Senthil on security sign-off yet → **you need to schedule that sync** (Ben, Taylor Fahey, Senthil, you) for Friday or early next week
+- Wouter/Tara's POC continues on its own cadence, regrouping this week
+- Anthropic timing signal still pending from the (already-past) Jul 10 conversation
+
+Logged as new commitments needing your confirmation in `action_items.md`: schedule the security sync, send a meeting recap, fast-follow Bridgette + Ian once POC signal lands.
+
+**Still unresolved, still worth chasing:**
+- 🔴 **COM-017** — Izzy's SYB Anthropic demo (was due 1:00 PM today) — now ~5h18m overdue, zero signal in Slack. Worth a direct check-in rather than waiting on it silently.
+- 🟡 **COM-018** — your own open action to revise the SYB Anthropic deck to joint-GTM framing — not blocked on anyone, still outstanding.
+- The Diomedes M&A-thesis completion discrepancy (Bridgette's draft vs. a separately-tracked Brandon-owned open item) is still unreconciled — worth a direct answer from you rather than guessing which record is right.
+
+Nothing else changed — today's real remaining calendar is personal time only (Ryan pickup/Carnival, already elapsed by now). Want me to pivot to a look-ahead for tomorrow (2026-07-16) instead, since that's what's actually "upcoming"?
+OBSIDIAN WRITE: ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-15-meeting-prep.md`
+
+**Important:** all 5 substantive meetings on today's calendar happened before this run (it's 7:08 PM PT; last meeting ended 6:30 PM). A launchd automation had already been maintaining a very thorough version of this file all day — I didn't overwrite it, just appended one final re-check confirming nothing changed since its 6:18 PM pass. Below is a condensed version of what's in that file.
+
+## DRAFT MEETING PREP MESSAGE(S) — recap of today
+
+———
+:calendar: *SYB Anthropic sync* — 8:00–8:30 AM — Izzy Rogner-Hall
+*Context:* Locked the entity-formation pitch narrative; new context surfaced that Astrid (Anthropic) wants Gusto in Claude for Business V2, but her framing (knowledge/compliance) doesn't match Gusto's action/MCP framing — needs reconciling.
+*Open:* Izzy owed a demo prototype to Brittany/Ashby by 1:00 PM — **still not delivered as of now (~6h overdue, no Slack signal).** Brandon owes the joint-GTM deck revision (COM-018) — also still open.
+———
+:calendar: *Gusto Pro Partnership Strategy* — 9:30–10:00 AM — Jeremy Grasso, Joshua Burt (Channel Partnerships, not in people.md — resolved via Glean: NYC/Denver, report up to Chris Smith)
+*Outcome:* Multi-auth MCP + firm API access confirmed P0. New asks: Brandon to schedule a Tuesday follow-up before looping in Corey/Lauren/Bridget; Joshua owes the channel-section doc fill-in + FY27 plan. Both logged as needs-confirmation, not yet formal commitments.
+———
+:calendar: *AI Market Mapping + Oppty Tracker collab* — 11:00–11:30 AM — Devesh Verma, Vivian Shen, Joseph Sarni
+*Context:* Follow-on to the Jul 2 AI Jam — no exec owner below Ashby yet for company-wide AI coordination. Vivian's Notion-access ask for the OpenAI ideas doc is still outstanding on Brandon's side.
+———
+:calendar: *Intro: Cory / Brandon* — 12:30–1:00 PM — Cory Wanamaker (GPro PM, Denver, reports to Lauren Snyder)
+*Context:* First touch, no prior notes — but not cold, since he reports to a GPro contact Brandon already works with.
+———
+:calendar: *AI Surfaces<>Gpro (multi-auth MCP)* — 1:30–2:00 PM — Ian Smith, Lauren Stolzar, Xiao Hu, Tara Bird, Benjamin Kagan, Wouter Massa, Taylor Fahey
+*Outcome:* Check-in, not new scoping. Security sign-off with Senthil still not connected — Brandon to schedule that sync (Ben/Taylor/Senthil) for Friday/early next week; Wouter/Tara's POC continues on its own cadence; Brandon owes a recap + fast-follow with Bridgette/Ian once POC LOE lands. Roadmap remains #5 on H1 AI Interfaces with no committed eng owner — timeline talk is moot until resourced.
+———
+
+## NOTES ON RISKS / DECISIONS NEEDED
+- 🔴 **COM-017 overdue** — Izzy's SYB Anthropic demo, ~6h past the 1:00 PM target, no delivery signal. Worth a direct check-in.
+- 🟡 **COM-018 open** — Brandon's own SYB deck revisions (slide 06/07/08 edits per `project_syb_anthropic_deck.md`) — not blocked on anyone, just not done.
+- Multi-auth MCP: no committed engineering owner against the Nov 1 backstop; security sign-off and legal-consent scoping both still open gates.
+- New people not yet in people.md: Jeremy Grasso, Joshua Burt, Cory Wanamaker, Xiao Hu, Tara Bird, Wouter Massa.
+- Two scheduling conflicts today (Ryan Drop Off vs. SYB Anthropic sync; deep-work block vs. Gusto Pro Partnership Strategy) — already elapsed, no action needed now.
+- The file itself flagged and corrected a real process bug earlier today: a phantom "Diomedes/GustoBooks" meeting got carried across ~10 re-check passes before being caught — worth knowing this failure mode exists in same-day incremental reruns.
+
+Since today is fully closed out, want me to pull up tomorrow's (2026-07-16) prep instead? There's already a `2026-07-16-meeting-prep.md` in the vault with a flagged double-booking (Brian Busch weekly vs. Avery Miller 1:1, both 1:00–1:30 PM PT) that may need your attention.
+**STOPPING — required source unavailable (fail-closed per CLAUDE.md hard rule).**
+
+Here's where things stand:
+
+**Timing issue:** It's currently 8:29 PM PT. Every meeting on today's (2026-07-15) calendar has already ended — the last one wrapped at 6:30 PM. So "today's" meeting prep would be for meetings already in the past. I pulled tomorrow's (2026-07-16) calendar instead, since that's what "upcoming" actually means at this hour:
+
+- 9:00 AM — Growth Team Meeting (Bi-weekly) — large team meeting incl. Mary O'Connor, Jason Chao, Taylor McCurdy, Igor Khayet
+- 1:00 PM — Brian / Brandon weekly
+- 1:00 PM — Brandon / Avery 1:1 (double-booked with the above — same time slot)
+- Plus non-work blocks (Doctor, Ryan drop-off, Freshbooks reporting, a generic "Block")
+
+**The blocker:** Phase 1 Step 4 requires querying Granola for the last 7 days of meeting history to enrich these preps. I ran that query twice — first attempt errored with a timeout, second attempt hung for 454 seconds with no response before aborting. That's a required source per the instructions, and CLAUDE.md's hard rule is explicit: *"If a required MCP source is unavailable: STOP and report — do not assemble partial output."*
+
+I don't want to hand you a prep brief built only from memory/*.md + calendar while silently skipping the meeting-history layer — that's exactly the partial-output scenario the rule exists to prevent (e.g., missing that Brian/Avery 1:1 double-booking context, or recent decisions from Avery's Partner Metrics Review frustration noted in people.md).
+
+**Options — let me know how you'd like to proceed:**
+1. I retry Granola now (could be transient) and proceed once it's back.
+2. You confirm you want tomorrow's prep assembled from memory + calendar only, explicitly waiving the Granola requirement for this run.
+3. Hold off until Granola is confirmed healthy.
+API Error: Connection closed mid-response. The response above may be incomplete.
