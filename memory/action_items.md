@@ -32,6 +32,9 @@ _Lightweight follow-ups and "needs confirmation" items. Formal commitments track
 - [x] **New person detected — Mal Arun** — resolved 2026-07-17 via Glean employee search: Channel Development, Channel Partnerships dept, reports to Chris Smith (Denver). Added to people.md. Purpose of the 1:1 still unknown — no Granola notes as of 1:05 PM PT check.
 - [x] **New person detected — Lars Wensel** — added to people.md external contacts + partners.md Zen Business section 2026-07-17. Role/authority at Zen Business still unconfirmed.
 - [ ] **New people detected — Corp & Partner Dev weekly attendees Carlos Cabrera, Priyanka Upadhyay, Gavin Lacroix:** recurring team sync (7/17 10:00 AM), no people.md profiles. Add to map?
+- [ ] **New commitment detected — Brandon → Lars Wensel (Zen Business):** Reply by email confirming the term sheet (Operating Agreement + Publication SKUs) to unblock legal ticket + addendum drafting. Surfaced via 2026-07-17 11:00 AM Term Sheet Sync (Granola, same-day sync). Goal: close before end of July. Not yet in commitments.md. Confirm and add?
+- [ ] **New commitment detected — Brandon → Chris Elkins + Farron Hicks:** Align early next week on the ZenBusiness Operating Agreement + Publication SKU terms. Same source as above. Confirm and add?
+- [ ] **Two predicted 7/17 meetings absent from actual calendar** — "Sync on AI Partnerships" (8:30 AM, Ashby + Igor) and "Ashby / Brandon" 1:1 (9:00 AM), both anticipated in the 7/16 night-before pass, do not appear in the actual 7/17 Google Calendar pull (12 events, full day). Confirm with Brandon whether cancelled or need rescheduling — the Ashby 1:1 was the intended venue for the Middesk renewal timeline update.
 
 ---
 
