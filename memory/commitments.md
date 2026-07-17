@@ -8,6 +8,12 @@ Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 
 ## Open
 
+**COM-019** — Brandon → Maximus (self)
+- **What:** Once Brandon delivers the finalized SYB demo video (expected afternoon of 2026-07-17), embed it in `decks/gusto-anthropic-entity-formation.html` (Solution slide's `[ DEMO ]` placeholder) using the same custom play-button treatment as the Gusto×Anthropic accountants deck.
+- **Due:** 2026-07-17, afternoon
+- **Status:** Open — waiting on Brandon's video. Note: the accountants deck's play-button pattern wasn't found in the local downloaded copies (`gusto-anthropic-accountants-v17.html`, `gusto-anthropic-accountants-updated.html`) or the current SYB deck bundle — likely applied via the share-some-html hosted page directly. Check the live page at [[reference_share_html_anthropic]] (`gusto-anthropic-accountants-v2`) for the actual markup when picking this up.
+- **Source:** Direct chat instruction, 2026-07-17
+
 **COM-017** — Izzy Rogner-Hall → Brandon
 - **What:** Build the SYB Anthropic pitch demo prototype; send to Brittany Halldorson and Ashby Taylor for review
 - **Due:** 2026-07-15, 1:00 PM PT (same day as sync) — now overdue
