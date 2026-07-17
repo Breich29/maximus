@@ -1,6 +1,6 @@
 # Action Items
 
-_Last updated: 2026-07-16 (new-person flags for 7/17 calendar: Mal Arun, Lars Wensel, Corp & Partner Dev weekly gaps)_
+_Last updated: 2026-07-17 (same-day meeting-prep pass: Mal Arun + Lars Wensel resolved; new ZenBusiness commitments flagged; two predicted meetings absent from actual calendar)_
 _Lightweight follow-ups and "needs confirmation" items. Formal commitments tracked in commitments.md._
 
 ---
