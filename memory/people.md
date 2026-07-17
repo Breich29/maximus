@@ -226,6 +226,7 @@ _Last updated: 2026-07-14_
 |---|---|---|---|
 | Shubhankar | (unknown) | Browserbase | Vendor contact, Browser Base agreement (security/commercial) |
 | Cindy | (unknown) | Browserbase | Vendor contact, Browser Base agreement (commercial/legal terms) |
+| Lars Wensel | lars.wensel@zenbusiness.com | Zen Business | New contact, distinct from Farron Hicks' product-side relationship. Ran the 2026-07-17 Term Sheet Sync (Operating Agreement + Publication SKUs). Role/authority not yet confirmed. |
 | Quinn | quinn@middesk.com | Mid-desk | **Quinn is the ultimate decision-maker on the renewal** (corrected by Brandon Jul 15 — an earlier "per Andrew" inference that Karen held final authority was wrong; do not carry that forward). Primary relationship/negotiation contact. |
 | Lolo | (unknown) | Mid-desk | Ops/delivery contact, works with Chris day-to-day; per Andrew, should not be treated as source of truth on order-blocker questions — doesn't know the underlying system deeply |
 | Karen | (unknown) | Mid-desk | Internal execution-side stakeholder, not the decision-maker (see Quinn correction above). Quinn/Lolo described as "at odds" with her internally; Quinn's commitments have scrambled at the execution stage in ways attributed to her, but she does not hold final renewal authority. |
