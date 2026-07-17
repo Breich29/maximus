@@ -375,6 +375,7 @@ slides.forEach((_, i) => {
 });
 
 function goTo(n) {
+  document.querySelectorAll('video').forEach(v => v.pause());
   slides[current].classList.remove('active');
   dotsEl.children[current].classList.remove('active');
   current = Math.max(0, Math.min(n, total - 1));
