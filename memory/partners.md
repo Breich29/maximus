@@ -50,6 +50,7 @@ _Last updated: 2026-07-14_
 - **Key risks:** Ransomware attack (March 2026) — DPA was inadequate; amendments signed. Template fix in progress.
 - **Strategic direction:** Browser base POC may reduce dependency. First-party entity formation a medium-term goal.
 - **Next milestone:** EIN going GA (AB test complete); browser base go/no-go.
+- **Term Sheet Sync (2026-07-17, Lars Wensel — new contact):** Two new SKUs proposed via contract amendment. **Operating Agreement** — $99 retail (matches EIN pricing), Brandon's priority/real revenue driver. **Publication** — pass-through cost, no margin (3rd-party vendor); existing prepaid state-fee bucket needs an addendum to cover newspaper publication fees; Lars open to Brandon sourcing a cheaper direct vendor. Path: non-binding term sheet → Brandon confirms by email → Lars submits legal ticket → addendum → signatures. **Goal: close before end of July 2026** — same window as the Mid-desk renewal notice deadline (~Jul 28), competing for Brandon's time. **Risk carried from vault note:** new SKUs expand Section 3.1 exclusivity footprint — check against first-party SYB build strategy before confirming by email.
 
 ---
 
