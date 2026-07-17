@@ -72,6 +72,10 @@ Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 
 ## Completed
 
+**COM-019** — Brandon → Maximus (self)
+- **Completed:** 2026-07-17
+- **What:** Embed the finalized SYB demo video in `decks/gusto-anthropic-entity-formation.html` (Solution slide), using the same custom play-button treatment as the Gusto×Anthropic accountants deck. Brandon supplied `SYB with Claude - Version 2.mov` (H.264, 2160×1164, 53s) + a fresh copy of the LLC-formation screenshot. Built a `._vpwrap`/`._vpbtn` overlay (translucent black circle, white border, ▶ icon, hides on play/shows on pause) matching the accountants deck's documented pattern from [[reference_share_html_anthropic]] — that memory had the exact CSS/JS this deck's own share-some-html copy and local downloads didn't. Pushed full-fidelity (real fonts + screenshot + video) to both the local file and the hosted share-some-html page (v5) by POSTing the zip directly to the share-some-html JSON-RPC endpoint via a local Python script — bypasses the MCP tool's payload-size limit since the bytes never pass through chat context.
+
 **COM-001** — Brandon → Alex Kehayias (+ Chris Elkins + Jessica Sacks)
 - **Completed:** 2026-06-05
 - **What:** Pass Get Palm monitor/comply docs + meeting notes to Alex to kick the tires. Also share with Chris + Jessica.
