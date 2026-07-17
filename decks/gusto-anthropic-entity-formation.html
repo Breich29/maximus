@@ -512,6 +512,15 @@ function updateBadge(count) {
 document.getElementById('commentText').addEventListener('keydown', e => {
   if ((e.metaKey || e.ctrlKey) && e.key === 'Enter') submitComment();
 });
+
+const demoVideo = document.getElementById('demoVideo');
+const demoPlayBtn = document.getElementById('demoPlayBtn');
+if (demoVideo && demoPlayBtn) {
+  demoPlayBtn.addEventListener('click', () => demoVideo.play());
+  demoVideo.addEventListener('play', () => demoPlayBtn.classList.add('hidden'));
+  demoVideo.addEventListener('pause', () => demoPlayBtn.classList.remove('hidden'));
+  demoVideo.addEventListener('ended', () => demoPlayBtn.classList.remove('hidden'));
+}
 </script>
 </body>
 </html>
