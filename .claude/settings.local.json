@@ -150,7 +150,10 @@
       "Bash(echo \"grep exit: $?\")",
       "Read(//Users/brandon.reich/Documents/Gusto-PartnerDevBR/40-Stakeholders/**)",
       "Bash(grep -oE '<section[^>]{0,300}' /Users/brandon.reich/.claude/projects/-Users-brandon-reich-maximus/4a003bdb-eb2f-44e6-9598-ff25ce292a5a/tool-results/mcp-claude_ai_Share_some_HTML-download_page-1784137495257.txt)",
-      "Read(//Users/brandon.reich/Downloads/**)"
+      "Read(//Users/brandon.reich/Downloads/**)",
+      "mcp__claude_ai_Share_some_HTML__get_assets",
+      "Bash(split -b 150000 /tmp/syb_zip_b64.txt /private/tmp/claude-501/-Users-brandon-reich-maximus/299be3c2-cd75-4e11-a637-5799f6108a5a/scratchpad/zipparts/part_)",
+      "Bash(rm /tmp/syb_zip_b64.txt)"
     ]
   },
   "hooks": {
