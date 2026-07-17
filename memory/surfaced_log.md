@@ -40,6 +40,21 @@ _Last updated: 2026-05-21_
 
 ---
 
+## 2026-07-17 — Meeting Prep (same-day update pass, ~1:05 PM PT)
+
+**Type:** Meeting prep brief — superseded the 7/16 night-before pass for today's calendar
+**Meetings covered:** Corp & Partner Dev weekly + Brandon/Mal (occurred, double-booked), ZenBusiness Term Sheet Sync (occurred, outcome synced), Middesk Workflow Review (occurred, no transcript yet), Nina<>Brandon (upcoming, 4:00 PM — unknown/likely personal)
+**Items presented:**
+- Two meetings predicted by the 7/16 night-before pass (AI Partnerships sync, Ashby/Brandon 1:1) are absent from today's actual calendar — flagged for confirmation
+- Mal Arun resolved via Glean: Channel Development, Channel Partnerships, reports to Chris Smith
+- ZenBusiness Term Sheet Sync outcome: Operating Agreement ($99) + Publication (pass-through) SKUs, goal to close by end of July; exclusivity-footprint risk vs. first-party SYB flagged
+- Middesk Workflow Review occurred but no transcript yet — COM-015/COM-016/Logan-Anthony follow-up still open
+- Two new commitments surfaced (needs confirmation): Brandon → Lars Wensel (confirm term sheet by email), Brandon → Chris/Farron (align on SKUs)
+- Carried forward: 7/16 double-booking (Brian/Brandon weekly vs. Brandon/Avery) still unresolved, no transcript either day
+- Carried forward: COM-012 (4 days overdue), COM-005 (stale), COM-017 (unconfirmed ahead of Monday's Lena call)
+
+---
+
 ## 2026-07-15 — Meeting Prep (on-demand)
 
 **Type:** Meeting prep brief (today's calendar, 6 business meetings)
