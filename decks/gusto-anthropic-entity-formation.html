@@ -8,6 +8,34 @@
 <link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Song+Myung&display=swap" rel="stylesheet">
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  @font-face {
+    font-family: "Clearface";
+    src: url("fonts/Clearface-Bold.woff2") format("woff2");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "Clearface";
+    src: url("fonts/Clearface-BoldItalic.otf") format("opentype");
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "G-centra";
+    src: url("fonts/Gcentra-Regular.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "G-centra";
+    src: url("fonts/Gcentra-Medium.woff2") format("woff2");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+  }
   :root {
     --gst-guava: #F45D48;
     --gst-kale: #0A8080;
@@ -18,8 +46,8 @@
     --gst-bg-stone: #F7F4F2;
     --gst-bg-cream: #FFF4E0;
     --gst-border: #E5E0DA;
-    --gst-font-display: "Song Myung", "Iowan Old Style", Georgia, "Times New Roman", serif;
-    --gst-font-body: "Mulish", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+    --gst-font-display: "Clearface", "Song Myung", "Iowan Old Style", Georgia, "Times New Roman", serif;
+    --gst-font-body: "G-centra", "Mulish", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
   }
   html, body { height: 100%; overflow: hidden; }
   body { font-family: var(--gst-font-body); background: #1A1A1A; color: var(--gst-ink); }
