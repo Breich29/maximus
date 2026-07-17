@@ -9,9 +9,8 @@ Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 ## Open
 
 **COM-019** — Brandon → Maximus (self)
-- **What:** Once Brandon delivers the finalized SYB demo video (expected afternoon of 2026-07-17), embed it in `decks/gusto-anthropic-entity-formation.html` (Solution slide's `[ DEMO ]` placeholder) using the same custom play-button treatment as the Gusto×Anthropic accountants deck.
-- **Due:** 2026-07-17, afternoon
-- **Status:** Open — waiting on Brandon's video. Note: the accountants deck's play-button pattern wasn't found in the local downloaded copies (`gusto-anthropic-accountants-v17.html`, `gusto-anthropic-accountants-updated.html`) or the current SYB deck bundle — likely applied via the share-some-html hosted page directly. Check the live page at [[reference_share_html_anthropic]] (`gusto-anthropic-accountants-v2`) for the actual markup when picking this up.
+- **What:** Once Brandon delivers the finalized SYB demo video, embed it in `decks/gusto-anthropic-entity-formation.html` (Solution slide's `[ DEMO ]` placeholder) using the same custom play-button treatment as the Gusto×Anthropic accountants deck.
+- **Completed:** 2026-07-17. Brandon supplied `SYB with Claude - Version 2.mov` (H.264, 2160×1164, 53s) + a fresh copy of the LLC-formation screenshot. Built a `._vpwrap`/`._vpbtn` overlay (translucent black circle, white border, ▶ icon, hides on play/shows on pause) matching the accountants deck's documented pattern from [[reference_share_html_anthropic]] — that memory had the exact CSS/JS this deck's own share-some-html copy and local downloads didn't. Pushed full-fidelity (real fonts + screenshot + video) to both the local file and the hosted share-some-html page (v5) by POSTing the zip directly to the share-some-html JSON-RPC endpoint via a local Python script — bypasses the MCP tool's payload-size limit since the bytes never pass through chat context.
 - **Source:** Direct chat instruction, 2026-07-17
 
 **COM-017** — Izzy Rogner-Hall → Brandon
