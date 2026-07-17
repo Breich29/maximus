@@ -189,6 +189,17 @@ _Last updated: 2026-07-14_
 - **Slack ID:** U0817391U01
 - **Title:** ExecOps for Matan Gal, Tom Byun, Lauren Stolzar
 
+### Mal Arun
+- **Email:** mal.arun@gusto.com
+- **Title:** Channel Development
+- **Team:** Channel Partner Management, Channel Partnerships dept
+- **Manager:** Chris Smith (Head of Channel Partnerships, Denver)
+- **Context:** Started at Gusto 2025-05-05. First tracked 1:1 with Brandon 2026-07-17, 10:15 AM — no prior history in memory or Granola, purpose of the 1:1 not yet established. Role confirmed via Glean employee search.
+
+### Christina Denton
+- **Title:** Gusto Legal
+- **Context:** Chase/Mercury deal context per prior notes; no recent activity logged. Recurring attendee on Corp & Partner Dev weekly.
+
 ---
 
 ## TIER 3 — Long Tail
