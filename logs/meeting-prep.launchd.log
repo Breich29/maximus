@@ -2818,3 +2818,34 @@ Full per-meeting detail, open items, and two new draft "needs confirmation" comm
 3. ZenBusiness term sheet closing "by end of July" now competes directly with the Mid-desk crunch for the same window.
 4. Two unresolved double-bookings: today's (Corp & Partner Dev vs. Mal) and 7/16's (Brian Busch vs. Avery) — neither has a transcript to settle which meeting you actually took.
 5. Still overdue with no forcing function today: COM-012 (Browserbase red lines, 4 days overdue), COM-005 (stale), COM-017 (Izzy's SYB demo, unconfirmed ahead of Monday's Lena call).
+**OBSIDIAN WRITE: ✅** `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-17-meeting-prep.md` (appended a 2:12 PM PT delta pass to the existing same-day note — this ran ~1hr after a prior pass at 1:05 PM PT, so most of today's content was already captured; this pass reconciles rather than regenerates).
+
+**Note on timing:** It's currently 2:12 PM PT. All 4 substantive meetings today already occurred before this run (Corp & Partner Dev weekly, Brandon/Mal, ZenBusiness Term Sheet Sync, Middesk Workflow Review) — so most of this is recap, not forward prep. Nothing with attendees remains on today's calendar.
+
+---
+
+**What changed since the 1:05 PM pass:** *"Nina<>Brandon"* (4:00 PM) has disappeared from the calendar — fresh pull shows 11 events instead of 12, and a direct search returns zero results. Resolves that item's "likely personal, watch" flag as moot. Everything else is unchanged.
+
+---
+
+:calendar: *Gusto | ZenBusiness Term Sheet Sync* — 11:00–11:30 AM (occurred)
+*Outcome:* Two new SKUs — Operating Agreement ($99, Brandon's priority) and Publication (pass-through, no margin). Path: Brandon reviews term sheet → aligns Chris Elkins + Farron Hicks early next week → replies to Lars by email → legal drafts addendum. **Goal: close before end of July.**
+*Push for:* Before replying to Lars, sanity-check that the new SKUs don't expand Section 3.1 exclusivity in a way that boxes in the first-party SYB build (flagged in the ZenBusiness vault note).
+*Watch out for:* This closes in the same window as the Mid-desk renewal crunch — direct competition for Brandon's time.
+
+:calendar: *Middesk/Gusto: Workflow Review* — 11:30 AM–12:30 PM (occurred, **no transcript yet**)
+*Context:* Direct follow-on to the Jul 14 Quinn call. Mid-desk's 90-day renewal notice window closes ~Jul 28 — **11 days out**.
+*Open items:* COM-015 (Chris→Lolo co-build cadence), COM-016 (Quinn's 10/1 headless-API commitment, still verbal-only), Logan/Anthony not yet on a working call.
+*Push for:* Check next pass whether the 10/1 date or a platform-fee proposal moved to writing.
+
+:calendar: *Corp & Partner Dev (weekly)* + *Brandon/Mal* — 10:00–10:45 AM (occurred, double-booked 10 min, no transcripts)
+*Open items:* COM-003 (Brandon→Allison Hess, MSA template recs, due "July," Allison was in the room). Mal Arun's role is now known (Channel Development, reports to Chris Smith) but purpose of the 1:1 is still unclear.
+
+---
+
+**NOTES ON RISKS / DECISIONS NEEDED**
+1. **Mid-desk renewal clock — 11 days to the Jul 28 notice deadline.** Brandon's negotiation POV draft (owed to Chris/Jessica/Andrew by ~Jul 27) has no visible progress logged anywhere.
+2. **ZenBusiness close-by-end-of-July goal competes directly with #1** for the same slice of Brandon's time.
+3. Two unresolved double-bookings (today's Corp&Partner Dev/Mal overlap; yesterday's Brian/Avery overlap) — worth a direct check with Brandon.
+4. Stale/overdue with no forcing function today: COM-012 (Browserbase red lines, 4 days overdue), COM-005 (mid-desk GBC pre-flight, stale), COM-017 (Izzy's SYB demo, unconfirmed before Monday's Lena call).
+5. Two new ZenBusiness commitments (review term sheet; align Chris+Farron; reply to Lars) are sitting in action_items.md as "needs confirmation" — flagging for you to confirm before I promote them to commitments.md.

@@ -120,6 +120,12 @@
   .comment-submit:disabled { opacity: 0.4; cursor: default; }
   .overlay { position: fixed; inset: 0; background: rgba(0,0,0,0); z-index: 250; pointer-events: none; transition: background 0.25s; }
   .overlay.active { background: rgba(0,0,0,0.4); pointer-events: all; }
+
+  ._vpwrap { position: relative; display: block; border-radius: 16px; overflow: hidden; background: #000; }
+  ._vpwrap video { display: block; width: 100%; height: auto; }
+  ._vpbtn { position: absolute; z-index: 10; top: 50%; left: 50%; transform: translate(-50%,-50%); width: 84px; height: 84px; border-radius: 50%; background: rgba(0,0,0,0.62); border: 3px solid rgba(255,255,255,0.85); cursor: pointer; display: flex; align-items: center; justify-content: center; transition: background 0.15s, opacity 0.15s; padding: 0; }
+  ._vpbtn:hover { background: rgba(0,0,0,0.82); }
+  ._vpbtn.hidden { opacity: 0; pointer-events: none; }
 </style>
 </head>
 <body>
