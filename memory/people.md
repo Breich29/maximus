@@ -240,6 +240,7 @@ _Last updated: 2026-07-14_
 | JP Nahmias | jp.nahmias@bqe.com | BQE | Prior partnership (no longer active) |
 | Ran Harpaz | ran@lettuce.co | Lettuce Financial | Prior partnership (no longer active) |
 | Debbie | debbie@legacy.melio.com | Melio | Prior partnership (no longer active) |
+| Ben Stein | ben.stein@doublehq.com | DoubleHQ | CEO of DoubleHQ, the Project Diomedes M&A target. Brandon had a 3-hour dinner with him confirming strong fit (per action_items.md). Attendee on multiple Diomedes meetings (Jul 14, Jul 21 Financials call). Added 2026-07-17 weekly sweep — already well-established in action_items.md context, just missing from this roster. |
 
 ---
 
