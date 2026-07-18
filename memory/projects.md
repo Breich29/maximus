@@ -51,11 +51,15 @@ _Last updated: 2026-07-17_
 ---
 
 ### GustoPro / GPro (Accountants)
-- **Status:** Active — tentative (Brandon still ramping into this area)
+- **Status:** Active — advancing (no longer just ramp-stage; Brandon driving multiple concurrent tracks as of mid-July)
 - **Brandon's role:** Owner / partnership lead
-- **Key people:** Bridgette Haymaker (VP, "Empowering Pro / Co"), Lauren Snyder (PM GPro), Gowri Nambiar (design/growth)
-- **Context:** No active partner manager for GPro yet. Brandon diving in week of May 26. No partnerships established yet in this area.
-- **Current focus:** Initial stakeholder meetings week of May 26
+- **Key people:** Bridgette Haymaker (VP, "Empowering Pro / Co"), Lauren Snyder (PM GPro), Gowri Nambiar (design/growth), Jeremy Grasso + Joshua Burt (GustoPro partnership strategy — pending people.md confirmation, see action_items.md), Kyle Everly (GPro firm API access, pending confirmation)
+- **Current focus:**
+  - **Anthropic partnership (GPro/Accountants track)** — see "Anthropic Partnership" section below. Pitch deck delivered Jul 14, Bridgette presented; Ben Kagan (Anthropic) re-engaged this week after being dark, proactively sharing multi-auth MCP Notion pages — first concrete engagement signal.
+  - **GustoPro Partnership Strategy sync (2026-07-15, Jeremy Grasso + Joshua Burt):** unified strategy doc in motion; Tuesday Jul 21 follow-up committed. Joshua owes: channel section of the doc, FY27 new-biz plan, partner-definition docs (per action_items.md, pending confirmation as a formal commitment).
+  - **GPro firm API access / multi-auth MCP:** Avery Miller (technical solutions) on maternity leave end of July — handoff not locked. Lauren Snyder + Kyle Everly named as owners per the Jul 10 "GPro Firm API Access disc" and Jul 17 Weekly Review, but no confirmed handoff plan yet. Flagged as an active risk.
+  - Bridgette also raised a GPro-side Xero integration question (2026-07-13 DM): whether prior payroll-side Xero-for-accountants integration work can extend to GPro, plus a tax-filing-API value prop accountants may want in their own practice-management tools. Brandon offered to facilitate a session between the technical solutions team and GPro product folks — outcome not yet confirmed.
+- **Note:** Several people surfaced this week (Jeremy Grasso, Joshua Burt, Kyle Everly, Ben Kagan, Taylor Fahey) are pending confirmation in action_items.md before being added to people.md — see that file for detail.
 
 ---
 
