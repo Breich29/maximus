@@ -2869,3 +2869,107 @@ A prep note for today already existed (last updated 2:12 PM PT). I re-verified a
 4. Carried-forward overdue items: COM-012 (Browserbase, 4+ days overdue), COM-005 (mid-desk GBC scribing, stale), COM-017 (Izzy's SYB demo, unconfirmed ahead of Monday's Lena call).
 
 No draft outbound messages needed this pass — nothing to send to a person, only the solo stats task ahead.
+I pulled the calendar and cross-checked Granola, and there's a timing mismatch worth flagging before I produce anything.
+
+**It's currently 3:25 PM PT.** All four substantive meetings on today's calendar already happened, and none have Granola notes captured yet:
+
+| Meeting | Time | Status |
+|---|---|---|
+| Corp & Partner Dev (weekly) | 10:00–10:25 AM | Passed — no notes yet |
+| Brandon / Mal (1:1 with Mal Arun) | 10:15–10:45 AM | Passed — no notes yet (overlapped with the above by 10 min) |
+| ZenBusiness Term Sheet Sync (Lars Wensel) | 11:00–11:30 AM | Passed — no notes yet |
+| Middesk/Gusto: Workflow review (Quinn/Lolo) | 11:30 AM–12:30 PM | Passed — no notes yet |
+
+The only calendar item still ahead today is **"Send Weekly Partner Stats to team"** (3:30–4:00 PM), which has no attendees — it's a personal task block, not a meeting to prep for. Everything else on today's calendar (Aloha Fridays, Gustoversary, birthday) is a non-meeting all-day entry.
+
+So there's genuinely nothing "upcoming" left to prep for today. Rather than generate a forward-looking "push for / watch out for" prep brief for meetings that are already over, I want to check which of these two you actually want:
+
+1. **Prep for Monday (Jul 20)** and the rest of next week instead — that's the next real "upcoming meetings" window, and it includes the Anthropic call with Lena that COM-018 is racing toward.
+2. **A same-day debrief** of today's four meetings instead — pulling what memory already knows was *supposed* to happen in each (I have solid pre-existing context on Middesk/Quinn, ZenBusiness/Lars, and the Corp & Partner Dev regulars) and flagging that Granola hasn't captured actual notes yet, so this would be "what to expect happened" not "what did happen."
+
+Which do you want — Monday's prep, a debrief of today, or both?
+Before I build drafts, a scheduling reality check: it's currently **3:42 PM PT** on 2026-07-17. Looking at today's calendar, the substantive meetings have already passed:
+
+- Corp & Partner Dev (weekly) — 10:00–10:25 AM ✅ passed
+- Brandon / Mal — 10:15–10:45 AM ✅ passed
+- ZenBusiness Term Sheet Sync (Lars Wensel) — 11:00–11:30 AM ✅ passed (and already reflected in `partners.md`)
+- Middesk/Gusto: Workflow review — 11:30 AM–12:30 PM ✅ passed
+
+The only calendar item still active/ahead today is **"Send Weekly Partner Stats to team"** (3:30–4:00 PM), which is a solo task block with no attendees — not a meeting to prep for. The rest of today (Refresh Clover Shared Doc, the Corp/Partner Dev weekly reminder) were also self-tasks, already past.
+
+So there's nothing left today that fits the "prep for upcoming meeting" format. Two ways I can be useful instead — want me to:
+
+1. **Run this same prep for tomorrow's calendar** (likely what's actually "upcoming"), or
+2. **Build a retrospective recap** of today's 4 meetings (Corp/Partner Dev weekly, Brandon/Mal, ZenBusiness sync, Middesk workflow review) — open items, decisions, follow-ups — for the vault/memory write-back, since prep briefs for meetings that already happened won't help you walk in prepared?
+
+Let me know which (or both), and I'll pull the Granola history and build it out.
+It's currently 3:58 PM PT, and checking today's calendar shows nearly every meeting has already happened:
+
+- Corp & Partner Dev (weekly) — 10:00 AM (passed)
+- Brandon / Mal — 10:15 AM (passed)
+- Gusto | ZenBusiness Term Sheet Sync — 11:00 AM (passed)
+- Middesk/Gusto: Workflow review — 11:30 AM (passed)
+- REMINDER - Add Update to Corp/Partner Dev Weeklies — 12:00 PM (passed)
+
+The only item left today is **"Send Weekly Partner Stats to team"** (3:30–4:00 PM) — but that's a task block with no attendees, not a meeting to prep for.
+
+Since this agent's job is to prep you *before* meetings happen, and today's substantive meetings are already done, there's nothing left today that needs forward-looking prep. A couple options:
+
+1. **Prep for tomorrow instead** — I can pull tomorrow's calendar and run the full brief.
+2. **Recap mode** — if you want, I can instead summarize how today's meetings actually went (Corp & Partner Dev, Brandon/Mal, ZenBusiness Term Sheet Sync, Middesk Workflow Review) using Granola transcripts, and flag any new commitments/decisions to write back to memory.
+
+Which would you like — tomorrow's prep, today's recap, or both?
+**OBSIDIAN WRITE: ✅ `90-Maximus/meeting-prep/2026-07-17-meeting-prep.md`** (appended a 4:14 PM re-check pass)
+
+## Summary
+
+Today's calendar is fully closed out — this is the fourth prep pass run today (prior passes at 1:05, 2:12, 3:07 PM already exist in the note), and nothing changed:
+
+- **All meetings with attendees have occurred**: Corp & Partner Dev weekly, Brandon/Mal, ZenBusiness Term Sheet Sync (outcome known via Granola), and Middesk/Gusto Workflow Review.
+- **Middesk Workflow Review still has no synced transcript**, ~5 hours after it ended — COM-015 (Chris→Lolo co-build cadence) and COM-016 (Middesk's verbal 10/1 headless-API commitment) remain unresolved. Worth checking again in tomorrow morning's brief rather than pushing for another same-day re-check.
+- The only other item today, "Send Weekly Partner Stats to team" (3:30–4:00 PM), had no attendees and has now passed.
+- No new decisions/commitments/people surfaced this pass — memory files (`commitments.md`, `decisions.md`, `people.md`) are unchanged.
+
+**NOTES ON RISKS / DECISIONS NEEDED** (carried forward, unresolved):
+1. Mid-desk's 90-day renewal notice window closes ~Jul 28 (11 days out) — Brandon's negotiation POV draft is due to Chris/Jessica/Andrew ~Jul 27 with no visible progress logged.
+2. ZenBusiness term sheet close (end of July target) competes for the same time window.
+3. Two unresolved double-bookings (Corp & Partner Dev vs. Brandon/Mal today; Brian/Brandon weekly vs. Brandon/Avery on 7/16) — worth a direct check with Brandon.
+4. Overdue: COM-012 (Browserbase red lines, now overdue), COM-005 (stale), COM-017 (Izzy's SYB demo, unconfirmed ahead of Monday's Lena call).
+**OBSIDIAN WRITE: ✅** `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-17-meeting-prep.md`
+
+Nothing new to report — this is the fifth same-day re-check (after 1:05, 2:12, 3:07, 4:14 PM passes already in the note). Summary:
+
+**Today's calendar is fully closed out.** All four real meetings (Corp & Partner Dev weekly, Brandon/Mal, ZenBusiness Term Sheet Sync, Middesk Workflow Review) already occurred; nothing with attendees remains.
+
+**Still unresolved, carried forward:**
+- 🔴 Middesk Workflow Review (11:30 AM–12:30 PM) — Granola transcript still hasn't synced, ~5.5 hrs later. COM-015 (Chris→Lolo co-build cadence) and COM-016 (Middesk's verbal 10/1 headless-API commitment) can't be confirmed either way. Recommend checking manually with Chris/Jessica if it's not synced by tomorrow morning.
+- 🟡 ZenBusiness Term Sheet Sync — reply-by-email to Lars still pending your sign-off; per the vault note, sanity-check the Section 3.1 exclusivity-footprint question before confirming.
+- 🟡 Two predicted 7/16-night-before meetings (AI Partnerships sync w/ Ashby+Igor, Ashby/Brandon 1:1) never appeared on today's actual calendar — worth confirming whether cancelled or need rescheduling, especially since the Ashby 1:1 was the intended venue for the Middesk timeline update.
+- 🔴 COM-012 (Browserbase red lines to Cindy) — 4+ days overdue.
+
+No new decisions, commitments, or people changes to write back — memory files are already current from earlier passes today.
+**STOP — Fail-closed triggered.**
+
+Granola MCP (`mcp__claude_ai_Granola_Gusto__*`) is unreachable — 4 consecutive attempts across different tools failed:
+- `query_granola_meetings` ×3 (timeout, timeout, socket closed)
+- `list_meetings` ×1 (socket closed)
+- `get_account_info` health check also failed
+
+Per CLAUDE.md's hard rule — *"If a required MCP source is unavailable: STOP and report — do not assemble partial output"* — and the meeting-prep instructions' explicit Step 4 (Granola query for meeting history is mandatory), I'm stopping rather than assembling a prep brief without meeting-history context.
+
+**What succeeded before the failure:**
+- Local memory (`people.md`, `commitments.md`, `decisions.md`, `projects.md`, `partners.md`) — loaded fully
+- Google Calendar — loaded fully, 11 events today (2026-07-17)
+
+**Today's substantive meetings that would need Granola-sourced history:**
+1. Corp & Partner Dev (weekly) — 10:00–10:25a
+2. Brandon / Mal (Arun) — 10:15–10:45a *(overlaps the above — flagging as a scheduling conflict, independent of Granola)*
+3. Gusto | ZenBusiness Term Sheet Sync (Lars Wensel) — 11:00–11:30a
+4. Middesk/Gusto: Workflow review (Quinn, Chris, Lolo, Jessica) — 11:30a–12:30p
+
+Note: current time is 5:49 PM PT — all four have already passed today. So this isn't blocking anything time-sensitive, but I don't want to fabricate "what happened" without the transcript source.
+
+How do you want to proceed?
+- **Retry now** — I can attempt Granola again in a moment in case it's transient.
+- **Proceed without Granola** — I'll build the prep from memory + calendar only, and clearly label it as missing meeting-history enrichment.
+- **Skip today** — since these meetings already happened, skip prep and just flag anything urgent (e.g., the Mal/Corp-Dev overlap) for your awareness.

@@ -1,6 +1,6 @@
 # Commitments
 
-_Last updated: 2026-07-13_
+_Last updated: 2026-07-17_
 
 Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 
@@ -8,23 +8,35 @@ Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 
 ## Open
 
+**COM-020** — Brandon → Chris Elkins / Jessica Sacks / Andrew Adams
+- **What:** Draft a philosophical-level MidDesk renewal negotiation POV (pillars: earned-maturity pricing, invoice-credit teeth, MFN clause waiver, "12 locals = 70% of market" scope philosophy) for them to react to
+- **Due:** ~2026-07-27, but renewal notice window opens 2026-07-24 (7 days out as of Jul 17) — see partners.md Mid-desk entry for a date-language discrepancy (Jul 24 "opens" vs. Jul 28 "closes") that needs Brandon's clarification
+- **Status:** Open — not started as of 2026-07-17. Flagged as the single most time-critical item across every AM brief/night-before-prep/weekly-review since Jul 13; "if you do only one thing next week" line in the Jul 17 Friday Weekly Review.
+- **Source:** Slack #maximus-updates — Daily AM Briefs (Jul 16, Jul 17), Night-Before Prep (Jul 16), Friday Weekly Review (Jul 17)
+
+**COM-021** — Brandon → Lauren Snyder (self-committed)
+- **What:** DM Lauren with the Diomedes (DoubleHQ) M&A market-scan comparison targets Brandon is tracking, to feed Delia He's market scan
+- **Due:** Self-committed 2026-07-14 — now 3 days overdue as of 2026-07-17
+- **Status:** Open — flagged as stale/overdue in every brief since Jul 14; not yet sent as of Jul 17 Weekly Review.
+- **Source:** Slack #maximus-updates — Daily AM Briefs (Jul 16, Jul 17), Night-Before Prep (Jul 16), Friday Weekly Review (Jul 17)
+
 **COM-017** — Izzy Rogner-Hall → Brandon
 - **What:** Build the SYB Anthropic pitch demo prototype; send to Brittany Halldorson and Ashby Taylor for review
 - **Due:** 2026-07-15, 1:00 PM PT (same day as sync) — now overdue
-- **Status:** Open — unresolved. Not mentioned either way in the 2026-07-16 "final changes" session recap (which covered slides 5/6, not the demo slide specifically), so status remains unconfirmed rather than closed. Worth a direct check with Izzy.
-- **Source:** Granola: SYB Anthropic sync (Jul 15, 8:00 AM); "Make final changes to Anthropic materials: SYB" (Jul 16, 2:30 PM) — silent on this item
+- **Status:** Open — unresolved, and status is now further muddied: the Jul 16–17 #maximus-updates briefs and Friday Weekly Review refer to **"Natalie [Harmon] building the demo prototype"** and "Ping Natalie Harmon today to confirm demo is ready," while this commitment is still logged against Izzy. Unclear whether Izzy delegated to Natalie or these are two different work threads. Needs a direct check with Izzy before Monday's Lena call.
+- **Source:** Granola: SYB Anthropic sync (Jul 15, 8:00 AM); "Make final changes to Anthropic materials: SYB" (Jul 16, 2:30 PM); Slack #maximus-updates Night-Before Prep (Jul 16) + Friday Weekly Review (Jul 17)
 
 **COM-018** — Brandon → Izzy Rogner-Hall
 - **What:** Revise SYB Anthropic deck to joint-GTM ask framing (mirroring the accountant deck); send the accountant deck to Izzy as reference
 - **Due:** Before Monday 2026-07-20 call with Lena (Anthropic) — updated from "same-day" after the 2026-07-16 "final changes" session (DEC-010) locked in the specific edits still to implement
-- **Status:** Open — decisions locked in (DEC-010: Slide 5 → "Why Partner Together" reframe, Slide 6 asks additions), but Brandon still needs to (1) actually update slides 5 & 6 in the Claude Design file, (2) confirm the "1 in 5 new businesses" stat source before it's used live, (3) share the updated deck ahead of Monday's call
-- **Source:** Granola: SYB Anthropic sync (Jul 15, 8:00 AM); "Make final changes to Anthropic materials: SYB" (Jul 16, 2:30 PM)
+- **Status:** Open, close to done — per Jul 17 #maximus-updates (Friday Weekly Review + Daily AM Brief), the deck was **finalized 2026-07-16 with Brittany Halldorson, Ashby Taylor, and Izzy — slides 5 & 6 both confirmed done.** Remaining: (1) confirm the "1 in 5 new businesses" stat source before it's used live — still flagged as pending in the Jul 17 brief, (2) share the updated deck ahead of Monday's 11:00 AM kickoff call with Lena (now on calendar as "Start Your Business Kick-off Call with Anthropic," Jul 20 11:00–11:25 AM, attendees Ashby/Izzy/Brandon/Abhas/Bridgette/Brittany).
+- **Source:** Granola: SYB Anthropic sync (Jul 15, 8:00 AM); "Make final changes to Anthropic materials: SYB" (Jul 16, 2:30 PM); Slack #maximus-updates Friday Weekly Review (Jul 17)
 
 **COM-012** — Brandon → Cindy (Browserbase)
 - **What:** Send red lines on the Browserbase agreement: no auto-renew (explicit opt-in only), indemnity language, no marketing use of Gusto name/logo without written consent, 48-hour breach notice, data minimization confirmed configurable, exclude user contributions from content license grant
 - **Due:** 2026-07-13 (same day as call)
-- **Status:** Open
-- **Source:** Granola: Gusto<>Browserbase (Jul 13)
+- **Status:** Completed — confirmed sent Monday (Jul 13) per Slack #maximus-updates Daily AM Brief + Friday Weekly Review (Jul 17): "Browserbase red lines COM-012 ✅." Allison Hess now reviewing; follow-up "Review Browserbase redlines" meeting on calendar for Jul 21, 11:30 AM.
+- **Source:** Granola: Gusto<>Browserbase (Jul 13); Slack #maximus-updates Friday Weekly Review (Jul 17)
 
 **COM-013** — Cindy (Browserbase) → Brandon
 - **What:** Send Browserbase's DPA for review (relevant only if deal stays at $18K/year, below Browserbase's $60K+ threshold for accepting Gusto's own DPA)
