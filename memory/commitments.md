@@ -32,12 +32,6 @@ Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 - **Status:** Open, close to done — per Jul 17 #maximus-updates (Friday Weekly Review + Daily AM Brief), the deck was **finalized 2026-07-16 with Brittany Halldorson, Ashby Taylor, and Izzy — slides 5 & 6 both confirmed done.** Remaining: (1) confirm the "1 in 5 new businesses" stat source before it's used live — still flagged as pending in the Jul 17 brief, (2) share the updated deck ahead of Monday's 11:00 AM kickoff call with Lena (now on calendar as "Start Your Business Kick-off Call with Anthropic," Jul 20 11:00–11:25 AM, attendees Ashby/Izzy/Brandon/Abhas/Bridgette/Brittany).
 - **Source:** Granola: SYB Anthropic sync (Jul 15, 8:00 AM); "Make final changes to Anthropic materials: SYB" (Jul 16, 2:30 PM); Slack #maximus-updates Friday Weekly Review (Jul 17)
 
-**COM-012** — Brandon → Cindy (Browserbase)
-- **What:** Send red lines on the Browserbase agreement: no auto-renew (explicit opt-in only), indemnity language, no marketing use of Gusto name/logo without written consent, 48-hour breach notice, data minimization confirmed configurable, exclude user contributions from content license grant
-- **Due:** 2026-07-13 (same day as call)
-- **Status:** Completed — confirmed sent Monday (Jul 13) per Slack #maximus-updates Daily AM Brief + Friday Weekly Review (Jul 17): "Browserbase red lines COM-012 ✅." Allison Hess now reviewing; follow-up "Review Browserbase redlines" meeting on calendar for Jul 21, 11:30 AM.
-- **Source:** Granola: Gusto<>Browserbase (Jul 13); Slack #maximus-updates Friday Weekly Review (Jul 17)
-
 **COM-013** — Cindy (Browserbase) → Brandon
 - **What:** Send Browserbase's DPA for review (relevant only if deal stays at $18K/year, below Browserbase's $60K+ threshold for accepting Gusto's own DPA)
 - **Due:** Unspecified — pending
