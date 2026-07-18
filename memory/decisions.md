@@ -58,6 +58,21 @@ Format: DEC-XXX | Summary | Date | Owner | Source
 - **Decided by:** Brandon + Izzy Rogner-Hall + Ashby Taylor + Brittany Halldorson
 - **Source:** Granola: "Make final changes to Anthropic materials: SYB" (Jul 16, 2:30 PM)
 
+**DEC-011** — Project Diomedes (DoubleHQ): strong internal consensus landed on **Buy** as the M&A thesis, not Build or Partner. Partnership was ruled out — Gusto Books needs native ownership of decision-grade data, and a Carbon exclusivity clause would need resolving to even attempt light integration. Phase one if bought: Double handles data cleaning, accelerating Gusto Books for accountants. Abhas Bodas modeling integration-scope vs. build-from-scratch estimate; Delia He running a market scan (Puzzle + others) in parallel.
+- **Date:** 2026-07-14
+- **Decided by:** Abhas Bodas, Bridgette Haymaker, Evin Wick, Delia He (Brandon sideline/support, not leading — exception: the Tomer-requested M&A thesis on DoubleHQ remains Brandon's deliverable)
+- **Source:** Slack #maximus-updates — Friday Weekly Review + Daily AM Brief (Jul 17); consistent with action_items.md Strategic Watch Items detail
+
+**DEC-012** — SYB × Anthropic: joint public launch targeted for **Winter 2027**, timed to Claude for Small Business V3, with a **November NYC SMB event** floated as a possible co-marketing touchpoint. **Lena** (Anthropic) is the named contact/relationship owner going forward. Deck framing locked: "Gusto = system of record, Claude = decision layer"; anchor stat "1 in 5 new businesses comes to Gusto" (source still pending confirmation — see COM-018).
+- **Date:** 2026-07-16–17 (deck finalized Jul 16; reconfirmed in Jul 17 Friday Weekly Review ahead of Jul 20 Lena kickoff)
+- **Decided by:** Brandon + Izzy Rogner-Hall + Ashby Taylor + Brittany Halldorson (extends DEC-010)
+- **Source:** Slack #maximus-updates — Daily AM Brief + Friday Weekly Review (Jul 17)
+
+**DEC-013** — ZenBusiness term sheet (2026-07-17 sync with Lars Wensel): two new SKUs via contract amendment. **Operating Agreement** — $99 retail, matching the existing EIN pricing tier. **Publication** — pass-through cost with no margin (3rd-party vendor); existing prepaid state-fee bucket needs an addendum to cover newspaper publication fees. Path: non-binding term sheet → Brandon confirms by email → Lars submits legal ticket → addendum → signatures. Goal: close before end of July 2026.
+- **Date:** 2026-07-17
+- **Decided by:** Brandon + Lars Wensel (Zen Business) — pending Chris Elkins + Farron Hicks review before Brandon confirms by email
+- **Source:** Slack #maximus-updates — Daily AM Brief + Friday Weekly Review (Jul 17); partners.md Zen Business entry
+
 ---
 
 ## Archived
