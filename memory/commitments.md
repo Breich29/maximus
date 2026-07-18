@@ -78,6 +78,11 @@ Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 
 ## Completed
 
+**COM-012** — Brandon → Cindy (Browserbase)
+- **Completed:** 2026-07-13
+- **What:** Send red lines on the Browserbase agreement: no auto-renew (explicit opt-in only), indemnity language, no marketing use of Gusto name/logo without written consent, 48-hour breach notice, data minimization confirmed configurable, exclude user contributions from content license grant.
+- **Confirmed via:** Slack #maximus-updates Daily AM Brief + Friday Weekly Review (Jul 17): "Browserbase red lines COM-012 ✅." Allison Hess now reviewing; follow-up "Review Browserbase redlines" meeting on calendar Jul 21, 11:30 AM.
+
 **COM-019** — Brandon → Maximus (self)
 - **Completed:** 2026-07-17
 - **What:** Embed the finalized SYB demo video in `decks/gusto-anthropic-entity-formation.html` (Solution slide), using the same custom play-button treatment as the Gusto×Anthropic accountants deck. Brandon supplied `SYB with Claude - Version 2.mov` (H.264, 2160×1164, 53s) + a fresh copy of the LLC-formation screenshot. Built a `._vpwrap`/`._vpbtn` overlay (translucent black circle, white border, ▶ icon, hides on play/shows on pause) matching the accountants deck's documented pattern from [[reference_share_html_anthropic]] — that memory had the exact CSS/JS this deck's own share-some-html copy and local downloads didn't. Pushed full-fidelity (real fonts + screenshot + video) to both the local file and the hosted share-some-html page (v5) by POSTing the zip directly to the share-some-html JSON-RPC endpoint via a local Python script — bypasses the MCP tool's payload-size limit since the bytes never pass through chat context.
