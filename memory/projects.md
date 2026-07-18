@@ -81,10 +81,28 @@ _Last updated: 2026-07-17_
 ---
 
 ### Corp Dev Ramp
-- **Status:** Active — Brandon in weeks 1–4
-- **Brandon's role:** IC ramping
+- **Status:** Superseded — ramp period (May 18–Jun 13) is complete. Brandon is now in active execution across all 5 areas (see GBC, SYB, Entity Management, GustoPro, Gusto Solo above) plus MidDesk renewal negotiation, Anthropic partnership (SYB + GPro), and Project Diomedes (M&A, sideline role) below. Retained here for ramp-period history only.
+- **Brandon's role:** IC ramping (historical)
 - **Key people:** Ashby Taylor (manager), Kevin Werner (PE partner)
-- **Plan:**
+- **Plan (completed):**
   - Weeks 1–2 (May 18–30): Stakeholder meetings across all 5 areas. Week 1 = Entity/GBC side (Izzy, Farron, Andrew, Alex, Gowri). Week 2 = GustoPro side (Bridgette, Lauren, Gowri).
   - Weeks 3–4 (Jun 2–13): Step back, assess where to lean in. Mid-desk renegotiation likely quiet until Aug–Sep.
-- **Note:** Chris Elkins out May 23 – ~Jun 9. Brandon holding down strategy decisions during absence.
+- **Note:** Chris Elkins out May 23 – ~Jun 9. Brandon held down strategy decisions during absence.
+
+---
+
+### Anthropic Partnership (Cross-Area: SYB + GustoPro)
+- **Status:** Active — two parallel tracks, SYB further along
+- **Brandon's role:** Owner / partnership lead on both tracks
+- **SYB track:** Deck finalized 2026-07-16 (DEC-010, slides 5 & 6 done). Monday 2026-07-20, 11:00 AM kickoff call with **Lena** (Anthropic, named contact) — attendees Ashby, Izzy, Abhas, Bridgette, Brittany, Brandon. Joint launch target: **Winter 2027** (Claude for Small Business V3), with a November NYC SMB event floated as a co-marketing touchpoint (DEC-012). Primary ask: dedicated Anthropic partner-success POC. Remaining pre-call work: confirm "1 in 5 new businesses" stat source, resolve who's actually building the demo prototype (Izzy vs. Natalie Harmon — see COM-017), share final deck (COM-018).
+- **GPro/Accountants track:** Pitch deck delivered 2026-07-14, Bridgette presented. Ben Kagan (Anthropic) re-engaged this week (was dark) — proactively shared multi-auth MCP Notion pages, first real engagement signal since the pitch.
+- **Source:** Slack #maximus-updates — Daily AM Briefs + Friday Weekly Review (Jul 16–17); decisions.md DEC-010/DEC-012
+
+---
+
+### Project Diomedes (M&A — DoubleHQ)
+- **Status:** Active — Buy is the leading thesis (DEC-011, 2026-07-14 debrief)
+- **Brandon's role:** Sideline / support (Ashby + Delia He leading) — **exception:** the Tomer-requested M&A thesis on DoubleHQ is a named deliverable that sits with Brandon regardless of the sideline framing, and has no completion evidence yet per action_items.md.
+- **Key people:** Abhas Bodas (modeling integration-scope vs. build estimate), Bridgette Haymaker, Evin Wick, Delia He (running market scan), Ben Stein (DoubleHQ CEO)
+- **Current focus:** Partnership ruled out (Gusto Books needs native data ownership; Carbon exclusivity clause too messy). Abhas modeling build-vs-buy; Delia running a market scan (Puzzle + others) — Brandon owes her his own tracked comparison targets (COM-021, overdue since Jul 14). Diomedes Financials call with Ben Stein on calendar for Jul 21, 2:00 PM (Brandon sidecar).
+- **See:** action_items.md Strategic Watch Items for full negotiation/diligence history.
