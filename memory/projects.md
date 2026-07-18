@@ -31,6 +31,8 @@ _Last updated: 2026-07-17_
   - Browser base POC for first-party entity formation (go/no-go this week)
   - EIN go-to-market: sales enablement + marketing demand gen when GA
   - Seasonality: expect peak demand end of December / January
+  - **ZenBusiness term sheet (DEC-013, 2026-07-17):** Operating Agreement SKU at $99 (matches EIN tier) + Publication SKU (pass-through, no margin). Brandon reviewing with Chris + Farron before confirming with Lars Wensel by email. Goal: close before end of July.
+  - **Anthropic partnership (SYB track)** — see "Anthropic Partnership" section below for full detail. Deck finalized Jul 16 (slides 5 & 6 done, DEC-010); Monday Jul 20 11:00 AM kickoff call with Lena locked (Ashby/Izzy/Brandon/Abhas/Bridgette/Brittany attending).
 - **Note:** No exclusivity with Zen Business on building first-party (contract allows it). Brandon to advise on sales enablement strategy when EIN goes GA.
 
 ---
