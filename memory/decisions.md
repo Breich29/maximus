@@ -1,6 +1,6 @@
 # Decisions
 
-_Last updated: 2026-05-21_
+_Last updated: 2026-07-17_
 
 Format: DEC-XXX | Summary | Date | Owner | Source
 
