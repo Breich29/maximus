@@ -144,7 +144,7 @@ _Last updated: 2026-07-14_
 - **Email:** bridgette.haymaker@gusto.com
 - **Slack ID:** U03R1GRR94K
 - **Title:** "Empowering Pro / Co" (VP-level, has ExecOps: Paige Hawkins)
-- **Context:** Tentative GPro area lead. Brandon meeting with her week of May 26.
+- **Context:** GPro area lead — actively engaged as of mid-July (presented the Anthropic accountant pitch Jul 14). DM thread 2026-07-13: raised whether prior payroll-side Xero-for-accountants integration work can extend to GPro, plus a tax-filing-API value prop; Brandon offered to facilitate a session between the technical solutions team (Xero) and GPro product folks — outcome unconfirmed. Also on the Project Diomedes debrief attendee list.
 
 ### Lauren Snyder
 - **Email:** lauren.snyder@gusto.com
