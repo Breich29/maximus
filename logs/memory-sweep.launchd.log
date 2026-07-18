@@ -1,0 +1,27 @@
+OBSIDIAN WRITE: ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/memory-sweep/2026-07-17-memory-sweep.md`
+
+**Weekly Memory Sweep — 2026-07-17**
+---
+**Direct Updates (applied to .md files):**
+- People refreshed: 1 Slack ID backfilled (Devesh Verma), 1 context update (Bridgette Haymaker)
+- New people added: 3 — Delia He, Phil Tesorero (direct DM contacts), Ben Stein (DoubleHQ CEO, already well-established elsewhere)
+- Slack IDs backfilled: 1
+- Deactivated accounts moved: 0
+- Channel-sync catch-up (Phase 2B): **ran** — cursor was 43.7h stale because the daily job failed Jul 16 22:00 (Slack auth error). Extracted 5 unsynced messages (2 AM briefs, 1 night-before prep, 1 Friday Weekly Review, 1 Notion draft) → 3 new decisions, 2 new + 3 updated commitments, and a substantial projects.md refresh (GBC/SYB/GustoPro + 2 new sections: Anthropic Partnership, Project Diomedes).
+
+**Pending Brandon's Review (in action_items.md):**
+- 2 new people (non-DM) — Kyle Everly, Natalie Harmon
+- 0 new projects (Diomedes/Anthropic were already tracked informally; promoted to projects.md, not newly detected)
+- 5 commitment changes — COM-012 completed, COM-017 flagged ambiguous (Izzy vs. Natalie), COM-018 near-done, COM-020/COM-021 new
+- 0 departures/role changes
+
+**Flagged, not silently resolved:**
+- MidDesk notice-window date conflict (Jul 24 "opens" vs. Jul 28 "closes")
+- COM-017's demo-prototype owner is ambiguous (Izzy vs. Natalie Harmon)
+
+**Operational risks worth your attention (found while verifying, not memory content):**
+- **GitHub backup is stale** — 31 local commits haven't pushed to origin/main since ~Jul 10 (confirms the Weekly Review's flag). I didn't push/merge myself — that's your call.
+- The **channel-sync launchd job failed Jul 16 night** on a Slack auth error ("Not logged in"), which is why the Phase 2B catch-up was needed. Worth checking whether other scheduled jobs are hitting the same auth issue — `daily-brief.log` hasn't run since Jul 13.
+- `meeting-prep.log` shows that job firing every ~15 minutes all day today — looks like a runaway trigger, not intended cadence.
+
+Full detail, including the deferred ~2-month DM backfill decision and validator results (no ID/duplicate/link errors found), is in the Obsidian note linked above.

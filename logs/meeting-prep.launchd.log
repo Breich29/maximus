@@ -2973,3 +2973,13 @@ How do you want to proceed?
 - **Retry now** — I can attempt Granola again in a moment in case it's transient.
 - **Proceed without Granola** — I'll build the prep from memory + calendar only, and clearly label it as missing meeting-history enrichment.
 - **Skip today** — since these meetings already happened, skip prep and just flag anything urgent (e.g., the Mal/Corp-Dev overlap) for your awareness.
+The Google Calendar MCP (`Gcal_Gusto`) failed twice — first a socket error, then a 936-second timeout with no response. Per the fail-closed rule in `agents/calendar.md` and the CLAUDE.md hard rule ("if a required MCP source is unavailable: STOP and report — do not assemble partial output"), I'm stopping here rather than assembling a meeting-prep brief without real calendar data.
+
+**FAILURE REPORT**
+
+- **Failed source:** Google Calendar MCP (`mcp__claude_ai_Gcal_Gusto__list_events`)
+- **Symptom:** First call — socket connection closed unexpectedly. Retry — no response/progress for 936s, timed out.
+- **Impact:** Cannot confirm today's (2026-07-17) meeting schedule, attendees, or times. Per the calendar agent's fail-closed rule, I will not infer or reconstruct a schedule from memory/Granola alone.
+- **What did load successfully:** memory/people.md, commitments.md, decisions.md, projects.md, partners.md — all current as of 2026-07-17. Notable context already in hand for whenever the calendar is reachable: COM-020 (Middesk POV, top-priority/overdue), COM-021 (Lauren Snyder DM, 3 days overdue), COM-017/018 (SYB Anthropic deck loose ends ahead of Monday's Lena call), and the Mal Arun 1:1 flagged at 10:15 AM with no prior context.
+
+**Next step:** Retry the calendar fetch (transient MCP issue), or if it's persistently down, tell me and I can check `/mcp` status or an alternate path — but I won't fabricate today's schedule in the meantime.
