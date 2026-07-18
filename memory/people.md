@@ -1,6 +1,6 @@
 # People
 
-_Last updated: 2026-07-14_
+_Last updated: 2026-07-17_
 
 ---
 
