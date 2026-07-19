@@ -2983,3 +2983,529 @@ The Google Calendar MCP (`Gcal_Gusto`) failed twice — first a socket error, th
 - **What did load successfully:** memory/people.md, commitments.md, decisions.md, projects.md, partners.md — all current as of 2026-07-17. Notable context already in hand for whenever the calendar is reachable: COM-020 (Middesk POV, top-priority/overdue), COM-021 (Lauren Snyder DM, 3 days overdue), COM-017/018 (SYB Anthropic deck loose ends ahead of Monday's Lena call), and the Mal Arun 1:1 flagged at 10:15 AM with no prior context.
 
 **Next step:** Retry the calendar fetch (transient MCP issue), or if it's persistently down, tell me and I can check `/mcp` status or an alternate path — but I won't fabricate today's schedule in the meantime.
+API Error: Connection closed mid-response. The response above may be incomplete.
+API Error: Connection closed mid-response. The response above may be incomplete.
+OBSIDIAN WRITE: ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-18-meeting-prep.md`
+
+> :calendar: No meetings today.
+
+Today's calendar (Sat, Jul 18) has only a company-wide Gustoversary all-day notification and a personal 8:15am "Ryan Drop Off" — nothing requiring prep.
+
+**NOTES ON RISKS / DECISIONS NEEDED** (carried forward, unaffected by an empty calendar):
+- **COM-020** — Mid-desk renewal POV still not drafted; this remains the single most time-critical item, notice window closes ~Jul 28 (date-language discrepancy vs. "opens Jul 24" still needs your clarification).
+- **COM-021** — Overdue: DM Lauren Snyder the Diomedes market-scan comparison targets (self-committed Jul 14).
+- **COM-017/018** — Before Monday's 11:00 AM Lena kickoff: confirm who's actually building the SYB demo (Izzy vs. Natalie Harmon) and the "1 in 5 new businesses" stat source.
+- **DEC-013** — Zen Business term sheet awaiting your review with Chris/Farron before confirming with Lars by email.
+
+No draft messages to produce since there are no attendees to prep for today.
+Google Calendar MCP is failing after three attempts (socket closed / timeout). Per the fail-closed rule, I need to stop rather than assemble a partial brief without calendar data.
+
+**FAIL-CLOSED: Meeting prep cannot be completed.**
+
+- Required source: Google Calendar MCP (`mcp__claude_ai_Gcal_Gusto__list_events`)
+- Status: Unavailable — 3 consecutive attempts failed (socket connection closed unexpectedly, then timeout, then socket closed again)
+- Impact: Cannot retrieve today's (2026-07-18) meeting schedule, so no meeting-by-meeting prep can be assembled. Per CLAUDE.md hard rule ("If a required MCP source is unavailable: STOP and report — do not assemble partial output") and the meeting-prep instructions' fail-closed rule for calendar access, I'm stopping here rather than guessing at your schedule from memory/Granola alone.
+
+What I'd suggest:
+- Retry in a few minutes — the connector was still showing as "connecting" in this session's tool list, so this may resolve on its own.
+- Or if you tell me you know today's meetings, I can still pull attendee context (people.md, commitments.md, decisions.md, partners.md are all loaded) and build prep briefs manually without the calendar API.
+
+Want me to retry the calendar fetch now, or do you want to give me the meeting list directly?
+This has already been run today and produced an identical result — no work meetings on the calendar. The existing note matches exactly what I just found, so no re-write is needed.
+
+**No meetings today.**
+
+Today's calendar (2026-07-18) has only two entries, neither requiring prep:
+1. **GUSTOVERSARY: Leah Bradford** — all-day, company-wide anniversary notice
+2. **Ryan Drop Off** — 8:15–8:30 AM PT, personal (Brandon's son)
+
+The vault note at `90-Maximus/meeting-prep/2026-07-18-meeting-prep.md` already reflects this (written earlier today) and carries forward the standing watch items for awareness:
+
+- **COM-020** (top priority, unstarted): Mid-desk renewal negotiation POV — notice window closes ~Jul 28 (date discrepancy vs. "opens Jul 24" still unresolved)
+- **COM-021** (overdue since Jul 14): DM Lauren Snyder the Diomedes market-scan comparison targets
+- **COM-017/018**: SYB Anthropic deck — confirm demo-prototype owner (Izzy vs. Natalie Harmon) and the "1 in 5 new businesses" stat source before **Monday Jul 20, 11:00 AM** Lena kickoff call
+- **DEC-013 / Zen Business**: term sheet awaiting Brandon's review with Chris/Farron before confirming with Lars
+
+No new decisions or commitments to log — nothing changed from today's non-meeting calendar.
+This meeting-prep run has already been completed for today (2026-07-18, written at 02:38 AM) — likely from an earlier automated pass. It confirms the same finding I just verified independently: no substantive meetings on today's calendar.
+
+**OBSIDIAN WRITE: ✅** already exists at `90-Maximus/meeting-prep/2026-07-18-meeting-prep.md` (no changes needed — my independent calendar/Granola check matches it exactly).
+
+## DRAFT MEETING PREP MESSAGE
+
+> :calendar: No meetings today.
+
+Today's calendar (Saturday, July 18) has only two items, neither requiring prep:
+- **GUSTOVERSARY: Leah Bradford (2026)** — all-day, company-wide anniversary notice, not a meeting
+- **Ryan Drop Off** — 8:15–8:30 AM PT, personal
+
+## NOTES ON RISKS / DECISIONS NEEDED
+
+No meetings today, so nothing new to prep — but these carry-forward items from memory/commitments.md remain live and worth Brandon's attention this weekend regardless:
+
+- **COM-020 (top priority, no meeting attached):** Mid-desk renewal negotiation POV still not drafted. Renewal notice window closes ~2026-07-28 — the date-language discrepancy ("opens Jul 24" vs. "closes Jul 28") is still unresolved.
+- **COM-021 (overdue since Jul 14):** DM to Lauren Snyder with Diomedes market-scan comparison targets, still not sent.
+- **COM-017/COM-018:** Ahead of Monday 7/20, 11:00 AM Lena (Anthropic) kickoff — need to confirm who's actually building the SYB demo prototype (Izzy vs. Natalie Harmon) and confirm the "1 in 5 new businesses" stat source before it's used live.
+- **DEC-013 (Zen Business):** term sheet review with Chris/Farron still pending before Brandon confirms the two new SKUs with Lars by email — goal to close before end of July.
+
+No new decisions, commitments, or risks generated today since no meetings occurred.
+No substantive meetings on today's calendar — just an all-day Gustoversary notification and a personal school drop-off (neither needs prep). The Obsidian note for today (`90-Maximus/meeting-prep/2026-07-18-meeting-prep.md`) was already written by this morning's automated Night-Before Prep routine (02:38 AM) and I verified it's accurate and current against the same calendar pull and memory files I just checked — no update needed.
+
+---
+
+**DRAFT MEETING PREP MESSAGE(S)**
+
+> :calendar: No meetings today.
+>
+> Calendar (2026-07-18, full day PT) returned only:
+> - **GUSTOVERSARY: Leah Bradford** — all-day, company-wide notification, no prep needed
+> - **Ryan Drop Off** — 8:15–8:30 AM PT, personal, no prep needed
+
+---
+
+**NOTES ON RISKS / DECISIONS NEEDED**
+
+No meeting-driven risks or decisions today. Carried-forward watch items from memory (unrelated to today's empty calendar, but worth keeping in view since nothing today displaces them):
+
+- **COM-020** (top priority, still not started): Mid-desk renewal negotiation POV. Notice window closes ~2026-07-28 — the "opens Jul 24" vs. "closes Jul 28" date-language discrepancy in partners.md is still unresolved and worth clarifying soon.
+- **COM-021** (overdue since Jul 14): DM Lauren Snyder the Diomedes market-scan comparison targets.
+- **COM-017/COM-018**: SYB Anthropic deck — confirm who's actually building the demo (Izzy vs. Natalie Harmon) and the "1 in 5 new businesses" stat source before Monday 7/20, 11:00 AM Lena kickoff call.
+- **DEC-013 / Zen Business**: term sheet review with Chris/Farron still pending before Brandon confirms with Lars by email.
+
+**OBSIDIAN WRITE:** ✅ Already present and current at `90-Maximus/meeting-prep/2026-07-18-meeting-prep.md` (no changes made — verified against live calendar + memory).
+This confirms an identical run already happened this morning (02:38) with the same finding — no substantive meetings today, same carried-forward watch items. The existing file is accurate and current; no update needed.
+
+**DRAFT MEETING PREP MESSAGE(S)**
+
+> :calendar: No meetings today.
+
+Today's calendar (2026-07-18) has only two items, neither requiring prep:
+1. **GUSTOVERSARY: Leah Bradford (2026)** — all-day, automated company anniversary notice.
+2. **Ryan Drop Off** — 8:15–8:30 AM PT, personal (Brandon's son).
+
+**NOTES ON RISKS / DECISIONS NEEDED**
+
+No meeting-driven risks or decisions today. Carried-forward watch items from memory (unaffected by today's empty calendar):
+- **COM-020** (top priority, unstarted): Mid-desk renewal negotiation POV — notice window closes ~Jul 28, date-language discrepancy still unresolved.
+- **COM-021** (overdue since Jul 14): DM Lauren Snyder the Diomedes market-scan comparison targets.
+- **COM-017/COM-018**: SYB Anthropic deck — confirm demo-prototype owner and stat source before Monday's 11:00 AM Lena kickoff call (Jul 20).
+- **DEC-013 / Zen Business**: term sheet review with Chris/Farron pending before emailing Lars.
+
+**OBSIDIAN WRITE:** ✅ Already present at `90-Maximus/meeting-prep/2026-07-18-meeting-prep.md` (written earlier today, 02:38 — content verified accurate, no changes needed).
+This confirms an identical run already happened this morning (02:38 AM) and reached the same conclusion — no substantive meetings today, same two calendar items, same carried-forward watch items. No need to rewrite; it's already current and accurate.
+
+**DRAFT MEETING PREP MESSAGE(S)**
+
+> :calendar: No meetings today.
+
+Today's calendar has only two entries, neither requiring prep:
+- **GUSTOVERSARY: Leah Bradford (2026)** — all-day, company-wide notice (emb-team@gusto.com)
+- **Ryan Drop Off** — 8:15–8:30 AM PT, personal (no other attendees)
+
+**NOTES ON RISKS / DECISIONS NEEDED**
+
+No meeting-driven risks or decisions today. Carried-forward watch items from memory (unchanged, unaffected by today's empty calendar):
+- **COM-020** (top priority) — Mid-desk renewal negotiation POV still not drafted; notice window closes ~Jul 28 (Jul 24 "opens" vs. Jul 28 "closes" discrepancy still unresolved).
+- **COM-021** (overdue) — DM Lauren Snyder the Diomedes market-scan comparisons, self-committed Jul 14.
+- **COM-017/018** — SYB Anthropic deck: confirm who's building the demo (Izzy vs. Natalie Harmon) and the "1 in 5 new businesses" stat source before Monday's 11:00 AM Lena kickoff.
+- **DEC-013 / Zen Business** — term sheet review with Chris/Farron pending before confirming with Lars by email.
+
+OBSIDIAN WRITE: ✅ already current — `90-Maximus/meeting-prep/2026-07-18-meeting-prep.md` (written 02:38 AM today by an earlier run, content verified identical/accurate — no update needed).
+## Meeting Prep — 2026-07-18
+
+**Calendar pull (full day, 2026-07-18 PT):** 2 items, neither a work meeting:
+1. **GUSTOVERSARY: Leah Bradford (2026)** — all-day company anniversary notification, no prep needed.
+2. **Ryan Drop Off** — 8:15–8:30 AM PT, personal (Brandon's son), no prep needed.
+
+> :calendar: No meetings today.
+
+No attendee/history/project enrichment applicable — nothing to enrich against.
+
+**NOTES ON RISKS / DECISIONS NEEDED** (carried forward from commitments.md, not meeting-specific):
+- **COM-020** (top priority, still not started): Mid-desk renewal negotiation POV — notice window closes ~Jul 28 (date-language discrepancy vs. "opens Jul 24" still unresolved).
+- **COM-021** (overdue since Jul 14): DM Lauren Snyder the Diomedes market-scan comparison targets.
+- **COM-017/COM-018**: SYB Anthropic deck — confirm who's actually building the demo (Izzy vs. Natalie Harmon) and the "1 in 5 new businesses" stat source before Monday 7/20 11 AM Lena kickoff.
+- **DEC-013 / Zen Business**: term sheet awaiting Brandon's review with Chris/Farron before confirming with Lars by email (goal: close before end of July).
+
+**OBSIDIAN WRITE:** ✅ Already present and current — `90-Maximus/meeting-prep/2026-07-18-meeting-prep.md` (written 02:38 today by an earlier run) matches this finding exactly, so no rewrite was needed.
+This meeting-prep run has already been done for today — a note at `90-Maximus/meeting-prep/2026-07-18-meeting-prep.md` was written earlier this morning (02:38 AM), and it matches exactly what I just independently verified: today's calendar has no substantive work meetings (only an all-day company anniversary notice and Brandon's personal "Ryan Drop Off"), and the same carried-forward watch items from commitments.md.
+
+**DRAFT MEETING PREP MESSAGE:**
+
+> :calendar: No meetings today.
+
+**NOTES ON RISKS / DECISIONS NEEDED (carried forward, not meeting-specific):**
+- **COM-020** (top priority, unchanged): Mid-desk renewal negotiation POV still not drafted — notice window closes ~Jul 28; the Jul 24 "opens" vs. Jul 28 "closes" date-language discrepancy is still unresolved.
+- **COM-021** (overdue): DM to Lauren Snyder with Diomedes market-scan comparison targets — self-committed Jul 14, still not sent.
+- **COM-017/COM-018**: SYB Anthropic deck — confirm who's actually building the demo (Izzy vs. Natalie Harmon) and lock the "1 in 5 new businesses" stat source before Monday Jul 20, 11:00 AM Lena kickoff.
+- **DEC-013 / Zen Business**: term sheet awaiting your review with Chris/Farron before confirming with Lars — goal to close before end of July.
+
+OBSIDIAN WRITE: ✅ already present at `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-18-meeting-prep.md` (no changes needed — content matches this run).
+
+No memory write-backs needed — no meetings occurred, nothing new to log.
+**Calendar for 2026-07-18: no meetings.**
+
+Full-day pull returned only two items, neither substantive:
+- **GUSTOVERSARY: Leah Bradford (2026)** — company-wide anniversary notification, all-day
+- **Ryan Drop Off** — 8:15–8:30 AM PT, personal (dropping off his son)
+
+> :calendar: No meetings today.
+
+A prep note for today (`90-Maximus/meeting-prep/2026-07-18-meeting-prep.md`) already exists — written by an earlier automated routine at 02:38 today — and reaches the identical conclusion (no work meetings, same carried-forward watch items). I verified it independently rather than overwriting, since there's nothing new to add.
+
+**OBSIDIAN WRITE:** ✅ Already present and current — `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-18-meeting-prep.md`
+
+**Notes on risks / decisions needed** (carried forward from memory, not meeting-specific since there are no meetings to attach them to):
+
+- **COM-020 (top priority, still not started):** Mid-desk renewal negotiation POV. Notice window closes ~2026-07-28 — 10 days out. This has been flagged as the single most time-critical item since Jul 13 with no movement.
+- **COM-021 (overdue since Jul 14):** DM Lauren Snyder the Diomedes market-scan comparison targets.
+- **COM-017/COM-018:** Before Monday's 11:00 AM Lena (Anthropic) kickoff call — confirm who's actually building the SYB demo prototype (Izzy vs. Natalie Harmon, still unresolved) and confirm the "1 in 5 new businesses" stat source.
+- **DEC-013 / Zen Business term sheet:** Awaiting Brandon's review with Chris/Farron before confirming with Lars by email — goal to close before end of July, competing for time with the Mid-desk deadline.
+
+No new decisions, commitments, or risks to log since no meetings occurred today.
+:calendar: No meetings today (Saturday, 2026-07-18).
+
+Calendar has only two non-substantive items — a "GUSTOVERSARY: Leah Bradford (2022)" all-day reminder and "Ryan Drop Off" (personal, 8:15–8:30 AM) — neither requires prep. No Obsidian write was made since there's no meeting prep content to log.
+
+**Forward-looking flag (not today, but closest on deck):** Monday 2026-07-20, 11:00 AM PT is the SYB × Anthropic kickoff call with Lena (Ashby/Izzy/Abhas/Bridgette/Brittany/Brandon) — per commitments.md, two things are still open ahead of it: confirming the "1 in 5 new businesses" stat source (COM-018) and resolving who's actually building the demo prototype, Izzy vs. Natalie Harmon (COM-017). Also Tuesday 2026-07-21 has the Diomedes Financials call (2:00 PM, Ben Stein) and a Browserbase redlines review (11:30 AM). Want a prep brief run ahead of Monday once we're closer, or should I hold until the day-of?
+No source failures — calendar was accessible, and it matches an existing prep pass already logged for today. All checks confirm: today has no substantive work meetings.
+
+## DRAFT MEETING PREP MESSAGE
+
+> :calendar: No meetings today.
+
+Today's full-day calendar pull (2026-07-18) returned only two items, neither requiring prep:
+1. **GUSTOVERSARY: Leah Bradford** — all-day company-wide notification, no attendees to prep for.
+2. **Ryan Drop Off** — 8:15–8:30 AM PT, personal (Brandon's son), already passed.
+
+No attendee/history/project enrichment applies.
+
+## NOTES ON RISKS / DECISIONS NEEDED
+
+Carried forward from memory (unaffected by today having no meetings):
+
+- **COM-020 (top priority, unstarted):** Mid-desk renewal negotiation POV still not drafted. Notice window closes ~2026-07-28 — the Jul 24-vs-Jul 28 date-language discrepancy in partners.md is still unresolved and worth Brandon's clarification.
+- **COM-021 (overdue):** DM to Lauren Snyder with Diomedes market-scan comparison targets — self-committed 2026-07-14, now overdue.
+- **COM-017/COM-018:** SYB Anthropic deck — confirm who's actually building the demo prototype (Izzy vs. Natalie Harmon) and the "1 in 5 new businesses" stat source before Monday 2026-07-20, 11:00 AM Lena kickoff call.
+- **DEC-013 / Zen Business:** term sheet (Operating Agreement + Publication SKUs) awaiting Brandon's review with Chris/Farron before confirming with Lars by email — goal to close before end of July, same window as the Mid-desk crunch.
+
+No new decisions, commitments, or risks to log — nothing occurred today to write back.
+
+**OBSIDIAN WRITE:** ✅ `90-Maximus/meeting-prep/2026-07-18-meeting-prep.md` — already exists and matches this pass exactly (a prior run today produced an identical calendar pull and conclusion). No update needed; left as-is rather than duplicating.
+A meeting-prep note for today already exists in the vault (written earlier this morning) and it reaches the identical conclusion — I verified it against the live calendar and memory files, and it's accurate. No overwrite needed.
+
+---
+
+📅 **No meetings today.**
+
+Today's calendar (2026-07-18, full day) has only two items, neither requiring prep:
+1. **GUSTOVERSARY: Leah Bradford (2026)** — all-day company-wide notification
+2. **Ryan Drop Off** — 8:15–8:30 AM PT, personal, already passed
+
+**NOTES ON RISKS / DECISIONS NEEDED** (carried forward from memory, unaffected by today having no meetings):
+
+- 🔴 **COM-020** (top priority, per every recent brief) — Mid-desk renewal negotiation POV still not drafted. Notice window closes ~2026-07-28 (there's still an unresolved "opens Jul 24 vs. closes Jul 28" date discrepancy in partners.md that needs your clarification).
+- 🔴 **COM-021** (overdue since Jul 14) — DM to Lauren Snyder with Diomedes market-scan comparison targets, still not sent.
+- 🟡 **COM-017/COM-018** — Before Monday's 11:00 AM Lena (Anthropic) kickoff: confirm who's actually building the SYB demo prototype (Izzy vs. Natalie Harmon) and confirm the "1 in 5 new businesses" stat source.
+- 🟡 **DEC-013 / Zen Business** — Term sheet (Operating Agreement + Publication SKUs) awaiting your review with Chris/Farron before you confirm with Lars by email; goal is to close before end of July — same window as the Mid-desk deadline, competing for your time.
+
+**OBSIDIAN WRITE:** ✅ Already present and accurate at `90-Maximus/meeting-prep/2026-07-18-meeting-prep.md` — no changes made.
+No meetings today — same conclusion as an earlier run this morning (file already at `90-Maximus/meeting-prep/2026-07-18-meeting-prep.md`, matches current calendar state exactly, so no rewrite needed).
+
+## Calendar (2026-07-18, full day)
+2 items, neither a substantive work meeting:
+1. **GUSTOVERSARY: Leah Bradford (2026)** — all-day, company-wide anniversary notice. No prep applicable.
+2. **Ryan Drop Off** — 8:15–8:30 AM PT, personal (Brandon's son). No prep applicable.
+
+> :calendar: No meetings today.
+
+**OBSIDIAN WRITE:** ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-18-meeting-prep.md` (already current from a prior run today — content verified to match, left as-is)
+
+## NOTES ON RISKS / DECISIONS NEEDED
+No meeting-driven risks today. Carrying forward from memory (unaffected by the empty calendar):
+
+- **COM-020** (P0) — Mid-desk renewal negotiation POV still not drafted; notice window closes ~Jul 28 (date-language discrepancy vs. "opens Jul 24" still unresolved in partners.md).
+- **COM-021** (overdue) — DM to Lauren Snyder with Diomedes market-scan comparisons, self-committed Jul 14.
+- **COM-017/018** — SYB Anthropic deck: confirm demo-prototype owner (Izzy vs. Natalie Harmon) and the "1 in 5 new businesses" stat source before Monday's 11:00 AM Lena kickoff (Jul 20).
+- **DEC-013 / Zen Business** — term sheet awaiting your review with Chris/Farron before confirming with Lars by email; goal to close before end of July.
+
+None of these are time-sensitive to *today specifically* — no action required right now, just flagging so nothing slips given tomorrow's Lena call is close.
+**OBSIDIAN WRITE: not attempted — stopping per fail-closed rule.**
+
+**FAILURE: Google Calendar MCP unavailable.**
+
+`mcp__claude_ai_Gcal_Gusto__list_events` failed twice in a row with "socket connection was closed unexpectedly" when querying today's (2026-07-18) events. Per CLAUDE.md's hard rule — *"If a required MCP source is unavailable: STOP and report — do not assemble partial output"* — and agents/calendar.md's fail-closed clause, I'm stopping here rather than guessing at today's meeting schedule or fabricating a prep brief without it.
+
+What I did complete before hitting the blocker:
+- Loaded agents/calendar.md, agents/action-tracker.md, agents/memory.md
+- Loaded memory/people.md, commitments.md, decisions.md, projects.md, partners.md (all current as of 2026-07-17)
+
+What's blocked:
+- Calendar fetch (Google Calendar MCP) — repeated socket failure
+- Granola meeting-history query — not yet attempted, gated on calendar succeeding first per the workflow
+
+This looks like a transient connection issue with the Gcal_Gusto MCP server rather than an auth problem (no auth-required warning was raised for it). A couple of options:
+1. **Retry now** — if you want me to try again immediately.
+2. **Check `/mcp` status** — if this keeps failing, the Gcal_Gusto connector may need to be reconnected in your session.
+
+Let me know which you'd like, or if you want me to proceed a different way (e.g., you paste in today's meeting list manually).
+Confirmed: the Google Calendar MCP tool isn't available — Gcal_Gusto isn't exposing tools right now (it's either still connecting or requires re-authorization). Per the fail-closed rule, I need to stop rather than assemble a partial meeting prep.
+
+**FAILURE — required source unavailable**
+
+- **Missing source:** Google Calendar MCP (Gcal_Gusto). No calendar tools (`list_events`, `get_event`, `get_free_busy`) are exposed in this session.
+- **Rule invoked:** `agents/calendar.md` — "Fail-Closed: If calendar cannot be accessed: STOP. Report failure. Do not infer meeting schedule." Also CLAUDE.md: "If a required MCP source is unavailable: STOP and report — do not assemble partial output."
+- **What I did complete before hitting this:** loaded memory/people.md, commitments.md, decisions.md, projects.md, partners.md (all current as of 2026-07-17), and confirmed Granola meeting-history tools are available if calendar comes back online.
+- **What's needed to proceed:** the Gcal_Gusto MCP server needs to be authorized/connected — via claude.ai connector settings, or `/mcp` in an interactive session. I can't do that from here.
+
+Once Gcal_Gusto is reconnected, tell me and I'll re-run the full meeting-prep flow (calendar → attendee/commitment/history enrichment → draft briefs → Obsidian write-back).
+**No meetings today.**
+
+Both calendar items are non-substantive: an all-day "GUSTOVERSARY: Leah Bradford (2026)" notice and Brandon's personal "Ryan Drop Off" (8:15–8:30 AM). Neither needs prep, so there's nothing to enrich against people.md/commitments.md/Granola.
+
+An existing note at `90-Maximus/meeting-prep/2026-07-18-meeting-prep.md` (written earlier today, 02:38) already reached this same conclusion and lists the same carried-forward watch items — I'm not overwriting it since nothing has changed.
+
+**OBSIDIAN WRITE:** ✅ already present, unchanged — `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-18-meeting-prep.md`
+
+**Carried-forward watch items** (not meeting-specific, from commitments.md):
+- 🔴 **COM-020** (top priority, per every brief since Jul 13): Mid-desk renewal negotiation POV — still not drafted. Notice window closes ~Jul 28 (still an unresolved Jul 24-vs-Jul 28 date discrepancy — see partners.md).
+- 🔴 **COM-021** (overdue since Jul 14): DM Lauren Snyder the Diomedes market-scan comparison targets.
+- 🟡 **COM-017/COM-018**: SYB Anthropic deck — confirm who's building the demo (Izzy vs. Natalie Harmon) and the "1 in 5 new businesses" stat source before Monday's (Jul 20) 11:00 AM Lena kickoff call.
+- 🟡 **DEC-013 / Zen Business**: term sheet review with Chris/Farron still pending before confirming with Lars — goal to close before end of July.
+
+No new decisions, commitments, or risks to log — nothing happened today to write back to memory.
+This confirms an earlier run today already reached the same conclusion. This confirms my own findings independently, so I'll present the result to Brandon without needing to rewrite the vault note (already correct and current).
+
+**OBSIDIAN WRITE: ✅** `90-Maximus/meeting-prep/2026-07-18-meeting-prep.md` (already current — matches this run's findings, no changes needed)
+
+---
+
+> :calendar: No meetings today.
+
+Calendar pull for 2026-07-18 (full day) returned only 2 items, neither a substantive work meeting:
+- **GUSTOVERSARY: Leah Bradford (2026)** — all-day company-wide anniversary notification, no prep needed.
+- **Ryan Drop Off** — 8:15–8:30 AM PT, personal (Brandon's son), already passed.
+
+No attendee/history/project enrichment applicable — nothing to draft.
+
+## Carried-forward watch items (not meeting-specific)
+
+From memory/commitments.md, still open and worth Brandon's attention regardless of today's empty calendar:
+
+- 🔴 **COM-020** (top priority, all week): Mid-desk renewal negotiation POV — still not drafted. Notice window closes ~2026-07-28 (unresolved Jul 24-vs-28 date-language discrepancy in partners.md).
+- 🔴 **COM-021** (overdue since Jul 14): DM Lauren Snyder the Diomedes market-scan comparison targets for Delia He.
+- 🟡 **COM-017/COM-018**: SYB Anthropic deck — confirm who's actually building the demo (Izzy vs. Natalie Harmon) and source the "1 in 5 new businesses" stat, ahead of Monday 7/20 11:00 AM Lena kickoff call.
+- 🟡 **DEC-013 / Zen Business**: term sheet (Operating Agreement + Publication SKUs) still awaiting Brandon's review with Chris/Farron before confirming with Lars by email.
+
+No decisions, commitments, or risks to log from today — nothing changed.
+**Today (2026-07-18) — Calendar check:**
+
+Only two items today, neither requiring meeting prep:
+- **GUSTOVERSARY: Leah Bradford (2026)** — all-day automated team notification, no prep needed
+- **Ryan Drop Off** (8:15–8:30 AM) — personal, already passed
+
+> :calendar: No meetings today.
+
+Per the workflow, since there are no substantive meetings, I'm not writing a meeting-prep note to the Obsidian vault (nothing to draft) and skipping Phase 2/3.
+
+**Heads-up for what's next on the calendar** (not today, just flagging so you're not blindsided):
+- **Mon Jul 20, 11:00 AM** — SYB Anthropic kickoff call with Lena (Ashby/Izzy/Abhas/Bridgette/Brittany/Brandon). Open pre-call items: confirm "1 in 5 new businesses" stat source, resolve Izzy-vs-Natalie-Harmon demo ownership (COM-017), share finalized deck (COM-018).
+- **Tue Jul 21, 2:00 PM** — Diomedes Financials call with Ben Stein (DoubleHQ CEO), Brandon as sidecar.
+- **Tue Jul 21, 11:30 AM** — Review Browserbase redlines (Allison Hess).
+
+Want me to run full prep briefs for Monday/Tuesday now, or hold until their respective day?
+No work meetings today (Saturday, July 18). The only calendar items are the Gustoversary anniversary reminder (all-day, not an actual meeting) and Ryan Drop Off at 8:15 AM (personal, dropping off your son) — neither needs a prep brief.
+
+> :calendar: No meetings today.
+
+**Heads up for what's next:** Monday July 20, 11:00 AM has the SYB × Anthropic kickoff call with Lena (Ashby/Izzy/Abhas/Bridgette/Brittany/you attending) — that's the next meeting on the calendar worth a full prep brief. A few things are still open ahead of it per commitments.md:
+- **COM-018**: confirm the "1 in 5 new businesses" stat source; share the finalized deck with Izzy
+- **COM-017**: unresolved confusion over whether Izzy or Natalie Harmon is building the demo prototype — needs a direct check with Izzy before the call
+
+Since there's nothing to prep for today, I'm not writing an Obsidian note (nothing to log) — let me know if you'd like me to run prep now for Monday's Lena call instead.
+**No meetings today.**
+
+Today's calendar (2026-07-18, full day) contains only two entries, neither a substantive work meeting:
+1. **GUSTOVERSARY: Leah Bradford (2026)** — all-day company-wide anniversary notice, no prep needed.
+2. **Ryan Drop Off** — 8:15–8:30 AM PT, personal, already passed.
+
+A meeting-prep note for today was already written earlier (2:38 AM) at `90-Maximus/meeting-prep/2026-07-18-meeting-prep.md` and reflects the same finding — I re-verified against the calendar and memory files just now and nothing has changed, so no rewrite was needed.
+
+**OBSIDIAN WRITE:** ✅ (pre-existing, verified current — no update required)
+
+---
+
+**Carried-forward risks / decisions needed** (unaffected by the empty calendar, from commitments.md):
+
+- 🔴 **COM-020** (top priority, still not started): Mid-desk renewal negotiation POV for Chris/Jessica/Andrew — notice window closes ~Jul 28 (the Jul 24-vs-Jul 28 date discrepancy in partners.md is still unresolved).
+- 🔴 **COM-021** (overdue since Jul 14): DM Lauren Snyder the Diomedes market-scan comparison targets.
+- 🟡 **COM-017/COM-018**: Before Monday 2026-07-20, 11:00 AM Lena/Anthropic SYB kickoff — confirm who's actually building the demo prototype (Izzy vs. Natalie Harmon) and confirm the "1 in 5 new businesses" stat source.
+- 🟡 **DEC-013 / Zen Business**: term sheet review with Chris/Farron still pending before Brandon emails Lars — goal to close before end of July.
+
+Nothing to draft or send since there's no meeting today to prep for.
+**OBSIDIAN WRITE:** ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-19-meeting-prep.md`
+
+## DRAFT MEETING PREP MESSAGE(S)
+
+Today (Sunday, 2026-07-19) has **3 calendar events, all personal** — no business meetings:
+
+- Ryan Drop Off — 8:15–8:30 AM PT
+- Sunday Dinner and a Movie — 6:30–9:30 PM PT (Samantha **declined**)
+- Wunderlist Goals/Activities for the week — 7:00–8:00 PM PT
+
+> :calendar: No meetings today.
+
+## NOTES ON RISKS / DECISIONS NEEDED
+
+- **Personal risk flag:** Samantha declined tonight's dinner-and-movie plan — may be worth a quick check-in.
+- **Looking ahead to Monday 7/20** (not today, but the next business-relevant date): the Anthropic SYB kickoff call with Lena (11:00 AM PT) has two open pre-call items per commitments.md — COM-018 (share finalized deck + confirm the "1 in 5 new businesses" stat source) and COM-017 (resolve whether Izzy or Natalie Harmon owns the demo prototype build).
+- **Still the top-priority item overall, independent of today's calendar:** COM-020 (Mid-desk renewal negotiation POV) — undrafted, and the Jul 24 vs. Jul 28 notice-window date discrepancy in partners.md remains unresolved.
+
+No memory write-back was needed since no meetings occurred and no new signals were generated.
+This exact meeting-prep run was already completed today (00:43) with identical findings — same 3 personal-only calendar events, no work meetings, and the same tomorrow's-Lena-call heads-up. I don't need to re-write it. Here's the summary:
+
+---
+
+📅 **No meetings today** (Sunday, Jul 19). Calendar has only personal items: Ryan Drop Off (8:15 AM), Sunday Dinner and a Movie (6:30 PM — Samantha declined, worth a check-in), and Wunderlist Goals review (7:00 PM). None require business meeting-prep enrichment.
+
+**Notes on risks / decisions needed:**
+- Samantha declined tonight's dinner/movie plan — flagging in case it was unexpected.
+- Nothing business-critical today, but heads-up for **tomorrow (Mon Jul 20)**: the 11:00 AM SYB × Anthropic kickoff call with Lena is the next real meeting, with two open pre-call items — COM-018 (share finalized deck, confirm the "1 in 5 new businesses" stat source) and COM-017 (resolve whether Izzy or Natalie Harmon owns the demo prototype build).
+- COM-020 (Mid-desk renewal POV draft) remains the single most overdue/time-critical item on the board independent of today's calendar.
+
+OBSIDIAN WRITE: ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-19-meeting-prep.md` (already present from an earlier run today — content verified matching, no changes needed).
+
+No memory write-back required — no new meetings occurred, no new signals to log.
+This meeting prep already ran today and reached the same conclusion — the file is already in place, so nothing new to write. I'll just relay the result.
+
+**OBSIDIAN WRITE:** ✅ already present at `90-Maximus/meeting-prep/2026-07-19-meeting-prep.md` (no changes needed — content matches this run's findings)
+
+---
+
+## DRAFT MEETING PREP MESSAGE(S)
+
+> :calendar: **No meetings today.**
+
+Today (Sunday, 2026-07-19) has only 3 personal calendar items — none require business meeting-prep enrichment:
+- **Ryan Drop Off** — 8:15–8:30 AM PT (solo)
+- **Sunday Dinner and a Movie** — 6:30–9:30 PM PT (Samantha: **declined**)
+- **Wunderlist Goals/Activities for the week** — 7:00–8:00 PM PT (solo)
+
+## NOTES ON RISKS / DECISIONS NEEDED
+
+- **Personal flag:** Samantha declined "Sunday Dinner and a Movie" tonight — worth a quick check-in if unexpected.
+- **Looking ahead to Monday (2026-07-20):**
+  - **11:00–11:25 AM PT** — SYB Kick-off Call with Anthropic (Lena) — Ashby, Izzy, Brandon, Abhas, Bridgette, Brittany. Pre-call opens: **COM-018** (confirm "1 in 5 new businesses" stat source, share finalized deck) and **COM-017** (unresolved — Izzy vs. Natalie Harmon on demo prototype ownership).
+  - **COM-020** (Mid-desk renewal POV draft) remains the single highest-priority open item — still not started, and the notice-window deadline (Jul 24 vs. Jul 28 date-language discrepancy in partners.md) is unresolved and closing in.
+
+No memory write-back needed — no new signals from an empty calendar day.
+This has already been run today (00:43 AM) and reached the identical conclusion. No need to duplicate the work.
+
+**Today (Sunday, Jul 19): No meetings.**
+
+Calendar has only personal events — Ryan Drop Off (8:15 AM), Wunderlist weekly planning (7 PM), and Sunday Dinner and a Movie (6:30 PM, Samantha declined). None require business meeting-prep enrichment, and a prep note for today was already written to the vault earlier this morning (`90-Maximus/meeting-prep/2026-07-19-meeting-prep.md`) reaching the same conclusion — no need to duplicate it.
+
+**Carried forward for awareness:**
+- **Mon Jul 20, 11:00 AM PT** — SYB Anthropic kickoff call with Lena. Pre-call opens: COM-018 (share finalized deck, confirm "1 in 5 new businesses" stat) and COM-017 (resolve Izzy vs. Natalie Harmon on demo ownership).
+- **COM-020** (Mid-desk renewal POV) is still the top time-critical item — not started, notice-window pressure ongoing.
+- Personal flag: Samantha declined tonight's dinner/movie plan — worth a quick check-in if unexpected.
+
+No memory write-back needed since no meetings occurred today.
+**Calendar check complete.** Today (Sun, Jul 19, 2026) has no work meetings — only personal calendar items: Ryan drop-off (8:15 AM), Sunday Dinner and a Movie (6:30 PM — note Samantha declined), and a Wunderlist goals block (7:00 PM). None of these carry attendee/commitment/project context requiring a business prep brief.
+
+> :calendar: No meetings today.
+
+**Heads-up for tomorrow (Mon, Jul 20):** your calendar's next work item is the 11:00 AM **SYB Anthropic kickoff with Lena** (Ashby/Izzy/Abhas/Bridgette/Brittany/you) — still open going into it: confirming the "1 in 5 new businesses" stat source, resolving who's actually building the demo (Izzy vs. Natalie Harmon, COM-017), and sharing the finalized deck (COM-018). Also still outstanding and time-sensitive regardless of meetings: COM-020 (Mid-desk renewal POV — flagged "if you do only one thing" since Jul 13, notice window ~Jul 24–28) and COM-021 (Lauren Snyder DM, 5 days overdue).
+
+No memory write-back needed since no meetings occurred today — nothing new to log. Let me know if you'd like a look-ahead prep for tomorrow's Lena kickoff instead.
+A meeting-prep note for today already exists (written at 00:43 AM PT), and my independent run reached the identical conclusion. No new information to add — I'll skip rewriting it.
+
+## Summary
+
+**No work meetings today (Sunday, 2026-07-19).** Calendar shows only 3 personal events:
+- Ryan Drop Off — 8:15–8:30 AM PT
+- Sunday Dinner and a Movie — 6:30–9:30 PM PT (**Samantha declined** — may be worth a quick check-in)
+- Wunderlist Goals/Activities — 7:00–8:00 PM PT
+
+> :calendar: No meetings today.
+
+**Looking ahead — Monday 2026-07-20 (already on record, not today's task but worth front-loading):**
+- **11:00–11:25 AM PT** — SYB Kick-off Call with Anthropic (Lena) — Ashby, Izzy, Brandon, Abhas, Bridgette, Brittany. Two pre-call open items: COM-018 (confirm "1 in 5 new businesses" stat source + share finalized deck) and COM-017 (resolve whether Izzy or Natalie Harmon owns the demo prototype).
+- **COM-020** (Mid-desk renewal POV draft) remains the single most time-critical item overall, independent of today's empty calendar.
+
+A meeting-prep note for today (`90-Maximus/meeting-prep/2026-07-19-meeting-prep.md`) was already written earlier this morning and reached the same conclusion — no changes needed, no new memory write-back required since no meetings occurred.
+No new run needed — this exact day was already prepped earlier today. Confirmed by re-pulling calendar/memory: the existing note matches current state exactly.
+
+**DRAFT MEETING PREP MESSAGE(S)**
+
+> :calendar: No meetings today.
+
+Today (Sunday, 2026-07-19) has 3 calendar events, all personal — none require business meeting-prep enrichment:
+
+———
+📅 *Ryan Drop Off* — 8:15–8:30 AM PT (solo, no enrichment applicable)
+
+📅 *Sunday Dinner and a Movie* — 6:30–9:30 PM PT
+*Attendees:* Brandon (organizer), Samantha (**declined**)
+
+*Watch out for:* Samantha declined this. Worth a quick check-in if unexpected.
+———
+📅 *Wunderlist Goals/Activities for the week* — 7:00–8:00 PM PT (solo, no enrichment applicable)
+———
+
+**NOTES ON RISKS / DECISIONS NEEDED**
+
+- No business meetings today → no attendee/project/commitment enrichment applies.
+- Looking ahead to **Monday 7/20, 11:00–11:25 AM PT** — SYB Kick-off Call with Anthropic (Lena): pre-call opens are COM-018 (share finalized deck, confirm "1 in 5 new businesses" stat source) and COM-017 (resolve Izzy vs. Natalie Harmon on demo ownership).
+- **COM-020** (Mid-desk renewal POV) remains the single most time-critical open item overall, independent of today's empty calendar.
+
+**OBSIDIAN WRITE:** ✅ Already present at `90-Maximus/meeting-prep/2026-07-19-meeting-prep.md` (written 00:43 PT today) — content verified to match current calendar/memory state; no update needed.
+
+No memory write-back required — no new signals generated today.
+**:calendar: No meetings today.** (Sunday, Jul 19 — calendar shows only personal items: Ryan Drop Off 8:15am, Wunderlist Goals review 7pm, Sunday Dinner and a Movie 6:30pm, which Samantha has declined.)
+
+Since there's nothing to prep for today, I didn't write an Obsidian note — no per-meeting content to record.
+
+One heads-up for tomorrow (Monday, Jul 20) since it's a big day and this is effectively the night-before window:
+
+- **11:00 AM — SYB Anthropic Kickoff Call with Lena** (Ashby, Izzy, Abhas, Bridgette, Brittany, Brandon). Per COM-018, two loose threads before this call: (1) "1 in 5 new businesses comes to Gusto" stat source still unconfirmed, (2) unclear whether Izzy or Natalie Harmon is building the demo prototype (COM-017) — worth a quick check with Izzy before the call.
+- **COM-020** (MidDesk renewal POV) is still not started and remains the single most time-critical item — renewal notice window context has an unresolved Jul 24 vs. Jul 28 date discrepancy per partners.md that's worth resolving this week.
+
+Let me know if you'd like a full prep brief for Monday's Lena call now, or want me to hold it for tomorrow's morning brief.
+This meeting-prep has already been run today — the file at `90-Maximus/meeting-prep/2026-07-19-meeting-prep.md` (written earlier today) reflects the same conclusion I independently reached: today (Sunday, Jul 19) has zero business meetings on Brandon's calendar, only 3 personal events.
+
+**Today's calendar (verified just now):**
+- Ryan Drop Off — 8:15–8:30 AM PT (solo)
+- Sunday Dinner and a Movie — 6:30–9:30 PM PT — **Samantha declined**
+- Wunderlist Goals/Activities for the week — 7:00–8:00 PM PT (solo)
+
+None require business meeting-prep enrichment (no attendees/projects/commitments apply).
+
+> :calendar: No meetings today.
+
+**Notes on risks / decisions needed:**
+- Personal flag: Samantha declined the Sunday dinner/movie plan — worth a quick check-in if unexpected.
+- Nothing to push on business-wise today, but heads-up for **tomorrow (Mon Jul 20)**: the SYB Anthropic kickoff call with Lena at 11:00–11:25 AM PT is the next real meeting, with two open pre-call items — COM-018 (confirm the "1 in 5 new businesses" stat source, share finalized deck) and COM-017 (resolve whether Izzy or Natalie Harmon owns the demo prototype build).
+- COM-020 (Mid-desk renewal POV) remains the top-priority overdue item independent of today's empty calendar.
+
+No new memory write-back needed since no meetings occurred and no state changed. The existing Obsidian note is accurate and current — no changes made.
+**OBSIDIAN WRITE: ✅ /Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-19-meeting-prep.md**
+
+## DRAFT MEETING PREP MESSAGE
+
+> :calendar: **No meetings today.**
+
+Today (Sun Jul 19) has only personal calendar items: Ryan Drop Off (8:15 AM), Sunday Dinner and a Movie (6:30 PM — **Samantha declined**, worth a quick check-in), and Wunderlist weekly goals review (7 PM). Nothing requires business meeting-prep enrichment.
+
+## NOTES ON RISKS / DECISIONS NEEDED
+
+Looking ahead since tomorrow is high-stakes:
+
+- **10:00 AM PT tomorrow — "Sync on AI Partnerships" (Ashby, Igor)** — surfaced via Granola, **not currently in projects.md or on record in memory**. It's positioned as a pre-alignment slot right before the Lena kickoff. Flag: verify this is actually on Brandon's calendar — this scan of today didn't confirm it there.
+- **11:00 AM PT tomorrow — SYB Anthropic Kickoff Call w/ Lena** — Ashby, Izzy, Abhas, Bridgette, Brittany, Brandon. Two open pre-call items still unresolved per commitments.md:
+  - **COM-018**: confirm the "1 in 5 new businesses" stat source, share the finalized deck.
+  - **COM-017**: confirm with Izzy whether the demo prototype is actually done (she targeted 1pm Jul 15; unclear if delivered, and separately unclear if Natalie Harmon ended up owning it instead).
+  - New context from Granola not yet in memory: Lena is "the qualifier" and will likely bring in a product person as follow-up; NDA is confirmed so timing can be discussed live; talk-track guidance is to move fast past the vision slide (Sam Haver's feedback on the accountants pitch was too much selling upfront).
+- **COM-020 (Mid-desk renewal POV)** is still the single most overdue, highest-priority item regardless of today's quiet calendar — untouched since Jul 13 flagging.
+
+One note: a meeting-prep file for today already existed (written earlier this morning) — I enriched it with the new Granola findings above rather than duplicating it.
