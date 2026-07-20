@@ -184,6 +184,20 @@ _Last updated: 2026-07-17_
 
 ### Namrata Jain _(see Tier 1 above)_
 
+### Abhas Bodas
+- **Email:** abhas.bodas@gusto.com
+- **Slack ID:** U06E3UMLT9Q
+- **Title:** Head of Gusto Pro and Company
+- **Team:** Applications Engineering | Reports to: Rohini Pradeep (Head of Applications Engineering)
+- **Context:** Engineering umbrella across three of Brandon's five surfaces — Gusto Pro (via Ian Smith), GBC (via Alex Kehayias), and SYB/Gusto Solo (via Namrata Jain); 66 total reports. Not a day-to-day contact but strategically important given scope overlap; escalation path for engineering-side blockers. Also modeling Project Diomedes integration-scope vs. build-from-scratch estimate. Attendee on the 2026-07-20 SYB Anthropic kickoff call with Lena. Resolved 2026-07-19 via Glean + vault `40-Stakeholders/Abhas-Bodas.md` (had been sitting in action_items.md as a "needs confirmation" new-person flag since appearing in 3+ meetings).
+
+### Brittany Halldorson
+- **Email:** brittany.halldorson@gusto.com
+- **Slack ID:** U09R5MNH066
+- **Title:** Product Marketing
+- **Team:** Partner Marketing (Marketing dept) | Reports to: Fara Howard (Head of Marketing) | Started: 2025-11-17
+- **Context:** Recurring attendee across the Anthropic partnership track (pitch Jul 2/7/14, deck-finalization Jul 16, SYB kickoff Jul 20) — appears to co-drive go-to-market/marketing input on both Anthropic tracks. Per a 2026-07-19 Granola query, also runs the "AI Services Marketplace" shadow op with Colleen (unresolved surname) — a full-time PM role is actively hiring for it; not yet tracked in projects.md, worth confirming scope with Ashby. Resolved 2026-07-19 via Glean (had been flagged in action_items.md since 2026-07-19 despite crossing the 2+-meeting auto-detection threshold earlier).
+
 ### Chelseah Henzaga
 - **Email:** chelseah.henzaga@gusto.com
 - **Slack ID:** U0817391U01

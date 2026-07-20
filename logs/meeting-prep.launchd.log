@@ -4749,3 +4749,166 @@ Since today's calendar is empty, the existing brief pivots to **Monday 2026-07-2
 - Nina and Spencer meetings have zero prior context — don't guess at purpose.
 
 **OBSIDIAN WRITE:** ✅ already present at `90-Maximus/meeting-prep/2026-07-19-meeting-prep.md` (07:34 AM run) — no changes needed, content still current as of 5:55 PM.
+OBSIDIAN WRITE: ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-19-meeting-prep.md` (appended addendum to existing brief)
+
+---
+
+## DRAFT MEETING PREP — 2026-07-19 (Sunday) → forward look to Monday 2026-07-20
+
+A meeting-prep brief for this exact scenario was already generated this morning (7:34 AM). I re-ran the full pipeline (calendar, memory, Granola, vault) to confirm it's still accurate — it is, nothing new landed since then. Full brief is in the vault file linked above; here's the condensed version:
+
+**Today (Sun Jul 19):** No work meetings. 3 personal events only (Ryan drop-off, Sunday dinner — Samantha declined, Wunderlist weekly review).
+
+**Tomorrow (Mon Jul 20) — dense day:**
+
+———
+📅 *Sync on AI Partnerships* — 10:00–10:25 AM PT
+*Attendees:* Ashby Taylor (manager), Igor Khayet
+*Push for:* Confirm deck (COM-018) and demo prototype (COM-017) are locked before the Lena call 35 min later.
+———
+📅 *SYB Kick-off Call with Anthropic (Lena)* — 11:00–11:25 AM PT
+*Attendees:* Ashby, Izzy, Brandon, Abhas Bodas, Brittany Halldorson — **Bridgette Haymaker declined**
+*Push for:* Nail the "1 in 5 new businesses" stat source before it's used live; confirm demo ownership (Izzy vs. Natalie Harmon).
+*Watch out for:* Bridgette's unexplained decline — every prior source had her confirmed. Raise with Ashby/Izzy first.
+———
+📅 *Ashby / Brandon 1:1* — 12:00–12:30 PM PT
+*Push for:* Debrief the Lena call; surface COM-020 (Mid-desk POV, still not started — the top-priority item across every brief since Jul 13); flag COM-021 overdue (Delia's market-scan targets).
+———
+📅 *Solo + Entity Management XFN Standup* — 1:00–1:30 PM PT
+Routine cadence. Andrew Adams present — back-channeling risk still on watch.
+———
+Plus two unfamiliar 1:1s with no memory context: **Nina<>Brandon** (12:30 PM, personal Gmail) and **Brandon<>Spencer** (3:30 PM, Blue Bottle, golden.vc) — flagged as "new, no context" rather than guessed at.
+
+**New signals found tonight (added to `action_items.md`):**
+- **Brittany Halldorson** has hit 4+ meetings on the Anthropic track but was never added to `people.md` — flagged for confirmation.
+- **"AI Services Marketplace"** — a Brittany + Colleen shadow op with an active PM hire, surfaced via Granola, not yet tracked anywhere. Worth a quick check with Ashby at tomorrow's 10 AM sync.
+- Vault note on the SYB Anthropic pitch still spells the contact **"Lina"** vs. memory's **"Lena"** — flagging the discrepancy rather than resolving it unilaterally.
+
+## Risks / Decisions Needed
+- **COM-020** (Mid-desk renewal POV) remains the single biggest open risk, independent of Monday's calendar.
+- **Bridgette's decline** needs resolving before 11 AM tomorrow.
+- Two personal/unknown 1:1s tomorrow have zero context — worth a heads-up to yourself on what hat to wear.
+Checked the automation logs — this exact meeting-prep job has run ~18 times today alone (every ~15 min via the `meetingprep` launchd job), and today's vault note is already current as of a 6:15 PM confirmation pass. Since the calendar, commitments, decisions, and projects files I just pulled are identical to what's already recorded, I'm not appending a third redundant entry — here's the current state.
+
+## No meetings today (Sunday, 2026-07-19)
+
+Calendar has 3 personal events only, none requiring business prep:
+- **Ryan Drop Off** — 8:15–8:30 AM PT (solo)
+- **Sunday Dinner and a Movie** — 6:30–9:30 PM PT (Samantha **declined**)
+- **Wunderlist Goals/Activities for the week** — 7:00–8:00 PM PT (solo)
+
+> 📅 No meetings today.
+
+**Personal flag:** Samantha declined the dinner/movie invite — worth a quick check-in if that was unexpected.
+
+## Forward look — Monday 2026-07-20 (already captured in the vault, unchanged)
+
+———
+📅 **Sync on AI Partnerships** — 10:00–10:25 AM PT (Ashby, Igor)
+*Push for:* Confirm COM-018 (deck) and COM-017 (demo) are locked before the Lena call 35 min later.
+———
+📅 **SYB Kick-off Call with Anthropic (Lena)** — 11:00–11:25 AM PT (Ashby, Izzy, Abhas, Brittany Halldorson; **Bridgette Haymaker declined**)
+*Push for:* Nail the "1 in 5 new businesses" stat source; confirm who's actually building the demo (Izzy vs. Natalie Harmon).
+*Watch out for:* Bridgette's decline breaks from every prior planning doc — raise with Ashby/Izzy before 11 AM, don't assume it's intentional.
+———
+📅 **Ashby / Brandon 1:1** — 12:00–12:30 PM PT
+*Push for:* Debrief the Lena call; surface **COM-020** (Mid-desk renewal POV — still not started, the single most time-critical item since Jul 13) and **COM-021** (overdue market-scan targets for Delia).
+———
+📅 **Nina<>Brandon** — 12:30–1:00 PM PT — unknown external contact, no context in memory/Granola.
+📅 **Solo + Entity Mgmt XFN Standup** — 1:00–1:30 PM PT — routine; Andrew Adams present (back-channeling watch item).
+📅 **Brandon <> Spencer** — 3:30–4:00 PM PT, Blue Bottle — external VC contact (golden.vc), personal-email CC'd, no context. Confirm which hat to wear.
+———
+
+## Notes on risks/decisions needed
+- **COM-020** (Mid-desk POV) — still the top overall risk, independent of any single day's calendar.
+- **Bridgette's decline** — unresolved, needs a check before tomorrow 11 AM.
+- Two unfamiliar Monday 1:1s (Nina, Spencer) have zero prior context — flagged rather than guessed at.
+
+**Vault:** OBSIDIAN WRITE: ⏭️ Skipped — `90-Maximus/meeting-prep/2026-07-19-meeting-prep.md` already reflects this exact state (confirmed 6:15 PM pass); no new signal to add.
+
+**Worth your attention separately:** the `meetingprep` launchd job is firing every ~15 minutes continuously (18+ runs today per `logs/meeting-prep.log`), nearly all finding nothing new. That's a lot of Calendar/Granola/vault churn for a job with no real trigger to re-run that often on a day with zero work meetings — might be worth widening the interval or gating it to only run near actual meeting times.
+Today (Sunday) has no work meetings, so I extended this into a night-before prep for Monday, per Brandon's standing brief schedule. I found that this exact prep already exists — the vault note at `90-Maximus/meeting-prep/2026-07-19-meeting-prep.md` was run once this morning and re-confirmed once already this evening (~6:15 PM PT). I re-ran the full pipeline (calendar, memory, Granola) independently and got **identical results** — nothing has changed since the last pass. Rather than write a third duplicate, here's the current state:
+
+---
+
+## DRAFT MEETING PREP — Monday, July 20, 2026
+
+> :calendar: **No meetings today (Sun Jul 19)** — personal only (Ryan Drop Off, Sunday Dinner w/ Samantha declined, Wunderlist). Forward-looking to Monday.
+
+———
+:calendar: *Sync on AI Partnerships* — 10:00–10:25 AM PT
+*Attendees:* Ashby Taylor (manager), Igor Khayet
+
+*Context:* Pre-align 35 min before the Lena kickoff. Overlaps self-blocked "Deep work" — not a real conflict.
+
+*Push for:* Confirm deck (COM-018) and demo (COM-017) are locked before Lena. Gut-check the newly-surfaced "AI Services Marketplace" (Brittany + Colleen shadow op, actively hiring a PM) with Ashby.
+
+*Watch out for:* Nothing beyond standing SYB/Anthropic tracking.
+———
+:calendar: *Start Your Business Kick-off Call with Anthropic (Lena)* — 11:00–11:25 AM PT
+*Attendees:* Ashby, Izzy Rogner-Hall, Abhas Bodas, Brittany Halldorson, Brandon — **Bridgette Haymaker: DECLINED**
+
+*Context:* First live external kickoff with Lena on SYB, post Jul 16 deck finalization (DEC-010/012). Joint launch target Winter 2027.
+
+*Open items with attendees:*
+• Izzy — COM-018: confirm "1 in 5 new businesses" stat source (still unverified), share final deck
+• Izzy/Natalie Harmon — COM-017: demo ownership still ambiguous, confirm it's actually ready
+
+*Push for:* Stat-source confirmed before it's used live. Pace the call fast to dates/roadmap (Sam Haver's feedback from the accountants call: too much upfront selling).
+
+*Watch out for:*
+• **Bridgette's decline contradicts every prior source** (projects.md, COM-018, DEC-012 all had her confirmed) — flag with Ashby/Izzy: intentional or accidental?
+• Lena tends to qualify then loop in a product person follow-up.
+———
+:calendar: *Ashby / Brandon 1:1* — 12:00–12:30 PM PT
+*Attendees:* Ashby Taylor
+
+*Context:* Natural debrief slot right after Lena call.
+
+*Push for:*
+• Debrief Lena kickoff immediately
+• Status-check **COM-020** (Mid-desk POV — still not started, most time-critical item across every recent brief)
+• Diomedes: Abhas's modeling, Delia's market scan, and that Brandon still owes Delia comparison targets (**COM-021**, overdue since Jul 14)
+• ZenBusiness close (DEC-013) competing for time in the same ~10-day window as Mid-desk
+
+*Watch out for:* Two deadline-critical items landing in the same window — good moment to ask Ashby for explicit prioritization if something has to slip.
+———
+:calendar: *Nina<>Brandon* — 12:30–1:00 PM PT (Zoom)
+*Attendees:* Nina Keshavarzi — **new, no context available** (personal Gmail, no people.md/Granola history — likely personal/networking, confirm purpose)
+———
+:calendar: *Solo + Entity Management XFN Standup* — 1:00–1:30 PM PT
+*Attendees:* Namrata, Farron, Izzy, Chris Elkins, Andrew Adams, Janae, + several unresolved names already tracked in action_items.md
+
+*Watch out for:* Andrew Adams present — standing back-channeling risk.
+———
+:calendar: *Brandon <> Spencer* — 3:30–4:00 PM PT (Blue Bottle Coffee)
+*Attendees:* Spencer (golden.vc) — **new, no context available**, personal-email CC suggests this may not be a Gusto business meeting
+———
+
+## NOTES ON RISKS / DECISIONS NEEDED
+- **COM-020** (Mid-desk POV) — still the single most time-critical open item, independent of Monday's calendar.
+- **Bridgette's decline** from the Lena kickoff is unresolved and contradicts every planning document — needs resolution before 11 AM Monday.
+- **Nina** and **Spencer** meetings have zero context anywhere in memory — flagged as unknowns rather than guessed at.
+- One all-day calendar entry touching a hard-suppressed topic area was intentionally omitted per preferences.md.
+
+**OBSIDIAN WRITE:** ✅ No write needed — `90-Maximus/meeting-prep/2026-07-19-meeting-prep.md` already contains this exact, current content (last confirmed ~6:15 PM PT tonight; my independent re-run found no new information since).
+OBSIDIAN WRITE: ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-19-meeting-prep.md`
+
+**DRAFT MEETING PREP MESSAGE**
+
+> :calendar: No meetings today (Sunday, 2026-07-19) — calendar has only personal items: Ryan Drop Off (8:15 AM), Sunday Dinner and a Movie (6:30 PM, Samantha declined), Wunderlist Goals/Activities (7:00 PM).
+
+This is the third pass at today's brief (morning + 6:15 PM + this one) — I re-pulled calendar, commitments, decisions, projects, and partners fresh and nothing has changed since the last pass ~55 minutes ago.
+
+**Open items / risks carried forward (unchanged):**
+- 🔴 **COM-020** — Mid-desk renewal POV still not drafted. Top-priority item across every brief since Jul 13; renewal notice window pressure ongoing (date-language discrepancy between "opens Jul 24" vs. "closes Jul 28" still unresolved).
+- 🔴 **COM-021** — DM to Lauren Snyder with Diomedes market-scan comparisons, self-committed Jul 14, now 5 days overdue.
+- ⚠️ **Bridgette Haymaker declined** tomorrow's 11:00 AM Anthropic/Lena kickoff — deviates from every prior plan (DEC-012, COM-018), unresolved.
+
+**Push for:** Nothing today — no meetings. Tomorrow's dense day (AI Partnerships sync → Lena kickoff → Ashby 1:1 → standup → two unfamiliar external 1:1s) is already fully prepped in the vault note from the earlier passes today.
+
+**Watch out for:** Personal — Samantha's decline on tonight's dinner/movie plan is worth a quick check-in if unexpected.
+
+**Prep:** See vault note (link above) for the full Monday 2026-07-20 meeting-by-meeting breakdown — it's unchanged and current.
+
+No new decisions or commitments to write back this session; existing memory files already reflect current state.
