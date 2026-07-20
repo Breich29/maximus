@@ -138,3 +138,18 @@ _Last updated: 2026-05-21_
 **Note:** Written to `90-Maximus/meeting-prep/2026-07-17-meeting-prep.md` as a new file (not appended to 7/16's note), consistent with the 7/13→7/14 night-before-pass convention of one file per meeting date.
 
 **2:12 PM PT re-check pass (full Phase 1–3, on user request):** No material change to the 1:05 PM pass's occurred-meeting recaps (Corp & Partner Dev weekly, Brandon/Mal, ZenBusiness Term Sheet Sync, Middesk Workflow Review) — re-verified via fresh Gcal pull, per-meeting Granola queries, and the ZenBusiness/Middesk vault notes. **New finding: "Nina<>Brandon" (4:00 PM) dropped off the calendar entirely** — fresh pull shows 11 events, not 12; targeted "Nina" search returns zero results. Resolves that item's "likely personal" flag as moot rather than confirming it. Nothing with attendees remains on today's calendar. Middesk transcript still not synced. Appended to `2026-07-17-meeting-prep.md` rather than regenerating.
+
+---
+
+## 2026-07-19 — Meeting Prep (on-demand, ~7:25 PM PT) — night-before pass for Monday 7/20
+
+**Type:** Meeting prep brief. Today's (Sunday 7/19) calendar is personal-only (Ryan Drop Off, Sunday Dinner and a Movie — Samantha declined, Wunderlist weekly goals review) — no business meetings, so pivoted to Monday 7/20 as the operative "upcoming" day. Note this session's findings substantially overlap the automated night-before-prep routine that already ran earlier today (per action_items.md's "evening night-before-prep confirmation pass" timestamp) — treat this as a consolidation/confirmation pass, not net-new surfacing, except where flagged below.
+**Meetings covered (Monday 7/20):** Sync on AI Partnerships (10:00 AM, Ashby + Igor), Start Your Business Kick-off Call with Anthropic (11:00 AM, flagship — Ashby/Izzy/Abhas/Brittany, Bridgette declined), Ashby/Brandon 1:1 (12:00 PM), Solo + Entity Management XFN Standup (1:00 PM). Personal/light-touch only: Ryan Drop Off, Deep Work self-block (overlaps the AI Partnerships sync — confirmed not a real conflict), Nina<>Brandon, Brandon<>Spencer (Blue Bottle). **(SF) Anchor Week (emb-team@gusto.com, Jul 20–24) excluded per hard suppression rule — Gusto Embedded.**
+**Items presented:**
+- Resolved two long-standing action_items.md "needs confirmation" flags into people.md: Abhas Bodas (Head of Gusto Pro and Company, reports to Rohini Pradeep) and Brittany Halldorson (Product Marketing/Partner Marketing, reports to Fara Howard) — both via Glean + vault cross-check.
+- **New finding, reduces risk:** COM-017's demo-readiness ambiguity is resolved — COM-019 (completed 7/17) confirms Brandon embedded a finished demo video on the deck's Solution slide (local file + share-some-html v5), so the demo is deck-ready for Monday's call regardless of the still-open Izzy-vs-Natalie-Harmon authorship question. Updated COM-017 status accordingly.
+- COM-018's "1 in 5 new businesses" stat-source confirmation remains the single open pre-call risk item — unresolved in every source checked (Granola Jul 16 summary, commitments.md, project_syb_anthropic_deck.md).
+- Vault note `30-Projects/Anthropic - Start Your Business Pitch.md` found stale (last updated 2026-07-08, predates DEC-010/012 and the current 7-section deck structure) — flagged for a vault refresh, not corrected in this pass.
+- Two draft Slack messages prepared for Brandon's approval (not sent): a pre-call check to Izzy on stat source/demo, and a note to Ashby/Izzy on Bridgette's decline.
+
+---
