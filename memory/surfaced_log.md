@@ -153,3 +153,15 @@ _Last updated: 2026-07-20_
 - Two draft Slack messages prepared for Brandon's approval (not sent): a pre-call check to Izzy on stat source/demo, and a note to Ashby/Izzy on Bridgette's decline.
 
 ---
+
+## 2026-07-20 — Meeting Prep (same-day update pass, ~1:45 AM PT)
+
+**Type:** Meeting prep brief for today's live calendar, run on-demand shortly after an earlier automated pass (~1:27 AM PT) had already written a full `2026-07-20-meeting-prep.md`. Fresh Gcal pull confirmed the same 9 calendar entries (no drift from the earlier pass) — this was a verification + enrichment pass, not a from-scratch rebuild; existing content (Bridgette-decline risk, "AI Services Marketplace" flag, escalation-tier language) was preserved and merged rather than overwritten.
+**Meetings covered:** Start Your Business Kick-off Call with Anthropic (11:00 AM), Ashby/Brandon 1:1 (12:00 PM), Nina<>Brandon (12:30 PM), Solo + Entity Management XFN Standup (1:00 PM), Sync on AI Partnerships (3:00 PM), Brandon<>Spencer/Blue Bottle (3:30 PM). Ryan Drop Off, Deep Work block, and "(SF) Anchor Week" (Gusto Embedded — hard-suppressed) excluded from prep, consistent with prior passes.
+**New findings added to the existing note (not previously captured):**
+- Ashby/Brandon 1:1 section enriched with the last recorded 1:1's actual topics (Granola, Jun 25): Anthropic exclusivity decision pending, GDP/Matan pitching Anthropic solo without Igor's engagement (direct tie-in to today's 3:00 PM AI Partnerships sync), multi-client MCP POC with Ian's team, and the agencies three-pillar slide with Ben's formation-company M&A risk flag.
+- SYB Anthropic kickoff section: flagged that Lena (Anthropic) does not appear as a listed attendee on the Google Calendar invite itself (internal Gusto attendees + a room resource only) — worth confirming she's actually dialed in, distinct from the already-flagged Bridgette decline.
+- Confirmed via Granola that no prior "AI Services Marketplace"-adjacent notes exist for the Igor/Ashby sync beyond what action_items.md already had — no new signal there.
+- No changes needed to commitments.md/decisions.md/partners.md/projects.md — all facts checked this pass are consistent with the 2026-07-17 state.
+
+---
