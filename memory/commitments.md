@@ -23,8 +23,8 @@ Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 **COM-017** — Izzy Rogner-Hall → Brandon
 - **What:** Build the SYB Anthropic pitch demo prototype; send to Brittany Halldorson and Ashby Taylor for review
 - **Due:** 2026-07-15, 1:00 PM PT (same day as sync) — now overdue
-- **Status:** Open — unresolved, and status is now further muddied: the Jul 16–17 #maximus-updates briefs and Friday Weekly Review refer to **"Natalie [Harmon] building the demo prototype"** and "Ping Natalie Harmon today to confirm demo is ready," while this commitment is still logged against Izzy. Unclear whether Izzy delegated to Natalie or these are two different work threads. Needs a direct check with Izzy before Monday's Lena call.
-- **Source:** Granola: SYB Anthropic sync (Jul 15, 8:00 AM); "Make final changes to Anthropic materials: SYB" (Jul 16, 2:30 PM); Slack #maximus-updates Night-Before Prep (Jul 16) + Friday Weekly Review (Jul 17)
+- **Status:** Downgraded from blocking risk — per COM-019 (completed 2026-07-17), Brandon embedded a finished demo video (`SYB with Claude - Version 2.mov`) on the Solution slide of the live deck (local file + hosted share-some-html v5), so a working demo exists and is deck-ready ahead of Monday's Lena call. The Izzy-vs-Natalie-Harmon authorship question is still technically unresolved (unclear who produced the underlying video Brandon was "supplied" with) — worth a quick clarifying ping to Izzy for credit/continuity, but it's no longer a pre-call blocker.
+- **Source:** Granola: SYB Anthropic sync (Jul 15, 8:00 AM); "Make final changes to Anthropic materials: SYB" (Jul 16, 2:30 PM); Slack #maximus-updates Night-Before Prep (Jul 16) + Friday Weekly Review (Jul 17); commitments.md COM-019; project_syb_anthropic_deck.md Jul 17 update
 
 **COM-018** — Brandon → Izzy Rogner-Hall
 - **What:** Revise SYB Anthropic deck to joint-GTM ask framing (mirroring the accountant deck); send the accountant deck to Izzy as reference
