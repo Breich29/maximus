@@ -5874,3 +5874,109 @@ Google Calendar is unreachable after three attempts. Per the fail-closed rule, I
 1. Retry now if you think it was a blip.
 2. Check `/mcp` or the claude.ai connector settings for the Gcal_Gusto connection health.
 3. If you already know today's meeting list, tell me directly and I'll build the prep briefs from that instead of the live calendar.
+**OBSIDIAN WRITE: ✅ /Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-21-meeting-prep.md**
+
+A quick flag before the details: it's 10:41 PM PT, so today's (Jul 20) meetings have already passed — and I found that brief was already written earlier today. I built this prep for **tomorrow, July 21**, since that's the actually-upcoming day.
+
+**DRAFT MEETING PREP MESSAGE(S)** — full detail is in the vault note above. Summary of tomorrow's real (non-social) meetings:
+
+- **10:00 Corp & Partner Dev (weekly)** — Delia He attends; good moment to finally clear overdue COM-021 (Diomedes market-scan targets you owe her).
+- **11:00 Sync on AI Partnerships (Ashby, Igor)** — likely debrief of today's two Anthropic-facing meetings; Igor was flagged in Granola as "not engaged" on the GDP pitch effort despite the fragmentation problem.
+- **11:30 Review Browserbase redlines (Allison Hess)** — the venue to raise 3 vault-sourced risks: uncapped indemnity, AUP may block the exact automation you're contracting for, and a shared Intuit clearance blocker that also gates Diomedes.
+- **12:45 Skills Assessment — Manav Khurana** — worth knowing upfront: he's currently Xero's CPO/Head of Product, someone you've dealt with directly on the partner side. Real conflict-of-interest angle, not flagged elsewhere yet.
+- **2:00 Project Diomedes | Financials (Ben Stein)** — diligence call on growth/burn numbers; also a second shot at Delia for COM-021; your own named M&A-thesis deliverable for Tomer still has no completion evidence.
+
+**RISKS / DECISIONS NEEDED**
+- COM-020 (Middesk POV) has no meeting forcing it tomorrow — that's the risk itself; needs an explicit draft/reassign/descope call.
+- Three unresolved "unknown attendee" flags (Carlos Cabrera, Priyanka Upadhyay, Gavin Lacroix) recur again tomorrow at 10 AM; a new one (Brandon Swartz) shows up at 2 PM.
+- Browserbase, ZenBusiness, and Middesk all have deadlines converging within ~10 days, competing for Allison Hess's and your own bandwidth.
+
+Nothing here has been sent — all draft-only, per the hard rule. Let me know if you want the Middesk POV or the Lauren Snyder DM actually drafted now so they're ready to fire off tomorrow morning.
+Confirmed — that claim in the existing prep note is accurate. Manav Khurana is Xero's CPO, and Brandon has direct executive-level history with him. The existing file at `90-Maximus/meeting-prep/2026-07-21-meeting-prep.md` is thorough, current, and verified — I won't duplicate it.
+
+## Meeting Prep for Tomorrow, Jul 21 — Already Prepared
+
+A meeting-prep note for tomorrow was generated 15 minutes ago (likely the automated night-before-prep routine) and is already sitting in the vault, cross-checked against everything I independently pulled from Calendar, memory, and Granola. No gaps or discrepancies found.
+
+**Bottom line — 5 substantive meetings prepped:**
+1. **Corp & Partner Dev (weekly)**, 10:00 AM — 3 attendees still unresolved in people.md (Carlos Cabrera, Priyanka Upadhyay, Gavin Lacroix), 3rd strike unaddressed
+2. **Sync on AI Partnerships**, 11:00 AM — debrief today's Lena/SYB kickoff + Ashby's Shad Ahmed meeting; push on the Anthropic-fragmentation coordination problem
+3. **Review Browserbase redlines**, 11:30 AM — raise 3 vault-sourced risks (uncapped indemnity, AUP blocking risk, shared Intuit clearance with Diomedes)
+4. **Skills Assessment — Manav Khurana**, 12:45 PM — verified: he's Xero's CPO, known exec relationship, flag as COI before any offer talk
+5. **Project Diomedes | Financials**, 2:00 PM — Ben Stein (DoubleHQ CEO) in the room; push for real growth/burn numbers
+
+**Top risks carried forward:**
+- **COM-020** (Middesk renewal POV) — still not started, most time-critical item since Jul 13
+- **COM-021** (DM to Lauren Snyder re: Diomedes comps) — 7 days overdue, and Delia He is in *two* of tomorrow's meetings, so no excuse left
+- Three deadlines (Browserbase, ZenBusiness, Middesk notice) all converging within ~10 days, competing for Allison Hess's bandwidth
+
+No action needed from me tonight — the draft is ready in Obsidian for you to review before tomorrow. Want me to pull anything further (e.g., draft the Slack nudge on COM-020, or check if the AI-partnership tracker actually got built before the 11:00 AM sync)?
+A meeting-prep brief for tomorrow (Jul 21) already exists in the vault — written 35 minutes ago at 22:45 PT tonight, presumably by an earlier automated pass. I cross-checked it against fresh Granola queries and the underlying memory files (commitments.md, action_items.md — both still last-updated Jul 17/19, unchanged) and it's current; nothing material has shifted in the last 35 minutes. Rather than duplicate the work, here's that draft:
+
+**OBSIDIAN WRITE: ✅ already present at `90-Maximus/meeting-prep/2026-07-21-meeting-prep.md`** (no changes needed)
+
+---
+
+## ⚠️ Open commitments due/overdue (surface first)
+🚨 **COM-020** (Brandon → Chris Elkins/Jessica Sacks/Andrew Adams) — Middesk renewal POV still not started, surfaced 6+ times since Jul 13. Tier 4 territory.
+🚨 **COM-021** (Brandon → Lauren Snyder, self-committed) — Diomedes market-scan targets, 7 days overdue. Delia He is in the room at **both** tomorrow's Corp & Partner Dev weekly (10:00) and Diomedes Financials (2:00) — no excuse left.
+🟡 **COM-013** (Cindy/Browserbase → Brandon) — DPA still outstanding, relevant to the 11:30 Browserbase review.
+🟡 Carlos Cabrera, Priyanka Upadhyay, Gavin Lacroix — unresolved "new person" flags on the recurring 10:00 AM meeting since Jul 17. (I resolved **Carlos Cabrera** and **Gavin Lacroix** via the vault just now: Carlos = Head of M&A Integration & Product Partnership Mgmt, peer, reports to Ashby; Gavin = M&A Integration, reports to Carlos. Priyanka still unknown.)
+
+## Tomorrow's Meetings
+
+———
+📅 **Corp & Partner Dev (weekly)** — 10:00–10:25 AM
+**Attendees:** Ashby Taylor, Delia He, Vivian Shen, Joseph Sarni, Devesh Verma, Allison Hess, Christina Denton, + Carlos Cabrera/Gavin LaCroix (now resolved, see above), Priyanka Upadhyay (still unknown).
+**Context:** Recurring team sync; not transcribed in Granola. Live threads: Anthropic coordination, Diomedes buy-side push.
+**Push for:** Status on the proposed AI-partnership tracker (fragmentation fix); hand Delia the COM-021 targets in person.
+**Watch out for:** Third strike on the unresolved-attendee flag — decide whether to add or drop it.
+———
+📅 **Sync on AI Partnerships** — 11:00–11:15 AM
+**Attendees:** Ashby Taylor, Igor Khayet.
+**Context:** Follows two Anthropic-facing meetings the day before (Lena/SYB kickoff, Ashby's Shad Ahmed meeting). Igor was flagged elsewhere as "not engaged" in Anthropic pitching despite being on this sync.
+**Push for:** Debrief both Jul 20 Anthropic meetings first; force a decision on single-owner tracking vs. parallel tracks.
+**Watch out for:** Risk of getting pulled into owning the tracker build-out yourself.
+———
+📅 **Review Browserbase redlines** — 11:30 AM–12:00 PM
+**Attendees:** Allison Hess.
+**Context:** Venue to raise 3 risks reconciled from the vault Jul 20: uncapped customer indemnity, AUP may block the exact STR-closure automation being contracted, and the Intuit T&C/IP clearance shared with Diomedes.
+**Push for:** Explicit indemnity cap, written AUP confirmation, Intuit clearance status (ties to Diomedes too).
+**Watch out for:** Browserbase, ZenBusiness, and Middesk deadlines all converge within ~10 days.
+———
+📅 **Skills Assessment — Manav Khurana** (Head of Partner Growth, Embedded Payroll) — 12:45–1:30 PM
+**Context:** This Manav Khurana is Xero's CPO/Head of Product — Brandon already knows him from the partner side. Known quantity, but a conflict-of-interest angle to handle deliberately in the interview and debrief.
+**Assess:** Portfolio/GTM depth, has he managed to a revenue target (hard L6 filter), AI fluency, cross-functional navigation.
+**Watch out for:** Flag the Xero relationship to Tom Byun/Evelyn Perez before any offer talk.
+———
+📅 **Project Diomedes | Financials** — 2:00–2:45 PM
+**Attendees:** Delia He, Bridgette Haymaker, Ben Stein (DoubleHQ CEO), Evin Wick, Abhas Bodas, Brandon Swartz (unrecognized, no profile); Ashby needsAction.
+**Context:** Diligence call following the Jul 14 Buy decision (DEC-011). Growth/burn-rate numbers are the explicit unresolved gap.
+**Push for:** Real financials from Ben Stein; status of Abhas's integration estimate; quiet gut-check on whether your own Tomer M&A-thesis deliverable is moving.
+**Watch out for:** Sideline framing — don't get pulled into DD execution beyond your one named deliverable. Brandon Swartz is unidentified.
+———
+
+**Lower-priority/FYI:** Optional Solo+SYB lunch (skip, overlaps interview prep); Pro/Co Happy Hour + Anchor Week event both overlap Padel Academy — a personal scheduling conflict to resolve yourself.
+
+## Risks / Decisions Needed
+1. COM-020 needs an explicit call — draft, reassign, or descope, not another silent carry-forward.
+2. COM-021 has two windows tomorrow with Delia — should go out before day's end.
+3. Manav Khurana's Xero seniority may mask whether he'd operate at L6 scope.
+4. Three deadlines (Browserbase, ZenBusiness, Middesk) compete for the same legal/negotiation bandwidth.
+5. Tomer's M&A thesis deliverable has no completion evidence going into tomorrow's diligence call.
+6. Priyanka Upadhyay and Brandon Swartz remain unresolved attendees.
+
+Everything above is draft-only — nothing has been sent. Want me to update people.md now with the Carlos Cabrera/Gavin LaCroix resolution I just confirmed from the vault?
+Neither Google Calendar nor Granola MCP tools are available in this session — no matching tools exist under any query.
+
+Per the fail-closed rule in CLAUDE.md and the meeting-prep instructions ("If a required MCP source is unavailable: STOP and report — do not assemble partial output"), I'm stopping here rather than assembling a partial or fabricated brief.
+
+**OBSIDIAN WRITE:** Not attempted — blocked before Phase 3.
+
+**Failure details:**
+- Google Calendar MCP: not connected/available this session — cannot retrieve today's meetings.
+- Granola MCP (`query_granola_meetings`, `get_meeting_transcript`): not connected/available this session — cannot retrieve meeting history.
+
+Local memory (people.md, commitments.md, decisions.md, projects.md, partners.md) loaded successfully and is current as of 2026-07-17, so that half of Phase 1 is done. I can't proceed to Phase 2 (per-meeting enrichment) without calendar data.
+
+To unblock: reconnect the Google Calendar and Granola MCP connectors, then re-run this. If you'd rather I work from what's on hand, tell me the meetings/attendees for today directly and I can build the prep brief from memory + Obsidian instead.

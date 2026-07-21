@@ -154,7 +154,10 @@
       "mcp__claude_ai_Share_some_HTML__get_assets",
       "Bash(split -b 150000 /tmp/syb_zip_b64.txt /private/tmp/claude-501/-Users-brandon-reich-maximus/299be3c2-cd75-4e11-a637-5799f6108a5a/scratchpad/zipparts/part_)",
       "Bash(rm /tmp/syb_zip_b64.txt)",
-      "mcp__claude_ai_Share_some_HTML__download_asset"
+      "mcp__claude_ai_Share_some_HTML__download_asset",
+      "mcp__claude_ai_Gdrive_Gusto__list_folder",
+      "mcp__claude_ai_Gdrive_Gusto__get_metadata",
+      "WebFetch(domain:www.doublehq.com)"
     ]
   },
   "hooks": {

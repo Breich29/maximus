@@ -36,3 +36,20 @@ Written:
 Skipped (already reflected / dedupe): 0
 
 **All clean. No new signal since last sync.** The last thing posted to #maximus-updates is still the Notion Team-Weeklies draft from 3:03 PM PDT today — that was already fully processed by this afternoon's weekly-sweep catch-up run, so there was nothing new for this pass to extract. Cursor in `extraction_tracker.md` is unchanged (`last_ts: 1784325787.241439`); no memory/*.md files were touched.
+**OBSIDIAN WRITE: ✅ /Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/memory-sync/2026-07-20-channel-sync.md**
+
+Channel Sync — 2026-07-20
+---
+Window synced: 2026-07-17 22:06 PDT → 2026-07-20 22:01 PDT
+Messages/threads processed: 2 (0 thread replies)
+Written:
+- Decisions: 0 new, 0 amended
+- Commitments: 0 new, 0 status changes
+- Partner status changes: none
+- Project status changes: none
+- People updates: none
+Skipped (already reflected / dedupe): 2 messages — both were Maximus's own Daily AM Brief (Jul 20, 7:34 AM) and Night-Before Prep (Jul 20, 9:10 PM), restating already-tracked items (COM-012/013/016/017/018/020/021, DEC-007/010/012/013) with no new signal and no Brandon replies.
+
+All clean. No new signal since last sync.
+
+Cursor advanced to `last_ts: 1784607051.487219` in `memory/extraction_tracker.md`. No memory/*.md files needed a content or header change. Validator spot-check found no ID gaps, duplicates, or broken cross-references — one cosmetic note flagged (commitments.md has two separate `## Completed` headers, non-blocking).
