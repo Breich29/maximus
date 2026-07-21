@@ -73,6 +73,11 @@ Format: DEC-XXX | Summary | Date | Owner | Source
 - **Decided by:** Brandon + Lars Wensel (Zen Business) — pending Chris Elkins + Farron Hicks review before Brandon confirms by email
 - **Source:** Slack #maximus-updates — Daily AM Brief + Friday Weekly Review (Jul 17); partners.md Zen Business entry
 
+**DEC-014** — AI Partnerships division of labor (Sync on AI Partnerships, 2026-07-21, Ashby Taylor + Igor Khayet + Brandon): **Partner Dev** (Brandon's team) owns materials, stack-ranked pitches, and app-level vision for AI partnership pitches; **Igor's team** owns outreach/engagement for frontier model providers going forward. This is the structural fix for the fragmentation problem flagged repeatedly since early July (multiple teams — GDP/Sam Haber/Matan Gal, Ashby's SYB/GPro track, others — pitching Anthropic independently with no shared owner; Vivian Shen/Joseph Sarni/Devesh Verma had proposed a company-wide tracker to Ashby as a fix). Also: a prioritization committee is needed across AI partnership targets (frontier models, vertical AI platforms, app factories, infra like Supabase), with Chris flagged as likely lead (unconfirmed which Chris). V1 AI market map in progress; V2/V3 with quant sizing due in 2-3 weeks (Brandon to complete, plus ask Mike about an FP&A resource — see action_items.md).
+- **Date:** 2026-07-21
+- **Decided by:** Ashby Taylor + Igor Khayet + Brandon
+- **Source:** Granola: "Sync on AI Partnerships" (Jul 21, 11:00 AM)
+
 ---
 
 ## Archived

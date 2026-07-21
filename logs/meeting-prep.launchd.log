@@ -6081,3 +6081,125 @@ Full detail, open items, and risks are in the Obsidian note. Memory updated: `pe
 7. **Visibility gap** — Brandon missed yesterday's Shad Ahmed/Anthropic meeting with no transcript, walking into the 11 AM sync blind on its outcome.
 
 **Decisions needed:** explicit call on COM-020 (draft/reassign/descope) at the 3 PM Chris sync; whether the AI-partnership tracker proposal has a real owner; which Middesk date is the actual deadline (Jul 24 vs. Jul 28).
+The brief is finalized. Here's the summary:
+
+**OBSIDIAN WRITE: ✅** `/90-Maximus/meeting-prep/2026-07-21-meeting-prep.md` (updated in place — a same-day prep already existed from ~10:25 AM and was accurate/thorough, so I corrected one item rather than overwriting it). Memory also updated: `memory/people.md`.
+
+## What changed from the existing prep
+Everything else in today's file checked out against a fresh calendar pull, Granola query, and vault cross-check (Diomedes, BrowserBase, Middesk). One thing didn't hold up:
+
+**Manav Khurana COI — downgraded from "confirmed" to "unverified."** The existing note asserted (citing "Confirmed via Glean") that today's 12:45 PM interview candidate is the same Manav Khurana who is Xero's Partnerships Director — a real conflict of interest if true. I dug into the actual underlying Glean search results rather than trusting the prior summary, and found no document that ties the two records together — just a shared full name and overlapping subject matter (embedded payroll partnerships). That's suggestive, not proof. **Recommend a 2-minute resume/LinkedIn check or a direct ask to the recruiter before the 12:45 PM call.**
+
+## Today's meetings, in order
+1. **Corp & Partner Dev weekly** (10:00 AM) — already elapsed, no transcript synced yet; 3 unknown recurring attendees (3rd occurrence).
+2. **Sync on AI Partnerships** (11:00 AM, Ashby + Igor) — cross-team Anthropic/AI coordination gap; Igor's presence suggests possible ownership escalation.
+3. **Review Browserbase redlines** (11:30 AM, Allison Hess) — uncapped indemnity + AUP-blocking risk + shared Intuit T&C clearance (also blocks Diomedes).
+4. **Manav Khurana skills assessment** (12:45 PM) — verify identity first (see above).
+5. **Project Diomedes | Financials** (2:00 PM) — first real financial-diligence session; good moment to unblock your overdue COM-021 (Lauren Snyder) with Delia in the room.
+6. **Chris / Brandon** (3:00 PM) — the last scheduled touchpoint before the ~Jul 28 Middesk notice deadline; COM-020 still not started.
+
+Biggest cross-cutting risk: **COM-020 (Middesk POV)** has no forcing function today except this 15-minute 1:1, and the window closes in 7 days.
+**OBSIDIAN WRITE:** ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-21-meeting-prep.md` (targeted correction appended, not a full rewrite)
+
+## Summary
+
+Today's meeting prep was already generated this morning (~10:48 AM PT) and is comprehensive/accurate — I verified it against Granola, memory files, and the Obsidian vault and found nothing to contradict it. Rather than duplicate that work, I added one correction: the calendar now shows the 10:00 AM sync as **"[RESCHEDULING] Corp & Partner Dev (weekly)"** — worth a quick check with Ashby on whether it actually happened as planned.
+
+**Top priorities from the existing prep, still live:**
+
+1. 🔴 **COM-020** (Middesk renewal POV) — not started, notice window closes ~Jul 28. The 3:00 PM **Chris/Brandon 1:1** is the last scheduled forcing function before that deadline.
+2. 🔴 **COM-021** (DM Lauren Snyder re: Diomedes market-scan targets) — 7 days overdue. Delia He is in the room at both the 10:00 AM weekly and the 2:00 PM Diomedes Financials call — two chances to close it today.
+3. ⚠️ **11:30 AM Browserbase redlines** with Allison Hess — push for a concrete indemnity cap and confirmation the AUP doesn't block the contracted use case; note this same clearance also blocks the Diomedes term discussion.
+4. ⚠️ **12:45 PM Manav Khurana interview** — the "same person as Xero's Partnerships Director" COI claim was found to be **unconfirmed** on closer check (shared name only, no linking document) — do a quick resume/LinkedIn check before treating it as settled.
+
+Full attendee-by-attendee prep, open items, and risks are in the vault note linked above.
+Found that a comprehensive meeting-prep note for today (2026-07-21) was already written at 11:06 AM — 17 minutes ago — and my independent research (Granola queries, calendar pull, memory review) corroborates it fully, including its Manav Khurana COI correction and the Corp & Partner Dev reschedule flag. Rather than overwrite good, verified work with a redundant pass, I'm delivering the drafts now, oriented to where we are in the day (11:23 AM — the 10:00 AM and 11:00 AM meetings have already passed).
+
+**OBSIDIAN WRITE: ✅ current** — `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-21-meeting-prep.md` (written 11:06 AM, no material changes since — not re-written to avoid clobbering verified corrections).
+
+---
+
+## Already passed today
+- **Corp & Partner Dev (weekly), 10:00 AM** — flagged as "[RESCHEDULING]" with no stated reason; unclear if it happened as scheduled. Worth a quick check with Ashby/Delia if it's unclear whether it ran.
+- **Sync on AI Partnerships, 11:00 AM** (Ashby, Igor Khayet) — coordination conversation on the fragmented multi-team Anthropic/OpenAI outreach; Igor's presence (atypical for him) suggested a possible ownership/elevation conversation.
+
+## Upcoming — DRAFT MEETING PREP MESSAGES
+
+———
+:calendar: *Review Browserbase redlines* — 11:30 AM–12:00 PM PT
+*Attendees:* Allison Hess (Commercial Counsel)
+
+*Context:* Venue to raise three risks reconciled from the vault: (1) uncapped customer indemnity, (2) Browserbase's AUP possibly prohibiting the exact STR-closure automation being contracted for, (3) shared Intuit T&C/IP clearance (Allison is DRI for both this and Diomedes).
+
+*Open items with attendees:*
+• Allison Hess: COM-013 — Cindy's DPA still outstanding; $18K-vs-$60K DPA-threshold decision still open.
+
+*Push for:*
+• A concrete negotiated indemnity cap, not "lawyers to handle."
+• Confirmation the AUP doesn't block the contracted use case.
+• Status of the Intuit clearance — flag it's also gating Diomedes.
+
+*Watch out for:*
+• Browserbase close, ZenBusiness close, and Middesk renewal notice all converge within ~10 days — bandwidth crunch for both Allison and Brandon.
+———
+
+———
+:calendar: *Skills Assessment — Manav Khurana (Head of Partner Growth, Embedded Payroll)* — 12:45–1:30 PM PT
+*Attendees:* Manav Khurana (candidate)
+
+*Context:* Backfill interview for Brandon's former role.
+
+*Push for:* Assess portfolio strategy/GTM depth, team-to-target leadership experience, AI fluency, cross-functional collaboration.
+
+*Watch out for:*
+• 🔴 **Unverified possible COI** — a Manav Khurana is also Xero's Partnerships Director (Brandon's active GEP↔Xero counterpart). No document actually confirms the candidate and the Xero employee are the same person — shared name + overlapping subject matter only. Do a 2-minute resume/LinkedIn check or ask the recruiter *before* this call; if confirmed, this needs to go to Tom Byun/Evelyn Perez before any offer conversation.
+———
+
+———
+:calendar: *Project Diomedes | Financials* — 2:00–2:45 PM PT
+*Attendees:* Delia He (organizer), Ashby Taylor, Bridgette Haymaker, Ben Stein (DoubleHQ CEO), Evin Wick, Abhas Bodas, Brandon Swartz (unrecognized — no people.md profile)
+
+*Context:* Diligence call following the Jul 14 Buy-thesis debrief (DEC-011). Per Granola: open diligence gaps are burn rate, growth rate, and unverified scale claims — Ben has been described as humble/downplaying scale on this. Intuit Platinum Partner sensitivity also flagged (contractor-language risk around GL-build IP) — ties to the Browserbase Intuit-clearance thread at 11:30.
+
+*Open items with attendees:*
+• Delia He: COM-021 — Brandon's self-committed DM to Lauren Snyder with market-scan comparisons, **7 days overdue**. Delia is in the room; no excuse to leave without sending it.
+
+*Push for:*
+• Get explicit burn-rate/growth-rate numbers from Ben today rather than deferring further.
+• Quiet gut-check on the Tomer-requested M&A thesis (Brandon's own deliverable, no completion evidence yet).
+
+*Watch out for:*
+• Brandon's role is sideline/support here (Ashby + Delia lead) — stay in listening mode with Ben Stein present.
+———
+
+———
+:calendar: *Chris / Brandon* — 3:00–3:15 PM PT
+*Attendees:* Chris Elkins
+
+*Context:* This is the **last scheduled touchpoint with Chris before the Middesk renewal notice window closes (~Jul 28, 7 days out)**, and COM-020 (the philosophical-level renewal POV) has been the #1 flagged item since Jul 13 and still isn't started.
+
+*Push for:*
+• A concrete commitment this week to get a first COM-020 draft in front of Chris/Jessica/Andrew.
+• Status check on COM-015 (Chris → Lolo, headless-API co-build cadence).
+• Definitively resolve the Jul 24 ("opens") vs. Jul 28 ("closes") date discrepancy.
+
+*Watch out for:*
+• 🔴 If COM-020 doesn't move today, there's no other scheduled checkpoint before the window closes.
+———
+
+## NOTES ON RISKS / DECISIONS NEEDED
+
+**Top risk today:** COM-020 (Middesk POV) is now 7 days from the notice-window deadline and hasn't been started — the 3:00 PM Chris 1:1 is the last forcing function before it's too late for leverage.
+
+**Other live risks:**
+- COM-021 (Lauren Snyder DM) — overdue, Delia is in the 2:00 PM meeting, easiest window to finally close it.
+- Manav Khurana COI — unverified, needs a 2-minute check before 12:45 PM.
+- Three deadlines (Browserbase, ZenBusiness, Middesk) converging within ~10 days, all pulling on Allison Hess and Brandon.
+- Unrecognized attendees: Carlos Cabrera, Priyanka Upadhyay, Gavin Lacroix (10:00 AM), Brandon Swartz (2:00 PM) — pending people.md confirmation.
+
+**Decisions needed:**
+- Explicit call on COM-020: draft this week, reassign, or descope.
+- Confirm whether the AI-partnership tracker proposal (Vivian/Joseph/Devesh → Ashby) now has a real owner, following the 11:00 AM sync.
+- Nail down which Middesk date (Jul 24 vs. Jul 28) is the real hard deadline.
+
+All items above are draft-only — nothing has been sent. Let me know if you want me to draft the actual COM-020 POV outline or the Lauren Snyder DM now, since both are time-critical.
