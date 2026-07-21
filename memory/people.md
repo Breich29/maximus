@@ -255,6 +255,7 @@ _Last updated: 2026-07-17_
 | Ran Harpaz | ran@lettuce.co | Lettuce Financial | Prior partnership (no longer active) |
 | Debbie | debbie@legacy.melio.com | Melio | Prior partnership (no longer active) |
 | Ben Stein | ben.stein@doublehq.com | DoubleHQ | CEO of DoubleHQ, the Project Diomedes M&A target. Brandon had a 3-hour dinner with him confirming strong fit (per action_items.md). Attendee on multiple Diomedes meetings (Jul 14, Jul 21 Financials call). Added 2026-07-17 weekly sweep — already well-established in action_items.md context, just missing from this roster. |
+| Manav Khurana | (unknown) | Xero | **Partnerships Director** at Xero (email signature: "Partnerships Director - Product") — Brandon's existing external counterpart on the Gusto Embedded Payroll↔Xero partnership (SPIFF extension threads, CX sync, coverage plan) since at least late 2024/early 2025. Confirmed via Glean 2026-07-21 (corrects a prior meeting-prep note that misidentified him as Xero's "CPO/Head of Product" — no evidence for that title). **⚠️ Also an active candidate** in the "Head of Partner Growth, Embedded Payroll" backfill pipeline (Notion tracker, Brandon's own former-role backfill) — skills-assessment interview 2026-07-21, 12:45 PM, Brandon as evaluator. Conflict-of-interest angle: known partner-side contact being evaluated for an internal role — flag to Tom Byun/Evelyn Perez before any offer conversation. |
 
 ---
 
