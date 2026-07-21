@@ -5980,3 +5980,104 @@ Per the fail-closed rule in CLAUDE.md and the meeting-prep instructions ("If a r
 Local memory (people.md, commitments.md, decisions.md, projects.md, partners.md) loaded successfully and is current as of 2026-07-17, so that half of Phase 1 is done. I can't proceed to Phase 2 (per-meeting enrichment) without calendar data.
 
 To unblock: reconnect the Google Calendar and Granola MCP connectors, then re-run this. If you'd rather I work from what's on hand, tell me the meetings/attendees for today directly and I can build the prep brief from memory + Obsidian instead.
+**OBSIDIAN WRITE: ✅** `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-21-meeting-prep.md`
+
+---
+
+## DRAFT MEETING PREP — Tuesday, July 21, 2026
+
+**Two corrections made to prior context** while prepping today (now fixed in memory):
+1. **Manav Khurana** (candidate at 12:45 PM) is Xero's **Partnerships Director**, not "CPO/Head of Product" as an earlier note claimed — verified via Glean. He's Brandon's existing external counterpart on the GEP↔Xero relationship, and he's genuinely in the Head of Partner Growth backfill pipeline — a real conflict-of-interest angle.
+2. The unresolved "Astrid (Anthropic)" action item was a misread — the actual contact is **Lena**, Anthropic's Head of SMB, confirmed via the source Granola transcript.
+
+### ⚠️ Overdue, surface first
+- 🚨 **COM-020** — Middesk renewal POV, still not started, no meeting today forces it.
+- 🚨 **COM-021** — DM to Lauren Snyder re: Diomedes comps, 7 days overdue. Delia's in the room twice today (10am, 2pm) — send it.
+- 🟡 **COM-013** — Browserbase DPA from Cindy, still outstanding, relevant to 11:30am.
+
+### Today's meetings
+1. **Corp & Partner Dev weekly** (10:00–10:25am) — check AI-tracker status with Vivian/Joseph/Devesh; 3 unrecognized attendees flagged 3rd time.
+2. **Sync on AI Partnerships** (11:00–11:15am, Ashby + Igor) — ask Ashby what happened in yesterday's Shad Ahmed meeting (Brandon wasn't there); push for a real owner on the AI-partnership fragmentation problem; watch for getting pulled into execution.
+3. **Review Browserbase redlines** (11:30am–12:00pm, Allison Hess) — get an explicit indemnity cap, AUP-blocking confirmation, Intuit clearance status (shared blocker with Diomedes).
+4. **Skills Assessment — Manav Khurana** (12:45–1:30pm) — conflict-of-interest flag above; probe operator-vs-exec instincts.
+5. **Project Diomedes Financials** (2:00–2:45pm, Ben Stein) — stay in listening mode (sideline role); send COM-021 today; gut-check the Tomer M&A-thesis deliverable.
+
+Optional/social (lunch, happy hour, Anchor Week event) noted but not prepped — Padel Academy conflicts with two evening work events, worth resolving.
+
+Full detail, open items, and risks are in the Obsidian note. Memory updated: `people.md`, `projects.md`, `action_items.md`.
+**OBSIDIAN WRITE: ⚠️ Offline — wrote directly to filesystem** at `90-Maximus/meeting-prep/2026-07-21-meeting-prep.md` (updated the note already generated at 10:07 AM today — added the missing 3:00 PM Chris/Brandon meeting and corrected the risk section).
+
+---
+
+## DRAFT MEETING PREP MESSAGES — Tuesday, July 21, 2026
+
+———
+:calendar: **Corp & Partner Dev (weekly)** — 10:00–10:25 AM PT *(title shows [RESCHEDULING] — may move)*
+*Attendees:* Ashby Taylor, Delia He, Vivian Shen, Joseph Sarni, Devesh Verma, Allison Hess, Christina Denton — plus **Carlos Cabrera, Priyanka Upadhyay, Gavin Lacroix** (unresolved in people.md, 3rd occurrence since Jul 17).
+
+*Context:* Recurring team sync. Live threads: the AI-partnership tracker proposal (Vivian/Joseph/Devesh → Ashby) and the Diomedes buy-side push (Delia).
+
+*Push for:* Status on the AI-partnership tracker proposal; get COM-021 to Delia here if not already sent.
+*Watch out for:* Third occurrence of the same unresolved attendee flags — decide whether to add to people.md or drop.
+———
+
+———
+:calendar: **Sync on AI Partnerships** — 11:00–11:15 AM PT
+*Attendees:* Ashby Taylor, Igor Khayet, Brandon.
+
+*Context:* Multiple Gusto teams pitching Anthropic/OpenAI independently, no shared owner. Igor doesn't normally attend Anthropic-pitch meetings — his presence may signal this is elevating to an ownership conversation. Brandon wasn't at yesterday's Shad Ahmed/Anthropic meeting and has no transcript.
+
+*Push for:* Ask what happened in the Shad Ahmed meeting; force clarity on whether there's now a single owner/tracker; give a crisp 2-line status on Brandon's own SYB/GPro tracks.
+*Watch out for:* Risk of getting pulled into building the tracker rather than staying at the strategy layer (DEC-001: Brandon = leverage function, not execution).
+———
+
+———
+:calendar: **Review Browserbase redlines** — 11:30 AM–12:00 PM PT
+*Attendees:* Allison Hess.
+
+*Context:* Three unresolved risks from the Jul 20 vault reconciliation: uncapped customer indemnity, AUP policy-blocking risk on the exact automation being contracted, and a shared Intuit T&C/IP clearance blocking both this MSA *and* the Diomedes/Double term discussions.
+
+*Push for:* A concrete negotiated indemnity cap; written confirmation the AUP doesn't block the use case; status on the Intuit clearance (flag it's shared with Diomedes).
+*Watch out for:* Browserbase close, ZenBusiness close, and Middesk renewal notice all converge within ~10 days — bandwidth risk for both Allison and Brandon.
+———
+
+———
+:calendar: **Skills Assessment — Manav Khurana (Head of Partner Growth, Embedded Payroll)** — 12:45–1:30 PM PT
+*Attendees:* Manav Khurana.
+
+*Context:* Manav is Xero's Partnerships Director and Brandon's existing external counterpart on the GEP↔Xero relationship — not a cold candidate.
+
+*Watch out for:* ⚠️ Real conflict-of-interest — an active partner-side contact being evaluated for an internal role that would sit across the table from partnerships Brandon negotiates. Flag to Tom Byun/Evelyn Perez before any offer conversation; not yet surfaced in the hiring process.
+———
+
+———
+:calendar: **Project Diomedes | Financials** — 2:00–2:45 PM PT
+*Attendees:* Delia He, Ashby Taylor, Bridgette Haymaker, Ben Stein (DoubleHQ CEO), Evin Wick, Abhas Bodas — plus **Brandon Swartz** (unrecognized).
+
+*Context:* Diligence call following the Jul 14 debrief where Buy became the leading thesis over Build/Partner. Brandon is sideline/support except for the Tomer-requested M&A thesis deliverable, which has no completion evidence yet.
+*Push for:* Send COM-021 to Delia today regardless of how the call goes; quiet gut-check on the Tomer thesis status.
+*Watch out for:* External party (Ben Stein) on the call — stay in support mode, don't drive.
+———
+
+———
+:calendar: **Chris / Brandon** — 3:00–3:15 PM PT
+*Attendees:* Chris Elkins.
+
+*Context:* This is the last scheduled touchpoint with Chris before the Middesk renewal notice window closes (~Jul 28). **COM-020** (the negotiation POV draft) has been flagged as the #1 priority in every brief since Jul 13 and still hasn't been started.
+
+*Push for:* Commit to a concrete date this week for a first COM-020 draft; status check on COM-015 (Lolo/co-build cadence); resolve the Jul 24-"opens"-vs-Jul 28-"closes" date discrepancy.
+*Watch out for:* 🔴 If this doesn't move today, there's no other forcing function before the deadline.
+———
+
+**Lower-priority / FYI (no prep):** Optional Solo+SYB lunch (12:00–12:30, tight against the Manav interview), Pro/Co Happy Hour + SF Anchor Week Camp Penny (4:30–7:00, both overlap Padel Academy 5:30–7:00 — scheduling conflict to resolve personally), Ryan Drop Off (already passed).
+
+## NOTES ON RISKS / DECISIONS NEEDED
+1. **COM-020** — critical-path stale; 3:00 PM Chris sync is the last forcing function before ~Jul 28.
+2. **COM-021** — 7 days overdue; Delia's in the room twice today (10 AM, 2 PM).
+3. **Manav Khurana interview** — genuine COI, not yet flagged in the hiring process.
+4. **Bandwidth crunch** — Browserbase, ZenBusiness, Middesk deadlines converging within ~10 days.
+5. **Tomer's M&A thesis** — no completion evidence, and Diomedes Financials proceeds regardless.
+6. **4 unrecognized attendees** across today: Carlos Cabrera, Priyanka Upadhyay, Gavin Lacroix (10 AM), Brandon Swartz (2 PM).
+7. **Visibility gap** — Brandon missed yesterday's Shad Ahmed/Anthropic meeting with no transcript, walking into the 11 AM sync blind on its outcome.
+
+**Decisions needed:** explicit call on COM-020 (draft/reassign/descope) at the 3 PM Chris sync; whether the AI-partnership tracker proposal has a real owner; which Middesk date is the actual deadline (Jul 24 vs. Jul 28).
