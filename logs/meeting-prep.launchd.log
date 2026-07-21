@@ -6220,3 +6220,137 @@ A thorough meeting-prep file for today already existed (written at 11:06 AM, 35 
 - Three deadlines (Browserbase, ZenBusiness, Middesk) converging within ~10 days
 
 Memory write-back done: DEC-014, projects.md Anthropic Partnership update, and a new action_items.md "needs confirmation" entry for the market-map deliverable.
+OBSIDIAN WRITE: ✅ `90-Maximus/meeting-prep/2026-07-21-meeting-prep.md` (appended mid-day update, not overwritten — a fuller prep already existed for today from earlier passes)
+
+---
+
+## DRAFT MEETING PREP — mid-day refresh, 2026-07-21, 12:00 PM PT
+
+A detailed prep for today already existed in the vault (built ~10:48 AM, refreshed 11:41 AM). I added what changed since: the Browserbase redlines meeting has now happened. Here's where things stand and what's still ahead.
+
+**Just happened — Review Browserbase redlines (11:30–12:00, w/ Allison Hess):**
+Good outcome — most terms accepted as-is. Three redlines left for Allison to fix: strip "marketing" use from §3.3, add subject-level de-identification language, strike Gusto's breach-investigation-cost obligation in §11.3. New commitment (COM-022): Allison sends the revised contract; the §3.3 marketing restriction needs leadership sign-off first. Not touched today: the Acceptable Use Policy risk and the shared Intuit clearance blocker with Diomedes — still open.
+
+———
+📅 **ZOOM Skills Assessment — Manav Khurana** — 12:45–1:30 PM PT
+*Watch out for:* This is the sharpest live risk today. The candidate shares a full name with Xero's Partnerships Director — Brandon's active external counterpart on the GEP↔Xero partnership. Nothing in Granola or Glean actually links the two identities; it may be pure name coincidence. **Verify at the top of the call** (or via resume/LinkedIn beforehand) rather than assuming either way — if confirmed same person, flag to Tom Byun/Evelyn Perez before any offer conversation.
+———
+📅 **Project Diomedes | Financials** — 2:00–2:45 PM PT
+*Attendees:* Delia He, Ashby Taylor, Bridgette Haymaker, Ben Stein (DoubleHQ CEO), Evin Wick, Abhas Bodas, Brandon Swartz (new — no profile, flagged for confirmation).
+*Push for:* Send Delia the overdue COM-021 comparison targets (7 days overdue, she's in the room). Stay in listen mode — Brandon is sideline here except for his own M&A-thesis deliverable to Tomer, still not started.
+———
+📅 **Chris / Brandon 1:1** — 3:00–3:15 PM PT
+*Push for:* This is the last scheduled touchpoint with Chris before the Middesk notice window closes (~Jul 28) — COM-020 (the renewal POV draft) still hasn't been started. Also: status on COM-015 (Lolo cadence), and pin down the Jul 24-vs-Jul 28 date discrepancy.
+———
+
+**Risks/decisions still open:** COM-020 has no other forcing function after 3pm today. COM-021 is 7 days overdue with Delia in two meetings today. Four attendees across today's meetings remain unconfirmed in people.md (Carlos Cabrera, Priyanka Upadhyay, Gavin Lacroix, Brandon Swartz).
+
+Full detail for every meeting today (including the ones already past) is in the vault note — this message only covers what's new or still ahead.
+OBSIDIAN WRITE: ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-21-meeting-prep.md` (appended 12:59 PM check-in)
+
+---
+
+## DRAFT MEETING PREP MESSAGE(S)
+
+Today's file was already built out this morning with live check-ins through 12:01 PM PT — I independently re-verified against memory and Granola and it's accurate and current. Here's the state of the three meetings still ahead:
+
+———
+📅 **ZOOM Skills Assessment — Manav Khurana (Head of Partner Growth, Embedded Payroll)** — 12:45–1:30 PM PT — **in progress now**
+*Attendees:* Manav Khurana (candidate)
+
+*Context:* Backfill interview for Brandon's former role.
+
+*Watch out for:* 🔴 **Unresolved COI risk.** A fresh Granola query just now *asserted as fact* that this candidate is the same Manav Khurana who is Xero's Partnerships Director (Brandon's active external counterpart on GEP↔Xero) — but that assertion contradicts the Glean-confirmed title and isn't backed by any linking document. Treat it as unverified/possibly-hallucinated, not confirmation. If Brandon hasn't asked the identity question directly yet, do it before 1:30 PM.
+
+*Prep:* people.md external contacts; action_items.md.
+———
+
+———
+📅 **Project Diomedes | Financials** — 2:00–2:45 PM PT
+*Attendees:* Delia He (organizer), Ashby Taylor, Bridgette Haymaker, Ben Stein (DoubleHQ CEO), Evin Wick, Abhas Bodas, **Brandon Swartz (unrecognized — no people.md/vault profile)**
+
+*Context:* First "Financials" call on Diomedes (DoubleHQ) — likely the first time real numbers surface, following the Jul 14 Buy-over-Build/Partner consensus (DEC-011).
+
+*Push for:* Capture any financial detail for Tomer's still-incomplete M&A thesis (Brandon's one named deliverable in the sideline framing). Send COM-021 (Diomedes market-scan comparison targets to Lauren Snyder) — 7 days overdue, Delia's in the room again.
+
+*Watch out for:* Stay support/listening per the sideline framing — Ben Stein (external) is on the call.
+
+*Prep:* vault `30-Deals/Diomedes.md`; projects.md.
+———
+
+———
+📅 **Chris / Brandon** — 3:00–3:15 PM PT
+*Attendees:* Chris Elkins
+
+*Context:* This is the last scheduled touchpoint with Chris before the Middesk renewal notice window closes (~Jul 28) — COM-020 (the negotiation POV draft) has been flagged as the #1 priority since Jul 13 with zero movement.
+
+*Push for:* A committed date this week for a first COM-020 draft. Status on COM-015 (Chris→Lolo co-build cadence). Resolve the Jul 24-vs-Jul 28 date discrepancy once and for all.
+
+*Watch out for:* 🔴 If this doesn't move today, nothing else on the calendar forces it before the window closes.
+
+*Prep:* commitments.md COM-020/COM-015; partners.md Mid-desk section.
+———
+
+**FYI, no prep needed:** Pro/Co Happy Hour (4:00–5:00 PM) and Camp Penny (5:00–7:00 PM) are social. **Padel Academy (5:30–7:00 PM) still overlaps Camp Penny** — worth resolving.
+
+## NOTES ON RISKS / DECISIONS NEEDED
+- **Manav Khurana COI** — verify identity before the interview ends; don't rely on Granola's latest (contradictory, unverified) claim.
+- **COM-020 (Middesk POV)** — the 3:00 PM Chris sync is the last forcing function before the ~Jul 28 notice deadline.
+- **COM-021 (Lauren Snyder DM)** — 7 days overdue; second/last window today at 2:00 PM.
+- **Brandon Swartz** — unrecognized attendee on a deal-sensitive M&A call.
+- **Padel Academy / Camp Penny** — unresolved double-book at 5:30 PM.
+**OBSIDIAN WRITE: ✅** `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-21-meeting-prep.md`
+
+---
+
+## DRAFT MEETING PREP MESSAGES — remaining today (as of 1:18 PM PT)
+
+———
+:calendar: *ZOOM Skills Assessment — Manav Khurana* — 12:45–1:30 PM PT *(in progress, ~12 min left)*
+*Attendees:* Manav Khurana (candidate)
+
+*Context:* Backfill interview for Brandon's former Head of Partner Growth (Embedded Payroll) role.
+
+*Watch out for:* 🔴 **Unresolved possible COI.** Xero's Manav Khurana is Brandon's existing GEP↔Xero counterpart (Glean-confirmed title: Partnerships Director). Whether this is the *same* Manav Khurana as the candidate has never been confirmed by an actual source document — only a shared name plus, now, four different Granola-generated titles for him today, one of which ("Head of Partner Growth at Xero") nearly matches the req title itself. That's pattern-matching, not evidence. If the identity question hasn't been asked directly yet, this is the last window before 1:30 PM.
+
+*Prep:* memory/people.md (Manav Khurana entries, both records).
+———
+
+———
+:calendar: *Project Diomedes | Financials* — 2:00–2:45 PM PT
+*Attendees:* Delia He (organizer), Ashby Taylor, Bridgette Haymaker, Ben Stein (DoubleHQ CEO, external), Evin Wick, Abhas Bodas, **Brandon Swartz (unknown — no people.md profile)**
+
+*Context:* First session where real Double financials/valuation may actually surface, following the Jul 14 Buy-thesis consensus (DEC-011). Brandon's role is sideline/support — except his own standing M&A-thesis deliverable for Tomer, which has no completion evidence yet.
+
+*Open items with attendees:* Delia He — COM-021 (DM Lauren Snyder the Diomedes comparison targets), 7 days overdue, she's in the room.
+
+*Push for:* Close out COM-021 today regardless of how the call goes. Quiet status-check on Abhas's integration model and the Tomer thesis.
+
+*Watch out for:* Stay listen/support mode — Ben Stein (external) is on the call. Intuit IP-risk overhang still the key legal gate.
+
+*Prep:* memory/projects.md → Project Diomedes; decisions.md DEC-011.
+———
+
+———
+:calendar: *Chris / Brandon* — 3:00–3:15 PM PT
+*Attendees:* Chris Elkins
+
+*Context:* This is the **last scheduled touchpoint with Chris before the Middesk renewal notice window closes (~Jul 28)**. COM-020 (the philosophical negotiation POV) has been the #1 flagged item since Jul 13 and is still not started.
+
+*Open items with attendees:* COM-020 (not started) · COM-015 (Chris → Lolo, co-build cadence — status unknown) · Jul 24-vs-Jul 28 notice-date discrepancy, still unresolved.
+
+*Push for:* A concrete date this week for a first COM-020 draft. Status on COM-015. Definitive answer on the notice-window date.
+
+*Watch out for:* 🔴 If COM-020 doesn't move today, there's no other checkpoint with Chris before the window closes.
+
+*Prep:* memory/commitments.md (COM-020, COM-015); memory/partners.md → Mid-desk.
+———
+
+## NOTES ON RISKS / DECISIONS NEEDED
+1. **Manav Khurana COI** — genuinely unverified; ask directly before the interview ends.
+2. **COM-020** — critical path; 3:00 PM 1:1 is the last forcing function before ~Jul 28.
+3. **COM-021** — 7 days overdue; Delia in the room at 2:00 PM, two chances today already used at 10:00/11:00 AM meetings that already occurred.
+4. **Brandon Swartz** — unrecognized attendee on the 2:00 PM call.
+5. Jul 24-vs-Jul 28 Middesk notice-date discrepancy still open — Chris is the right person to resolve it.
+
+No material change from the existing day-of prep (last refreshed 12:59 PM) — this pass mainly reinforces that the Manav Khurana identity question remains unresolved and adds it to the vault note as check-in #4.
