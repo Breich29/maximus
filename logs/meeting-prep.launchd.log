@@ -5858,3 +5858,19 @@ Quick status — this file has been running same-day re-checks all day (last pas
 
 Since these five open threads can't be resolved from available sources, they'll need a direct Slack/verbal ping to Ashby and/or Izzy rather than more waiting on Granola.
 API Error: Connection closed mid-response. The response above may be incomplete.
+API Error: Connection closed mid-response. The response above may be incomplete.
+Google Calendar is unreachable after three attempts. Per the fail-closed rule, I'm stopping here rather than assembling a partial brief.
+
+**FAILURE REPORT**
+
+- **Failed source:** Google Calendar MCP (`mcp__claude_ai_Gcal_Gusto__list_events`)
+- **Error:** "The socket connection was closed unexpectedly" — 3 consecutive attempts, both for today (2026-07-20) and tomorrow (2026-07-21) windows
+- **Impact:** Cannot determine today's meeting schedule or attendees — meeting prep requires the calendar as the anchor for everything else (attendee enrichment, Granola matching, project context). Proceeding without it would mean guessing which meetings exist, which violates the fail-closed rule.
+- **What did load successfully:** memory/people.md, commitments.md, decisions.md, projects.md, partners.md (all read, all current as of 2026-07-17 last-update stamps)
+
+**What I did NOT do, per fail-closed:** Query Granola, assemble per-meeting briefs, or write to the Obsidian vault — all of that is gated on knowing what meetings exist today.
+
+**Next step:** This looks like a transient connector issue rather than a config problem. Options:
+1. Retry now if you think it was a blip.
+2. Check `/mcp` or the claude.ai connector settings for the Gcal_Gusto connection health.
+3. If you already know today's meeting list, tell me directly and I'll build the prep briefs from that instead of the live calendar.
