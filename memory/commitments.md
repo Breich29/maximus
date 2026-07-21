@@ -8,6 +8,12 @@ Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 
 ## Open
 
+**COM-022** — Allison Hess → Browserbase
+- **What:** Apply the three outstanding redline edits from the 2026-07-21 review (§3.3 strike "promoting"/"marketing" from permitted data uses; §3.3 add data subject-level de-identification language; §11.3 strike Gusto's obligation to pay Browserbase's breach-investigation costs) and send the revised contract back. Escalate the §3.3 marketing-use restriction to leadership before sending — may need sign-off above Brandon/Allison's level.
+- **Due:** Unspecified — same "close by end of July 2026" window as the broader Browserbase deal
+- **Status:** Open — new, from today's redlines review. Two other previously-flagged risks (policy-based blocking / Acceptable Use Policy conflict; shared Intuit T&C/IP clearance blocker with Diomedes) were NOT addressed in this session and remain open separately.
+- **Source:** Granola: "Review Browserbase redlines" (Jul 21, 11:30 AM); decisions.md DEC-015
+
 **COM-020** — Brandon → Chris Elkins / Jessica Sacks / Andrew Adams
 - **What:** Draft a philosophical-level MidDesk renewal negotiation POV (pillars: earned-maturity pricing, invoice-credit teeth, MFN clause waiver, "12 locals = 70% of market" scope philosophy) for them to react to
 - **Due:** ~2026-07-27, but renewal notice window opens 2026-07-24 (7 days out as of Jul 17) — see partners.md Mid-desk entry for a date-language discrepancy (Jul 24 "opens" vs. Jul 28 "closes") that needs Brandon's clarification
