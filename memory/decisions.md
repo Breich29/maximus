@@ -78,6 +78,11 @@ Format: DEC-XXX | Summary | Date | Owner | Source
 - **Decided by:** Ashby Taylor + Igor Khayet + Brandon
 - **Source:** Granola: "Sync on AI Partnerships" (Jul 21, 11:00 AM)
 
+**DEC-015** — Browserbase redlines review (2026-07-21, 11:30 AM, Brandon + Allison Hess): most positions commercially acceptable as-is (indemnification narrow/appropriate, liability caps + carve-outs fine, 72hr breach notice acceptable, publicity rights already conceded by Browserbase, §11.4 audit frequency not worth pushing). Three redlines remain: (1) §3.3 strike "promoting"/"marketing" from Browserbase's permitted data uses — testing/operating fine, marketing use of Gusto data is not; (2) §3.3 add data subject-level de-identification language (current text only covers Gusto as a company, not individual data subjects); (3) §11.3 strike Gusto's obligation to pay Browserbase's out-of-pocket breach-investigation costs, especially since Browserbase isn't indemnifying Gusto. The §3.3 marketing-use restriction is flagged to escalate to leadership before sending back to Browserbase. Note: this session did not address the two other Browserbase risks reconciled from the vault on 2026-07-20 (policy-based blocking risk re: STR-account-closure automation: Acceptable Use Policy conflict; Intuit T&C/IP clearance shared blocker with Diomedes) — those remain open and unresolved.
+- **Date:** 2026-07-21
+- **Decided by:** Brandon + Allison Hess
+- **Source:** Granola: "Review Browserbase redlines" (Jul 21, 11:30 AM)
+
 ---
 
 ## Archived
