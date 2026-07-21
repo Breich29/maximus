@@ -5569,3 +5569,292 @@ This confirms the existing brief is consistent and fully sourced — everything 
 **Key risk:** COM-020/COM-021 are now stale per action-tracker escalation rules, and today's calendar has no open block to actually draft the POV despite it being the top-priority item.
 
 Full detail (attendee-level open items, watch-outs, prep links) is in the vault note. Let me know if anything's changed since 09:11 that should trigger a refresh.
+No material changes since the last pass (1:45 AM PT) — this was a confirmation pass, appended to the existing note rather than a rebuild. Here's the state heading into today:
+
+**OBSIDIAN WRITE:** ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-20-meeting-prep.md`
+
+## DRAFT MEETING PREP MESSAGE(S)
+
+———
+:calendar: **Start Your Business Kick-off Call with Anthropic** — 11:00–11:25 AM PT (~20 min out)
+*Attendees:* Ashby, Izzy, Abhas, Brittany, Brandon. **Bridgette — declined.**
+
+*Push for:* Land the ask — dedicated Anthropic partner-success POC + co-brand support + community-event participation. Use the call to probe Lena on timing/roadmap.
+
+*Watch out for:*
+- COM-018: "1 in 5 new businesses" stat source is **still unconfirmed** — no Granola record shows this resolved since Jul 16. Have a fallback line ready if it comes up live.
+- Bridgette's decline is still unexplained — her Anthropic work has only ever touched the accountants deck, never SYB prep, so this isn't a scheduling fluke, just an unflagged gap. Worth a quick check with Ashby/Izzy before the call starts.
+- Lena isn't a listed attendee on the calendar invite itself — confirm she's actually dialing in.
+———
+:calendar: **Ashby / Brandon 1:1** — 12:00–12:30 PM PT
+*Push for:* Force an explicit call on COM-020 (Middesk POV) — draft it, reassign it, or name the blocker to Ashby directly. Resolve the Jul 24-vs-28 notice-window date discrepancy. Quick read-out on the Lena call.
+———
+:calendar: **Solo + Entity Management XFN Standup** — 1:00–1:30 PM PT
+*Push for:* Get Chris + Farron's read on the ZenBusiness SKUs (Op Agreement $99 + Publication pass-through) so you can reply to Lars Wensel this week.
+———
+:calendar: **Sync on AI Partnerships** (Ashby + Igor) — 3:00–3:15 PM PT
+*Push for:* Confirm scope of the "AI Services Marketplace" shadow initiative (Brittany + Colleen) with Ashby.
+———
+
+## NOTES ON RISKS / DECISIONS NEEDED
+1. **COM-020 (Middesk POV)** — Tier 3/4 stale, surfaced 5+ times, zero movement. Decide today: draft, reassign, or explicitly drop.
+2. **COM-021 (Lauren Snyder DM)** — 6 days overdue.
+3. **Bridgette's kickoff-call absence** — unresolved, contradicts every prior planning doc.
+4. No protected time today to actually write the Middesk POV despite it being top priority — flag to Ashby in the 1:1.
+
+Nina<>Brandon (12:30) and Brandon<>Spencer (4:00) remain unknown/personal contacts with no context — flagged, no action taken.
+OBSIDIAN WRITE: ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-20-meeting-prep.md`
+
+A comprehensive prep note for today already existed (auto-generated ~10:40 AM PT), so rather than duplicate it I re-verified the calendar and appended a fresh re-check pass. Summary:
+
+**What changed since the last pass (10:39 AM):**
+- 🔴 The 3:00–3:15 PM "Sync on AI Partnerships" (Ashby + Igor) has been **cancelled/removed** — confirmed via a full-day pull, a targeted search, and a `show_deleted` check. The "AI Services Marketplace" scope question that was slated for that slot no longer has a venue — I folded it into the 12:00 PM Ashby 1:1 agenda instead.
+- The companion Anthropic-side invite for the 11:00 AM kickoff (organizer shad@anthropic.com) still has **Lena absent from both invites**, Linao declined, and Brandon's own RSVP on that invite is still `needsAction` — worth accepting before 11:00 since it may be the real dial-in.
+
+**Everything else holds from the existing note** — most notably:
+- 🚨 **COM-020** (Middesk renewal POV) still not drafted, notice window imminent — top push item for the 12:00 PM Ashby 1:1.
+- 🚨 **COM-021** (DM to Lauren re: Diomedes comps) 6 days overdue.
+- **COM-018** stat-source ("1 in 5 new businesses") still unconfirmed ahead of the 11:00 AM call.
+- Bridgette Haymaker's decline from the kickoff invite remains an open flag.
+- Nina<>Brandon (12:30) and Brandon<>Spencer (4:00) remain unscoped personal/external meetings with no context.
+
+All output is draft-only per hard rules — nothing was sent.
+**OBSIDIAN WRITE:** ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-20-meeting-prep.md`
+
+## Summary
+
+A more current, actively-maintained meeting-prep note for today already existed (with 10:39 AM and 10:57 AM PT re-check passes) — it had already correctly resolved something my fresh calendar pull initially misread: the **"Shad Ahmed (Anthropic)" invite is the companion Google Meet link for the same 11:00 AM SYB×Anthropic kickoff call**, not a separate conflicting meeting. I appended an 11:16 AM pass rather than overwrite that analysis.
+
+**Where things stand right now:**
+
+- **The Lena/SYB kickoff call is in progress** (11:00–11:25/30 AM PT) — too late for pre-call prep. Live watch items: the unconfirmed "1 in 5 new businesses" stat, **Bridgette Haymaker's unexplained decline** (contradicts every prior planning doc), and Brandon's still-unactioned RSVP on the companion Meet invite.
+- **Next actionable moment: 12:00 PM Ashby 1:1** — carry forward (1) a debrief of how the Lena call went, (2) the "AI Services Marketplace" scope question that lost its venue when the 3:00 PM AI Partnerships sync was cancelled, and (3) a forcing decision on COM-020 (Middesk POV — still not started, now the most stale item on record).
+- **1:00 PM Solo+Entity standup** — good spot to sync Chris/Farron on the ZenBusiness term sheet before replying to Lars Wensel.
+- **Nina<>Brandon (12:30) and Brandon<>Spencer (4:00, Blue Bottle)** — both remain untracked personal/external contacts with no memory or Granola history; confirmed genuinely unknown, not a search gap.
+
+Two open commitments are overdue and worth flagging directly: **COM-020** (Middesk POV, un-started, top-priority since Jul 13) and **COM-021** (6 days overdue — DM to Lauren Snyder).
+**OBSIDIAN WRITE: ✅** `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-20-meeting-prep.md`
+
+---
+
+## Today's Meeting Prep — Monday, July 20, 2026
+
+A full prep note already existed for today (multiple intraday re-checks through 11:16 AM). I did a fresh pass at 11:36 AM — no drift in the calendar, no new memory changes, and no Granola transcript yet for the Anthropic call that just wrapped ~10 min ago. Appended that as a new timestamped entry rather than duplicating the file.
+
+**Next up: Ashby / Brandon 1:1 at 12:00 PM** — carries forward from the just-ended Anthropic kickoff:
+
+———
+📅 *Ashby / Brandon (1:1)* — 12:00–12:30 PM PT
+*Push for:*
+• Live read-out on how the Lena/Anthropic call actually went — including whether Lena/Shad Ahmed joined at all (neither is a named attendee on the Gusto-side Gcal invite), and what happened with the "1 in 5 new businesses" stat and Bridgette's unexplained decline.
+• Explicit call on **COM-020** (Middesk renewal POV) — untouched since Jul 13, now flagged Tier 3/4 (surfaced 5+ times, no action). Reassign, descope, or get protected time today.
+• The displaced "AI Services Marketplace" scope-check (its 3:00 PM slot was cancelled) — fold into this 1:1.
+———
+
+**Risks carried into the rest of the day:**
+- COM-020 (Middesk POV) and COM-021 (Lauren Snyder DM) are both stale/overdue with no protected time on today's calendar to act.
+- Bridgette Haymaker's decline from the Anthropic kickoff contradicts every prior planning doc — still unresolved.
+- Andrew Adams (back-channeling risk) is in the 1:00 PM Solo/Entity standup.
+- Two afternoon meetings (Nina<>Brandon, Brandon<>Spencer/golden.vc) remain unknown contacts with no memory or Granola history — flagged, not blocking.
+
+Full brief with all meetings, open items, and decision points is in the vault note linked above.
+**OBSIDIAN WRITE: ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-20-meeting-prep.md`** (appended new pass — file already had an active same-day log with 5 prior re-checks, so I extended it rather than overwriting).
+
+## Heads up first
+This file was already being actively maintained today by another routine — it had 5 timestamped re-check passes from 1:45 AM through 11:36 AM. I added a 6th at 11:55 AM confirming no drift. One correction to my own initial read: the "Shad Ahmed (Anthropic)" event I initially flagged as a possible double-booking is **not** a conflict — it's the companion Google Meet invite (organizer-side, from Anthropic) for the same 11:00 AM SYB kickoff call, not a separate meeting.
+
+## DRAFT MEETING PREP MESSAGES
+
+---
+:calendar: *Start Your Business Kick-off Call with Anthropic* — 11:00–11:25 AM PT (**already happened**, ~30 min ago)
+*Attendees:* Ashby Taylor, Izzy Rogner-Hall, Abhas Bodas, Brittany Halldorson, Brandon. **Bridgette Haymaker — declined.**
+*Context:* First live call with Lena (Anthropic) on the SYB track, locking in Winter 2027 joint-launch framing from DEC-010/DEC-012.
+*Status:* No Granola transcript yet — check after your 12:00 PM 1:1.
+*Watch out for:* Bridgette's decline contradicts every prior planning doc — confirm intentional vs. accidental. COM-018 stat-source ("1 in 5 new businesses") was still unconfirmed heading in.
+———
+
+---
+:calendar: *Ashby / Brandon (1:1)* — 12:00–12:30 PM PT (**next up**)
+*Attendees:* Ashby Taylor
+*Push for:*
+• Live read-out of the Lena call + Bridgette-decline answer
+• Force a decision on COM-020 (Middesk POV) — still not started, flagged as top-priority since Jul 13
+• Resolve Jul 24 vs. Jul 28 Middesk notice-window date discrepancy
+• Fold in the "AI Services Marketplace" scope-check (its original 3:00 PM slot with Ashby/Igor was cancelled)
+*Watch out for:* No protected time exists today to actually draft the Middesk POV — name that constraint directly.
+———
+
+---
+:calendar: *Solo + Entity Management XFN Standup* — 1:00–1:30 PM PT
+*Attendees:* Chris Elkins, Farron Hicks, Izzy Rogner-Hall, Namrata Jain, Andrew Adams, Janae Monfort + several not yet in people.md
+*Push for:* Chris/Farron's read on the ZenBusiness term sheet SKUs so you can reply to Lars Wensel this week.
+*Watch out for:* Andrew Adams back-channeling risk — he's in the room.
+———
+
+---
+:calendar: *Nina<>Brandon* — 12:30–1:00 PM PT / *Brandon <> Spencer* — 4:00–4:30 PM PT
+Both unknown contacts (personal Gmail / golden.vc), no memory or Granola history — flagged, no action taken (personal-scope ambiguity).
+———
+
+## NOTES ON RISKS / DECISIONS NEEDED
+1. **COM-020 (Middesk POV)** — stale 5+ times, no movement. Decide today: draft, reassign, or explicitly drop.
+2. **COM-021 (Lauren Snyder DM)** — 6 days overdue.
+3. **Jul 24 vs. Jul 28** Middesk notice-window discrepancy — unresolved, determines real runway.
+4. **Bridgette's decline** from the Lena call — undisclosed material change, needs confirmation.
+5. **ZenBusiness term sheet reply to Lars** — needs Chris/Farron alignment today to hit end-of-July close.
+
+Full detail, including the intra-day timestamped passes, is in the vault file linked above.
+**OBSIDIAN WRITE: ✅** `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-20-meeting-prep.md`
+
+## Summary
+
+Today's meeting prep for Brandon was already built out earlier today with multiple re-check passes (10:39 AM → 11:55 AM). I ran a fresh check as of 12:38 PM PT and appended a new pass — no material changes, so no memory write-back was needed this round.
+
+**Where things stand right now:**
+- **11:00 AM Anthropic (SYB/Lena) kickoff call** — happened, but no Granola transcript synced yet. Open threads from before the call (Bridgette Haymaker's declined invite, unconfirmed "1 in 5 new businesses" stat, unresolved Shad Ahmed identity) are still unresolved pending the transcript.
+- **12:00 PM Ashby 1:1** — also just wrapped, no transcript yet. Middesk POV (COM-020, still not started, most overdue item on the board) and the displaced "AI Services Marketplace" scope-check were the carried agenda items.
+- **Now (12:30–1:00 PM):** personal Nina<>Brandon block — untracked contact, no action.
+- **Next up — 1:00 PM Solo + Entity Management standup:** push the ZenBusiness/Lars Wensel term sheet alignment with Chris Elkins + Farron Hicks so the reply can go out this week.
+- **4:00 PM:** personal coffee with Spencer (golden.vc) — untracked contact, no prep needed.
+
+**Outstanding risks carried forward:** COM-020 (Middesk POV) and COM-021 (Lauren Snyder DM) are both stale/overdue with no movement; worth checking the Lena-call and Ashby-1:1 transcripts again once Granola catches up.
+**OBSIDIAN WRITE: ✅** `90-Maximus/meeting-prep/2026-07-20-meeting-prep.md` (appended 12:54 PM pass)
+
+## Summary
+
+Today's prep doc already existed as a running same-day log (multiple auto re-check passes from ~1:45 AM through 12:38 PM). My fresh calendar + Granola pull matched that log exactly — same 9 events, no drift — so I appended a new pass rather than rewriting it.
+
+**What's new this pass:** Nothing material changed. The two meetings that already happened today — the 11:00 AM SYB Anthropic kickoff call (Lena's expected slot, but the calendar invites only show Shad Ahmed + Linao on the Anthropic side, not Lena) and the 12:00 PM Ashby 1:1 — still have **no Granola transcript synced**, now over 90 minutes out for the kickoff call, which is a longer-than-normal sync delay worth noting.
+
+**Still open / carrying forward:**
+- **COM-020** (Middesk negotiation POV) — not started, most time-critical item, Tier 3/4 stale
+- **COM-021** (Diomedes comparison targets to Lauren Snyder) — 6 days overdue
+- **COM-018** (confirm "1 in 5 new businesses" stat source) — outcome unknown since the kickoff call transcript hasn't landed
+- **Bridgette Haymaker's decline** from the kickoff — reason still unconfirmed
+- **ZenBusiness term sheet** — today's 1:00 PM Solo/Entity standup (starting in ~6 min) is the natural moment to get Chris Elkins + Farron Hicks's read so the Lars Wensel reply can go out this week
+
+**Recommendation:** since Granola isn't syncing the kickoff-call and 1:1 transcripts in a timely way, don't wait on them — a direct ping to Ashby or Izzy would resolve the Bridgette-decline and stat-source questions faster than the transcript pipeline.
+
+No outbound messages were sent — everything above is draft/log only, per the hard rule.
+**OBSIDIAN WRITE: ✅** `90-Maximus/meeting-prep/2026-07-20-meeting-prep.md` — appended a 1:14 PM PT pass (the file already had a full day's worth of prep + re-check passes from earlier today).
+
+**Where today stands (1:14 PM PT):**
+- Solo + Entity Management standup is in progress now. Found one gap in its earlier prep: it was missing the **Solo Health Insurance** (Trident/HBG/ICHRA tracks) and **STR/Justine first-party push** threads — added as color to the vault note. Neither needs a new commitment written back; both are already tracked in `project_solo_health_insurance.md` and projects.md.
+- The 11:00 AM Anthropic kickoff (Shad Ahmed + Linao, not Lena as expected — flagged earlier today) and the 12:00 PM Ashby 1:1 both still have **no Granola transcript synced** 1.5–2 hrs later. That's now a real delay, not a fetch fluke — if it doesn't land soon, resolving the open threads (Bridgette's decline, the "1 in 5 businesses" stat source, COM-020 status) will need a direct ping to Ashby/Izzy rather than a transcript check.
+- Only unprepped slot left today: **Brandon <> Spencer, 4:00 PM** at Blue Bottle — external (golden.vc), no memory or Granola history, flagged as an unknown contact per protocol.
+
+**No memory write-backs this pass** — nothing material changed in commitments.md/decisions.md/partners.md/projects.md/people.md since the last check.
+
+**Still the top standing risk carried all day:** COM-020 (Mid-desk renewal POV) hasn't moved and there's no protected time on today's calendar to draft it — worth raising directly rather than letting it slip another week.
+I've loaded local memory (people, commitments, decisions, projects, partners) and the agent specs, but I can't proceed to Phase 2/3 — both required external sources are unavailable in this session:
+
+- **Google Calendar MCP** — not connected (not found via tool search, not in the "still connecting" list)
+- **Granola MCP** — not connected (same)
+
+Per the hard rule in CLAUDE.md and this task's own instructions ("FAIL-CLOSED: if any required source is unavailable, stop and print failure details"), I'm stopping here rather than assembling a partial meeting-prep brief without knowing today's actual calendar.
+
+**What this means:** without calendar access I can't tell you what meetings you have today (2026-07-20), so I can't build meeting-by-meeting prep briefs.
+
+**To unblock:**
+- Google Calendar and Granola need to be authorized via their respective connector settings (claude.ai connector settings for MCP connectors, or `/mcp` in an interactive session) — I can't run that OAuth flow from here.
+- If you tell me today's meetings and attendees directly, I can build the prep briefs from local memory (people.md, commitments.md, decisions.md, projects.md, partners.md) instead — I do have rich context there, including the **11:00 AM SYB Anthropic kickoff call with Lena** that's already flagged in memory for today.
+
+Want me to proceed that way for known meetings (e.g., the Lena/Anthropic kickoff) while flagging the calendar gap, or hold until Calendar/Granola access is restored?
+OBSIDIAN WRITE: ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-20-meeting-prep.md`
+
+**Status at 1:54 PM PT:** No calendar drift, no new Granola transcripts synced yet for any of today's three completed meetings.
+
+---
+
+## DRAFT MEETING PREP MESSAGE(S) — current state
+
+———
+:calendar: *Start Your Business Kick-off Call with Anthropic* — 11:00–11:25 AM PT (completed)
+No transcript synced yet (~2.5 hrs post-meeting — this is a real Granola sync gap now, not a delay). Unresolved from the pre-call plan: **Bridgette Haymaker declined** this invite despite every planning doc (DEC-012, COM-018) listing her as confirmed; **Lena was never a named attendee on either calendar invite** — the actual Anthropic-side invite (organizer `shad@anthropic.com`) lists Shad Ahmed + Linao (declined), not Lena; and the "1 in 5 new businesses" stat source (COM-018) was still unconfirmed as of the last written record.
+———
+
+———
+:calendar: *Ashby / Brandon (1:1)* — 12:00–12:30 PM PT (completed)
+No transcript yet. Carried agenda: force a decision on COM-020 (Middesk POV — still not started, most time-critical item since Jul 13), resolve the Jul 24-vs-28 notice-window date discrepancy, live read-out of the Lena/Shad call, and the displaced "AI Services Marketplace" scope question (its original 3:00 PM slot was cancelled earlier today).
+———
+
+———
+:calendar: *Solo + Entity Management Standup* — 1:00–1:30 PM PT (just ended)
+No transcript yet. Carried agenda: get Chris Elkins + Farron Hicks's read on the ZenBusiness Operating Agreement/Publication SKUs so the reply to Lars Wensel can go out this week.
+———
+
+———
+:calendar: *Brandon <> Spencer* — 4:00–4:30 PM PT (upcoming, only remaining item today)
+Blue Bottle Coffee; organizer `spencer@golden.vc`, your personal Gmail also invited. **No context anywhere** — not in people.md, Granola, or the vault. Reads as personal/networking rather than a Gusto workstream; flagged per protocol, no action taken.
+———
+
+## NOTES ON RISKS / DECISIONS NEEDED
+
+1. **COM-020 (Middesk negotiation POV)** — still not drafted, now the single most-repeated stale item across a week of briefs. Needs an explicit call: draft it, reassign, or descope.
+2. **Bridgette's decline + the Lena/Shad-Ahmed discrepancy** — worth a direct ping to Ashby/Izzy rather than waiting on a transcript, since Granola hasn't synced any of today's three meetings and the gap is now unusually long (~2.5 hrs).
+3. **COM-021** (Lauren Snyder DM, Diomedes market-scan targets) remains 6 days overdue, untouched today.
+4. Nothing changed in commitments.md/decisions.md/partners.md/projects.md/people.md this pass — no write-back needed.
+
+Recommend one more check late this afternoon once Granola transcripts land, to capture actual outcomes from the Lena/Shad call, Ashby 1:1, and standup rather than relying on pre-call plans.
+**OBSIDIAN WRITE:** ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-20-meeting-prep.md` (appended 2:10 PM PT pass)
+
+---
+
+## Status: today's meeting-prep note was already live and current
+
+This note has been running same-day re-check passes all day (last at 1:54 PM PT) — it already has full prep cards for all of today's meetings. My fresh pull at 2:10 PM PT found **no drift**: same 9 calendar events, and still no synced Granola transcripts for the three work meetings that already happened (Lena/Shad Anthropic kickoff, Ashby 1:1, Solo/Entity standup).
+
+**DRAFT MEETING PREP MESSAGE — the only thing still upcoming today:**
+———
+📅 *Brandon <> Spencer* — 4:00–4:30 PM PT, Blue Bottle Coffee (168 2nd St, SF)
+*Attendees:* Spencer (spencer@golden.vc) — organizer; brandonreich29@gmail.com also invited
+
+*Context:* Not in people.md, Granola, or the vault. `golden.vc` reads as a VC/investor contact; personal-email CC + coffee-shop setting suggests informal/networking rather than a tracked Gusto workstream.
+
+*Watch out for:* Genuinely unknown external contact — no prior history to lean on.
+
+*Prep:* None available.
+———
+
+## Notes on Risks / Decisions Needed
+
+Nothing has resolved since 1:54 PM. Still open, and none of these can be closed from available sources — they need a direct check-in with Ashby/Izzy, not another transcript check:
+- Whether the Lena kickoff and Shad Ahmed invite were the same call or a real conflict, and how Bridgette's decline factored in
+- COM-018 — "1 in 5 new businesses" stat source, still unconfirmed
+- COM-020 — Middesk POV, still not started (top-priority item since Jul 13)
+- Chris/Farron's read on the ZenBusiness SKUs from the 1:00 PM standup
+- Granola never capturing notes for the recurring Solo/Entity standup — worth checking whether the bot is actually being admitted to that series
+
+Nothing required write-back to commitments/decisions/partners/projects/people this pass. Next natural checkpoint: after the 4:30 PM Spencer meeting, to see if the morning transcripts have finally synced and to push a direct check-in on the open Anthropic-call questions.
+**OBSIDIAN WRITE: ✅** `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-20-meeting-prep.md`
+
+## Status check (2:29 PM PT)
+
+Today's meeting-prep note already exists with 8 prior re-check passes (last at 2:10 PM). I ran a fresh pass — no drift on the calendar, and none of the three completed work meetings (11:00 AM Anthropic/Lena kickoff, 12:00 PM Ashby 1:1, 1:00 PM Solo/Entity standup) have a synced Granola transcript yet (kickoff call is now ~3 hrs post-meeting). Only new data point: ruled out a false-positive name match ("Lina Ramirez" ≠ the unidentified `linao@anthropic.com` attendee) — didn't resolve the actual identity question.
+
+**The only meeting still ahead today:** Brandon <> Spencer, 4:00–4:30 PM PT (Blue Bottle Coffee, spencer@golden.vc) — untracked contact, no prep material anywhere.
+
+## Outstanding, unresolved by any available source (need a direct check-in, not more searching)
+
+1. **Bridgette Haymaker's decline** from the Anthropic/SYB kickoff — contradicts every prior planning doc (DEC-012, projects.md). No reason on record.
+2. **Identity mismatch on Anthropic's side** — the expected/named contact was **Lena**; today's calendar instead shows **Shad Ahmed** (organizer) + **linao@anthropic.com** (declined) on a separate companion invite, neither of whom has any prior history in Granola. Whether Lena joined at all is unconfirmed.
+3. **COM-018** — "1 in 5 new businesses" stat source, still unconfirmed as of the last written record (this morning).
+4. **COM-020** — Middesk POV, was to be forced to a decision in the Ashby 1:1; outcome not yet known.
+5. **ZenBusiness/Lars Wensel** — whether Chris Elkins + Farron Hicks gave their read at the standup, still unknown.
+
+None of these will resolve via more transcript-checking — they need a direct Slack/verbal ping to Ashby and/or Izzy. Recommend one more automated pass after 4:30 PM to catch any transcripts that land and close out the day.
+**OBSIDIAN WRITE: ✅** `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-20-meeting-prep.md`
+
+Quick status — this file has been running same-day re-checks all day (last pass 2:29 PM); I added a 3:14 PM pass. Nothing has changed structurally since this morning, but a few things are worth your attention now:
+
+**Still open / needs a direct check-in (not resolvable from calendar/Granola):**
+- **No Granola transcript for any of today's 3 work meetings** (Lena/Shad kickoff, your Ashby 1:1, the Solo/Entity standup) — the kickoff is now ~4 hrs post-meeting with zero notes. This is past normal sync delay; likely the Granola bot isn't joining these series. Worth checking the integration if this repeats tomorrow.
+- **Bridgette Haymaker declined the Anthropic kickoff** — reason still unconfirmed.
+- **Two competing 11:00 AM Anthropic invites** (Ashby's official one vs. a `shad@anthropic.com` one with `linao@anthropic.com` declined) — still unclear which was the real call / who from Anthropic actually joined. "Lena" never appeared by name on either invite.
+- **COM-018** (stat-source for "1 in 5 new businesses") and **COM-020** (Mid-desk POV, raised in your 1:1) — outcomes unknown without a transcript.
+- **ZenBusiness SKU read from Chris/Farron** at the standup — also unconfirmed.
+
+**Only remaining calendar item:** Brandon <> Spencer, 4:00–4:30 PM, Blue Bottle — no context anywhere (not in people.md, no Granola/vault history), reads as personal/networking.
+
+Since these five open threads can't be resolved from available sources, they'll need a direct Slack/verbal ping to Ashby and/or Izzy rather than more waiting on Granola.
+API Error: Connection closed mid-response. The response above may be incomplete.

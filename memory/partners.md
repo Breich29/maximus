@@ -64,8 +64,12 @@ _Last updated: 2026-07-17_
 - **Classification:** Vendor. Brandon is lead (Zip #5888), shepherding the deal but not the end signer.
 - **Key contacts:** Shubhankar, Cindy (Browserbase). Eddie (external stakeholder, eager to close, pinged Brandon the week of Jul 6).
 - **Open negotiation items (red lines sent to Cindy 2026-07-13):** No auto-renew (explicit opt-in only); indemnity language (lawyers to handle); no marketing use of Gusto name/logo without written consent; 48-hour breach notice; data minimization confirmed configurable; exclude user contributions from content license grant. Allison Hess (legal) reviewing agreement as of Jul 6.
+- **⚠️ Additional risks reconciled from vault `10-Partners/BrowserBase.md` (2026-07-20 — not previously captured here):**
+  1. **Uncapped customer indemnity** — current draft exposes Gusto to unlimited liability for customer-side issues; non-standard, needs an explicit cap before MSA signature. (The "indemnity language" red line above was tracked vaguely as "lawyers to handle" — this is the specific defect.)
+  2. **Policy-based blocking risk** — Browserbase's own Acceptable Use Policy may technically prohibit the exact STR-account-closure automation Gusto is contracting for. Fundamental contract risk, not yet resolved, must be confirmed before MSA execution.
+  3. **Intuit T&C / IP language clearance is a shared blocker** — per vault, the same clearance (DRI: Allison Hess) blocks both this Browserbase MSA *and* the Double/Project Diomedes term discussions (see projects.md Diomedes entry). Status of this clearance not confirmed as of 2026-07-20 — worth checking both threads together rather than assuming independent timelines.
 - **Strategic direction:** Agentic fulfillment vehicle for first-party STR (state closures = proving ground) and entity formation. Target first-party readiness ~Dec 1, 2026.
-- **Next milestone:** Close by end of July 2026 (originally targeted for 2026-07-13, slipped due to DPA/economics decision). Awaiting Browserbase's DPA from Cindy; DPA-threshold decision with counsel.
+- **Next milestone:** Close by end of July 2026 (originally targeted for 2026-07-13, slipped due to DPA/economics decision). Awaiting Browserbase's DPA from Cindy; DPA-threshold decision with counsel. The 2026-07-21, 11:30 AM "Review Browserbase redlines" meeting with Allison Hess is the venue to raise the three reconciled risks above.
 
 ---
 
