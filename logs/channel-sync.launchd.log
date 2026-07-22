@@ -53,3 +53,12 @@ Skipped (already reflected / dedupe): 2 messages — both were Maximus's own Dai
 All clean. No new signal since last sync.
 
 Cursor advanced to `last_ts: 1784607051.487219` in `memory/extraction_tracker.md`. No memory/*.md files needed a content or header change. Validator spot-check found no ID gaps, duplicates, or broken cross-references — one cosmetic note flagged (commitments.md has two separate `## Completed` headers, non-blocking).
+**Stopping — fail-closed.** The Slack MCP tools needed for this job (`slack_read_channel` / `slack_read_thread` for #maximus-updates) aren't available in this session — I searched the deferred-tool registry and found no Slack connector at all.
+
+Per the job's explicit fail-closed rule, I will not guess at what was posted or assemble partial memory updates. No files were touched — cursor in `extraction_tracker.md` (`last_ts: 1784607051.487219`) is unchanged, and nothing was written to decisions/commitments/partners/projects/people.md or Obsidian.
+
+Two things worth flagging:
+1. The Slack MCP connector appears disconnected/unavailable in this session — you'll need to reconnect it (or run this from a session where it's live) before Channel Sync can run.
+2. Unrelated but noted at session start: a `SessionStart` hook failed with a 403 pulling `github.com/Gusto/partnerships-ai-code.git` — separate from this job, but may be worth checking if it's expected (auth token expired, permissions changed, etc.).
+
+Let me know once Slack access is restored and I'll re-run the sync.

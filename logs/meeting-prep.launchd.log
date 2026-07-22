@@ -6516,3 +6516,21 @@ So there's nothing left today to meaningfully prep for. Two options:
 2. **Run a "day-that-was" recap** of today's meetings instead (what happened, decisions, open follow-ups) — different from prep, but may be what's actually wanted at this hour.
 
 Which would you like? (Or if you specifically wanted this run in "as-if-morning" mode for logging purposes, say so and I'll proceed with the original full-day-today instructions as written.)
+**OBSIDIAN WRITE:** ✅ `90-Maximus/meeting-prep/2026-07-22-meeting-prep.md`
+
+## Summary
+
+All of today's (Jul 21) meetings had already occurred by the time I ran this (it's 7:27 PM), so I pivoted to night-before prep for **tomorrow, July 22** — consistent with the configured night-before cadence.
+
+**5 meetings prepped**, most-to-least critical:
+
+1. **Ashby / Brandon (3:30 PM)** — highest leverage: push for a firm date on COM-020 (Middesk renewal POV, still not started, notice window closes ~Jul 28), resolve the Jul 24-vs-28 date discrepancy, flag the Browserbase §3.3 escalation, confirm the FP&A-resource ask for the AI market map.
+2. **Lolo<>Chris<>Brandon coffee (2:00 PM)** — Middesk co-build cadence (COM-015) + informal check on COM-020's outcome from today's Chris 1:1 (unverified — no transcript synced yet).
+3. **[HOLD] Diomedes Valuation (9:00 AM)** — follows today's Financials call with Ben Stein; flagged Brandon Swartz as a new-person threshold crossing (2nd sighting).
+4. **Weekly Partner Dev Sync (11:00 AM)** — relay today's DEC-014 outcome (AI partnership division of labor) to Vivian/Joseph/Devesh, whose tracker proposal it supersedes.
+5. **Notion Training (11:30 AM)** — FYI only.
+
+**Two items omitted entirely** per the hard "Gusto Embedded" suppression rule: the "GEP AMA" and the "Gusto & U.S. Bank Bi-Weekly Partnership Sync" (US Bank was a legacy GEP anchor partner, confirmed via your About-me vault note). I still flagged the resulting **11:00 AM double-booking** as a generic scheduling conflict without naming the suppressed meeting.
+
+**Memory updates:** logged the Brandon Swartz new-person threshold crossing in `action_items.md` and recorded this brief in `surfaced_log.md`.
+API Error: Connection closed mid-response. The response above may be incomplete.
