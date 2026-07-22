@@ -8,6 +8,7 @@ the last run. See prompts/meeting_prep.txt.tmpl PHASE 0 for how this is read/wri
 
 | Date | Meetings fingerprint | Last full prep at | Notes |
 |---|---|---|---|
+| 2026-07-22 | Gusto & U.S. Bank - Bi-Weekly Partnership Sync @ 11:00 (8) \| Weekly Partner Dev Sync! @ 11:00 (5) \| Notion Training | Gusto Corp Dev Biweekly @ 11:30 (20) \| GEP AMA @ 13:00 (20) \| Lolo<>Chris<>Brandon: Get Coffee @ 14:00 (3) \| Ashby / Brandon @ 15:30 (3) \| Brandon pick up day @ 16:15 (2) | 2026-07-22 09:32:42 PDT | First full pass of the day (no prior row existed despite a 9:21 AM Obsidian note from an earlier run — likely a tracker-write gap in that run; this pass reconciles). FY27 Roadmap × Partner Ecosystem excluded from fingerprint (already in progress at gate time, started 9:30). |
 
 ---
 
