@@ -6354,3 +6354,165 @@ Today's file was already built out this morning with live check-ins through 12:0
 5. Jul 24-vs-Jul 28 Middesk notice-date discrepancy still open — Chris is the right person to resolve it.
 
 No material change from the existing day-of prep (last refreshed 12:59 PM) — this pass mainly reinforces that the Manav Khurana identity question remains unresolved and adds it to the vault note as check-in #4.
+**OBSIDIAN WRITE: ✅** `90-Maximus/meeting-prep/2026-07-21-meeting-prep.md` (appended "Update — 2:01 PM PT check-in #5")
+
+It's 2:01 PM PT and today already has 5 rounds of prep/refresh in that file since this morning. Rather than duplicate it, here's the state right now:
+
+---
+
+**Already happened today** (outcomes logged in decisions.md/commitments.md — no action needed): Corp & Partner Dev weekly, Sync on AI Partnerships (→ DEC-014), Review Browserbase redlines (→ DEC-015, COM-022), Solo+SYB lunch, Manav Khurana interview.
+
+---
+
+:calendar: *Project Diomedes | Financials* — 2:00–2:45 PM PT **(starting now)**
+*Attendees:* Delia He, Ashby Taylor, Bridgette Haymaker, Ben Stein (DoubleHQ CEO), Evin Wick, Abhas Bodas, + Brandon Swartz (unrecognized — no people.md profile).
+
+*Context:* First diligence call to possibly put real numbers on the table for DoubleHQ post the Jul 14 Buy decision (DEC-011). No valuation/deal terms have surfaced in any prior session.
+
+*Push for:* Nothing — Brandon is sideline/support (Ashby + Delia lead). Just close **COM-021** with Delia (7 days overdue — DM her the market-scan comparison targets) and capture any financial detail for the still-unstarted Tomer M&A-thesis deliverable.
+
+*Watch out for:* Ben Stein (external) is on the call — stay in listen mode.
+
+---
+
+:calendar: *Chris / Brandon* — 3:00–3:15 PM PT
+*Attendees:* Chris Elkins.
+
+*Push for:* **COM-020** (Middesk renewal POV) — this is the last scheduled touchpoint with Chris before the notice window closes (~Jul 24–28, still unresolved which date is real). Get a concrete commitment: draft this week, reassign, or descope. Also check COM-015 (Lolo cadence status) and nail the date discrepancy.
+
+---
+
+**⚠️ New finding this pass — Manav Khurana COI just got stronger:** In his own interview answers, the candidate described doing the exact GEP↔Xero SPIFF-extension work Brandon's Xero counterpart (also named Manav Khurana) has been running with him — "ran full funnel analysis on a failed spiff, pulled the plug, pivoted to GEP." That's a specific match, not just a shared name. Still unconfirmed (Granola paraphrase, not a verbatim quote), but worth flagging to Tom Byun/Evelyn Perez before any offer conversation. Written to people.md.
+
+**Rest of today:** Pro/Co Happy Hour (4:00–5:00) and Camp Penny (5:00–7:00) are social/no-prep; both overlap Padel Academy (5:30–7:00, personal) — scheduling conflict is Brandon's to resolve.
+
+**Risks unchanged from earlier passes:** COM-020 stale since Jul 13, COM-021 8 days overdue after today, three end-of-July deadlines (Browserbase, ZenBusiness, Middesk) competing for bandwidth.
+**OBSIDIAN WRITE: ✅** `90-Maximus/meeting-prep/2026-07-21-meeting-prep.md` (appended 2:24 PM refresh to the existing day-of note)
+
+---
+
+## DRAFT MEETING PREP — Remaining Today (Tue Jul 21)
+
+A comprehensive prep note for today already existed and has been kept fresh with rolling updates all day (last at 2:01 PM, right as Diomedes Financials began). I appended one more pass — here's what matters for what's left:
+
+———
+📅 **Project Diomedes | Financials** — 2:00–2:45 PM (in progress)
+*Attendees:* Delia He (organizer), Ashby Taylor, Bridgette Haymaker (tentative), Ben Stein (DoubleHQ CEO), Evin Wick, Abhas Bodas, **Brandon Swartz** (unrecognized, no people.md profile)
+
+*Context:* First diligence call to actually surface DoubleHQ financials/valuation — no numbers have been on the table in any prior session. Brandon is sideline/support (Ashby + Delia lead), except his own named deliverable: the Tomer-requested M&A thesis, which still has no completion evidence.
+
+*Push for:* Nothing — stay in listen mode. But capture financial detail for your own stalled thesis, and use the room to finally close **COM-021** (DM Lauren Snyder the market-scan comparison targets for Delia) if it hasn't gone out yet — 7+ days overdue, Delia's in the room again.
+
+*Watch out for:* Ben Stein's Intuit Platinum Partner status is the key legal overhang if a deal surfaces — antitrust/game-theory risk already flagged separately.
+———
+📅 **Chris / Brandon** — 3:00–3:15 PM
+*Attendees:* Chris Elkins
+
+*Context:* This is the last scheduled touchpoint with Chris before Middesk's renewal notice window closes (~Jul 28). **COM-020** — the philosophical-level negotiation POV — has had zero movement since Jul 13 despite being the #1 flagged item in every brief since.
+
+*Push for:*
+• Commit to Chris on a concrete date for a first COM-020 draft — even rough, even verbal — don't leave empty-handed again.
+• COM-015 status check: did Chris hear back from Lolo on co-build/co-design cadence?
+• Resolve the Jul 24-vs-Jul 28 notice-window date discrepancy definitively.
+
+*Watch out for:* Keep this tight — 15 minutes isn't enough for a full Middesk deep-dive; anchor on COM-020/COM-015 only.
+———
+
+**Lower-priority / no prep:** Pro/Co Happy Hour (4–5 PM, social) — good informal check-in opportunity with multiple product counterparts but no formal prep. Padel Academy (5:30–7 PM) still overlaps the earlier-flagged Camp Penny block — unresolved, yours to sort.
+
+## RISKS / DECISIONS NEEDED
+1. **COM-020** — no forcing function left after 3:00 PM until the notice window closes. This 1:1 is it.
+2. **COM-021** — 7 days overdue, Delia present at both meetings today; should not survive today unsent.
+3. **Brandon Swartz** — new, unconfirmed attendee on a deal-sensitive M&A financials call.
+4. Morning meetings (Corp & Partner Dev, AI Partnerships sync, Browserbase redlines, Manav Khurana interview) already occurred — outcomes captured in decisions.md (DEC-014, DEC-015) and the vault note; no action needed from you on those now.
+OBSIDIAN WRITE: ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-21-meeting-prep.md`
+
+---
+
+**Note:** Today's meeting-prep file was already running live all day (last touch 2:24 PM PT) — I read it in full rather than duplicating work, verified nothing new via a fresh Granola/calendar pull, and appended a 2:40 PM check-in. Full per-meeting briefs for all of today's meetings are already in that file. Summary of where things stand right now:
+
+---
+:calendar: *Project Diomedes | Financials* — 2:00–2:45 PM PT (wrapping up)
+*Attendees:* Delia He, Ashby Taylor, Bridgette Haymaker, Ben Stein (DoubleHQ CEO), Evin Wick, Abhas Bodas, Brandon Swartz (unconfirmed, no context)
+
+*Context:* No transcript synced yet — checked Granola directly at 2:42 PM. This is likely the first session where DoubleHQ actually puts real financial numbers on the table (no valuation/revenue/deal terms have surfaced in any prior session).
+
+*Watch out for:* Stay in listen/support mode — Brandon is sideline on Diomedes except for the still-stalled Tomer M&A-thesis deliverable, which this call's numbers should feed.
+---
+
+---
+:calendar: *Chris / Brandon* — 3:00–3:15 PM PT (next up, ~20 min)
+*Attendees:* Chris Elkins
+
+*Context:* This is the last scheduled touchpoint with Chris before the Middesk renewal-notice window closes (~Jul 28). COM-020 (the Middesk negotiation POV Brandon owes Chris/Jessica/Andrew) has had zero movement since Jul 13 — it's been the top-flagged item in every brief since.
+
+*Push for:*
+• A concrete date for a first COM-020 draft — even rough is better than nothing.
+• Status check on COM-015 (Chris → Lolo, co-build/co-design cadence).
+• Definitively resolve the Jul 24-vs-Jul 28 notice-window date discrepancy.
+
+*Watch out for:* 🔴 If COM-020 doesn't move in this 15 minutes, there's no other forcing function before the window closes.
+---
+
+**Rest of today (no formal prep):** Pro/Co Happy Hour (4–5 PM) and Camp Penny (5–7 PM) — social. Padel Academy (5:30–7 PM) double-books against Camp Penny — still Brandon's to resolve.
+
+**NOTES ON RISKS / DECISIONS NEEDED:** COM-020 explicit decision (draft this week / reassign / descope) is now the day's single biggest open item — flag directly in the 3:00 PM 1:1.
+OBSIDIAN WRITE: ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-21-meeting-prep.md`
+
+## Status at 3:38 PM PT
+
+Today's meeting-prep note is a continuously-updated running doc (this is its 8th check-in pass since 10:41 AM last night). Nothing new to prep today — almost the entire calendar has already run: Corp & Partner Dev, Sync on AI Partnerships (→ DEC-014), Review Browserbase redlines (→ DEC-015/COM-022), Manav Khurana interview, Diomedes Financials, and Chris/Brandon 1:1 are all done or in progress. Only remaining item: **Pro/Co Happy Hour, 4:00–5:00 PM** (~22 min out) — social, no formal prep needed.
+
+**NOTES ON RISKS / DECISIONS NEEDED:**
+
+🚨 **Unresolved as of this check:** Neither Granola transcript for the **2:00 PM Diomedes Financials** call nor the **3:00 PM Chris/Brandon 1:1** has synced yet. That means COM-020 (Middesk renewal POV — the single most time-critical open item since Jul 13) has an *unverified* outcome from what was its last forcing function before the ~Jul 28 notice window closes. I flagged this explicitly in the doc rather than assuming it moved — worth Brandon confirming directly ("did I lock a draft date with Chris?") rather than waiting for Granola to sync.
+
+🟡 Chris Elkins is tentative on the Pro/Co Happy Hour — if he shows, it's an informal fallback shot at nailing down that COM-020 date.
+
+No draft Slack/email messages needed this pass — nothing actionable changed since the 2:40 PM update.
+**OBSIDIAN WRITE: ✅** `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-21-meeting-prep.md`
+
+This file already had rolling check-ins throughout today from earlier passes — I added a 4:05 PM update rather than duplicating it. Here's the current state:
+
+---
+
+**DRAFT MEETING PREP — Remaining today (2026-07-21, as of 4:05 PM PT)**
+
+———
+:calendar: *Pro/Co Happy Hour* — 4:00–5:00 PM (in progress)
+*Attendees:* Large Pro/Co + GBC/Entity/Solo crowd — Alex Kehayias, Namrata Jain, Ian Smith, Chris Elkins (tentative), Farron Hicks, Izzy Rogner-Hall, Bridgette Haymaker, Lauren Snyder, Natalie Harmon, Abhas Bodas, +15 unrecognized names.
+
+*Context:* Social, no agenda.
+
+*Push for:* Nothing formal — relationship-building only. If Chris shows, a low-key second chance to check on COM-020's status. Natalie Harmon being there is a casual opening to resolve the COM-017 authorship question (Izzy vs. Natalie on the SYB demo video).
+
+*Watch out for:* Don't turn a happy hour into a work ambush.
+———
+
+Camp Penny (5–7 PM, community event, no prep needed) and Padel Academy (5:30–7 PM, personal) remain **double-booked** — flagged unresolved across 9 passes today. That's yours to pick.
+———
+
+**NOTES ON RISKS / DECISIONS NEEDED**
+
+1. 🔴 **Chris/Brandon 1:1 (3:00 PM) and Diomedes Financials (2:00 PM) still have no Granola notes** nearly an hour/two hours later. Outcome on COM-020's draft-date ask, COM-015 (Lolo cadence), and the Jul 24-vs-28 date question is unverified — this was the *last* scheduled forcing function for COM-020 before the ~Jul 28 Middesk notice window. Recommend a direct Slack check with Chris rather than waiting on sync.
+2. Diomedes financial detail for the Tomer M&A thesis is likewise uncaptured — worth a direct ask to Ashby/Delia if it doesn't sync by tomorrow's brief.
+3. Camp Penny vs. Padel double-book — just pick one.
+
+Sync on AI Partnerships and the Browserbase redlines review (both earlier today) already resolved and captured in decisions.md (DEC-014, DEC-015) and commitments.md (COM-022) — no action needed there.
+Before running the full prep, a scheduling note: it's currently **6:19 PM PDT**. Looking at today's calendar, every substantive business meeting has already happened:
+
+- Corp & Partner Dev (weekly) — 10:00 AM ✅ passed
+- Sync on AI Partnerships — 11:00 AM ✅ passed (outcome logged as DEC-014)
+- Review Browserbase redlines — 11:30 AM ✅ passed (outcome logged as DEC-015)
+- Skills Assessment: Manav Khurana — 12:45 PM ✅ passed
+- Project Diomedes | Financials — 2:00 PM ✅ passed
+- Chris / Brandon — 3:00 PM ✅ passed
+
+The only items still open on today's calendar are non-business: **Pro/Co Happy Hour** (4–5 PM, in progress/ended), **Camp Penny** (5–7 PM, community event), and **Padel Academy** (5:30–7 PM, personal) — none of these need a business prep brief, and personal items are out of scope for this brief per `preferences.md`.
+
+So there's nothing left today to meaningfully prep for. Two options:
+
+1. **Run prep for tomorrow (2026-07-22)** instead, which is the useful forward-looking version of this brief.
+2. **Run a "day-that-was" recap** of today's meetings instead (what happened, decisions, open follow-ups) — different from prep, but may be what's actually wanted at this hour.
+
+Which would you like? (Or if you specifically wanted this run in "as-if-morning" mode for logging purposes, say so and I'll proceed with the original full-day-today instructions as written.)
