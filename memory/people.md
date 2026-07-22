@@ -203,6 +203,20 @@ _Last updated: 2026-07-17_
 - **Slack ID:** U0817391U01
 - **Title:** ExecOps for Matan Gal, Tom Byun, Lauren Stolzar
 
+### Brandon Swartz
+- **Email:** brandon.swartz@gusto.com
+- **Slack ID:** U02E5C5KT6H
+- **Title:** FBOS (Finance) — manager, 3 direct reports (incl. Kyle Everly)
+- **Team:** Finance | Reports to: Jeff Cobourn
+- **Context:** Attendee on the 2026-07-21 "Project Diomedes | Financials" call and the 2026-07-22 9:00 AM "[HOLD] Diomedes Valuation" — Finance/FP&A counterpart brought in for deal financial modeling. Resolved 2026-07-22 via Glean employee search (had crossed the 2+-meeting auto-add threshold in action_items.md).
+
+### Dan Loomis
+- **Email:** dan.loomis@gusto.com
+- **Slack ID:** U04UM8MFBSQ
+- **Title:** Head of Money Group PM
+- **Team:** Applications PM (Product) | Reports to: Chris Cosgrove (Head of Product Management)
+- **Context:** Diomedes regular (attended Jun 2, Jun 3, Jul 14 debrief, and the 2026-07-22 9:00 AM Valuation hold) — Money Group product lead, relevant given Diomedes/DoubleHQ's proximity to Gusto Books. Manages Evin Wick (also a Diomedes regular). Resolved 2026-07-22 via Glean employee search.
+
 ### Mal Arun
 - **Email:** mal.arun@gusto.com
 - **Title:** Channel Development
