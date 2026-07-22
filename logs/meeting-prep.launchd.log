@@ -6682,3 +6682,22 @@ Large exec AMA (Tomer London, Tom Byun, Matan Gal, Colleen Oates, others) — yo
 7. **U.S. Bank suppression conflict** — decision pending from you on whether to lift suppression for this specific partnership.
 
 All outbound items above (Lauren Snyder DM, any Ashby/Chris follow-ups) are draft-only — say the word and I'll write the actual message text for you to send.
+OBSIDIAN WRITE: ✅ `90-Maximus/meeting-prep/2026-07-22-meeting-prep.md`
+
+## Today's meeting prep (2026-07-22)
+
+A meeting-prep note for today already existed in the vault (written overnight, refreshed as recently as ~00:05 AM PT). It correctly handles a suppression case my first draft missed — the "Gusto Embedded" hard-suppression rule (`preferences.md`: never surface, never mention) applies to the U.S. Bank sync and the GEP AMA, both on today's calendar. Rather than overwrite it with a version that leaked GEP-adjacent content, I verified it against the live calendar (matches), re-checked Granola for the two still-pending transcripts (Diomedes Financials call, Chris/Brandon 1:1 — neither has synced), resolved the two open new-person flags via Glean, and appended a refresh addendum.
+
+**Resolved this pass:**
+- **Brandon Swartz** — Finance/FBOS, manager, reports to Jeff Cobourn — Finance/FP&A counterpart for Diomedes deal modeling.
+- **Dan Loomis** — Head of Money Group PM, reports to Chris Cosgrove, manages Evin Wick.
+Both added to `people.md`; `action_items.md` flags marked resolved.
+
+**Top items for today, in order:**
+
+1. **⚠️ Double-booked 11:00–11:30 AM PT**: U.S. Bank Bi-Weekly Sync vs. Weekly Partner Dev Sync (Vivian/Joseph/Devesh). Needs a call before 11:00 — complicated by the U.S. Bank meeting's content falling under the hard-suppressed "Gusto Embedded" topic (never surfaced in detail; also untracked in partners.md/projects.md entirely). Your decision: keep it suppressed/skip in favor of the Partner Dev sync, or lift suppression for this specific partner and have me track it going forward.
+2. **9:00–9:30 AM — [HOLD] Diomedes Valuation**: first session that may pin down real valuation numbers (yesterday's Financials call with Ben Stein hasn't synced to Granola yet). Your named M&A-thesis deliverable for Tomer still has no completion evidence.
+3. **2:00–2:30 PM — Lolo/Chris coffee**: informal, but COM-020 (Middesk negotiation POV) is still not started with only 6 days left before the ~Jul 28 notice window closes — good forcing function, don't let it become a proxy negotiation (Lolo isn't the decision-maker or systems source of truth).
+4. **3:30–4:00 PM — Ashby 1:1**: best venue to close COM-020 ownership/timeline, resolve the Jul 24-vs-28 date discrepancy for good, and get an owner for the Browserbase §3.3 leadership escalation.
+
+Full attendee context, open items, and draft talking points are in the vault note. GEP AMA (1:00 PM) is intentionally omitted from the brief per hard suppression.
