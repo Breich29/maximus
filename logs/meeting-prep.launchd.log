@@ -6534,3 +6534,151 @@ All of today's (Jul 21) meetings had already occurred by the time I ran this (it
 
 **Memory updates:** logged the Brandon Swartz new-person threshold crossing in `action_items.md` and recorded this brief in `surfaced_log.md`.
 API Error: Connection closed mid-response. The response above may be incomplete.
+**OBSIDIAN WRITE:** ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-22-meeting-prep.md` (refreshed existing night-before-prep note)
+
+Note: it's 11:23 PM PDT — today's (Jul 21) meetings are all done, so this is prep for **tomorrow, July 22**. The vault already had a solid night-before-prep from ~7:30 PM tonight; I corroborated it independently and added one new finding.
+
+---
+
+## DRAFT MEETING PREP MESSAGES — Wed, July 22
+
+———
+📅 **[HOLD] Diomedes Valuation** — 9:00–9:30 AM PT
+**Attendees:** Bridgette Haymaker, Ashby Taylor, Brandon Swartz (unresolved identity — 2nd sighting), Dan Loomis (unresolved), Delia He, you.
+**Context:** First session where real valuation terms may surface, following the Jul 14 Buy-over-Build/Partner consensus (DEC-011).
+**Push for:** Get Abhas's integration-scope-vs-build estimate stated explicitly; resolve who Brandon Swartz/Dan Loomis are — two unverified attendees on a deal-sensitive M&A call.
+**Watch out for:** You're sideline on Diomedes generally — support, don't drive, except your own Tomer-requested M&A thesis (still no completion evidence).
+
+———
+📅 **CONFLICT, 11:00–11:30 AM** — Weekly Partner Dev Sync (Vivian/Joseph/Devesh) vs. **Gusto & U.S. Bank Bi-Weekly Partnership Sync**
+**⚠️ Suppression conflict, not resolved:** U.S. Bank distributes Gusto Embedded Payroll — that's your hard-suppressed topic. It's also completely untracked in memory. I'm withholding the detailed history I found until you tell me: keep it suppressed/skip, or unsuppress this external-partner angle and let me track it properly.
+**If you take Partner Dev Sync instead:** relay DEC-014's outcome (Partner Dev owns materials, Igor's team owns outreach) — closes their tracker-proposal loop — and check status on Vivian's OpenAI doc.
+
+———
+📅 **Lolo↔Chris↔Brandon: Get Coffee** — 2:00–2:30 PM PT
+**Context:** Likely where COM-015 (co-build cadence) actually gets set. Lolo isn't the technical source of truth (Logan/Anthony are) — keep it relationship/cadence, not technical commitments.
+**Push for:** A concrete date for co-build kickoff; float getting Logan/Anthony on a working call.
+
+———
+📅 **Ashby / Brandon** — 3:30–4:00 PM PT
+**Push for:** Explicit owner/date on COM-020 (Middesk POV — still not started, Jul 28 window is 6 days out); close the Jul 24-vs-28 date discrepancy for good; confirm Browserbase §3.3 sign-off path.
+**Watch out for:** Frame as decisions-needed, not status-report (DEC-001: leverage function, not execution).
+
+———
+
+## NOTES ON RISKS / DECISIONS NEEDED
+
+1. **11:00 AM double-booking**, complicated by a suppression call — U.S. Bank sync vs. Weekly Partner Dev Sync.
+2. **COM-020 (Middesk POV)** — still the most overdue P0 item system-wide; Jul 28 window closing.
+3. **COM-021** — DM to Lauren Snyder now 8 days overdue, no natural trigger tomorrow — needs to happen proactively.
+4. **Brandon Swartz / Dan Loomis** — unresolved identities on Diomedes deal calls.
+5. **Jul 24 vs. Jul 28** Mid-desk date discrepancy — unresolved since Jul 17.
+6. **New — U.S. Bank partnership** is real, active, and has zero footprint in projects.md/partners.md; flagged in action_items.md pending your call on suppression.
+
+**Your decision needed most urgently:** what to do with the U.S. Bank suppression conflict — I didn't resolve it either direction.
+OBSIDIAN WRITE: ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-22-meeting-prep.md`
+
+## Summary
+
+A thorough meeting-prep note for tomorrow (Wed Jul 22) already existed, written and refreshed earlier tonight. I cross-checked it against fresh Granola queries and the Obsidian vault (Middesk.md, Diomedes.md) and found it fully accurate — I added a verification timestamp rather than regenerating it. Key points:
+
+**DRAFT MEETING PREP MESSAGES** (full detail in the note):
+1. **[HOLD] Diomedes Valuation** (9:00 AM) — first session where real numbers might surface; Brandon Swartz still unresolved after 2 sightings on deal-sensitive calls
+2. **⚠️ Double-booked 11:00 AM**: Weekly Partner Dev Sync vs. Gusto & U.S. Bank Sync — **U.S. Bank content is withheld per your hard "Gusto Embedded" suppression rule** (it's embedded-payroll bank distribution); flagged as an explicit decision for you rather than silently resolved
+3. **Notion Training** (11:30 AM) — low-priority, no prep needed
+4. **Lolo/Chris coffee** (2:00 PM) — high-stakes despite casual framing given the Middesk notice window; correction carried forward: **Quinn**, not Karen, holds renewal authority
+5. **Ashby 1:1** (3:30 PM) — highest-leverage slot; COM-020 (Middesk POV, still not started), Browserbase §3.3 escalation, and the 11 AM double-booking all belong here
+
+**GEP AMA excluded entirely** — hard-suppressed "Gusto Embedded" topic.
+
+**Top risks/decisions needed:**
+- COM-020 (Middesk negotiation POV) — still not started, notice window closes in days
+- COM-021 (Lauren Snyder DM) — 8 days overdue
+- The 11:00 AM double-booking + whether to lift U.S. Bank's suppression
+- Browserbase §3.3 marketing-use sign-off authority
+OBSIDIAN WRITE: ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-22-meeting-prep.md`
+
+---
+
+## DRAFT MEETING PREP — Wednesday, July 22, 2026
+
+**⚠️ Surface first — commitments due/overdue today:**
+- 🔴 **COM-020** (Brandon → Chris/Jessica/Andrew): Middesk renewal POV draft — still not started, notice window closes ~Jul 28 (6 days out). Last night's 3 PM Chris/Brandon 1:1 was supposed to move this — no Granola transcript synced, so unverified. Confirm at today's 2 PM Lolo coffee or escalate at 3:30 PM Ashby 1:1.
+- 🔴 **COM-021** (Brandon → Lauren Snyder, self-committed): DM her the Diomedes market-scan comparison targets — 8 days overdue. Send before/right after the 9 AM Diomedes Valuation hold.
+
+———
+:calendar: **[HOLD] Diomedes Valuation** — 9:00–9:30 AM PT
+*Attendees:* Bridgette Haymaker (organizer), Ashby Taylor, Brandon Swartz (unresolved — no people.md profile, 2nd sighting), Dan Loomis (unresolved, repeat flag), Delia He, Brandon.
+
+*Context:* Directly follows yesterday's Diomedes Financials call with Ben Stein — no transcript synced, so any numbers from that call aren't in memory yet. Likely the first session where real valuation terms surface. DEC-011 already locked Buy over Build/Partner.
+
+*Open items:* Brandon's own Tomer-requested M&A thesis on DoubleHQ has no completion evidence — a valuation conversation is exactly the input it needs.
+
+*Push for:* Get any real numbers stated explicitly, not assumed. Resolve Brandon Swartz's identity/role — two sightings on deal-sensitive calls with zero profile.
+
+*Watch out for:* Sideline framing (support/listen, don't drive) — except where it touches the Tomer deliverable.
+———
+
+———
+:calendar: **Weekly Partner Dev Sync!** — 11:00–11:30 AM PT
+*Attendees:* Vivian Shen (organizer), Joseph Sarni, Devesh Verma.
+
+*Context:* Yesterday's "Sync on AI Partnerships" (DEC-014) landed a division of labor — Partner Dev owns materials/pitches/app-vision, Igor's team owns frontier-model outreach. This supersedes the company-wide tracker Vivian/Joseph/Devesh proposed — they likely haven't heard it yet.
+
+*Push for:* Relay the DEC-014 outcome directly. Quick status check on Vivian's "Gusto↔OpenAI Partnership Ideas" doc.
+
+🔴 **Watch out for:** double-booked with the U.S. Bank Bi-Weekly Sync below.
+———
+
+———
+:calendar: **Gusto & U.S. Bank Bi-Weekly Partnership Sync** — 11:00–11:30 AM PT
+*Suppressed per your hard rule on "Gusto Embedded" topics (preferences.md).* Flagging the conflict, not the content: this is untracked in partners.md and collides with the suppression list. **Your call needed:** (a) let it lose to the Partner Dev Sync and stay suppressed, or (b) tell me to lift suppression for this specific external-partner angle so I can track it properly going forward.
+———
+
+———
+:calendar: **Notion Training | Gusto Corp Dev Biweekly** — 11:30 AM–12:30 PM PT
+Informational, no prep needed. Chris Elkins is in the room if you want an informal COM-020 check-in before the 2 PM coffee.
+———
+
+———
+:calendar: **GEP AMA** — 1:00–1:30 PM PT
+Large exec AMA (Tomer London, Tom Byun, Matan Gal, Colleen Oates, others) — you're an attendee, not driving. One loose thread: Colleen Oates here may be the same "Colleen" flagged in action_items.md as co-running the unconfirmed "AI Services Marketplace" shadow effort with Brittany Halldorson — worth a casual confirm if the moment arises.
+———
+
+———
+:calendar: **Lolo<>Chris<>Brandon: Get Coffee** — 2:00–2:30 PM PT
+*Attendees:* Chris Elkins (organizer), Lolo (Middesk).
+
+*Context:* Likely venue for locking COM-015 (headless-API co-build cadence). Also your chance to gut-check where COM-020 landed in last night's Chris 1:1.
+
+*Push for:* A concrete cadence/date for co-build sessions. Informally probe whether the 10/1 headless-API commitment still feels solid — but Lolo isn't the systems source of truth (Logan/Anthony are) or the renewal decision-maker (Quinn is).
+
+*Watch out for:* Don't let this turn into hard renewal negotiation — keep it relationship/cadence only.
+———
+
+———
+:calendar: **Ashby / Brandon** — 3:30–4:00 PM PT
+*Attendees:* Ashby Taylor.
+
+*Context:* Weekly 1:1 — highest-leverage meeting of the day.
+
+*Push for:*
+• Explicit resolution on COM-020 ownership/timeline (2nd-to-last touchpoint before Jul 28).
+• Close the Jul 24-vs-28 notice-window date discrepancy for good.
+• Confirm who signs off above Brandon/Allison on the Browserbase §3.3 marketing-use redline (DEC-015).
+• Status on the V2/V3 AI market map + FP&A-resource ask (DEC-014).
+
+*Watch out for:* Frame as decisions-needed, not a status report (DEC-001: Brandon is leverage, not execution).
+———
+
+## NOTES ON RISKS / DECISIONS NEEDED
+
+1. **11:00 AM double-booking** — Partner Dev Sync vs. U.S. Bank sync — needs your call, complicated by the suppression conflict.
+2. **COM-020 (Middesk POV)** — most time-critical item in your portfolio; two touchpoints left today (Lolo coffee, Ashby 1:1) before Jul 28.
+3. **COM-021** — 8 days overdue, no natural attendee overlap today — needs to happen proactively.
+4. **Brandon Swartz** — 2+ sightings on Diomedes calls, no people.md profile — resolve at/before the 9 AM hold.
+5. **Jul 24 vs. Jul 28 date discrepancy** — still open since Jul 17, 6-day runway now.
+6. **Browserbase §3.3 escalation** — needs a leadership sign-off path; good Ashby 1:1 topic.
+7. **U.S. Bank suppression conflict** — decision pending from you on whether to lift suppression for this specific partnership.
+
+All outbound items above (Lauren Snyder DM, any Ashby/Chris follow-ups) are draft-only — say the word and I'll write the actual message text for you to send.

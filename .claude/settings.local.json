@@ -157,7 +157,10 @@
       "mcp__claude_ai_Share_some_HTML__download_asset",
       "mcp__claude_ai_Gdrive_Gusto__list_folder",
       "mcp__claude_ai_Gdrive_Gusto__get_metadata",
-      "WebFetch(domain:www.doublehq.com)"
+      "WebFetch(domain:www.doublehq.com)",
+      "Read(//Users/brandon.reich/Documents/Gusto-PartnerDevBR/30-Projects/**)",
+      "Read(//Users/brandon.reich/Documents/Gusto-PartnerDevBR/30-Deals/**)",
+      "Read(//Users/brandon.reich/Documents/Gusto-PartnerDevBR/**)"
     ]
   },
   "hooks": {
