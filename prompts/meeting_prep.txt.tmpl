@@ -89,9 +89,17 @@ Step 12: WRITE TO OBSIDIAN VAULT
      - Frontmatter: date: [YYYY-MM-DD], type: meeting-prep, source: maximus
      - Body: all DRAFT MEETING PREP MESSAGE(S) + NOTES ON RISKS / DECISIONS NEEDED
    Write to: 90-Maximus/meeting-prep/[YYYY-MM-DD]-meeting-prep.md
+   This is a FULL OVERWRITE, not an append — if a note for today already exists (from an earlier
+   run today whose fingerprint has now changed), replace its entire body with this fresh pass.
+   Never append a "confirmation pass" / "update" addendum onto the existing content; the file
+   should always read as one coherent current snapshot, not a log of every run.
    Use obsidian_connector.write_note() if Obsidian is running; otherwise write directly to:
      /Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/[YYYY-MM-DD]-meeting-prep.md
    Confirm: print OBSIDIAN WRITE: ✅ [path] or OBSIDIAN WRITE: ⚠️ Offline — wrote to filesystem
+
+Step 13: UPDATE THE TRACKER — write/replace today's row in memory/meeting_prep_tracker.md with
+   the fingerprint from Step 0c and the current timestamp from Step 1. This is what lets the next
+   invocation's PHASE 0 recognize "nothing changed" and skip cleanly.
 
 Format per meeting:
 ———
