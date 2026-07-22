@@ -6888,3 +6888,44 @@ Everything else from the earlier pass stands unchanged: **COM-020** (Middesk neg
 - **Browserbase §3.3 marketing-use** — needs a leadership sign-off path, good Ashby 1:1 topic.
 
 I also logged the newly-appeared FY27 Roadmap meeting in `action_items.md` as a needs-confirmation item so future passes don't lose track of it.
+A full prep pass had already run at ~9:32 AM (5 minutes before I started) — this session's initial tracker read caught it mid-write, which looked like a missing row but was actually a race with that concurrent run. It has since written its row correctly, and its fingerprint matches what I independently verified via Granola and the Obsidian vault. No new calendar changes, no new information. I made one small cosmetic edit to the note's timestamp line; the tracker itself needed no further change.
+
+Here's today's prep (full detail in `90-Maximus/meeting-prep/2026-07-22-meeting-prep.md`):
+
+**⚠️ Carried-forward commitments (surface first)**
+- 🚨 **COM-020** (Middesk renewal negotiation POV) — still not drafted. Notice window closes ~Jul 28 (6 days out). Today's Lolo/Chris coffee and the Ashby 1:1 are your two remaining forcing functions.
+- 🟡 **COM-021** — DM to Lauren Snyder w/ Diomedes market-scan comps, 8 days overdue, no natural trigger today — send proactively.
+- 🟡 Jul 24-vs-28 date discrepancy still unresolved — vault's `contract_renewal: 2026-07-24` field adds a third data point, not yet reconciled.
+- 🟡 Browserbase §3.3 marketing-use escalation needs a leadership sign-off path.
+
+**Today's remaining meetings**
+- *Gusto & U.S. Bank Sync* (11:00) — overlaps Weekly Partner Dev Sync; none of these US Bank attendees are in people.md despite recurring history (Kyle Knell/Akshath Goyal show up in Granola repeatedly).
+- *Weekly Partner Dev Sync!* (11:00) — relay DEC-014 (AI-partnership division of labor) to Vivian/Joseph/Devesh, supersedes their tracker proposal.
+- *Notion Training* (11:30) — informational, no prep needed.
+- *GEP AMA* (13:00) — falls under the hard-suppressed "Gusto Embedded" topic; noted as existing on calendar only, content not surfaced.
+- *Lolo↔Chris↔Brandon coffee* (14:00) — good informal checkpoint on COM-015/COM-020; treat as relationship conversation, not technical (Lolo isn't the systems source of truth — Logan/Anthony are).
+- *Ashby/Brandon 1:1* (15:30) — highest-leverage slot: push for explicit COM-020 ownership/timeline, close the date discrepancy, confirm Browserbase escalation path, check DEC-014 follow-through.
+- *Brandon pick up day* (16:15) — personal.
+
+**Decisions needed:** who wins the 11:00 AM three-way conflict; whether to formally track U.S. Bank in memory; explicit COM-020 owner/date by end of today's Ashby 1:1; final word on the Jul 24-vs-28 date; Browserbase §3.3 sign-off authority.
+
+All outbound items above remain draft-only pending your approval.
+**NO-OP: no calendar change since 2026-07-22 09:32:42 PDT — skipping full prep.**
+
+Today's remaining-meeting fingerprint (U.S. Bank sync, Weekly Partner Dev Sync, Notion Training, GEP AMA, Lolo/Chris coffee, Ashby/Brandon, Brandon pick up day) is identical to the last full pass recorded in `memory/meeting_prep_tracker.md`. Per PHASE 0, halting here without touching other memory files, Granola, Glean, Slack, or Obsidian.
+**NO-OP: no calendar change since 2026-07-22 09:32:42 PDT — skipping full prep.**
+
+PHASE 0 gate check: fetched Brandon's calendar for the remainder of today (from 10:15 PDT onward) and rebuilt today's fingerprint. It matches the fingerprint stored in `memory/meeting_prep_tracker.md` exactly — same 7 remaining meetings, same start times, same attendee counts:
+
+- Gusto & U.S. Bank – Bi-Weekly Partnership Sync @ 11:00 (8)
+- Weekly Partner Dev Sync! @ 11:00 (5)
+- Notion Training | Gusto Corp Dev Biweekly @ 11:30 (20)
+- GEP AMA @ 13:00 (20)
+- Lolo<>Chris<>Brandon: Get Coffee @ 14:00 (3)
+- Ashby / Brandon @ 15:30 (3)
+- Brandon pick up day @ 16:15 (2)
+
+Nothing about today's calendar has changed since the 09:32:42 PDT full pass, so per PHASE 0 rules I'm stopping here without touching memory files, Granola, Slack, or Obsidian.
+**NO-OP: no calendar change since 2026-07-22 09:32:42 PDT — skipping full prep.**
+
+Today's remaining-meeting fingerprint is identical to the one recorded in `memory/meeting_prep_tracker.md` from the last full pass (09:32:42 PDT). No meetings have been added, moved, cancelled, or had attendee changes since then. Per Phase 0, stopping here — no memory files, Granola, Glean, Slack, or Obsidian were touched this run.
