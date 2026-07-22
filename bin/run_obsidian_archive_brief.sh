@@ -22,6 +22,8 @@ set -a
  set +a
 
 ARTIFACT="${1:-}"
+TEMPLATE="obsidian_archive_brief.txt.tmpl"
+GROUPING="daily"
 case "${ARTIFACT}" in
   daily-brief)
     export ARCHIVE_LABEL="Daily AM Brief"
@@ -29,6 +31,8 @@ case "${ARTIFACT}" in
     export ARCHIVE_OUTPUT_DIR="90-Maximus/briefs"
     export ARCHIVE_OUTPUT_SLUG="daily-brief"
     export ARCHIVE_LOOKBACK_HOURS=3
+    TEMPLATE="obsidian_archive_brief_monthly.txt.tmpl"
+    GROUPING="monthly"
     ;;
   night-before)
     export ARCHIVE_LABEL="Night-Before Prep"
@@ -36,6 +40,8 @@ case "${ARTIFACT}" in
     export ARCHIVE_OUTPUT_DIR="90-Maximus/briefs"
     export ARCHIVE_OUTPUT_SLUG="night-before-prep"
     export ARCHIVE_LOOKBACK_HOURS=3
+    TEMPLATE="obsidian_archive_brief_monthly.txt.tmpl"
+    GROUPING="monthly"
     ;;
   weekly-review)
     export ARCHIVE_LABEL="Friday Weekly Review"
@@ -68,7 +74,19 @@ trap 'on_error' ERR
 
 echo "$(date): Starting obsidian archive (${ARTIFACT})..." >> "${LOG_FILE}"
 
-envsubst < "${SCRIPT_DIR}/prompts/obsidian_archive_brief.txt.tmpl" | claude -p \
+# Cheap bash-level idempotency pre-check for monthly-grouped artifacts — avoids paying for a
+# full claude invocation on days it would just re-confirm "already archived" anyway (the prompt
+# still re-checks this itself as a second layer, in case the month rolled over between here and
+# the Slack read).
+if [ "${GROUPING}" = "monthly" ]; then
+  MONTH_FILE="${OBSIDIAN_VAULT_PATH}/${ARCHIVE_OUTPUT_DIR}/$(date '+%Y-%m')-${ARCHIVE_OUTPUT_SLUG}.md"
+  if grep -qF "## $(date '+%Y-%m-%d')" "${MONTH_FILE}" 2>/dev/null; then
+    echo "$(date): SKIPPED (pre-check) — already archived for $(date '+%Y-%m-%d') in ${MONTH_FILE}." >> "${LOG_FILE}"
+    exit 0
+  fi
+fi
+
+envsubst < "${SCRIPT_DIR}/prompts/${TEMPLATE}" | claude -p \
   --allowedTools "mcp__claude_ai_Slack_Gusto_Offical__slack_read_channel,Read,Write,Bash"
 
 echo "$(date): Obsidian archive (${ARTIFACT}) completed." >> "${LOG_FILE}"
