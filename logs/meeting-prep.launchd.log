@@ -6968,3 +6968,61 @@ Remaining (not-yet-started) meetings today: Notion Training | Gusto Corp Dev Biw
 This fingerprint is identical to today's row in `memory/meeting_prep_tracker.md`, last set at 2026-07-22 11:05:53 PDT.
 
 **NO-OP: no calendar change since 2026-07-22 11:05:53 PDT — skipping full prep.**
+Obsidian is written and the tracker is updated. Now delivering the drafts per Phase 3 format.
+
+---
+
+**OBSIDIAN WRITE:** ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-22-meeting-prep.md`
+
+## DRAFT MEETING PREP MESSAGES — Wed Jul 22, 2026 (refreshed 11:57 AM PT)
+
+**Why this pass ran:** the 11:30 AM "Notion Training | Gusto Corp Dev Biweekly" meeting started and rolled off the remaining-today window, and GEP AMA's attendee count ticked 20→21 — both are real fingerprint changes vs. the 11:05 AM tracker row, so this wasn't a no-op. Substance is otherwise unchanged from the 11:05 AM pass.
+
+**⚠️ Carried-forward commitments:**
+- 🚨 **COM-020** (Brandon's Middesk renewal POV) — still not started, ~6 days to the notice window (or ~2 days per the vault's `contract_renewal: 2026-07-24` field, still unreconciled).
+- 🟡 **COM-021** — DM to Lauren Snyder (Diomedes market-scan targets), 8 days overdue, no natural trigger today.
+- 🟡 Jul 24-vs-28 date discrepancy still open.
+- 🟡 Browserbase §3.3 escalation needs a leadership sign-off path.
+
+———
+📅 **Lolo<>Chris<>Brandon: Get Coffee** — 2:00–2:30 PM
+Informal, but inside the Middesk renewal window. Push for a concrete cadence/date on Chris's COM-015 (headless-API co-build with Lolo) if it comes up naturally; use it as an informal COM-020 pulse-check with Chris. Watch out: Lolo isn't the technical source of truth on order-blockers — keep it relationship-level, not negotiation-level.
+
+———
+📅 **Ashby / Brandon** — 3:30–4:00 PM (highest-leverage meeting today)
+This morning's Diomedes Valuation (DEC-016) reinforced Buy-over-Build with hard numbers — Ashby owns next steps (LOI structuring). Push for: (1) explicit COM-020 owner/date, (2) close out the Jul 24-vs-28 date question, (3) Browserbase §3.3 sign-off path, (4) clarity on Brandon's role (if any) in Diomedes LOI prep. Frame as decisions needed, not a status report.
+
+———
+📅 **Brandon pick up day** — 4:15–5:00 PM — personal, no prep needed.
+
+———
+🔇 **GEP AMA** (1:00 PM) and **U.S. Bank sync** (already past) — omitted per the hard "Gusto Embedded" suppression rule in preferences.md.
+
+## NOTES ON RISKS / DECISIONS NEEDED
+1. COM-020 is the top risk — two remaining forcing functions today (coffee, then Ashby 1:1).
+2. COM-021 needs proactive action — nothing on today's calendar will surface it.
+3. Jul 24-vs-28 date ambiguity, now potentially 2 days out, not 6 — worth resolving today.
+4. Browserbase §3.3 leadership sign-off still unassigned.
+5. Brandon's role in the new Diomedes LOI phase is undefined.
+
+Tracker row updated with the new fingerprint so the next 15-minute check will correctly no-op until something actually changes.
+**NO-OP: no calendar change since 2026-07-22 11:57:00 PDT — skipping full prep.**
+
+Today's remaining-meeting fingerprint (`GEP AMA @ 13:00 (21) | Lolo<>Chris<>Brandon: Get Coffee @ 14:00 (3) | Ashby / Brandon @ 15:30 (3) | Brandon pick up day @ 16:15 (2)`) matches the tracker's row for 2026-07-22 exactly — same meetings, same times, same attendee counts. Per the PHASE 0 gate, no further reads (memory, Granola, Slack, Obsidian) or writes were performed.
+**NO-OP: no calendar change since 2026-07-22 11:57:00 PDT — skipping full prep.**
+
+Today's remaining-meetings fingerprint is unchanged from the last full pass:
+
+`GEP AMA @ 13:00 (21) | Lolo<>Chris<>Brandon: Get Coffee @ 14:00 (3) | Ashby / Brandon @ 15:30 (3) | Brandon pick up day @ 16:15 (2)`
+
+No new meetings, cancellations, or attendee changes detected. Per Phase 0, stopping here — no memory files beyond the tracker were read, and no Granola/Glean/Slack/Obsidian calls were made.
+**NO-OP: no calendar change since 2026-07-22 11:57:00 PDT — skipping full prep.**
+
+Today's remaining-meetings fingerprint (`GEP AMA @ 13:00 (21) | Lolo<>Chris<>Brandon: Get Coffee @ 14:00 (3) | Ashby / Brandon @ 15:30 (3) | Brandon pick up day @ 16:15 (2)`) matches the row already recorded in `memory/meeting_prep_tracker.md`. Per the Phase 0 gate, no further memory files, Granola, Slack, or Obsidian reads were performed.
+**NO-OP: no calendar change since 2026-07-22 11:57:00 PDT — skipping full prep.**
+
+Today's fingerprint (from now, 13:01:40 PDT, through end of day) exactly matches the tracker row already on file:
+
+`GEP AMA @ 13:00 (21) | Lolo<>Chris<>Brandon: Get Coffee @ 14:00 (3) | Ashby / Brandon @ 15:30 (3) | Brandon pick up day @ 16:15 (2)`
+
+No meetings added, moved, cancelled, or attendee-count changes since the last full pass. Per PHASE 0, stopping here — no memory files, Granola, Glean, Slack, or Obsidian touched this run.

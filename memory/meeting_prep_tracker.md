@@ -8,7 +8,7 @@ the last run. See prompts/meeting_prep.txt.tmpl PHASE 0 for how this is read/wri
 
 | Date | Meetings fingerprint | Last full prep at | Notes |
 |---|---|---|---|
-| 2026-07-22 | GEP AMA @ 13:00 (21) \| Lolo<>Chris<>Brandon: Get Coffee @ 14:00 (3) \| Ashby / Brandon @ 15:30 (3) \| Brandon pick up day @ 16:15 (2) | 2026-07-22 11:57:00 PDT | Fingerprint dropped "Notion Training \| Gusto Corp Dev Biweekly @ 11:30" since it started before this gate check (11:54 AM) and rolled off the not-yet-started "remaining" window — same mechanic as the prior pass's 11:00 AM drops. GEP AMA attendee count also ticked 20→21. No new substantive content vs. the 11:05 AM pass; Lolo coffee / Ashby 1:1 / pickup day sections carried forward unchanged. |
+| 2026-07-22 | Lolo<>Chris<>Brandon: Get Coffee @ 14:00 (3) \| Ashby / Brandon @ 15:30 (3) \| Brandon pick up day @ 16:15 (2) | 2026-07-22 13:27:00 PDT | Fingerprint dropped "GEP AMA @ 13:00 (21)" since it started before this gate check (13:27 PM) and rolled off the not-yet-started "remaining" window — same mechanic as the 11:57 AM pass's Notion Training drop. GEP AMA was already hard-suppressed content-wise (Gusto Embedded), so this was bookkeeping only. No new substantive content vs. the 11:57 AM pass; Lolo coffee / Ashby 1:1 / pickup day sections carried forward unchanged. |
 
 ---
 
