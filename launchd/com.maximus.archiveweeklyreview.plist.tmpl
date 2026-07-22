@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.${SYSTEM_NAME_LOWER}.archiveweeklyreview</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>${PROJECT_DIR}/bin/run_obsidian_archive_brief.sh</string>
+    <string>weekly-review</string>
+  </array>
+  <key>WorkingDirectory</key>
+  <string>${PROJECT_DIR}</string>
+  <key>StartCalendarInterval</key>
+  <array>
+    <dict><key>Weekday</key><integer>5</integer><key>Hour</key><integer>14</integer><key>Minute</key><integer>15</integer></dict>
+  </array>
+  <key>StandardOutPath</key>
+  <string>${PROJECT_DIR}/logs/obsidian-archive-weekly-review.launchd.log</string>
+  <key>StandardErrorPath</key>
+  <string>${PROJECT_DIR}/logs/obsidian-archive-weekly-review.launchd.error.log</string>
+  <key>RunAtLoad</key><false/>
+</dict>
+</plist>
