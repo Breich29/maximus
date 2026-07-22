@@ -2,7 +2,18 @@
 
 _Tracks what was shown to Brandon in each brief to prevent re-surfacing unchanged items._
 
-_Last updated: 2026-07-21 (night-before pass for Jul 22)_
+_Last updated: 2026-07-22, 11:05 AM PT (same-day full-pass regeneration)_
+
+---
+
+## 2026-07-22, 11:05 AM PT — Meeting Prep (full pass, gate-triggered)
+
+**Type:** Meeting prep (Phase 0 gate detected a fingerprint change — the 11:00 AM meetings rolled off the remaining-today window by starting — triggering a fresh full pass over the two earlier same-day passes at ~9:32/9:37 AM)
+**Meetings covered:** Notion Training (11:30 AM, FYI-only), Lolo<>Chris<>Brandon coffee (2:00 PM), Ashby/Brandon 1:1 (3:30 PM), Brandon pick up day (4:15 PM, personal)
+**Omitted per hard suppression (Gusto Embedded):** GEP AMA (1:00 PM), Gusto & U.S. Bank Bi-Weekly Partnership Sync (11:00 AM, already past) — the open action_items.md question on whether U.S. Bank should be un-suppressed remains unresolved; defaulted to suppression.
+**New this pass:** Diomedes Valuation (9:00 AM) meeting outcome synced from Granola — logged as DEC-016 (Buy over Build reinforced, hard numbers, Ashby to structure recommendation + prep LOI) — folded into projects.md Diomedes entry and the 3:30 PM Ashby 1:1 prep card.
+**Carried forward unchanged:** COM-020 (Middesk POV, still not started, 6 days to notice window), COM-021 (8 days overdue), Jul 24-vs-28 date discrepancy, Browserbase §3.3 escalation ask.
+**Written to:** `90-Maximus/meeting-prep/2026-07-22-meeting-prep.md` (full overwrite of the 9:37 AM version)
 
 ---
 
