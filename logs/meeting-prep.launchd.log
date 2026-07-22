@@ -6929,3 +6929,42 @@ Nothing about today's calendar has changed since the 09:32:42 PDT full pass, so 
 **NO-OP: no calendar change since 2026-07-22 09:32:42 PDT — skipping full prep.**
 
 Today's remaining-meeting fingerprint is identical to the one recorded in `memory/meeting_prep_tracker.md` from the last full pass (09:32:42 PDT). No meetings have been added, moved, cancelled, or had attendee changes since then. Per Phase 0, stopping here — no memory files, Granola, Glean, Slack, or Obsidian were touched this run.
+All memory files and the Obsidian note are updated. Here's the summary output.
+
+**OBSIDIAN WRITE:** ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-22-meeting-prep.md`
+
+## DRAFT MEETING PREP MESSAGES (remaining today)
+
+———
+:calendar: *Notion Training | Gusto Corp Dev Biweekly* — 11:30 AM–12:30 PM PT
+Low-stakes recurring biweekly + Notion training add-on. No prep needed. Carlos Cabrera/Gavin Lacroix still unmapped in people.md — worth confirming roles informally.
+———
+:calendar: *Lolo<>Chris<>Brandon: Get Coffee* — 2:00–2:30 PM PT
+*Push for:* Concrete date for the Middesk headless-API co-build cadence (COM-015).
+*Watch out:* Lolo isn't the technical source of truth (Logan/Anthony are) — keep this relational, not a renewal-negotiation venue.
+———
+:calendar: *Ashby / Brandon* — 3:30–4:00 PM PT
+*New:* This morning's Diomedes Valuation meeting reinforced **Buy over Build** — buy+integrate 6–9 weeks vs. 3-year build, ~$13M existing ARR, 38% of FY26 acquisition via partners. Ashby's next step is structuring the LOI recommendation.
+*Push for:* COM-020 (Middesk POV, still undrafted, 6 days to notice window) — don't let the Diomedes news crowd this out. Also: Jul 24-vs-28 date resolution, Browserbase §3.3 sign-off path, and whether Brandon has a role in Diomedes LOI prep.
+———
+:calendar: *Brandon pick up day* — 4:15–5:00 PM PT — personal, no prep.
+———
+
+**Omitted (hard suppression):** GEP AMA, Gusto & U.S. Bank sync.
+
+## NOTES ON RISKS / DECISIONS NEEDED
+- P0: COM-020 Middesk POV still not started, 6 days out.
+- COM-021 (Lauren Snyder DM) 8 days overdue — no calendar trigger today, send proactively.
+- New DEC-016 logged (Diomedes Valuation outcome) — written to decisions.md and projects.md.
+- Browserbase §3.3 leadership sign-off still unresolved.
+
+Tracker and surfaced log updated to reflect this pass; next 15-minute check will no-op unless the calendar changes again.
+**PHASE 0 — Change-detection gate**
+
+Current time: 2026-07-22 11:25:55 PDT.
+
+Remaining (not-yet-started) meetings today: Notion Training | Gusto Corp Dev Biweekly @ 11:30 (20), GEP AMA @ 13:00 (20), Lolo<>Chris<>Brandon: Get Coffee @ 14:00 (3), Ashby / Brandon @ 15:30 (3), Brandon pick up day @ 16:15 (2). (The two 11:00 AM meetings — U.S. Bank sync and Weekly Partner Dev Sync — have already started and drop out of the "remaining" window.)
+
+This fingerprint is identical to today's row in `memory/meeting_prep_tracker.md`, last set at 2026-07-22 11:05:53 PDT.
+
+**NO-OP: no calendar change since 2026-07-22 11:05:53 PDT — skipping full prep.**
