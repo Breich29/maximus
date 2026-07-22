@@ -8,7 +8,7 @@ the last run. See prompts/meeting_prep.txt.tmpl PHASE 0 for how this is read/wri
 
 | Date | Meetings fingerprint | Last full prep at | Notes |
 |---|---|---|---|
-| 2026-07-22 | Ashby / Brandon @ 15:30 (3) \| Brandon pick up day @ 16:15 (2) | 2026-07-22 14:16:48 PDT | Fingerprint dropped "Lolo<>Chris<>Brandon: Get Coffee @ 14:00 (3)" since it started before this gate check (14:16 PM) and rolled off the not-yet-started "remaining" window — same mechanic as the 1:27 PM pass's GEP AMA drop. Checked Granola for new activity since 1:27 PM pass — nothing new. Bookkeeping only; Ashby 1:1 / pickup day sections carried forward unchanged, Lolo coffee content preserved in the note's "in progress" section. |
+| 2026-07-22 | Brandon pick up day @ 16:15 (2) | 2026-07-22 15:37:31 PDT | Fingerprint dropped "Ashby / Brandon @ 15:30 (3)" since it started before this gate check (15:37 PM) and rolled off the not-yet-started "remaining" window — same mechanic as the 2:16 PM pass's Lolo/Chris coffee drop. Checked Granola for new activity since 2:16 PM pass — nothing new. Bookkeeping only; Ashby 1:1 content carried forward into the note's "in progress" section, pickup day section carried forward unchanged. |
 
 ---
 
