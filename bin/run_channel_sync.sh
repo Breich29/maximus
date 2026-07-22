@@ -46,8 +46,20 @@ if ! "${SCRIPT_DIR}/scripts/validate_memory.sh" >> "${LOG_DIR}/channel-sync.log"
   exit 1
 fi
 
-envsubst < "${SCRIPT_DIR}/prompts/channel_sync.txt.tmpl" | claude -p \
-  --allowedTools "mcp__claude_ai_Slack_Gusto_Offical__slack_read_channel,mcp__claude_ai_Slack_Gusto_Offical__slack_read_thread,mcp__claude_ai_Slack_Gusto_Offical__slack_search_public_and_private,mcp__claude_ai_Granola_Gusto__query_granola_meetings,mcp__claude_ai_Granola_Gusto__get_meeting_transcript,Read,Write,Edit,Glob,Bash"
+CLAUDE_OUTPUT="$(envsubst < "${SCRIPT_DIR}/prompts/channel_sync.txt.tmpl" | claude -p \
+  --allowedTools "mcp__claude_ai_Slack_Gusto_Offical__slack_read_channel,mcp__claude_ai_Slack_Gusto_Offical__slack_read_thread,mcp__claude_ai_Slack_Gusto_Offical__slack_search_public_and_private,mcp__claude_ai_Granola_Gusto__query_granola_meetings,mcp__claude_ai_Granola_Gusto__get_meeting_transcript,Read,Write,Edit,Glob,Bash")"
+echo "${CLAUDE_OUTPUT}"
+
+# The prompt exits 0 even when it correctly declines to sync (e.g. Slack MCP unavailable this
+# session) — that's a real gap Brandon should hear about, not a silent no-op, so treat the
+# prompt's own "FAIL-CLOSED: ..." sentinel line as a failure here even though claude's own exit
+# code was clean.
+if echo "${CLAUDE_OUTPUT}" | grep -q "^FAIL-CLOSED:"; then
+  REASON="$(echo "${CLAUDE_OUTPUT}" | grep "^FAIL-CLOSED:" | tail -1)"
+  echo "$(date): FAILED (fail-closed, no bash-level error) — ${REASON}" >> "${LOG_DIR}/channel-sync.error.log"
+  "${SCRIPT_DIR}/scripts/notify_failure.sh" "Channel Sync" "${REASON}" || true
+  exit 1
+fi
 
 if ! "${SCRIPT_DIR}/scripts/validate_memory.sh" >> "${LOG_DIR}/channel-sync.log" 2>> "${LOG_DIR}/channel-sync.error.log"; then
   echo "$(date): POST-CHECK FAILED — memory validation failed after channel sync." >> "${LOG_DIR}/channel-sync.error.log"
