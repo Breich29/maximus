@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.${SYSTEM_NAME_LOWER}.archivenotionweekly</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>${PROJECT_DIR}/bin/run_obsidian_archive_notion.sh</string>
+  </array>
+  <key>WorkingDirectory</key>
+  <string>${PROJECT_DIR}</string>
+  <key>StartCalendarInterval</key>
+  <array>
+    <dict><key>Weekday</key><integer>0</integer><key>Hour</key><integer>8</integer><key>Minute</key><integer>0</integer></dict>
+  </array>
+  <key>StandardOutPath</key>
+  <string>${PROJECT_DIR}/logs/obsidian-archive-notion-weekly.launchd.log</string>
+  <key>StandardErrorPath</key>
+  <string>${PROJECT_DIR}/logs/obsidian-archive-notion-weekly.launchd.error.log</string>
+  <key>RunAtLoad</key><false/>
+</dict>
+</plist>
