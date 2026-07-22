@@ -8,7 +8,7 @@ the last run. See prompts/meeting_prep.txt.tmpl PHASE 0 for how this is read/wri
 
 | Date | Meetings fingerprint | Last full prep at | Notes |
 |---|---|---|---|
-| 2026-07-22 | Gusto & U.S. Bank - Bi-Weekly Partnership Sync @ 11:00 (8) \| Weekly Partner Dev Sync! @ 11:00 (5) \| Notion Training \| Gusto Corp Dev Biweekly @ 11:30 (20) \| GEP AMA @ 13:00 (20) \| Lolo<>Chris<>Brandon: Get Coffee @ 14:00 (3) \| Ashby / Brandon @ 15:30 (3) \| Brandon pick up day @ 16:15 (2) | 2026-07-22 09:32:42 PDT | First full pass of the day (no prior row existed despite a 9:21 AM Obsidian note from an earlier run — likely a tracker-write gap in that run; this pass reconciles). FY27 Roadmap × Partner Ecosystem excluded from fingerprint (already in progress at gate time, started 9:30). |
+| 2026-07-22 | Notion Training \| Gusto Corp Dev Biweekly @ 11:30 (20) \| GEP AMA @ 13:00 (20) \| Lolo<>Chris<>Brandon: Get Coffee @ 14:00 (3) \| Ashby / Brandon @ 15:30 (3) \| Brandon pick up day @ 16:15 (2) | 2026-07-22 11:05:53 PDT | Fingerprint dropped the two 11:00 AM meetings (U.S. Bank sync, Weekly Partner Dev Sync) since they started before this gate check and rolled off the not-yet-started "remaining" window — literal Step 0c comparison treated that as a fingerprint change, triggering this fresh full pass. New content: Diomedes Valuation (9:00 AM) outcome synced from Granola (DEC-016), folded into the 3:30 PM Ashby 1:1 prep. |
 
 ---
 
