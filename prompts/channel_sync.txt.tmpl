@@ -180,3 +180,10 @@ Step 14: WRITE TO OBSIDIAN VAULT — this is Brandon's primary review surface fo
 
 FAIL-CLOSED: If #maximus-updates is unavailable, or extraction_tracker.md cannot be read, stop
 and report what failed. Do not guess at the cursor and do not write partial memory updates.
+
+If you stop for this reason, the LAST LINE of your entire output must be exactly:
+FAIL-CLOSED: <one-sentence reason>
+(no bold/markdown around it, nothing after it) — the wrapper script that invoked you greps for
+this exact literal prefix to detect that no real sync happened, since this run still exits 0 from
+its own perspective (correctly declining to guess is not a bash-level error) and would otherwise
+look identical to a normal "nothing new" clean run.
