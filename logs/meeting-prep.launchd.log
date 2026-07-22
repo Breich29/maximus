@@ -6858,3 +6858,33 @@ Per CLAUDE.md ("If a required MCP source is unavailable: STOP and report — do 
 I did complete Phase 1's local-file steps: read `agents/calendar.md`, `agents/action-tracker.md`, `agents/memory.md`, and `memory/people.md`, `commitments.md`, `decisions.md`, `projects.md`, `partners.md`. Those are loaded and current as of 2026-07-17 in memory, but I can't build today's (2026-07-22) meeting prep without the calendar.
 
 **No draft output produced.** If you can confirm the MCP connections should be up (e.g., restart the session, check network), I'll resume from Phase 1 Step 3. Otherwise, let me know if you'd like me to proceed a different way (e.g., you paste in today's calendar manually).
+**OBSIDIAN WRITE: ✅** `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-22-meeting-prep.md`
+
+## DRAFT MEETING PREP — Wednesday, July 22, 2026
+
+Today already had a night-before/morning brief in the vault; I refreshed it with a live 9:18 AM pull rather than duplicating it. Two things changed since the last pass:
+
+———
+:calendar: *Diomedes Valuation* — 9:00–9:30 AM PT — **⚠️ already in progress**
+No longer a HOLD, and running right now. Financials call from Jul 21 with Ben Stein still has no Granola transcript, so whatever numbers came up there haven't made it into memory — worth capturing live notes since Brandon's own Tomer-requested M&A thesis deliverable is still outstanding.
+———
+
+———
+:calendar: *FY27 Roadmap × Partner Ecosystem* — 9:30–11:05 AM PT — **⚠️ new, not yet accepted**
+*Attendees:* Colleen Oates (organizer), Ashby, Bridgette Haymaker, Igor Khayet, Brittany Halldorson, Dan Loomis, Kyle Everly (tentative), Chris Smith, Tyler Johansson, Arjun Srinivasan — Tom Byun **declined**.
+*Context:* Ties directly into the unified GustoPro partnership doc (channel-vs-product still undefined), the V1 AI market map, and yesterday's DEC-014 division-of-labor decision (Partner Dev owns materials, Igor's team owns frontier-model outreach) — worth surfacing that decision here since most of the room hasn't heard it yet.
+*Push for:* Get the AI-partnership prioritization-committee gap onto this room's actual agenda; push for a firm multi-client MCP scoping date.
+*Watch out for:* Not yet accepted — decide now. Runs to 11:05, overlapping the start of both the Weekly Partner Dev Sync and U.S. Bank sync (both 11:00) — a **three-way conflict**, not the two-way one flagged previously.
+———
+
+Everything else from the earlier pass stands unchanged: **COM-020** (Middesk negotiation POV, still not drafted, ~6 days from the Jul 28 notice window) and **COM-021** (Lauren Snyder DM, 8 days overdue) remain the top-priority open items, surfaced ahead of the Lolo/Chris coffee (2:00 PM) and Ashby 1:1 (3:30 PM). The 11:00 AM U.S. Bank meeting stays suppressed per your hard "Gusto Embedded" rule pending your call on whether to lift it. GEP AMA (1:00 PM) is excluded from this brief entirely per that same rule.
+
+## NOTES ON RISKS / DECISIONS NEEDED
+- **Accept/decline** FY27 Roadmap × Partner Ecosystem — currently needsAction.
+- **Three-way 11:00 AM overlap** — pick one of FY27 Roadmap (tail), Weekly Partner Dev Sync, or U.S. Bank sync.
+- **COM-020** — still undrafted, last two touchpoints before Jul 28 are today's Lolo coffee and Ashby 1:1.
+- **U.S. Bank suppression** — still unresolved: keep suppressed or lift and track formally.
+- **Jul 24 vs. Jul 28** Mid-desk notice-window date discrepancy — still unresolved.
+- **Browserbase §3.3 marketing-use** — needs a leadership sign-off path, good Ashby 1:1 topic.
+
+I also logged the newly-appeared FY27 Roadmap meeting in `action_items.md` as a needs-confirmation item so future passes don't lose track of it.
