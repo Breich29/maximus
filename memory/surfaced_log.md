@@ -2,7 +2,18 @@
 
 _Tracks what was shown to Brandon in each brief to prevent re-surfacing unchanged items._
 
-_Last updated: 2026-07-20_
+_Last updated: 2026-07-21 (night-before pass for Jul 22)_
+
+---
+
+## 2026-07-21, ~7:30 PM PT — Night-Before Prep (for Jul 22)
+
+**Type:** Meeting prep (ad-hoc request; today's Jul 21 meetings had all already occurred, so pivoted to night-before prep for Jul 22 per BRIEF_NIGHT_BEFORE cadence)
+**Items presented:**
+- Full brief for 5 non-suppressed meetings on Jul 22: [HOLD] Diomedes Valuation (9:00 AM), Weekly Partner Dev Sync (11:00 AM), Notion Training (11:30 AM, FYI-only), Lolo<>Chris<>Brandon coffee (2:00 PM), Ashby/Brandon 1:1 (3:30 PM)
+- **Omitted per hard suppression (Gusto Embedded):** "GEP AMA" (1:00 PM) and "Gusto & U.S. Bank - Bi-Weekly Partnership Sync" (11:00 AM) — both are legacy GEP/Embedded-topic meetings per Brandon's About-me vault note (US Bank was a GEP anchor partner). Neither meeting's content was surfaced or named in the output; the 11:00 AM double-booking with Weekly Partner Dev Sync was flagged as a generic scheduling conflict without naming the suppressed meeting.
+- Carried-forward risks: COM-020 (Middesk POV, unverified outcome from today's 3:00 PM Chris/Brandon 1:1 — no Granola transcript yet), COM-021 (8 days overdue), Jul 24-vs-28 date discrepancy, Browserbase §3.3 escalation ask, Brandon Swartz 2nd-sighting threshold.
+**Written to:** `90-Maximus/meeting-prep/2026-07-22-meeting-prep.md`
 
 ---
 
