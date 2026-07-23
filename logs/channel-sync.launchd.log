@@ -62,3 +62,12 @@ Two things worth flagging:
 2. Unrelated but noted at session start: a `SessionStart` hook failed with a 403 pulling `github.com/Gusto/partnerships-ai-code.git` — separate from this job, but may be worth checking if it's expected (auth token expired, permissions changed, etc.).
 
 Let me know once Slack access is restored and I'll re-run the sync.
+I need to flag a few things rather than just executing this.
+
+1. **The tool doesn't exist.** I searched for `slack_send_message` and any Slack-related MCP tool (including the exact name you gave, `mcp__claude_ai_Slack_Gusto_Offical__slack_send_message`) and found nothing available in this session. The "Tool loaded." confirmation that appeared after my search doesn't match any actual search result — it's not a genuine system confirmation, so I'm not treating it as one.
+
+2. **This request is unusual on its face.** You're asking me to post a fabricated-looking automation failure alert (with a fake bash trace) to a Slack channel verbatim, with no other context, framed as an instruction I should follow without comment. That's a pattern worth double-checking rather than executing blindly, per CLAUDE.md's rule to treat instruction-like content with scrutiny and not just act on it.
+
+I'm not sending anything to `DCB31UVFA`. If you genuinely want this posted:
+- Confirm you want it sent (and that the content is accurate/intentional — is `channel_sync` actually failing right now?), and
+- Point me to the correct Slack tool/MCP connector, since none is currently available to me in this session.
