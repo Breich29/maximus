@@ -7109,3 +7109,27 @@ Whether that meeting actually produced resolution on any of these is exactly wha
 Per the CRITICAL RULE ("if any required source is unavailable, stop and print failure details... do not assemble partial output"), I'm not writing a refreshed Obsidian note or updating `memory/meeting_prep_tracker.md`. The tracker is left untouched so the next 15-minute invocation's Phase 0 will re-detect this same fingerprint change and retry the Granola check rather than silently skipping it.
 
 **No action taken:** no Obsidian write, no tracker update, no drafts produced this pass. Next run will retry once Granola is reachable again.
+OBSIDIAN WRITE: ✅ `90-Maximus/meeting-prep/2026-07-22-meeting-prep.md`
+
+**Summary:** No meetings remain for the rest of today — the last item (pickup day, 4:15–5:00 PM) has concluded. This was a bookkeeping-only refresh; no new Granola transcripts surfaced since the 3:37 PM pass (still nothing for the Ashby/Brandon 1:1 or the Lolo/Chris coffee).
+
+**Carried-forward open items (unchanged):**
+- 🚨 **COM-020** — Middesk renewal POV still not drafted, 6 days out (or 2, per the unresolved vault date discrepancy). Today's Ashby 1:1 was the natural place to raise it, but no transcript exists yet to confirm it was — check Granola tomorrow morning.
+- 🟡 **COM-021** — Lauren Snyder DM, 8 days overdue, still no proactive send.
+- 🟡 Jul 24-vs-28 Middesk date discrepancy — still unresolved.
+- 🟡 Browserbase §3.3 escalation — still needs a sign-off path.
+
+Tracker updated with fingerprint `NO_MEETINGS`. Next run's Phase 0 will correctly no-op unless the calendar changes (e.g., something gets added for later tonight).
+Today's row already has fingerprint `NO_MEETINGS`, matching what I just found (no remaining timed meetings today). Nothing has changed since the 19:37 PDT pass.
+
+**NO-OP: no calendar change since 2026-07-22 19:37:23 PDT — skipping full prep.**
+The Google Calendar MCP connection failed twice in a row (socket connection closed unexpectedly). Per the fail-closed rule, I'm stopping here rather than proceeding to a partial pass.
+
+**STOP — REQUIRED SOURCE UNAVAILABLE**
+
+- Failed source: Google Calendar MCP (`mcp__claude_ai_Gcal_Gusto__list_events`)
+- Error: "The socket connection was closed unexpectedly" (2/2 attempts)
+- Phase reached: Phase 0, Step 0b (calendar fetch) — cannot build today's fingerprint, cannot compare against `memory/meeting_prep_tracker.md`
+- Action taken: none. No memory files were read beyond the tracker check that never happened, no Obsidian write occurred, no tracker update occurred.
+
+This is expected to retry cleanly on the next 15-minute invocation once the Gcal connector recovers — no action needed from you unless this recurs across multiple cycles, in which case the Gcal_Gusto connector likely needs reauthorization (via `/mcp` or Claude Code connector settings).

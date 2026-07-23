@@ -1,0 +1,3 @@
+ARCHIVE WRITE: ✅ /Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/briefs/2026-07-night-before-prep.md (added ## 2026-07-22)
+
+One thing worth flagging: the source message itself is inconsistent on the Diomedes codename — it says "*M&A thesis on DoubleHQ*" in the Follow-ups section but "*Diomedes M&A thesis*" in Risks/Watchouts. Per the archive job's verbatim-copy rule I didn't touch it, but the cloud Night-Before Prep routine appears to be leaking the real target name in some of its output despite [[feedback_diomedes_codename]]. You may want to check that routine's source data.
