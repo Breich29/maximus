@@ -7061,3 +7061,51 @@ This was a bookkeeping-only refresh, not a substantive update — the trigger wa
 **Top risks unchanged from the last pass:** COM-020 still not drafted, COM-021 (Lauren Snyder DM) 8 days overdue, Browserbase §3.3 escalation path undefined, Diomedes LOI-phase role undefined for Brandon.
 
 **Tracker updated:** today's row now reflects the new fingerprint (Lolo coffee dropped) and 14:16:48 PDT timestamp, so the next 15-minute check will no-op cleanly until something actually changes.
+No new decisions, commitments, or people surfaced this pass — memory files (people/commitments/decisions/projects/partners) are unchanged from the last full pass. Here's the output:
+
+## DRAFT MEETING PREP MESSAGE(S)
+
+———
+:calendar: *Brandon pick up day* — 4:15–5:00 PM PT
+*Attendees:* sstolberg@atlassian.com (Samantha)
+
+*Context:* Personal — family scheduling, no work content.
+
+*Push for:* N/A — just protect the time block.
+———
+
+*(Ashby / Brandon, 3:30–4:00 PM, is in progress right now — full context carried forward in the Obsidian note under "Lower-priority/FYI," since it already started before this check.)*
+
+## NOTES ON RISKS / DECISIONS NEEDED
+
+1. **COM-020 (Middesk renewal POV)** — still not drafted, 6 days from the notice window closing (2 days under the vault's tighter `contract_renewal: 2026-07-24` reading). The in-progress Ashby 1:1 is today's last forcing function.
+2. **COM-021 (Lauren Snyder DM)** — 8 days overdue, no natural trigger today — needs proactive action.
+3. **Jul 24-vs-28 date discrepancy** — still unresolved, worth closing out at the Ashby 1:1.
+4. **Browserbase §3.3 escalation** — needs a leadership sign-off path.
+5. **Diomedes LOI-prep role** — undefined beyond the standing Tomer M&A thesis deliverable.
+
+This was a lightweight bookkeeping pass: the only change since the 2:16 PM run was the Ashby/Brandon meeting starting and rolling off the "remaining" window, per the gate's own mechanic — no new Granola activity or memory changes otherwise. Full snapshot written to `90-Maximus/meeting-prep/2026-07-22-meeting-prep.md`; tracker updated with the new fingerprint.
+NO-OP: no calendar change since 2026-07-22 15:37:31 PDT — skipping full prep.
+
+Today's remaining-meeting fingerprint (`Brandon pick up day @ 16:15 (2)`) is identical to the last full prep pass. The Ashby/Brandon 1:1 has now started and rolled out of the "remaining" window (same mechanic noted in the tracker for earlier passes today), but that's not a fingerprint change worth a fresh pass. No memory files, Granola, Slack, or Obsidian were touched this run.
+API Error: Connection closed mid-response. The response above may be incomplete.
+**FAIL-CLOSED — stopping this pass.**
+
+**Phase 0 gate result:** Today's fingerprint changed from the tracked `Brandon pick up day @ 16:15 (2)` (last full pass 15:37:31 PDT) to no remaining timed meetings — confirmed via full-day calendar pull that "Brandon pick up day" (16:15–17:00) has now concluded and no new meetings were added today. This matches the established "roll-off" pattern (same mechanic documented for the 15:37, 2:16 PM, 1:27 PM, and 11:57 AM passes), which would normally warrant a lightweight bookkeeping-only update rather than a full re-prep.
+
+**Why I'm stopping instead of doing that bookkeeping update:** The meeting that just rolled off transcript-checking is **Ashby / Brandon (3:30–4:00 PM)** — the day's highest-leverage meeting, and per the existing note it was explicitly the "last remaining forcing function today" for:
+- COM-020 (Middesk renewal POV) ownership/timeline
+- The Jul 24-vs-28 renewal notice date discrepancy
+- Browserbase §3.3 escalation sign-off path
+- Brandon's role in Diomedes LOI prep
+
+Whether that meeting actually produced resolution on any of these is exactly what a Granola transcript check would tell me — and it is currently unavailable:
+
+- `mcp__claude_ai_Granola_Gusto__query_granola_meetings` (targeted queries for the Ashby 1:1) — failed 5 times with "socket connection closed unexpectedly"
+- `mcp__claude_ai_Granola_Gusto__get_meetings` — same failure
+- `mcp__claude_ai_Granola_Gusto__list_meeting_folders` — same failure
+- One earlier broad query succeeded (returned general Diomedes/Middesk/Ashby background already known from before today's 1:1), but nothing since confirms whether the 1:1 itself has a transcript yet.
+
+Per the CRITICAL RULE ("if any required source is unavailable, stop and print failure details... do not assemble partial output"), I'm not writing a refreshed Obsidian note or updating `memory/meeting_prep_tracker.md`. The tracker is left untouched so the next 15-minute invocation's Phase 0 will re-detect this same fingerprint change and retry the Granola check rather than silently skipping it.
+
+**No action taken:** no Obsidian write, no tracker update, no drafts produced this pass. Next run will retry once Granola is reachable again.
