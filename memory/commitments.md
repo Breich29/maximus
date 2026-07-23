@@ -26,29 +26,11 @@ Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 - **Status:** Open — not started as of 2026-07-17. Flagged as the single most time-critical item across every AM brief/night-before-prep/weekly-review since Jul 13; "if you do only one thing next week" line in the Jul 17 Friday Weekly Review.
 - **Source:** Slack #maximus-updates — Daily AM Briefs (Jul 16, Jul 17), Night-Before Prep (Jul 16), Friday Weekly Review (Jul 17)
 
-**COM-021** — Brandon → Lauren Snyder (self-committed)
-- **What:** DM Lauren with the Diomedes (DoubleHQ) M&A market-scan comparison targets Brandon is tracking, to feed Delia He's market scan
-- **Due:** Self-committed 2026-07-14 — now 3 days overdue as of 2026-07-17
-- **Status:** Open — flagged as stale/overdue in every brief since Jul 14; not yet sent as of Jul 17 Weekly Review.
-- **Source:** Slack #maximus-updates — Daily AM Briefs (Jul 16, Jul 17), Night-Before Prep (Jul 16), Friday Weekly Review (Jul 17)
-
-**COM-017** — Izzy Rogner-Hall → Brandon
-- **What:** Build the SYB Anthropic pitch demo prototype; send to Brittany Halldorson and Ashby Taylor for review
-- **Due:** 2026-07-15, 1:00 PM PT (same day as sync) — now overdue
-- **Status:** Downgraded from blocking risk — per COM-019 (completed 2026-07-17), Brandon embedded a finished demo video (`SYB with Claude - Version 2.mov`) on the Solution slide of the live deck (local file + hosted share-some-html v5), so a working demo exists and is deck-ready ahead of Monday's Lena call. The Izzy-vs-Natalie-Harmon authorship question is still technically unresolved (unclear who produced the underlying video Brandon was "supplied" with) — worth a quick clarifying ping to Izzy for credit/continuity, but it's no longer a pre-call blocker.
-- **Source:** Granola: SYB Anthropic sync (Jul 15, 8:00 AM); "Make final changes to Anthropic materials: SYB" (Jul 16, 2:30 PM); Slack #maximus-updates Night-Before Prep (Jul 16) + Friday Weekly Review (Jul 17); commitments.md COM-019; project_syb_anthropic_deck.md Jul 17 update
-
 **COM-018** — Brandon → Izzy Rogner-Hall
 - **What:** Revise SYB Anthropic deck to joint-GTM ask framing (mirroring the accountant deck); send the accountant deck to Izzy as reference
 - **Due:** Before Monday 2026-07-20 call with Lena (Anthropic) — updated from "same-day" after the 2026-07-16 "final changes" session (DEC-010) locked in the specific edits still to implement
 - **Status:** Open, close to done — per Jul 17 #maximus-updates (Friday Weekly Review + Daily AM Brief), the deck was **finalized 2026-07-16 with Brittany Halldorson, Ashby Taylor, and Izzy — slides 5 & 6 both confirmed done.** Remaining: (1) confirm the "1 in 5 new businesses" stat source before it's used live — still flagged as pending in the Jul 17 brief, (2) share the updated deck ahead of Monday's 11:00 AM kickoff call with Lena (now on calendar as "Start Your Business Kick-off Call with Anthropic," Jul 20 11:00–11:25 AM, attendees Ashby/Izzy/Brandon/Abhas/Bridgette/Brittany).
 - **Source:** Granola: SYB Anthropic sync (Jul 15, 8:00 AM); "Make final changes to Anthropic materials: SYB" (Jul 16, 2:30 PM); Slack #maximus-updates Friday Weekly Review (Jul 17)
-
-**COM-013** — Cindy (Browserbase) → Brandon
-- **What:** Send Browserbase's DPA for review (relevant only if deal stays at $18K/year, below Browserbase's $60K+ threshold for accepting Gusto's own DPA)
-- **Due:** Unspecified — pending
-- **Status:** Open
-- **Source:** Granola: Gusto<>Browserbase (Jul 13)
 
 **COM-011** — Jessica Sacks → Brandon
 - **What:** Stack-rank Middesk agreement wish list (SLA penalties/invoice credits, order status transparency, escalation protocols) and send churn/attrition stats ahead of the Quinn call
@@ -56,29 +38,11 @@ Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 - **Status:** Closed out (partial). Churn/attrition stats delivered via Slack 2026-07-13 1:10 PM PT (figures: CX outreach on a Middesk issue = 1.6x churn risk; order "canceled or retired" = 1.4x churn risk; successful completed order = 0.9x churn risk). **Stack-ranked wish list was never delivered** — 10 consecutive checks, no movement — and the Quinn call happened at 11 AM 2026-07-14 without it. Per Brandon's post-call recap (Slack, 12:48 PM PT), the call went very well regardless — no apparent negative impact from the missing wish list. Downgrading from time-critical; not reopening as urgent. Revisit stack-ranking with Jessica at normal cadence if still wanted for future negotiation rounds.
 - **Source:** Granola: Prep for Quinn<>Brandon (Jul 13); Slack group DM C0BD1UZ9SUB (Jul 13 1:10 PM PT; Jul 14 12:48 PM PT recap)
 
-**COM-015** — Chris Elkins → Lolo (Middesk)
-- **What:** Follow up with Lolo on cadence for kicking off headless API co-build/co-design sessions between Middesk's build team and Gusto's GBC team (parallel-build approach Quinn proposed on the call)
-- **Due:** Unspecified — Brandon's read: "we should kick this off and start pushing when we meet with them next"
-- **Status:** Open — new, raised in Slack same-day recap thread
-- **Source:** Slack group DM C0BD1UZ9SUB (Jul 14, 12:48–1:05 PM PT — Brandon's Quinn recap + Chris's reply)
-
-**COM-016** — Middesk (Quinn) → Gusto
-- **What:** Deliver the headless API by 10/1/2026 (verbal commitment on the call; not yet in writing)
-- **Due:** 2026-10-01
-- **Status:** Open — verbal only. Worth getting in writing given DEC-007's "asks in writing, no build-timeline commitments" posture was about Gusto's side, not Middesk's — but a verbal-only date from a vendor with a history of slipped commitments (see partners.md) is a risk to track, not treat as locked.
-- **Source:** Slack group DM C0BD1UZ9SUB (Jul 14, 12:48 PM PT)
-
 **COM-014** — Chris Elkins → Brandon/Andrew/Jessica
 - **What:** Share all Middesk agreements + agreement summary (including negotiation "gets") in Slack ahead of Quinn call
 - **Due:** Before Quinn call, 2026-07-14
 - **Status:** Delivered — Google Drive folder link posted in group DM 2026-07-13 11:23 AM PT
 - **Source:** Slack group DM C0BD1UZ9SUB (Jul 13, 11:23 AM PT)
-
-**COM-003** — Brandon → Allison Hess
-- **What:** Draft MSA template recommendations incorporating Zen Business DPA lessons + security-earlier approach
-- **Due:** July 2026
-- **Status:** Open — deferred to next month
-- **Source:** Granola: Chris<>Jessica<>Brandon
 
 **COM-005** — Jessica Sacks → Mid-desk contact
 - **What:** Pre-flight call + follow-up email notifying mid-desk about GBC scribing/concierge model (do NOT mention POA or first-party plans)
