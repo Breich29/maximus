@@ -14,6 +14,12 @@ Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 - **Status:** Open — new, from today's redlines review. Two other previously-flagged risks (policy-based blocking / Acceptable Use Policy conflict; shared Intuit T&C/IP clearance blocker with Diomedes) were NOT addressed in this session and remain open separately.
 - **Source:** Granola: "Review Browserbase redlines" (Jul 21, 11:30 AM); decisions.md DEC-015
 
+**COM-016** (see also Completed/Open history below) — Middesk (Quinn) → Gusto
+- **What:** Deliver the headless API by 10/1/2026 (verbal commitment on the call; not yet in writing)
+- **Due:** 2026-10-01
+- **Status:** Open — verbal only. Brandon's explicit instruction (Slack, Jul 20 11:23 PM PT note): before chasing Quinn for this in writing, first confirm alignment with Chris Elkins, Jessica Sacks, and Andrew Adams internally — do not chase Middesk directly yet.
+- **Source:** Slack group DM C0BD1UZ9SUB (Jul 14, 12:48 PM PT); Slack #maximus-updates action-items update (Jul 20, 11:23 PM PT note, processed Jul 22)
+
 **COM-020** — Brandon → Chris Elkins / Jessica Sacks / Andrew Adams
 - **What:** Draft a philosophical-level MidDesk renewal negotiation POV (pillars: earned-maturity pricing, invoice-credit teeth, MFN clause waiver, "12 locals = 70% of market" scope philosophy) for them to react to
 - **Due:** ~2026-07-27, but renewal notice window opens 2026-07-24 (7 days out as of Jul 17) — see partners.md Mid-desk entry for a date-language discrepancy (Jul 24 "opens" vs. Jul 28 "closes") that needs Brandon's clarification
