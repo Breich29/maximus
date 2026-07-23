@@ -54,6 +54,31 @@ Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 
 ## Completed
 
+**COM-013** — Cindy (Browserbase) → Brandon
+- **Completed:** 2026-07-20 (Brandon's correction, processed 2026-07-22)
+- **What:** Send Browserbase's DPA for review (relevant only if deal stays at $18K/year, below Browserbase's $60K+ threshold for accepting Gusto's own DPA)
+- **Confirmed via:** Slack #maximus-updates action-items update, quoting Brandon's Jul 20 11:23 PM PT note: "we received and has been reviewed and approved." Feeds directly into the 2026-07-21 Allison Hess redlines review (DEC-015).
+
+**COM-015** — Chris Elkins → Lolo (Middesk)
+- **Completed:** 2026-07-20 (dismissed by Brandon, processed 2026-07-22)
+- **What:** Follow up with Lolo on cadence for kicking off headless API co-build/co-design sessions between Middesk's build team and Gusto's GBC team
+- **Confirmed via:** Slack #maximus-updates action-items updates (Jul 21 08:08 AM, Jul 21 16:07 PM, Jul 22 08:30 AM — all quoting the same Jul 20 11:23 PM PT note): "Remove - Chris AI." Dismissed from Brandon's tracking, not delivered.
+
+**COM-017** — Izzy Rogner-Hall → Brandon
+- **Completed:** 2026-07-20 (per Brandon's note, processed 2026-07-22)
+- **What:** Build the SYB Anthropic pitch demo prototype; send to Brittany Halldorson and Ashby Taylor for review
+- **Confirmed via:** Slack #maximus-updates action-items updates (Jul 21 08:08 AM, Jul 22 08:30 AM), quoting Brandon's Jul 20 11:23 PM PT note marking it "Completed." Consistent with COM-019 (2026-07-17) — the demo video was already embedded in the live deck; this closes the loop on the underlying prototype commitment itself. The Izzy-vs-Natalie-Harmon authorship credit question remains an open loose end (see action_items.md) but is not a blocker to closing this commitment.
+
+**COM-021** — Brandon → Lauren Snyder (self-committed)
+- **Completed:** 2026-07-20 (per Brandon's note, processed 2026-07-22)
+- **What:** DM Lauren with the Diomedes (DoubleHQ) M&A market-scan comparison targets Brandon is tracking, to feed Delia He's market scan
+- **Confirmed via:** Slack #maximus-updates action-items update (Jul 20, 11:23 PM PT note): "Complete."
+
+**COM-003** — Brandon → Allison Hess
+- **Completed:** 2026-07-20 (closed out on Brandon's side, processed 2026-07-22)
+- **What:** Draft MSA template recommendations incorporating Zen Business DPA lessons + security-earlier approach
+- **Confirmed via:** Slack #maximus-updates action-items update (Jul 20, 11:23 PM PT note): "Close out, Chris Elkins chasing." Ownership of chasing Allison Hess passes to Chris Elkins; off Brandon's open tracker.
+
 **COM-012** — Brandon → Cindy (Browserbase)
 - **Completed:** 2026-07-13
 - **What:** Send red lines on the Browserbase agreement: no auto-renew (explicit opt-in only), indemnity language, no marketing use of Gusto name/logo without written consent, 48-hour breach notice, data minimization confirmed configurable, exclude user contributions from content license grant.
