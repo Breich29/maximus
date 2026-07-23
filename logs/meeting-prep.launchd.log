@@ -7133,3 +7133,56 @@ The Google Calendar MCP connection failed twice in a row (socket connection clos
 - Action taken: none. No memory files were read beyond the tracker check that never happened, no Obsidian write occurred, no tracker update occurred.
 
 This is expected to retry cleanly on the next 15-minute invocation once the Gcal connector recovers — no action needed from you unless this recurs across multiple cycles, in which case the Gcal_Gusto connector likely needs reauthorization (via `/mcp` or Claude Code connector settings).
+OBSIDIAN WRITE: ⚠️ Offline — wrote directly to filesystem at `90-Maximus/meeting-prep/2026-07-23-meeting-prep.md`
+
+## DRAFT MEETING PREP MESSAGE(S)
+
+———
+:calendar: *AI Market Mapping Working Sesh* — 9:00–10:00 AM PT
+*Attendees:* Vivian Shen (organizer, Product Partnerships peer on Ashby's team) · Devesh Verma (Corp Dev peer) · Joseph Sarni (Product Partnerships peer — **still "needsAction," hasn't accepted**)
+
+*Context:* Working session on the AI partnership market map from the Jul 21 "Sync on AI Partnerships" (DEC-014) — V1 covers frontier models/vertical AI/app factories/infra but is qualitative only; V2/V3 with quant sizing is Brandon's owed deliverable, softly due ~Aug 4–11.
+
+*Open items with attendees:*
+• Vivian Shen — co-owns building the Notion AI-partnership tracker with Brandon (Jul 2 AI Jam decision); no formal commitment logged, worth a status check.
+• Joseph Sarni — flagged the "app factory" thesis as the real opportunity at the Jul 2 AI Jam.
+• Devesh Verma — peripheral so far; no open items.
+
+*Push for:*
+• Lock the quant sizing approach for V2/V3.
+• Status of the prioritization-committee ask (Chris as likely lead) + Mike/FP&A resource.
+• Next step on the Notion tracker doc, owner + timeline.
+
+*Watch out for:*
+• Joseph hasn't accepted — if absent, app-factory thesis + "untouched areas" (HRX, time tracking, benefits) may not get covered.
+• This deliverable's been "2-3 weeks out" since Jul 21 — treat today as a slip check.
+———
+
+———
+:calendar: *Penny's Place | The Champions Room* — 12:30–1:30 PM PT
+*Attendees:* Brandon only, company-organized (Zoom link, ZenPayroll group calendar).
+
+*Context:* No Granola or memory trail at all — flagging as unknown rather than guessing. Likely a company event, not a work meeting.
+
+*Watch out for:* Confirm there's no RSVP/attendance expectation you've missed.
+———
+
+*Other calendar items (no prep needed):* Ryan Drop Off (8:15 AM, personal), Block (2:45 PM, self-held), and all-day company noise ("Anchor Week," Gustoversary).
+
+## NOTES ON RISKS / DECISIONS NEEDED
+
+- **AI market map (DEC-014)** is the real work item today — no visible progress artifact yet; use the session to make it concrete or flag the timeline slipping.
+- **Joseph Sarni non-acceptance** — worth a quick nudge before the session.
+- **Penny's Place** has zero context anywhere in memory/Granola.
+- Off-calendar but higher stakes than anything today: **COM-020** (Mid-desk renewal POV, still undrafted, notice window closes ~Jul 28) and **COM-022** (Browserbase redlines to Cindy, flagged overdue last night) — neither has a meeting today forcing progress.
+
+Tracker updated with today's fingerprint so the next 15-minute check can no-op until something on the calendar changes.
+**NO-OP: no calendar change since 2026-07-23 03:31:25 PDT — skipping full prep.**
+
+Today's fingerprint is unchanged from the last full pass: `Ryan Drop Off @ 08:15 (1) | AI Market Mapping Working Sesh @ 09:00 (4) | Penny's Place | The Champions Room @ 12:30 (1) | Block @ 14:45 (1)`. All four remaining meetings are the same ones already prepped ~45 minutes ago. Per the change-detection gate, stopping here — no memory files, Granola, Slack, or Obsidian touched this pass.
+**NO-OP: no calendar change since 2026-07-23 03:31:25 PDT — skipping full prep.**
+
+Today's remaining-meeting fingerprint (Ryan Drop Off @ 08:15 (1) | AI Market Mapping Working Sesh @ 09:00 (4) | Penny's Place | The Champions Room @ 12:30 (1) | Block @ 14:45 (1)) matches the tracker row from the last full pass this morning. Nothing about the calendar has changed, so per Phase 0 I'm stopping here without touching memory files, Granola, Glean, Slack, or Obsidian.
+NO-OP: no calendar change since 2026-07-23 03:31:25 PDT — skipping full prep.
+
+Today's remaining-meeting fingerprint (`Ryan Drop Off @ 08:15 (1) | AI Market Mapping Working Sesh @ 09:00 (4) | Penny's Place | The Champions Room @ 12:30 (1) | Block @ 14:45 (1)`) exactly matches the row already logged in `memory/meeting_prep_tracker.md` for today. Nothing about the calendar has changed since that full pass — no new meetings added, no attendee changes, no cancellations. Per PHASE 0, stopping here without touching Granola, Slack, or Obsidian.

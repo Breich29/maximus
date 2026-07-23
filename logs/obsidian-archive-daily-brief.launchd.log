@@ -5,3 +5,4 @@ Per the job's fail-closed rule and CLAUDE.md's hard rule ("If a required MCP sou
 **ARCHIVE SKIPPED: Slack MCP connector unavailable — cannot read #maximus-updates (C0B6PP491NH).**
 
 No file was created or modified. You'll need to authorize the Slack Gusto connector (via claude.ai connector settings or `/mcp` in an interactive session) before this job can run.
+ARCHIVE WRITE: ✅ /Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/briefs/2026-07-daily-brief.md (added ## 2026-07-23)
