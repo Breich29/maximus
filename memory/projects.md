@@ -46,7 +46,7 @@ _Last updated: 2026-07-17_
   - MSA template upgrades (lessons from Zen Business ransomware / DPA gap)
   - Legal Link SLA renegotiation (currently missing SLAs; Becky Grant tracks metrics)
   - Brandon to be introduced to Legal Link as relationship owner (Alex to intro)
-  - 3,000 CorpNet orders in non-terminal status (~250 days avg age) — cleanup needed
+  - 3,000 CorpNet orders in non-terminal status (~250 days avg age) — cleanup needed. **Not Brandon's item** (his correction, Jul 20 11:23 PM PT note, processed 2026-07-22): "Remove, not my responsibility. Falls in the camp of partner management." Retained here as a known fact/risk, not as something on Brandon's plate.
 
 ---
 
