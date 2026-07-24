@@ -1,6 +1,6 @@
 # Commitments
 
-_Last updated: 2026-07-22_
+_Last updated: 2026-07-23_
 
 Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 
