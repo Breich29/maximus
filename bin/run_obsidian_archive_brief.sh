@@ -86,7 +86,21 @@ if [ "${GROUPING}" = "monthly" ]; then
   fi
 fi
 
-envsubst < "${SCRIPT_DIR}/prompts/${TEMPLATE}" | claude -p \
-  --allowedTools "mcp__claude_ai_Slack_Gusto_Offical__slack_read_channel,Read,Write,Bash"
+# Retry on transient failures (e.g. "Connection closed mid-response" — observed 2026-07-24,
+# correlated with other jobs seeing multi-hour gaps that morning, consistent with a network drop
+# rather than a logic bug). Safe to retry: the pre-check above plus the prompt's own idempotency
+# check mean a retry never double-archives a day, it only re-attempts a failed one.
+ATTEMPT=1
+MAX_ATTEMPTS=3
+until envsubst < "${SCRIPT_DIR}/prompts/${TEMPLATE}" | claude -p \
+  --allowedTools "mcp__claude_ai_Slack_Gusto_Offical__slack_read_channel,Read,Write,Bash"; do
+  if [ "${ATTEMPT}" -ge "${MAX_ATTEMPTS}" ]; then
+    echo "$(date): FAILED after ${MAX_ATTEMPTS} attempts." >> "${ERR_FILE}"
+    exit 1
+  fi
+  echo "$(date): Attempt ${ATTEMPT} failed, retrying in 30s..." >> "${LOG_FILE}"
+  ATTEMPT=$((ATTEMPT + 1))
+  sleep 30
+done
 
 echo "$(date): Obsidian archive (${ARTIFACT}) completed." >> "${LOG_FILE}"
