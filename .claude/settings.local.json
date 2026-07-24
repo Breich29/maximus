@@ -162,7 +162,8 @@
       "Read(//Users/brandon.reich/Documents/Gusto-PartnerDevBR/30-Deals/**)",
       "Read(//Users/brandon.reich/Documents/Gusto-PartnerDevBR/**)",
       "Bash(./bin/run_obsidian_archive_brief.sh daily-brief *)",
-      "Bash(./bin/run_meeting_prep.sh)"
+      "Bash(./bin/run_meeting_prep.sh)",
+      "mcp__claude_ai_Slack_Gusto_Offical__slack_search_public"
     ]
   },
   "hooks": {
