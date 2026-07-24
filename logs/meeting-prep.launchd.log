@@ -7410,3 +7410,22 @@ Today's remaining-meeting fingerprint is unchanged from the last full pass (Bran
 **NO-OP: no calendar change since 2026-07-24 09:35:26 PDT — skipping full prep.**
 
 Today's remaining-meeting fingerprint (Brandon/Joseph x1x1 @ 11:00, Embedded R&D Show & Tell @ 11:00, Corp/Partner Dev Weeklies reminder @ 12:00, Send Weekly Partner Stats @ 15:30) exactly matches the last full pass recorded in `memory/meeting_prep_tracker.md`. Per Phase 0, nothing further is read or written this run.
+**OBSIDIAN WRITE: ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-24-meeting-prep.md`**
+
+## Summary
+
+This was a light bookkeeping pass, not a fresh content pass. The 09:35 AM run already gave full prep to today's two 11:00 AM meetings (Brandon/Joseph 1x1, flagged as double-booked against the suppressed Embedded R&D Show & Tell). By this 11:13 AM check, both had started, so they rolled off the "remaining" window per the established convention — that roll-off is what changed the fingerprint and triggered this pass. Granola showed nothing new since 09:35 for Joseph Sarni, Embedded R&D, the Corp/Partner Dev weekly, or Middesk.
+
+**What's left today, DRAFT-only:**
+- **REMINDER — Add Update to Corp/Partner Dev Weeklies** (12:00 PM) — self-prep block for Ashby's actual weekly (next occurring Jul 28). Drafted 3 suggested update bullets (Diomedes, Anthropic/AI Partnerships, Mid-desk).
+- **Send Weekly Partner Stats to team** (3:30 PM) — routine self-block, no new prep content found.
+
+**Standing risks unchanged:** Mid-desk renewal notice window opened today (COM-020 POV still not drafted — top priority), Browserbase redlines (COM-022) still overdue, SYB Anthropic deck revision (COM-018) still stale.
+NO-OP: no calendar change since 2026-07-24 11:13:11 PDT — skipping full prep.
+
+Today's remaining-meeting fingerprint (REMINDER - Add Update to Corp/Partner Dev Weeklies @ 12:00 (8) | Send Weekly Partner Stats to team @ 15:30 (0)) matches the tracker's last full pass exactly. Per PHASE 0, stopping here — no memory reads, Granola/Glean/Slack calls, or Obsidian writes performed.
+**NO-OP: no calendar change since 11:13:11 PDT — skipping full prep.**
+
+Today's fingerprint (11:46 PDT check): `REMINDER - Add Update to Corp/Partner Dev Weeklies @ 12:00 (8) | Send Weekly Partner Stats to team @ 15:30 (0)` — identical to the row already logged in `memory/meeting_prep_tracker.md` for 2026-07-24. (All-day "Aloha Fridays 🌺" excluded from the fingerprint per existing convention — not a real meeting.)
+
+Nothing changed since the last full pass at 11:13:11 PDT, so per Phase 0 I'm stopping here — no memory reads beyond the tracker, no Granola/Glean/Slack calls, no Obsidian write.
