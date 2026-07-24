@@ -7351,3 +7351,62 @@ Per the hard rule — **"If a required MCP source is unavailable: STOP and repor
 - Action taken: None — no memory files written, no Obsidian note touched, tracker not updated
 
 Recommend retrying this job on its next scheduled 15-minute invocation. If the Gcal MCP continues to time out, it may need reauthorization or a service-side check.
+OBSIDIAN WRITE: ✅ `90-Maximus/meeting-prep/2026-07-24-meeting-prep.md`
+
+## DRAFT MEETING PREP MESSAGE(S) — Thursday, July 24, 2026
+
+**Top priority today (not tied to a meeting):**
+- 🔴 Mid-desk renewal notice window **opens today**, closes ~Jul 28 (DEC-007). COM-020 (negotiation POV for Chris/Jessica/Andrew) still not started — the most time-critical open item you have.
+- 🔴 COM-022 (Allison Hess → Browserbase redlines) overdue since Jul 22, no confirmation it went back to Cindy.
+- 🟡 COM-018 (SYB Anthropic deck revision to Izzy) — 8+ days stale.
+
+---
+📅 **Brandon / Joseph x1x1** — 11:00–11:30 AM PT
+*Attendees:* Joseph Sarni (Product Partnerships peer, Ashby's team, NYC)
+
+*Context:* No dedicated 1:1 history — only prior contact is the Jul 2 "AI Jam," where Joseph co-proposed a company-wide AI-partnership tracker, since superseded by DEC-014's division of labor (you own materials/pitches, Igor's team owns frontier-model outreach).
+
+*Push for:* Confirm Joseph's aligned on DEC-014 superseding his tracker proposal; mention your open V2/V3 AI market map deliverable.
+
+*Watch out for:* ⚠️ Double-booked with the item below.
+———
+🎪 **Embedded R&D Show & Tell** — 11:00–11:45 AM PT
+Falls under your hard-suppressed "Gusto Embedded" topic — skipped detailed prep. Just flagging it exists and double-books the Joseph 1x1. ~30 invitees, most declined.
+———
+**REMINDER — Add Update to Corp/Partner Dev Weeklies** — 12:00–12:15 PM PT
+Prep block for the actual weekly (next occurrence confirmed **Tue Jul 28**, via Granola — today isn't the meeting itself). Suggested bullets: Diomedes buy-over-build status, Anthropic/AI Partnerships (DEC-014 + your market-map deliverable), Mid-desk window opening today with COM-020 still undrafted.
+———
+**Send Weekly Partner Stats to team** — 3:30–4:00 PM PT — standing recurring self-task, no specific context found.
+———
+All-day: Aloha Fridays 🌺 — no prep needed.
+———
+Already in progress: Neeti x Brandon (9:30–10:00 AM) — personal contact, no context available.
+
+**NOTES ON RISKS / DECISIONS NEEDED:**
+- Double-booking at 11:00 AM — decide priority.
+- Mid-desk POV (COM-020) still undrafted as the window opens today.
+- COM-022 Browserbase redlines still overdue — worth a direct check with Allison Hess.
+
+Tracker updated with today's fingerprint so subsequent 15-minute runs today will no-op unless the calendar changes.
+**NO-OP: no calendar change since 2026-07-24 09:35:26 PDT — skipping full prep.**
+
+Today's remaining-meetings fingerprint is unchanged from the last full pass:
+`Brandon / Joseph x1x1 @ 11:00 (2) | 🎪 Embedded R&D Show & Tell @ 11:00 (31) | REMINDER - Add Update to Corp/Partner Dev Weeklies @ 12:00 (8) | Send Weekly Partner Stats to team @ 15:30 (0)`
+
+Per PHASE 0, no further memory files, Granola, Glean, Slack, or Obsidian access is needed for this invocation.
+**NO-OP: no calendar change since 2026-07-24 09:35:26 PDT — skipping full prep.**
+
+Today's remaining-meeting fingerprint (Brandon/Joseph 1x1 @ 11:00, Embedded R&D Show & Tell @ 11:00, Corp/Partner Dev Weeklies reminder @ 12:00, Send Weekly Partner Stats reminder @ 15:30) is unchanged from the last full pass. Per the Phase 0 gate, stopping here — no memory files, Granola, Slack, or Obsidian touched this run.
+**NO-OP: no calendar change since 2026-07-24 09:35:26 PDT — skipping full prep.**
+
+Today's remaining-meetings fingerprint is unchanged from the last full pass:
+
+`Brandon / Joseph x1x1 @ 11:00 (2) | 🎪 Embedded R&D Show & Tell @ 11:00 (31) | REMINDER - Add Update to Corp/Partner Dev Weeklies @ 12:00 (8) | Send Weekly Partner Stats to team @ 15:30 (0)`
+
+Per the Phase 0 gate, no further memory reads, Granola/Glean/Slack calls, or Obsidian writes were made this pass.
+**NO-OP: no calendar change since 2026-07-24 09:35:26 PDT — skipping full prep.**
+
+Today's remaining-meeting fingerprint is unchanged from the last full pass (Brandon/Joseph 1x1 @ 11:00, Embedded R&D Show & Tell @ 11:00, Corp/Partner Dev Weeklies reminder @ 12:00, Send Weekly Partner Stats @ 15:30 — all still upcoming, same attendee counts). Per PHASE 0, stopping here without touching memory, Granola, Slack, or Obsidian.
+**NO-OP: no calendar change since 2026-07-24 09:35:26 PDT — skipping full prep.**
+
+Today's remaining-meeting fingerprint (Brandon/Joseph x1x1 @ 11:00, Embedded R&D Show & Tell @ 11:00, Corp/Partner Dev Weeklies reminder @ 12:00, Send Weekly Partner Stats @ 15:30) exactly matches the last full pass recorded in `memory/meeting_prep_tracker.md`. Per Phase 0, nothing further is read or written this run.
