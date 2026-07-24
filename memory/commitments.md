@@ -10,9 +10,9 @@ Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 
 **COM-022** — Allison Hess → Browserbase
 - **What:** Apply the three outstanding redline edits from the 2026-07-21 review (§3.3 strike "promoting"/"marketing" from permitted data uses; §3.3 add data subject-level de-identification language; §11.3 strike Gusto's obligation to pay Browserbase's breach-investigation costs) and send the revised contract back. Escalate the §3.3 marketing-use restriction to leadership before sending — may need sign-off above Brandon/Allison's level.
-- **Due:** Unspecified — same "close by end of July 2026" window as the broader Browserbase deal
-- **Status:** Open — new, from today's redlines review. Two other previously-flagged risks (policy-based blocking / Acceptable Use Policy conflict; shared Intuit T&C/IP clearance blocker with Diomedes) were NOT addressed in this session and remain open separately.
-- **Source:** Granola: "Review Browserbase redlines" (Jul 21, 11:30 AM); decisions.md DEC-015
+- **Due:** 2026-07-22 — **now overdue.** Every #maximus-updates brief from Jul 22 AM through Jul 23 night-before-prep (9:10 PM PT) confirms it still hasn't been sent to Cindy; end-of-July Browserbase close is at risk the longer it slips.
+- **Status:** Overdue since 2026-07-22 (1+ day as of Jul 23 9:10 PM PT brief). Two other previously-flagged risks (policy-based blocking / Acceptable Use Policy conflict; shared Intuit T&C/IP clearance blocker with Diomedes) were NOT addressed in the Jul 21 session and remain open separately.
+- **Source:** Granola: "Review Browserbase redlines" (Jul 21, 11:30 AM); decisions.md DEC-015; Slack #maximus-updates Daily AM Briefs + Night-Before Preps (Jul 22–23)
 
 **COM-016** (see also Completed/Open history below) — Middesk (Quinn) → Gusto
 - **What:** Deliver the headless API by 10/1/2026 (verbal commitment on the call; not yet in writing)
