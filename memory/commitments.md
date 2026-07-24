@@ -22,9 +22,9 @@ Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 
 **COM-020** — Brandon → Chris Elkins / Jessica Sacks / Andrew Adams
 - **What:** Draft a philosophical-level MidDesk renewal negotiation POV (pillars: earned-maturity pricing, invoice-credit teeth, MFN clause waiver, "12 locals = 70% of market" scope philosophy) for them to react to
-- **Due:** ~2026-07-27, but renewal notice window opens 2026-07-24 (7 days out as of Jul 17) — see partners.md Mid-desk entry for a date-language discrepancy (Jul 24 "opens" vs. Jul 28 "closes") that needs Brandon's clarification
-- **Status:** Open — not started as of 2026-07-17. Flagged as the single most time-critical item across every AM brief/night-before-prep/weekly-review since Jul 13; "if you do only one thing next week" line in the Jul 17 Friday Weekly Review.
-- **Source:** Slack #maximus-updates — Daily AM Briefs (Jul 16, Jul 17), Night-Before Prep (Jul 16), Friday Weekly Review (Jul 17)
+- **Due:** ~2026-07-27. Renewal notice window opens 2026-07-24 (see partners.md Mid-desk entry — the "opens Jul 24" / "closes ~Jul 28" language is the same ~90-day-notice window described from its two ends, not a discrepancy; resolved 2026-07-23).
+- **Status:** Open — still not started as of the 2026-07-23 9:10 PM PT night-before-prep brief (window opens the next morning, Jul 24). Flagged as the single most time-critical item across every AM brief/night-before-prep/weekly-review since Jul 13; "if you do only one thing" line recurring through Jul 23.
+- **Source:** Slack #maximus-updates — Daily AM Briefs + Night-Before Preps (Jul 16–23), Friday Weekly Review (Jul 17)
 
 **COM-018** — Brandon → Izzy Rogner-Hall
 - **What:** Revise SYB Anthropic deck to joint-GTM ask framing (mirroring the accountant deck); send the accountant deck to Izzy as reference
