@@ -1,6 +1,7 @@
 # Action Items
 
-_Last updated: 2026-07-19 (evening night-before-prep confirmation pass: added Brittany Halldorson new-person flag + AI Services Marketplace new-signal flag)_
+_Last updated: 2026-07-24 (weekly memory sweep: added Elena Sharma + Colleen Oates new-person flags, Izzy Rogner-Hall ambiguous-ownership-signal flag)_
+_Prior: 2026-07-19 (evening night-before-prep confirmation pass: added Brittany Halldorson new-person flag + AI Services Marketplace new-signal flag)_
 _Prior: 2026-07-17 weekly memory sweep pass: added Kyle Everly + Natalie Harmon new-person flags, noted the two "missing" 7/17 meetings reappeared rescheduled to 7/20)_
 _Prior: same-day meeting-prep pass: Mal Arun + Lars Wensel resolved; new ZenBusiness commitments flagged; two predicted meetings absent from actual calendar_
 _Lightweight follow-ups and "needs confirmation" items. Formal commitments tracked in commitments.md._
