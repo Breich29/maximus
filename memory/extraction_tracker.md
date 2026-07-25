@@ -23,8 +23,8 @@ _Tracks last scan timestamps per source to avoid re-processing and enable increm
 - **Daily brief:** Morning + night-before (per preferences.md)
 - **Weekly memory sweep:** Friday 2:00 PM PT (includes a Phase 2B channel-sync catch-up if the daily job's cursor is >36h stale)
 - **Channel sync (memory + Obsidian):** Daily Mon-Fri ~10:00 PM PT (bin/run_channel_sync.sh) — reads #maximus-updates since `last_ts` above and files decisions/commitments/partner+project status/people facts into memory/*.md + Obsidian. Never touches action_items.md.
-- **Next DM sweep due:** 2026-05-22 (daily)
-- **Next Granola sweep due:** 2026-05-22 (daily)
+- **Next DM sweep due:** 2026-07-25 (daily; weekly deep sweep next due 2026-07-31)
+- **Next Granola sweep due:** overdue — last real pull 2026-05-21, 2 consecutive weekly sweeps have skipped re-running it (2026-07-17, 2026-07-24) in favor of Slack/calendar coverage. Recommend a dedicated Granola health check.
 
 ### Note: pre-2026-07-14 backfill gap
 memory/decisions.md, commitments.md, partners.md, projects.md, people.md, and priorities.md
