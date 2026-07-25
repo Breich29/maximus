@@ -88,3 +88,16 @@ Skipped (already reflected / dedupe): 11 (5 "action items updated" restatements 
 **Key finding:** COM-018 (SYB deck → Izzy) had been marked "close to done" as of Jul 17, but 6 straight days of briefs (Jul 21–23) show no completion evidence — reopened it in commitments.md rather than carrying forward a stale "done" signal. COM-022 (Browserbase counter-redlines) is now confirmed overdue since Jul 22. New risk flagged on Diomedes: Ben Stein sent a Crossbeam partnership invite the night of Jul 23 — Brandon hasn't looped in Ashby/Delia yet.
 
 Extraction tracker cursor advanced to `last_ts: 1784866252.811039` (Jul 23, 9:10 PM PDT). Obsidian note written to `90-Maximus/memory-sync/2026-07-23-channel-sync.md`.
+**OBSIDIAN WRITE: ⚠️ Offline — wrote to filesystem** at `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/memory-sync/2026-07-24-channel-sync.md`
+
+Channel Sync — 2026-07-24
+---
+Window synced: 2026-07-23 9:10 PM PDT → 2026-07-24 10:00 PM PDT
+Messages/threads processed: 4 (0 threads with replies)
+Written:
+- Decisions: 0 new, 0 amended
+- Commitments: 0 new, 1 status change — COM-022 (Browserbase: Daniella Seim's sign-off now confirmed, Allison ready to upload to Zip)
+- Partner status changes: Browser Base (narrowed to Ironclad approval + start-date decision remaining)
+- Project status changes: GBC/Browser Base, GustoPro (Jeremy Grasso follow-up now confirmed Jul 28 1:00 PM PT), Project Diomedes (Crossbeam overlap figure: ~2.2K shared accounting-firm customers)
+- People updates: none
+Skipped (already reflected / dedupe): 5 (Browserbase redline acceptance, Diomedes Buy verdict/Crossbeam risk, MidDesk POV due date, stale "Astrid" bot error, unsent Team-Weeklies draft)
