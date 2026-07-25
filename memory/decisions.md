@@ -1,6 +1,6 @@
 # Decisions
 
-_Last updated: 2026-07-17_
+_Last updated: 2026-07-22 (header was stale — content already included DEC-013 through DEC-016; corrected during 2026-07-24 weekly memory sweep validator pass)_
 
 Format: DEC-XXX | Summary | Date | Owner | Source
 
