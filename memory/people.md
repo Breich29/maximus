@@ -128,6 +128,24 @@ _Last updated: 2026-07-24 (weekly memory sweep)_
 
 ## TIER 2 — Monthly / Situational
 
+### Tyrone Guillory Jr.
+- **Email:** tyrone.guilloryjr@gusto.com
+- **Slack ID:** U0492HT8P7E
+- **Title:** Procurement | Finance & Business Operations | Black with Gusto Co Lead
+- **Context:** New DM contact (2026-07-24 weekly sweep) — Brandon's procurement counterpart walking him through the negotiated-vendor signature/PO flow for Browserbase (who signs, when it goes to DocuSign). Also on the Product Partnerships Pipeline Review (bi-weekly) invite list.
+
+### Kinzi Top
+- **Email:** kinzi.top@gusto.com
+- **Slack ID:** UCWFSLKSS
+- **Title:** Technical Solutions PE | Gusto Embedded | 8am–5pm MST (Denver)
+- **Context:** New DM contact (2026-07-24 weekly sweep) — driving "direct firm API access" (GPro Firm API Access / multi-auth MCP thread), coordinating with Elena Sharma (see Tier 3, pending confirmation) and Brandon; organized a dedicated "Firm Direct API Access" meeting for 2026-07-28 with Brandon + Elena. Also on the HiBob<>Gusto EPD Leads Meeting and JPMC Payroll QBR invite lists. May be stepping into the Avery Miller mat-leave handoff gap flagged in projects.md (GustoPro section).
+
+### Jeremy Grasso
+- **Email:** jeremy.grasso@gusto.com
+- **Slack ID:** U090576UQ4U
+- **Title:** BD & Alliances
+- **Context:** Confirmed as a direct DM contact (2026-07-24 weekly sweep) — resolves the "pending confirmation" flag in projects.md/action_items.md re: GustoPro partnership strategy (Jeremy Grasso + Joshua Burt unified strategy doc thread, Jul 15 sync). Recurring 1:1 on calendar (next: Jul 28). Personal rapport (BJJ) alongside "post-2.0 world" strategy planning ask from Brandon. Joshua Burt remains unconfirmed — no direct-contact evidence yet.
+
 ### Kevin Werner
 - **Email:** kevin.werner@gusto.com
 - **Slack ID:** UN59W397V
