@@ -1,6 +1,6 @@
 # Commitments
 
-_Last updated: 2026-07-23_
+_Last updated: 2026-07-24 (weekly memory sweep)_
 
 Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 
