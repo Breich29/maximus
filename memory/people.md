@@ -163,6 +163,7 @@ _Last updated: 2026-07-24 (weekly memory sweep)_
 - **Slack ID:** U0AQC7Q1HKP
 - **Title:** GBC / Tax Experiences team (former Mid-desk employee)
 - **Context:** ⚠️ Known to back-channel to former Mid-desk colleagues. Has shared Gusto's first-party STR plans and Mosey acquisition context with mid-desk contacts. Alex + Jessica aware. Handle carefully — protect Andrew from political fallout while stopping the leak. Not malicious, just overly social with former coworkers.
+- **Update (2026-07-24, DM thread):** Browserbase negotiation complete on Andrew's side; Chris gave internal green light Jul 24. Awaiting Daniella Seim's financial sign-off (she needs the contract to see terms) and Ashby's Ironclad procurement approval (ticket EAIT-4267) before signature. Deciding Browserbase service start date (8/1 vs. 9/1) — tied to hiring a contractor to help execute the work; exact timeline still open as of Jul 24.
 
 ### Jason Chao
 - **Email:** jason.chao@gusto.com
