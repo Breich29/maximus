@@ -7706,3 +7706,6 @@ Today's remaining-meetings fingerprint is still `NO_MEETINGS` (only the all-day 
 Today's row (2026-07-25) already has fingerprint `NO_MEETINGS`, and the current calendar pull matches: the only remaining item is the all-day "BIRTHDAY: Casey Alderete" event, which is excluded per established precedent (not a real meeting). Fingerprint is unchanged from the last full pass.
 
 NO-OP: no calendar change since 2026-07-25 08:23:15 PDT — skipping full prep.
+NO-OP: no calendar change since 2026-07-25 08:23:15 PDT — skipping full prep.
+
+Only remaining item on today's calendar is the all-day "BIRTHDAY: Casey Alderete" event (excluded from the fingerprint per standing precedent — not a real meeting). Fingerprint is unchanged (`NO_MEETINGS`), so gate stopped before reading any other memory file or calling Granola/Slack/Obsidian.
