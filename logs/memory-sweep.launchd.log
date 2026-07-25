@@ -25,3 +25,26 @@ OBSIDIAN WRITE: ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximu
 - `meeting-prep.log` shows that job firing every ~15 minutes all day today — looks like a runaway trigger, not intended cadence.
 
 Full detail, including the deferred ~2-month DM backfill decision and validator results (no ID/duplicate/link errors found), is in the Obsidian note linked above.
+**OBSIDIAN WRITE: ⚠️ Offline (no MCP connector in this session) — wrote directly to filesystem** at `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/memory-sweep/2026-07-24-memory-sweep.md`
+
+---
+
+## Weekly Memory Sweep — 2026-07-24
+
+**Direct Updates (applied to .md files):**
+- People refreshed: 5 (Andrew Adams, Igor Khayet, Chris Elkins, Allison Hess, Ashby Taylor — last-seen/context)
+- New people added (DM contacts): **5** — Tyrone Guillory Jr. (Procurement), Kinzi Top (Technical Solutions PE), Jeremy Grasso (BD & Alliances), Sam Haber (Gusto Embedded Product), Joseph Barrientos (personal/social)
+- Slack IDs backfilled: 0
+- Deactivated accounts moved: 0
+- Channel-sync catch-up (Phase 2B): **skipped** — cursor 20h old, daily job current
+- Also updated: COM-022 (Browserbase — now awaiting internal sign-off, not overdue-on-Gusto's-side), projects.md (GBC/GustoPro/Anthropic/Diomedes), partners.md (Browser Base), decisions.md (stale header fixed)
+
+**Pending Brandon's Review (in action_items.md):**
+- 2 new people (non-DM) — Elena Sharma (GPro Firm API Access), Colleen Oates (AI Services Marketplace, surname now resolved)
+- 0 new projects
+- 0 commitment changes needing confirmation (COM-022 update was direct evidence, written straight to commitments.md)
+- 1 sensitive ambiguous signal — Izzy Rogner-Hall DM about something moving to her team that "Jessica isn't aware of yet"; held for your clarification, not written into projects.md as fact
+
+**Biggest finding this week:** the Browserbase deal is functionally closed — Chris Elkins gave the internal green light, Browserbase accepted your counter-redlines, and the only things left are Daniella Seim's financial sign-off and Ashby's Ironclad approval (ticket EAIT-4267), plus deciding a start date (8/1 vs 9/1) tied to hiring a contractor.
+
+**Validator:** no duplicate people/Slack IDs, no orphan DEC-/COM- references. Flagged: Granola scan now 2 weeks stale (worth a health check), and some pre-COM-numbering entries at the top of action_items.md look superseded and worth a cleanup pass (left untouched pending your OK).
