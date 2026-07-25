@@ -7728,3 +7728,4 @@ NO-OP: no calendar change since 2026-07-25 08:23:15 PDT — skipping full prep.
 
 Only calendar item remaining today is the all-day "BIRTHDAY: Casey Alderete" (excluded from fingerprint, not a real meeting), matching the tracked fingerprint from the last full pass. No new business meetings, no changes to attendee counts or times. Gate stopped before reading other memory files or calling Granola/Slack/Obsidian.
 NO-OP: no calendar change since 08:23:15 PDT — skipping full prep. The only remaining item today is the all-day "BIRTHDAY: Casey Alderete" event (excluded as not a real meeting). No meetings to prep for the rest of today.
+NO-OP: no calendar change since 2026-07-25 08:23:15 PDT — skipping full prep. Only remaining item on today's calendar is the all-day "BIRTHDAY: Casey Alderete" event, excluded from the fingerprint as it's not a real meeting. No new full pass performed.
