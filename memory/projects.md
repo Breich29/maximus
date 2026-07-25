@@ -1,6 +1,6 @@
 # Projects
 
-_Last updated: 2026-07-23_
+_Last updated: 2026-07-24 (weekly memory sweep)_
 
 ---
 
