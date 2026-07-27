@@ -26,12 +26,6 @@ Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 - **Status:** Open — still not started as of the 2026-07-23 9:10 PM PT night-before-prep brief (window opens the next morning, Jul 24). Flagged as the single most time-critical item across every AM brief/night-before-prep/weekly-review since Jul 13; "if you do only one thing" line recurring through Jul 23.
 - **Source:** Slack #maximus-updates — Daily AM Briefs + Night-Before Preps (Jul 16–23), Friday Weekly Review (Jul 17)
 
-**COM-018** — Brandon → Izzy Rogner-Hall
-- **What:** Revise SYB Anthropic deck to joint-GTM ask framing (mirroring the accountant deck); send the accountant deck to Izzy as reference
-- **Due:** Before Monday 2026-07-20 call with Lena (Anthropic) — updated from "same-day" after the 2026-07-16 "final changes" session (DEC-010) locked in the specific edits still to implement
-- **Status:** Reopened/still open as of 2026-07-23 — the "close to done" read from Jul 17 has not held up. Every #maximus-updates brief from Jul 21 through the Jul 23 9:10 PM PT night-before-prep describes it as "overdue since Jul 15" / "8+ days stale" with "no completion evidence," i.e. the slides 5 & 6 framing work is not confirmed sent/applied beyond the Jul 16 internal working session. Remaining: (1) confirm the "1 in 5 new businesses" stat source, (2) actually revise to joint-GTM ask framing and send the accountant deck to Izzy as reference — still not confirmed done.
-- **Source:** Granola: SYB Anthropic sync (Jul 15, 8:00 AM); "Make final changes to Anthropic materials: SYB" (Jul 16, 2:30 PM); Slack #maximus-updates Friday Weekly Review (Jul 17), Daily AM Briefs + Night-Before Preps (Jul 21–23)
-
 **COM-011** — Jessica Sacks → Brandon
 - **What:** Stack-rank Middesk agreement wish list (SLA penalties/invoice credits, order status transparency, escalation protocols) and send churn/attrition stats ahead of the Quinn call
 - **Due:** Before Quinn call, 2026-07-14

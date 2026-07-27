@@ -8262,3 +8262,29 @@ Only remaining item today needing prep is the 11:00 AM Megan/Brandon 1:1, alread
 NO-OP: no calendar change since 2026-07-27 08:29:28 PDT — skipping full prep.
 
 Only remaining item today is the Megan/Brandon 1:1 at 11:00 (Deep work already started and rolled off). Fingerprint unchanged since the last full pass, so per Phase 0 I stopped here without touching Granola, Slack, or Obsidian.
+Full pass complete. Obsidian note rewritten at `90-Maximus/meeting-prep/2026-07-27-meeting-prep.md`, tracker updated.
+
+**OBSIDIAN WRITE:** ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-27-meeting-prep.md`
+
+## DRAFT MEETING PREP MESSAGE(S)
+
+**Consolidated (Slack draft, not sent):**
+> Morning. Today's real focus item is **Mid-desk (COM-020)** — the renewal POV draft is due today and the notice window closes tomorrow (~Jul 28). This has been the top flag in every brief since Jul 13 and it's still not started. If the 10 AM deep work block didn't go to this, there's no other slot today before the window closes.
+>
+> Calendar today: Ryan drop-off (8:15, personal, done), Deep work (10:00–11:00), Megan/Brandon 1:1 (11:00), Vivian/Brandon (12:30, note: Vivian hasn't accepted yet).
+>
+> On Megan — still no current-role context; flagging as a possible stale recurring hold, same as the Brian Busch weekly.
+>
+> On Vivian — over a month since your last synced 1:1 (Jun 17: Thatch, HBG Solo ERISA, AI partnership Notion doc). Worth a direct status check on Thatch signing + HBG Solo compliance read, and reconciling her AI-partnership doc against your own DEC-014 market-map deliverable.
+>
+> Also open, no new movement: Browserbase (COM-022) and SYB Anthropic deck (COM-018, overdue since Jul 15).
+
+## NOTES ON RISKS / DECISIONS NEEDED
+
+- **New meeting detected:** Vivian/Brandon @ 12:30 PM appeared since the 10:42 check — she hasn't accepted the invite yet.
+- **COM-020 (Mid-desk POV)** remains the day's single highest-priority item — due today, window closes tomorrow (~Jul 28), no dedicated slot left after the Deep work block.
+- **Megan/Brandon 1:1** — likely stale/vestigial recurring hold (no people.md entry, no Granola activity in 90 days). Worth deciding whether to keep it.
+- **Vivian/Brandon** — over a month of drift since last sync; don't assume the Jun 17 action items (Notion doc, AI workstream walkthrough) happened without checking. Her AI-partnership doc may overlap with Brandon's own DEC-014 deliverable.
+NO-OP: no calendar change since 2026-07-27 10:57:54 PDT — skipping full prep.
+
+Today's remaining-meeting fingerprint (`Megan / Brandon 1:1 @ 11:00 (2) | Vivian / Brandon @ 12:30 (2)`) still matches the last full pass recorded in `memory/meeting_prep_tracker.md`. Per PHASE 0, stopping here — no memory files, Granola, Slack, or Obsidian were touched this check.
