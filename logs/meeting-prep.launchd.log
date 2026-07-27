@@ -8288,3 +8288,8 @@ Full pass complete. Obsidian note rewritten at `90-Maximus/meeting-prep/2026-07-
 NO-OP: no calendar change since 2026-07-27 10:57:54 PDT — skipping full prep.
 
 Today's remaining-meeting fingerprint (`Megan / Brandon 1:1 @ 11:00 (2) | Vivian / Brandon @ 12:30 (2)`) still matches the last full pass recorded in `memory/meeting_prep_tracker.md`. Per PHASE 0, stopping here — no memory files, Granola, Slack, or Obsidian were touched this check.
+**OBSIDIAN WRITE:** ✅ `90-Maximus/meeting-prep/2026-07-27-meeting-prep.md`
+
+Fingerprint changed only because the 11:00 Megan/Brandon 1:1 started and rolled off the "remaining" window — bookkeeping update, not a fresh full pass. While updating, I caught a real content change in `commitments.md`: **COM-018 (SYB Anthropic deck) is now Cancelled** per Brandon's note today ("not relevant, we pitched anthropic already") — removed it from the open/overdue tracker in the note and draft. Deep work is now shown as concluded, Megan/Brandon 1:1 as in-progress. No Granola/Slack activity since the 10:57 pass.
+
+**Still the top flag:** COM-020 (Mid-desk renewal POV) is due today, window closes ~Jul 28, and the one dedicated slot (10:00 Deep work) has now passed with no confirmation it was used — worth a nudge before end of day.
