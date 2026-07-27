@@ -85,7 +85,7 @@ _Lightweight follow-ups and "needs confirmation" items. Formal commitments track
 - [ ] **Pipeline Review (bi-weekly) — occurred 2026-07-14, 12:15–1:00 PM PT.** No Granola transcript synced yet as of 1:14 PM PT pass. Check back next pass for recap; if Quinn-call outcome or Browserbase timeline were reported out here, capture status.
 - [x] **"Roi || Brandon Connect Re: Gusto" (2026-07-14, 10:30 AM) — occurred.** Attendee roima195@gmail.com ("Roi") had no context in people.md or Granola; personal gmail addresses on both sides suggested personal/networking, not work. No recap yet available — confirm with Brandon what this was and whether it needs tracking.
 - [ ] **doola (Arjun Mahadevan)** — NDA signed, in-person happened. Arjun wants IRL meetup Jun 26 at 33rd+8th NYC.
-- [ ] **Vivian "Gusto↔OpenAI Partnership Ideas" doc** — Vivian shared and requested Notion access. Review outstanding.
+- [x] **Vivian "Gusto↔OpenAI Partnership Ideas" doc** — Reviewed. _(Confirmed Jul 27)_
 - [ ] **Wyatt Angell** — added Brandon to Gusto↔Intuit bi-directional data thread. Wyatt OOO Jun 17–26; follow up after.
 - [ ] 3,000 CorpNet orders in non-terminal status (~250 days avg age) — cleanup needed. Confirm who owns this (Alex? Namrata?).
 - [ ] MSA template upgrades (COM-003) — pushed to July per Brandon Jun 2. Brandon to loop in Allison Hess.
