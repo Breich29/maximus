@@ -41,7 +41,7 @@ Brandon has ~8 years at Gusto. Prior to Corp Dev, he led partner growth on Gusto
 ## Personal
 
 - Wife: Samantha (stolbergsamantha@gmail.com)
-- Son: Ryan (~2.5 years old)
+- Son: Ryan (~2.5 years old) — attends CBS Family Preschool (Congregation Beth Sholom); 2026-2027 school closures/early-dismissal days are on Brandon's primary calendar
 - NYC trip: 3 weeks in June (rehearsal dinner Jun 19, wedding Jun 25)
 - Birthday: February 27
 - Plays paddle near the SF office
