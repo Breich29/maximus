@@ -8312,3 +8312,17 @@ Current fingerprint (`Vivian / Brandon @ 12:30 (2)`) matches the tracker's store
 - No new Granola activity synced for any tracked topic since the 11:49 check.
 
 Tracker updated with fingerprint `NO_MEETINGS` and timestamp 2026-07-27 12:36:24 PDT for the next 15-minute run to gate against.
+**OBSIDIAN WRITE: ✅** `90-Maximus/meeting-prep/2026-07-27-meeting-prep.md`
+
+## Summary
+
+A new meeting appeared on today's calendar since the last check: **Corp Dev Onsite Planning** at 1:00 PM (Wyatt Angell, Francisco Vargas, Vivian Shen, Chris Elkins, Henry Wong, Joseph Sarni) — a biweekly recurring series with no prior Granola history, so its agenda is undocumented.
+
+**Flags for Brandon:**
+- **You haven't accepted this invite** (needsAction), and neither has Henry Wong — worth confirming it's actually happening/relevant before 1:00.
+- Two attendees, **Wyatt Angell** and **Francisco Vargas**, have zero context in memory or Granola — noted as unknowns, not yet added to people.md.
+- Given Vivian + Joseph are both on it, it may be AI-partnership-coordination-flavored (following the DEC-014 market-map thread), but that's an inference, not confirmed.
+
+**Still the top priority today:** COM-020 (Mid-desk renewal POV) is due today, the notice window closes ~Jul 28, and it's still not drafted — now with less open calendar time given the new 1:00 PM meeting.
+
+The Vivian/Brandon 12:30 meeting is in progress/wrapping up — its prep (Thatch, HBG Solo ERISA, AI market-map sync) carries forward unchanged from the last pass. Draft Slack summary is in the note; nothing has been sent.
