@@ -48,6 +48,11 @@ Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 
 ## Completed
 
+**COM-018** — Brandon → Izzy Rogner-Hall
+- **Cancelled:** 2026-07-27 (per Brandon's explicit instruction: "not relevant, we pitched anthropic already")
+- **What:** Revise SYB Anthropic deck to joint-GTM ask framing before the Anthropic (Lena) kickoff call
+- **Note:** The Jul 20 kickoff call already happened; further deck revision for that purpose is moot regardless of whether the framing edits were ever applied. Not tracked as a missed/overdue commitment — dropped, not completed-as-specified.
+
 **COM-013** — Cindy (Browserbase) → Brandon
 - **Completed:** 2026-07-20 (Brandon's correction, processed 2026-07-22)
 - **What:** Send Browserbase's DPA for review (relevant only if deal stays at $18K/year, below Browserbase's $60K+ threshold for accepting Gusto's own DPA)
