@@ -8101,3 +8101,37 @@ No remaining meetings today (23:33 PDT check confirms nothing upcoming before mi
 Today's row (2026-07-26) fingerprint is already `NO_MEETINGS`, matching the current calendar state exactly. Nothing has changed since the 23:17 check.
 
 NO-OP: no calendar change since 2026-07-26 23:17 PDT (per tracker's last logged check) — skipping full prep. Gate stopped before reading any other memory file or calling Granola/Slack/Obsidian, per PHASE 0 rules. No tracker update needed since the fingerprint is unchanged.
+**OBSIDIAN WRITE:** ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-27-meeting-prep.md`
+
+## DRAFT MEETING PREP MESSAGE(S)
+
+> Morning. Today's real focus item is **Mid-desk (COM-020)** — the renewal POV draft is due today and the notice window closes tomorrow (~Jul 28). This has been the top flag in every brief since Jul 13 and it's still not started. Suggest using the 10 AM deep work block for a first pass, even a rough one, so Chris/Jessica/Andrew have something to react to before the window closes.
+>
+> Calendar today: Ryan drop-off (8:15, personal), Deep work (10:00), Megan/Brandon 1:1 (11:00). On the Megan 1:1 — no current-role context ties to her (last real 1:1 was Oct 2025, pre-role-change); flagging in case this is a stale recurring hold worth pruning, similar to the Brian Busch weekly.
+>
+> Also still open, no new movement: Browserbase (COM-022, just needs Ashby's Ironclad approval) and the SYB Anthropic deck (COM-018, overdue since Jul 15).
+
+*(Draft only — not sent, per hard rule.)*
+
+**Per-meeting brief:**
+
+———
+📅 *Megan / Brandon 1:1* — 11:00 AM PT
+*Attendees:* Megan Rijo (HRIS vertical owner, Partner Growth)
+*Context:* Recurring slot, but only one real 1:1 on record (Oct 1, 2025) and group meetings through Mar 2026 — all before Brandon's May 18, 2026 move to Corp Dev. Megan isn't in current people.md.
+*Push for:* Confirm whether this recurring hold is still relevant post-role-change or is vestigial (same pattern as the Brian Busch weekly, which was flagged for removal).
+*Watch out for:* Walking in expecting current-project content that doesn't exist — no live threads tie to this relationship.
+———
+
+Ryan Drop Off (8:15) and Deep work (10:00) are personal/self-blocks — no prep needed.
+
+## NOTES ON RISKS / DECISIONS NEEDED
+
+- **Biggest risk today:** COM-020 (Mid-desk renewal POV) is due today with the notice window closing tomorrow, and nothing on the calendar is dedicated to writing it — this is a "make time or miss the window" situation.
+- **Secondary:** the Megan 1:1 may be a stale recurring meeting nobody pruned after the role change — worth a direct check with Megan rather than assuming it needs work content.
+- No blocking source failures — calendar, memory files, and Granola all returned cleanly.
+
+Tracker row for 2026-07-27 is now in place, so the next 15-minute check will no-op unless the calendar changes.
+NO-OP: no calendar change since 2026-07-27 00:03:58 PDT — skipping full prep.
+
+Today's remaining fingerprint (`Ryan Drop Off @ 08:15 (1) | Deep work @ 10:00 (1) | Megan / Brandon 1:1 @ 11:00 (2)`) exactly matches the last full pass recorded in `memory/meeting_prep_tracker.md`. Per Phase 0, no other memory files, Granola, Slack, or Obsidian were touched this run.
