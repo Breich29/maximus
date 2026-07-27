@@ -8,3 +8,4 @@ No file was created or modified. You'll need to authorize the Slack Gusto connec
 ARCHIVE WRITE: ✅ /Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/briefs/2026-07-daily-brief.md (added ## 2026-07-23)
 API Error: Connection closed mid-response. The response above may be incomplete.
 The Slack send timed out with no response from the MCP server (~10 min idle timeout, no error/success confirmation). I haven't retried it since the message may or may not have gone through — let me know if you'd like me to check the channel or retry.
+The write to your Obsidian vault needs your approval — a permission prompt should be showing for editing `2026-07-daily-brief.md` to insert today's (2026-07-27) archived brief section. I found the Daily AM Brief message in #maximus-updates (posted 07:34:16 PDT, ts 1785162856.376059) and prepared the verbatim day-section to insert above the existing 2026-07-24 entry. Please approve the edit so I can complete the archive.
