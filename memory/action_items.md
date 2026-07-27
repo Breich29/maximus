@@ -13,8 +13,6 @@ _Lightweight follow-ups and "needs confirmation" items. Formal commitments track
 - [ ] **Browserbase MSA → Allison Hess** — DEADLINE TODAY (Jul 10). Signature needed; this is the MidDesk renewal leverage play (protects terms, 2x+ pricing expected). — _Due: Jul 10 — URGENT_
 - [ ] **MidDesk 90-day renewal strategy** — Notice window opens Jul 24 (15 days out). No owner or timeline set. Push for owner + strategy before Quinn Evans coffee Jul 14 (10am–12pm PT). — _Due: before Jul 14_
 - [ ] **Andrew Adams: Spec (tactics + headcount + sequencing/timeline) → Numerata + boss** — From Jul 6 meeting. — _Due: OVERDUE (was Jul 8–9)_
-- [ ] **Post-Diomedes follow-up with Ben Stein (DoubleHQ)** — Jul 8 meeting happened (Ben Stein + ksong@doublehq.com). Define thesis and next steps. _(Supersedes "Message Ben Stein re: internal recap" — that window closed; meeting done)_
-- [ ] **Anthropic deck — finalize** — Draft scripting + slides shared Jul 8 ✓. GIFs from Will + Gowri still needed to complete. _(Emerged from Jul 7 pitch sync)_
 
 ---
 
