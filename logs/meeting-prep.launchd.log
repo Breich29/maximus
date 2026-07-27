@@ -8247,3 +8247,15 @@ Per the job's hard rule — *"If a required MCP source is unavailable: STOP and 
 
 **Next step:** this likely needs a human to check the Gcal_Gusto connector in claude.ai connector settings (re-auth or reconnect), since it's connected but tool-less. Want me to retry once you've had a chance to check that, or should I flag it in memory as a known automation gap for now?
 NO-OP: no calendar change since 2026-07-27 08:29:28 PDT — skipping full prep.
+Bookkeeping update only — the fingerprint changed because the 10:00 AM "Deep work" self-block started (rolling off the not-yet-started window), leaving only the Megan/Brandon 1:1 at 11:00 upcoming. No new business-relevant activity in Granola since the 10:09 check.
+
+**Tracker & Obsidian note updated:**
+- Fingerprint now: `Megan / Brandon 1:1 @ 11:00 (2)`
+- Obsidian note (`90-Maximus/meeting-prep/2026-07-27-meeting-prep.md`) rewritten to mark Deep work as in-progress rather than upcoming.
+
+**Carried forward unchanged:**
+- **COM-020** (Mid-desk renewal POV) — still the top priority, due today, renewal window closes ~Jul 28, not yet started.
+- **COM-022** (Browserbase) — nearly closed, blocked only on Ashby's Ironclad ticket EAIT-4267.
+- **COM-018** (SYB Anthropic deck) — overdue since Jul 15, no new movement.
+
+Only remaining item today needing prep is the 11:00 AM Megan/Brandon 1:1, already enriched in the note (no current-role overlap on record — flagged as possibly a stale recurring hold).
