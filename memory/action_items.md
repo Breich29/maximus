@@ -96,6 +96,8 @@ _Lightweight follow-ups and "needs confirmation" items. Formal commitments track
 
 ## Completed
 
+- [x] **Post-Diomedes follow-up with Ben Stein** — Thesis and next steps defined: thesis delivered via Notion (see Strategic Watch Items → Diomedes deliverable), next steps captured in the Jul 14 debrief (Buy over Build/Partner). _(Confirmed Jul 27)_
+- [x] **Anthropic accountants deck — finalize** — Finalized and finished. _(Confirmed Jul 27)_
 - [x] **Pre-brief Ben Kagan on Anthropic "Claude for Small Business"** — Removed per Brandon's explicit instruction Jul 13: "Remove Ben Kagan and Eric Harris action items." _(Removed Jul 13)_
 - [x] **Watch Eric Harris Loom demo** — Removed per Brandon's explicit instruction Jul 13: "Remove Ben Kagan and Eric Harris action items." _(Removed Jul 13)_
 - [x] **Project Diomedes Jul 8 meeting** — First meeting with Ben Stein (DoubleHQ CEO) + ksong@doublehq.com. _(Completed Jul 8 — confirmed in Jul 9 AM brief)_
