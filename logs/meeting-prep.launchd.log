@@ -8231,3 +8231,18 @@ Today's remaining calendar (Deep work @ 10:00, Megan/Brandon 1:1 @ 11:00) is unc
 **NO-OP: no calendar change since 2026-07-27 08:29:28 PDT — skipping full prep.**
 
 Today's remaining calendar (Deep work @ 10:00, Megan/Brandon 1:1 @ 11:00) is unchanged from the last full pass. Per PHASE 0, stopping here — no other memory files, Granola, Slack, or Obsidian touched this run.
+NO-OP: no calendar change since 2026-07-27 08:29:28 PDT — skipping full prep.
+
+Today's remaining meetings (Deep work 10:00, Megan/Brandon 1:1 11:00) are unchanged from the last full pass, so per Phase 0 I stopped here without touching memory files, Granola, Slack, or Obsidian. The existing prep note at `90-Maximus/meeting-prep/2026-07-27-meeting-prep.md` is still current.
+**PHASE 0 BLOCKED — required source unavailable.**
+
+I need Brandon's Google Calendar (via the Gcal_Gusto MCP connector) to build today's fingerprint, and it isn't exposing any usable tools. Details:
+
+- The `claude.ai Gcal_Gusto` MCP server shows as connected (no longer in the "still connecting" list), but repeated `ToolSearch` queries — "calendar events today schedule," "google calendar," "primary calendar upcoming," "busy schedule appointment meeting invite attendees," direct name guesses (`list_events`, `list-events`, `search_events`) — return zero matching tools. `ListMcpResourcesTool` for that server also returns no resources.
+- This is different from the "needs authorization" servers (those are flagged explicitly); Gcal_Gusto isn't in that list either, so it's connected but apparently not surfacing any calendar-read capability right now.
+
+Per the job's hard rule — *"If a required MCP source is unavailable: STOP and report — do not assemble partial output"* — and Phase 0's explicit requirement to pull the remaining-today calendar before doing anything else, I'm stopping here rather than guessing at meetings or falling back to Granola/Slack to reconstruct today's schedule.
+
+**What I did not do:** read memory files, query Granola, touch Obsidian, or produce any prep draft — per the fail-closed rule, none of that should happen until Phase 0's calendar check actually succeeds.
+
+**Next step:** this likely needs a human to check the Gcal_Gusto connector in claude.ai connector settings (re-auth or reconnect), since it's connected but tool-less. Want me to retry once you've had a chance to check that, or should I flag it in memory as a known automation gap for now?
