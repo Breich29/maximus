@@ -243,6 +243,11 @@ _Last updated: 2026-07-24 (weekly memory sweep)_
 - **Manager:** Chris Smith (Head of Channel Partnerships, Denver)
 - **Context:** Started at Gusto 2025-05-05. First tracked 1:1 with Brandon 2026-07-17, 10:15 AM — no prior history in memory or Granola, purpose of the 1:1 not yet established. Role confirmed via Glean employee search.
 
+### Elena Sharma
+- **Email:** elena.sharma@gusto.com
+- **Title:** Developer Enablement PE, Gusto Embedded — scope covers policies/process/tools across API integrations (GEP, app integrations, accountants, unified API, direct API access users)
+- **Context:** Reports to Avery Miller during Avery's mat-leave transition. Active on the Firm Direct API Access / multi-auth MCP thread with Kinzi Top and Brandon (recurring "Firm Direct API Access" meeting, e.g. 2026-07-28). Left two comments on the "Strategic POV: Firm API Integration (Gusto Pro)" Notion doc 2026-07-27 9:41 PM PT: proposed a third staffing path (relationship/technical split could sit with GEP Accounting Solutions Architects) and clarified engineering isn't currently handling the plumbing (Rett owns the technical layer). Resolved 2026-07-28 via Glean + vault (had been sitting in action_items.md as a "needs confirmation" new-person flag since 2026-07-24).
+
 ### Christina Denton
 - **Title:** Gusto Legal
 - **Context:** Chase/Mercury deal context per prior notes; no recent activity logged. Recurring attendee on Corp & Partner Dev weekly.
