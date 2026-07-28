@@ -8507,3 +8507,6 @@ Today's fingerprint (12 items, earliest Ryan Drop Off not until 08:15) is identi
 NO-OP: no calendar change since 03:49 PDT — skipping full prep.
 
 Today's fingerprint (12 items, earliest Ryan Drop Off at 08:15) is unchanged since the last full pass. Gate stopped before reading memory files or calling Granola/Slack/Obsidian.
+NO-OP: no calendar change since 2026-07-28 00:01:13 PDT (last full prep) — skipping full prep.
+
+Today's fingerprint (12 items, earliest Ryan Drop Off at 08:15, still 4 hours out) is identical to the last full pass and every check since. No new work needed — gate stopped before touching Granola, Slack, or Obsidian.
