@@ -8450,3 +8450,20 @@ NO-OP: no calendar change since 2026-07-27 13:11:45 PDT — skipping full prep.
 
 Nothing remains on today's calendar (fingerprint still `NO_MEETINGS`), unchanged since the last full pass. Gate stopped here per Phase 0 — no memory files, Granola, Slack, or Obsidian were touched beyond a bookkeeping note in the tracker.
 NO-OP: no calendar change since 2026-07-27 13:11:45 PDT — skipping full prep.
+**OBSIDIAN WRITE:** ✅ `90-Maximus/meeting-prep/2026-07-28-meeting-prep.md`
+
+Today is your heaviest day this month — 12 calendar items, 8 real business meetings, and a genuine triple-booking from 11:00–11:15 AM. Full drafts are in the Obsidian note; headlines below.
+
+**Top priority:** COM-020 (Mid-desk renewal POV) is still not drafted, and the 90-day renewal notice window **closes today**. No block is reserved for it — you'll need to carve time.
+
+**Scheduling conflict:** Brandon/Caibra Connect, BwG Monthly Membership Meeting, and the JPMC Payroll QBR all overlap 11:00–11:15 AM. You haven't accepted BwG or JPMC QBR — JPMC in particular looks like a stale legacy invite from your GEP days (not in any of your current 5 areas, 34 attendees, no projects.md/partners.md tracking). Recommend declining both in favor of Caibra Connect, then the 11:30 Firm Direct API Access meeting you're organizing.
+
+**Decisions needed today:**
+- **Firm Direct API Access (11:30 AM):** Elena Sharma left two Notion comments last night specifically flagged for this meeting — a third staffing-path proposal (GEP Accounting Solutions Architects) and a clarification that engineering isn't handling the plumbing (Rett does). I resolved her as a new person in memory (was pending since Jul 24).
+- **Corp & Partner Dev weekly (10:00 AM):** new flag from Jul 27 evening — Browserbase's Zip ticket shows IT/CFO approval steps removed unexpectedly; worth raising with Ashby/Allison directly.
+- **Brandon/Jeremy (1:00 PM):** this is the twice-slipped GustoPro strategy-doc follow-up — worth checking whether Joshua Burt's three owed deliverables actually landed.
+
+HiBob<>Gusto EPD Leads Meeting is on your calendar but not enriched — it falls under your hard-suppressed "Gusto Embedded" topic; flagged for awareness only, plus it has a heavy decline rate.
+**NO-OP: no calendar change since 2026-07-28 00:01:13 PDT — skipping full prep.**
+
+Today's fingerprint (12 remaining meetings, from Ryan Drop Off @ 08:15 through Padel Academy @ 17:30) matches the tracker row from the 00:01 run exactly — no additions, cancellations, or attendee changes. Per Phase 0, stopping here without touching other memory files, Granola, Slack, or Obsidian.
