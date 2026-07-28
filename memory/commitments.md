@@ -23,8 +23,8 @@ Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 **COM-020** — Brandon → Chris Elkins / Jessica Sacks / Andrew Adams
 - **What:** Draft a philosophical-level MidDesk renewal negotiation POV (pillars: earned-maturity pricing, invoice-credit teeth, MFN clause waiver, "12 locals = 70% of market" scope philosophy) for them to react to
 - **Due:** ~2026-07-27. Renewal notice window opens 2026-07-24 (see partners.md Mid-desk entry — the "opens Jul 24" / "closes ~Jul 28" language is the same ~90-day-notice window described from its two ends, not a discrepancy; resolved 2026-07-23).
-- **Status:** Open — still not started as of the 2026-07-23 9:10 PM PT night-before-prep brief (window opens the next morning, Jul 24). Flagged as the single most time-critical item across every AM brief/night-before-prep/weekly-review since Jul 13; "if you do only one thing" line recurring through Jul 23.
-- **Source:** Slack #maximus-updates — Daily AM Briefs + Night-Before Preps (Jul 16–23), Friday Weekly Review (Jul 17)
+- **Status:** Overdue as of 2026-07-27 9:12 PM PT (Night-Before Prep) — still not started; due date (~Jul 27) has passed and the renewal notice window closes ~Jul 28. Flagged as the first task for the morning of Jul 28 if not drafted the night before. Flagged as the single most time-critical item across every AM brief/night-before-prep/weekly-review since Jul 13; "if you do only one thing" line recurring through Jul 27.
+- **Source:** Slack #maximus-updates — Daily AM Briefs + Night-Before Preps (Jul 16–27), Friday Weekly Review (Jul 17)
 
 **COM-011** — Jessica Sacks → Brandon
 - **What:** Stack-rank Middesk agreement wish list (SLA penalties/invoice credits, order status transparency, escalation protocols) and send churn/attrition stats ahead of the Quinn call
