@@ -101,3 +101,18 @@ Written:
 - Project status changes: GBC/Browser Base, GustoPro (Jeremy Grasso follow-up now confirmed Jul 28 1:00 PM PT), Project Diomedes (Crossbeam overlap figure: ~2.2K shared accounting-firm customers)
 - People updates: none
 Skipped (already reflected / dedupe): 5 (Browserbase redline acceptance, Diomedes Buy verdict/Crossbeam risk, MidDesk POV due date, stale "Astrid" bot error, unsent Team-Weeklies draft)
+OBSIDIAN WRITE: ⚠️ Offline — wrote to filesystem: `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/memory-sync/2026-07-27-channel-sync.md`
+
+Channel Sync — 2026-07-27
+---
+Window synced: 2026-07-24 22:00 PDT → 2026-07-27 22:00 PDT
+Messages/threads processed: 4
+Written:
+- Decisions: 0 new, 0 amended
+- Commitments: 0 new, 1 status change — COM-020 (MidDesk POV, now Overdue)
+- Partner status changes: Browser Base (new Zip approval-steps-removed flag)
+- Project status changes: GustoPro/GPro (Elena Sharma Firm API path-decision signal), Anthropic Partnership (Lena/Lina naming conflict flagged)
+- People updates: none (Elena Sharma, "Curtis" left uncertain — not written, per rule)
+Skipped (already reflected / dedupe): 4 items (Browserbase redlines/sign-off restatement, Diomedes Buy/Crossbeam restatement, GPro/Jeremy meeting restatement, COM-018/Diomedes-thesis confirmations already written elsewhere)
+
+One item needs your attention: the AM Brief still said "Astrid" for the Anthropic V2-plugin follow-up contact even after your Jul 21 correction to "Lena." You corrected it again today to "Lina" — one letter off from "Lena." I didn't silently pick one; flagged the discrepancy in projects.md and the Obsidian note for you to settle.
