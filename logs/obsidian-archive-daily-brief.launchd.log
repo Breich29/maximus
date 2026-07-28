@@ -9,3 +9,11 @@ ARCHIVE WRITE: ✅ /Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/
 API Error: Connection closed mid-response. The response above may be incomplete.
 The Slack send timed out with no response from the MCP server (~10 min idle timeout, no error/success confirmation). I haven't retried it since the message may or may not have gone through — let me know if you'd like me to check the channel or retry.
 The write to your Obsidian vault needs your approval — a permission prompt should be showing for editing `2026-07-daily-brief.md` to insert today's (2026-07-27) archived brief section. I found the Daily AM Brief message in #maximus-updates (posted 07:34:16 PDT, ts 1785162856.376059) and prepared the verbatim day-section to insert above the existing 2026-07-24 entry. Please approve the edit so I can complete the archive.
+I'm blocked on write permission for the vault file — this appears to be a non-interactive run where the permission prompt can't be approved. I need you to grant write access to `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/briefs/2026-07-daily-brief.md` (or run this interactively) before I can complete the archive write.
+
+Status so far (nothing written yet, per fail-closed rule):
+- Found today's Daily AM Brief in #maximus-updates (ts `1785249425.288469`), verbatim text captured.
+- No `## 2026-07-28` section exists yet in the month file, so this isn't a duplicate-skip case.
+- The only remaining step is the Edit to insert the new day-section above `## 2026-07-24`, which is being blocked by permissions.
+
+Please grant Edit permission for that path (or confirm you're running this from an interactive session), and I'll complete the write immediately.

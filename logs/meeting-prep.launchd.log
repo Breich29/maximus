@@ -8536,3 +8536,23 @@ Today's remaining-meetings fingerprint matches the tracker row from the last ful
 NO-OP: no calendar change since 2026-07-28 00:01:13 PDT — skipping full prep.
 
 Today's fingerprint (12 items, earliest Ryan Drop Off at 08:15) is identical to the last full pass. Nothing has started yet since it's 07:22, so no meetings rolled off and nothing new appeared. No memory files beyond the tracker were touched, and Granola/Slack/Obsidian were not called, per the gate.
+The gate detected a real (if minor) calendar change — a meeting-room resource added to the Brandon/Jeremy 1:00 PM invite — so I ran a fresh full pass rather than skipping. Everything else checked out unchanged against Granola.
+
+**OBSIDIAN WRITE:** ✅ `90-Maximus/meeting-prep/2026-07-28-meeting-prep.md` (full rewrite)
+**TRACKER:** updated with new fingerprint + 07:38 timestamp (auto-committed via repo's auto-sync)
+
+## Notes on risks / decisions needed
+1. **COM-020 (Mid-desk POV) — top P0.** Due ~Jul 27, already overdue; renewal notice window **closes today**. No calendar block reserved for it — recommend before 9 AM or in the 1:30 PM–5:30 PM gap.
+2. **Triple-booking 11:00–11:15 AM** — Brandon/Caibra Connect, BwG Monthly Membership, JPMC Payroll QBR. You haven't accepted BwG or JPMC (needsAction on both). Recommend declining both.
+3. **JPMC QBR** reads as a stale GEP-era invite — no tracking under your current 5 areas.
+4. **Browserbase Zip ticket #5888** — IT/CFO approval steps were unexpectedly removed per Jul 27 evening note; raise with Allison Hess/Andrew Adams, natural venue is the 10:00 AM Corp & Partner Dev weekly.
+5. **Firm Direct API Access (11:30 AM)** — Elena Sharma's Jul 27 9:41 PM Notion comments (third staffing path via GEP Accounting Solutions Architects; engineering not handling the plumbing) need a real decision today.
+6. **Brandon/Jeremy (1:00 PM)** — check whether Joshua Burt's three deliverables (channel section, FY27 plan, partner-definition docs) landed; this is the second attempt at this follow-up. Only calendar change today: a room resource was added, no content impact.
+
+## Draft meeting prep messages
+The per-meeting draft briefs are written out in full in the Obsidian note linked above (one block per meeting, in the required format) — same content as summarized here, expanded with attendee-level detail, open items, and push-for/watch-out-for framing per meeting. Nothing is being sent; this is prep only.
+The current fingerprint matches every entry in today's tracker row exactly — all 12 remaining meetings, times, and attendee counts are unchanged from the 07:38 pass (including the room-resource addition on Brandon/Jeremy already reflected there).
+
+**NO-OP: no calendar change since 07:38:37 PDT — skipping full prep.**
+
+Per Phase 0, stopping here — not reading other memory files or calling Granola/Slack/Obsidian, since nothing about today's calendar has changed.

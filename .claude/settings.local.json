@@ -165,7 +165,8 @@
       "Bash(./bin/run_meeting_prep.sh)",
       "mcp__claude_ai_Slack_Gusto_Offical__slack_search_public",
       "mcp__claude_ai_Gcal_Gusto__list_calendars",
-      "mcp__claude_ai_Gcal_Gusto__create_event"
+      "mcp__claude_ai_Gcal_Gusto__create_event",
+      "mcp__claude_ai_Gsheets_Gusto__search"
     ]
   },
   "hooks": {
