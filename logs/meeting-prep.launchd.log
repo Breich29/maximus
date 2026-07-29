@@ -8777,3 +8777,31 @@ Nothing else changed since the 2:32 PM pass — this was a bookkeeping-only upda
 No events found for the rest of today — the fingerprint is still `NO_MEETINGS`, matching the tracker's row (last full pass 18:40:52 PDT). Nothing has changed since then.
 
 NO-OP: no calendar change since 2026-07-28 18:40:52 PDT — skipping full prep.
+NO-OP: no calendar change since 18:40:52 PDT — skipping full prep.
+
+Brandon's calendar has no remaining meetings today (fingerprint = `NO_MEETINGS`), unchanged since the last full pass. Per PHASE 0, I stopped there — no memory files re-read, no Granola/Slack calls, no Obsidian write. Tracker row for 2026-07-28 updated with this check's timestamp only.
+**STOP — required source unavailable.**
+
+I ran PHASE 0 and confirmed today (2026‑07‑29) needs a fresh full pass — no tracker row exists yet, and the calendar has 10 real (non-all-day) items starting at 8:15 AM. I then loaded the calendar/action-tracker/memory agent specs and all local memory files (people, commitments, decisions, projects, partners, preferences, suppressed) successfully.
+
+However, PHASE 1 Step 4 requires querying **Granola** (`mcp__claude_ai_Granola_Gusto__query_granola_meetings` / `get_meeting_transcript`) for recent meeting history on today's attendees (Ashby Taylor, Igor Khayet, Vivian Shen, Joseph Sarni, Devesh Verma, Carlos Cabrera, and the Banking Pod TPO Sync group). **That MCP server is not present in this session at all** — it's not in the tool list, not in the "requires authentication" list, and not in the "still connecting" list; it's simply absent.
+
+Per the hard rule in CLAUDE.md — *"If a required MCP source is unavailable: STOP and report — do not assemble partial output"* — I'm stopping here rather than assembling meeting prep without Granola context (which would be materially incomplete, especially for AI Disc. Continued and the Firm Direct API/Partner Dev threads that rely on recent transcript history).
+
+**What I did NOT do, as a result:**
+- No Obsidian write for today's meeting-prep note
+- No tracker update to `memory/meeting_prep_tracker.md`
+- No draft prep messages assembled
+
+**What's needed to unblock:** The Granola MCP connection needs to be re-established for this session/environment (via `claude mcp` or `/mcp` in an interactive session, or however this deployment normally authorizes it) — I can't run that OAuth/connection flow myself in this non-interactive context.
+
+Do you want me to proceed with a **best-effort pass using only local memory + calendar + Glean** (clearly labeled as missing Granola transcript context), or hold until Granola is reconnected?
+**FAIL-CLOSED: stopping — Granola MCP is unavailable.**
+
+Calendar access recovered on retry (12 events pulled for the rest of today), but all three Granola queries (`query_granola_meetings`) timed out after 900s with no response, across independent topics (Ashby/Igor AI sync, Weekly Partner Dev Sync, Banking Pod TPO Sync). This isn't a one-off blip like the calendar hiccup — three consecutive full-timeout failures indicate the Granola connector itself is down.
+
+Per this job's hard rule ("If a required MCP source is unavailable: STOP and report — do not assemble partial output") and `agents/calendar.md`'s fail-closed clause, I'm not proceeding to enrich today's meetings, write the Obsidian note, or update `memory/meeting_prep_tracker.md`. Doing a partial pass without meeting history would risk missing prior context on today's real business meetings (AI Disc. Continued @ 9:30 with Ashby/Igor, Weekly Partner Dev Sync @ 11:00, Banking Pod TPO Sync @ 11:30, Ashby/Brandon @ 15:30) — most notably, whether **COM-020 (Mid-desk renewal POV, now 2 days overdue)** got addressed at the 9:30 AM Ashby/Igor sync, which the Jul 28 Night-Before Prep flagged as the next forcing function.
+
+**What's needed to unblock:** Granola connector needs to be reauthorized/reconnected — this typically requires the user to check `claude mcp` or `/mcp` in an interactive session, since this run is non-interactive and can't complete an OAuth flow.
+
+No tracker row was written for today, so the next 15-minute invocation will correctly treat this as "no row exists yet" and retry a full pass rather than silently skipping.

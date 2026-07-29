@@ -116,3 +116,18 @@ Written:
 Skipped (already reflected / dedupe): 4 items (Browserbase redlines/sign-off restatement, Diomedes Buy/Crossbeam restatement, GPro/Jeremy meeting restatement, COM-018/Diomedes-thesis confirmations already written elsewhere)
 
 One item needs your attention: the AM Brief still said "Astrid" for the Anthropic V2-plugin follow-up contact even after your Jul 21 correction to "Lena." You corrected it again today to "Lina" — one letter off from "Lena." I didn't silently pick one; flagged the discrepancy in projects.md and the Obsidian note for you to settle.
+OBSIDIAN WRITE: ⚠️ Offline — wrote to filesystem — `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/memory-sync/2026-07-28-channel-sync.md`
+
+Channel Sync — 2026-07-28
+---
+Window synced: 2026-07-27 22:00 PT → 2026-07-28 22:12 PT
+Messages/threads processed: 2
+Written:
+- Decisions: 0 new, 0 amended
+- Commitments: 0 new, 1 status change — COM-020 (MidDesk POV, now 2 days overdue, renewal window closed Jul 28)
+- Partner status changes: Mid-desk (window closed without POV sent), Browser Base (signature target day passed, new "Jhett Blasco auto-approved" Zip detail)
+- Project status changes: GBC/Browser Base (mirrored Jul 28 update)
+- People updates: none
+Skipped (already reflected / dedupe): 0 clean skips, plus 2 flagged discrepancies (COM-003 and COM-018 shown as open in the bot briefs but already Completed/Cancelled in memory — not overwritten, flagged for your review) and 3 uncertain new signals left for the Channel Scanner (Remote.com compliance ownership, Lattice feedback requests, single-mention name Jhett Blasco).
+
+Worth flagging directly: the cloud brief generator has now twice in a row (Jul 27 and Jul 28) restated commitments (COM-018, now also COM-003) as open/stale after you'd already closed them out — worth a quick check on why its context is lagging.
