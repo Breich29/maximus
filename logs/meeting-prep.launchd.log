@@ -8713,3 +8713,53 @@ Today's remaining calendar (Brandon call Igor @ 14:30, Padel Academy @ 17:30) is
 **NO-OP: no calendar change since 13:27:52 PDT — skipping full prep.**
 
 Current time: 2026-07-28 14:17:25 PDT. Remaining meetings today (Brandon call Igor @ 14:30 (2), Padel Academy @ 17:30 (0)) match the fingerprint already recorded in `memory/meeting_prep_tracker.md` for today. Nothing about the calendar has changed since the last full pass, so per PHASE 0 gate rules I'm stopping here — no memory files re-read, no Granola/Slack/Obsidian calls, no tracker update needed.
+Now let me output the deliverable per the required format.
+
+**OBSIDIAN WRITE:** ✅ `/Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/meeting-prep/2026-07-28-meeting-prep.md`
+
+---
+
+## Calendar change detected → ran a fresh pass
+
+"Brandon call Igor" (2:30 PM) started 3 minutes before this check and rolled off the "remaining" window — pure roll-off, but per gate rules that's still a fingerprint diff, so I re-read all memory files and pulled fresh Granola context rather than skipping.
+
+**Remaining today:** Padel Academy, 5:30–7:00 PM (personal, no attendees — not enriched).
+
+---
+
+## DRAFT MEETING PREP MESSAGE(S)
+
+———
+📅 **Today so far — recap only** (all concluded or in progress)
+- **Firm Direct API Access** (11:30 AM, with Elena Sharma + Kinzi Top) — newly-synced Granola notes: no technical blocker on firm-direct API access, gap is operational/ownership. Read-only-access principle agreed. **You owe:** sync with Colleen on scope/ownership, check with Igor on strategic direction, talk to Curtis Wright on deal frequency.
+- **Brandon call Igor** (2:30 PM, in progress) — almost certainly the Jul 21-planned AI-partnerships follow-up (DEC-014). You owe a V2/V3 market map w/ quant sizing; also a good spot to raise the Firm Direct API strategic-direction question above.
+- **Brandon/Jeremy** (1:00 PM) — confirm whether Joshua Burt's three GustoPro deliverables landed.
+- Other meetings (Corp & Partner Dev, Caibra Connect, BwG/JPMC, lunch, Pipeline Review) — no new action.
+———
+
+## NOTES ON RISKS / DECISIONS NEEDED
+
+1. **🚨 COM-020 (Mid-desk renewal POV) — top P0.** Still not drafted; the 90-day renewal notice window **closes today**. Only open block left is ~3:00–5:30 PM after the Igor call.
+2. **Firm Direct API Access** — three follow-up owner actions from the 11:30 AM call not yet confirmed done (Colleen, Igor, Curtis Wright).
+3. **Browserbase Zip ticket #5888** — IT/CFO approval steps were unexpectedly removed; unclear if resolved at this morning's Corp & Partner Dev weekly.
+4. Two draft-only messages (Jeremy Grasso re: Joshua Burt status; Colleen re: Firm Direct API scope/ownership) are staged in the Obsidian note, unsent.
+
+Tracker updated with the new fingerprint (`Padel Academy @ 17:30 (0)`) and this check's timestamp.
+Fingerprint check: at 14:53:15, "Brandon call Igor" (14:30–15:00) already started before this check and has rolled off the not-yet-started window, leaving only Padel Academy @ 17:30 (0). That matches the tracker's existing row exactly (fingerprint "Padel Academy @ 17:30 (0)", last full prep 14:32:57 PDT) — nothing about today's calendar has changed since the last full pass.
+
+NO-OP: no calendar change since 14:32:57 PDT — skipping full prep.
+**NO-OP: no calendar change since 2026-07-28 14:32:57 PDT — skipping full prep.**
+
+Phase 0 gate check: the only remaining event today is Padel Academy @ 17:30 (0 attendees) — a personal event, not a work meeting. This exactly matches today's tracker row from the last full pass at 14:32:57 PDT (which already noted Padel Academy as personal/no-attendees). Nothing about today's calendar has changed, so per the gate rules I'm stopping here without touching commitments/decisions/projects/partners, Granola, Slack, or Obsidian.
+**NO-OP: no calendar change since 2026-07-28 14:32:57 PDT — skipping full prep.**
+
+Today's remaining calendar still shows only "Padel Academy @ 17:30 (0)" (personal), matching the fingerprint from the last full pass. Per PHASE 0 gate rules, no further memory reads, Granola/Slack calls, or Obsidian writes were made this cycle.
+**NO-OP: no calendar change since 2026-07-28 14:32:57 PDT — skipping full prep.**
+
+Today's remaining-calendar fingerprint (`Padel Academy @ 17:30 (0)`) matches the last full pass recorded in `memory/meeting_prep_tracker.md`. Per Phase 0, no further memory reads, MCP calls, or Obsidian writes are needed this cycle.
+**NO-OP: no calendar change since 14:32:57 PDT — skipping full prep.**
+
+Phase 0 gate check at 15:55 PDT: the only remaining item today is Padel Academy @ 17:30 (0 attendees) — identical to the fingerprint already recorded in `memory/meeting_prep_tracker.md` for 2026-07-28. Per the gate rules, this is a pure repeat with nothing added, moved, or attendee-changed, so I'm stopping here without touching Granola, Slack, or Obsidian.
+**NO-OP: no calendar change since 2026-07-28 14:32:57 PDT — skipping full prep.**
+
+Today's only remaining item is the personal "Padel Academy" block at 17:30 (0 attendees) — same as the last full pass. No new meetings, no attendee changes, nothing to re-run. Per Phase 0, stopping here without touching memory files, Granola, Slack, or Obsidian.

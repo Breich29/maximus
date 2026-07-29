@@ -166,7 +166,10 @@
       "mcp__claude_ai_Slack_Gusto_Offical__slack_search_public",
       "mcp__claude_ai_Gcal_Gusto__list_calendars",
       "mcp__claude_ai_Gcal_Gusto__create_event",
-      "mcp__claude_ai_Gsheets_Gusto__search"
+      "mcp__claude_ai_Gsheets_Gusto__search",
+      "Bash(awk 'NR==863||NR==864||NR==865' preview.html)",
+      "mcp__claude_ai_Gmail_Gusto__search",
+      "mcp__claude_ai_Gmail_Gusto__fetch_message"
     ]
   },
   "hooks": {
