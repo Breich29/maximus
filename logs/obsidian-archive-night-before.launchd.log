@@ -3,3 +3,6 @@ ARCHIVE WRITE: ✅ /Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/
 One thing worth flagging: the source message itself is inconsistent on the Diomedes codename — it says "*M&A thesis on DoubleHQ*" in the Follow-ups section but "*Diomedes M&A thesis*" in Risks/Watchouts. Per the archive job's verbatim-copy rule I didn't touch it, but the cloud Night-Before Prep routine appears to be leaking the real target name in some of its output despite [[feedback_diomedes_codename]]. You may want to check that routine's source data.
 I need permission to edit the Obsidian vault file — please approve the edit so I can insert today's archive section.
 I need permission to write to that Obsidian vault file — please approve the edit to add today's day-section.
+API Error: Connection closed mid-response. The response above may be incomplete.
+API Error: Response stalled mid-stream. The response above may be incomplete.
+API Error: Connection closed mid-response. The response above may be incomplete.
