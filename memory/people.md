@@ -182,6 +182,7 @@ _Last updated: 2026-07-24 (weekly memory sweep)_
 - **Title:** GBC / Tax Experiences team (former Mid-desk employee)
 - **Context:** ⚠️ Known to back-channel to former Mid-desk colleagues. Has shared Gusto's first-party STR plans and Mosey acquisition context with mid-desk contacts. Alex + Jessica aware. Handle carefully — protect Andrew from political fallout while stopping the leak. Not malicious, just overly social with former coworkers.
 - **Update (2026-07-24, DM thread):** Browserbase negotiation complete on Andrew's side; Chris gave internal green light Jul 24. Awaiting Daniella Seim's financial sign-off (she needs the contract to see terms) and Ashby's Ironclad procurement approval (ticket EAIT-4267) before signature. Deciding Browserbase service start date (8/1 vs. 9/1) — tied to hiring a contractor to help execute the work; exact timeline still open as of Jul 24.
+- **⚠️ Update (2026-07-30, embargoed — not yet announced, expected public ~Jul 31–Aug 3):** Andrew is set to become PM of a new "State Tax Registration & Closure" (STRC) team inside Entity Management, taking over Middesk vendor-relationship ownership from Jessica Sacks — see decisions.md DEC-018 and projects.md Entity Management section. Drafting Jessica's transition doc now. Also worked Brandon's Middesk negotiation POV live on a Jul 30 Zoom call (DEC-017) — first real progress on the overdue COM-020, still not sent to Chris/Jessica.
 
 ### Jason Chao
 - **Email:** jason.chao@gusto.com
