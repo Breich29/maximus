@@ -1,6 +1,6 @@
 # External Dependencies / Partners
 
-_Last updated: 2026-07-28 (channel sync)_
+_Last updated: 2026-07-29 (channel sync)_
 
 ---
 
