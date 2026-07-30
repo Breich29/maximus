@@ -9045,3 +9045,40 @@ Recommended action: check the Gcal_Gusto connector status in claude.ai connector
 **NO-OP: no calendar change since 2026-07-30 08:45:39 PDT — skipping full prep.**
 
 Current time: 2026-07-30 12:58:46 PDT. Today's remaining-meeting fingerprint (`Brian / Brandon weekly (move as needed) @ 13:00 (2) | Block @ 14:00 (0) | Freshbooks reporting @ 16:45 (0)`) exactly matches the last full pass recorded in `meeting_prep_tracker.md`. Per the PHASE 0 gate, stopping here — no memory files, Granola, Slack, or Obsidian touched this cycle.
+Tracker and Obsidian note updated. Here's the current state:
+
+**DRAFT MEETING PREP MESSAGE(S)**
+
+———
+:calendar: *Block* — 2:00–2:30 PM PT
+*Attendees:* Brandon only
+*Context:* Personal focus block, no attendees. Best remaining window today to draft the overdue COM-020 MidDesk POV.
+———
+
+———
+:calendar: *Freshbooks reporting* — 4:45–5:00 PM PT
+*Attendees:* Brandon only
+*Context:* No attendees, no tracking in memory/Granola — likely personal/admin (Freshbooks = invoicing software), not enriched.
+———
+
+**NOTES ON RISKS / DECISIONS NEEDED**
+1. **COM-020 (MidDesk negotiation POV)** — still 5 days overdue and unsent as of this check (Gmail, Slack #maximus-updates, and Granola all re-verified, no new activity). Renewal notice window already closed. Nothing on today's calendar forces this — the 2:00 PM Block is your best remaining shot today.
+2. **Brian / Brandon weekly** just started (1:00 PM) and rolled off today's remaining window — carried-forward recommendation stands: consider cancelling this vestigial recurring series (Brian declined again today).
+
+No new calendar changes detected beyond this one roll-off; Obsidian note and tracker refreshed in place.
+NO-OP: no calendar change since 2026-07-30 13:14:27 PDT — skipping full prep.
+
+Today's remaining-meeting fingerprint (`Block @ 14:00 (0) | Freshbooks reporting @ 16:45 (0)`) exactly matches the last recorded row in `memory/meeting_prep_tracker.md`. Nothing about today's calendar has changed since the last full pass, so per PHASE 0 this run stops here — no memory files, Granola, Glean, Slack, or Obsidian touched.
+**NO-OP: no calendar change since 13:14:27 PDT — skipping full prep.**
+
+Phase 0 gate: today's remaining-meeting fingerprint (`Block @ 14:00 (0) | Freshbooks reporting @ 16:45 (0)`) exactly matches the fingerprint recorded in `memory/meeting_prep_tracker.md` from the last full pass at 13:14:27 PDT. Nothing about today's calendar has changed since then — stopping here without touching Granola, Slack, or the Obsidian vault, per the gate's design.
+Google Calendar MCP (`Gcal_Gusto`) isn't exposing any usable tools in this session — it's not in the "still connecting" list, not in the "requires authentication" list, and no `list_events`/`get_event`/`get_free_busy` tool surfaces under any search term. Per the job's fail-closed rule and `agents/calendar.md`'s explicit "Fail-Closed: If calendar cannot be accessed: STOP. Report failure. Do not infer meeting schedule," I'm stopping here rather than substituting another source or guessing at today's schedule.
+
+**MEETING PREP FAILED — required source unavailable**
+
+- **Missing source:** Google Calendar MCP (`Gcal_Gusto`) — needed for Step 0b (today's remaining meetings) to build the change-detection fingerprint.
+- **Status observed:** Server is not listed as connecting, not listed as needing auth, and exposes no `list_events`/`get_event`/`get_free_busy` tools under any ToolSearch query this run.
+- **What I did not do:** I did not fall back to Glean's `meeting_lookup` as a calendar substitute — the spec reserves that for meeting-history enrichment (Phase 1/2), not as the primary calendar source, and using it would risk an incomplete or stale picture of "the rest of today."
+- **No partial output produced** — no fingerprint, no tracker update, no Obsidian write, per the fail-closed rule against assembling partial output.
+
+**Action needed:** This likely means the `Gcal_Gusto` connector needs to be reauthorized or reconnected (via claude.ai connector settings, since this is a claude.ai MCP connector). Once it's back, the next scheduled 15-minute run should pick up normally — no manual retry needed unless you want me to check again now.
