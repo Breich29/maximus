@@ -8942,3 +8942,35 @@ Since the fingerprint is unchanged (`NO_MEETINGS` → `NO_MEETINGS`), the gate h
 
 **NO-OP: no calendar change since 2026-07-29 15:43:17 PDT — skipping full prep.**
 API Error: Connection closed mid-response. The response above may be incomplete.
+Tracker updated. Here's the deliverable for this pass:
+
+## DRAFT MEETING PREP — Thursday, July 30, 2026
+
+**COM-020 (MidDesk negotiation POV) is 5 days overdue** and not tied to any meeting today — last night's Night-Before Prep flagged it as the #1 thing to do first thing this morning. No calendar item will naturally surface it again today.
+
+---
+
+**:calendar: Ryan Drop Off** — 8:15–8:30 AM PT — personal, no prep needed.
+
+**:calendar: Brian / Brandon weekly (move as needed)** — 1:00–1:30 PM PT
+- Attendees: Brandon (accepted); Brian Busch (declined)
+- Context: pre-reorg recurring sync from Brandon's GEP days — topics (Jasper, banking GTM, PSM) aren't in his current Corp Dev scope, notes doc hasn't moved since Jan 9, and no Granola history in the last 30 days. Already flagged in memory as vestigial.
+- **Push for:** cancel/remove the recurring series rather than let it keep getting declined or moved.
+
+**:calendar: Block** — 2:00–2:30 PM PT — personal focus block, no prep needed.
+
+**:calendar: Freshbooks reporting** — 4:45–5:00 PM PT — no attendees, no reference in any memory file or Granola history. Flagged as likely personal/admin, not enriched.
+
+---
+
+**No outbound drafts needed** — nothing on today's calendar requires a message. If you want, I can draft a decline/cancellation note for the Brian Busch weekly on request (draft-only).
+
+**Risks/decisions needed:**
+1. COM-020 — 5 days overdue, highest-leverage use of open time today.
+2. Brian/Brandon weekly — recommend killing the recurring series.
+
+Written to `90-Maximus/meeting-prep/2026-07-30-meeting-prep.md` and tracker updated so future 15-minute checks today can no-op until something on the calendar actually changes.
+NO-OP: no calendar change since 2026-07-30 02:54:33 PDT — skipping full prep.
+
+Today's remaining-meeting fingerprint matches the tracker row from the last full pass exactly (Ryan Drop Off @ 08:15 (0) | Brian/Brandon weekly @ 13:00 (2) | Block @ 14:00 (0) | Freshbooks reporting @ 16:45 (0)). Per PHASE 0, no further reads or enrichment needed.
+API Error: Connection closed mid-response. The response above may be incomplete.

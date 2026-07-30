@@ -19,3 +19,8 @@ Status so far (nothing written yet, per fail-closed rule):
 Please grant Edit permission for that path (or confirm you're running this from an interactive session), and I'll complete the write immediately.
 API Error: Connection closed mid-response. The response above may be incomplete.
 I've located today's Daily AM Brief in Slack and prepared the new day-section for the month file, but writing to the Obsidian vault file requires your permission approval, which hasn't been granted yet. Please approve the file write when prompted so I can complete the archive.
+The Slack MCP tool (`slack_read_channel`) isn't available in this session — consistent with the network connectivity failure noted at startup (couldn't reach github.com either). Per the job's fail-closed rule, I'm stopping without touching any files.
+
+**ARCHIVE SKIPPED: #maximus-updates unavailable — the Slack MCP connector could not be found/reached in this session (likely the same network connectivity issue that also blocked GitHub access at startup).** No files were created or modified.
+
+If you'd like, I can retry once connectivity/MCP access is restored, or you can paste the Daily AM Brief message text directly and I'll archive it verbatim.
