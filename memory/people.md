@@ -289,7 +289,8 @@ _Last updated: 2026-07-24 (weekly memory sweep)_
 | Lolo | (unknown) | Mid-desk | Ops/delivery contact, works with Chris day-to-day; per Andrew, should not be treated as source of truth on order-blocker questions — doesn't know the underlying system deeply |
 | Karen | (unknown) | Mid-desk | Internal execution-side stakeholder, not the decision-maker (see Quinn correction above). Quinn/Lolo described as "at odds" with her internally; Quinn's commitments have scrambled at the execution stage in ways attributed to her, but she does not hold final renewal authority. |
 | Logan | (unknown) | Mid-desk | Actual technical contact on order-status data, per Andrew (Jul 13 prep) — team wants him on working calls to establish ground truth on order blockers, in parallel with renewal negotiation |
-| Anthony | (unknown) | Mid-desk | Actual technical contact, alongside Logan — Chris: "would love to have Anthony involved too" (Jul 13 prep) |
+| Anthony | (unknown) | Mid-desk | Actual technical contact, alongside Logan — Chris: "would love to have Anthony involved too" (Jul 13 prep). Per Andrew (Jul 30), Anthony reports to Paul (Middesk's head of engineering), not to Karen. |
+| Drew | (unknown) | Mid-desk | **Karen's manager.** Brandon wants him pulled into an "accountability matrix" (Jul 30) so Middesk product commitments are validated above Karen's level, not just made and walked back at her level. Andrew's characterization (unverified, Jul 30): disengaged from day-to-day, over-invested in defending Karen (his first hire) — treat as Andrew's read, not confirmed fact, same caution as the Karen-decision-maker correction above. |
 | Yoav Gur | yoav.gur@hibob.io | HiBob | Prior partnership (no longer active) |
 | Libby Corvin | libby.corvin@hibob.io | HiBob | Prior partnership (no longer active) |
 | Matt Cooper | mattc@bqe.com | BQE | Prior partnership (no longer active) |
