@@ -1,18 +1,12 @@
 # Commitments
 
-_Last updated: 2026-07-28 (channel sync)_
+_Last updated: 2026-07-29 (channel sync)_
 
 Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 
 ---
 
 ## Open
-
-**COM-022** — Allison Hess → Browserbase
-- **What:** Apply the three outstanding redline edits from the 2026-07-21 review (§3.3 strike "promoting"/"marketing" from permitted data uses; §3.3 add data subject-level de-identification language; §11.3 strike Gusto's obligation to pay Browserbase's breach-investigation costs) and send the revised contract back. Escalate the §3.3 marketing-use restriction to leadership before sending — may need sign-off above Brandon/Allison's level.
-- **Due:** 2026-07-22 (was overdue through Jul 23).
-- **Status:** Nearly closed as of 2026-07-24 PM. Brandon confirmed (Jul 23 11:17 AM PT, DM to Allison Hess) "redlines back from them, they've accepted. I think we might be good to move to signature?" Jul 24 AM: Andrew Adams reports "We got the green light from Chris on BB." **Update, Jul 24 ~2 PM PT (per Andrew Adams) and Brandon's self-authored Friday Weekly Review (Jul 24, posted 2:14 PM PT):** Daniella Seim's financial sign-off is now confirmed (✓, via Andrew) and Allison Hess is ready to upload the agreement to Zip. Remaining blocker is solely Ashby's Ironclad procurement approval (ticket EAIT-4267) plus deciding the services start date (8/1 vs. 9/1 — contractor ramp-up may push to 9/1). End-of-July signature target still assessed as realistic. Not marking Completed until signature is confirmed — moving to Completed once that lands. The policy-based blocking risk (Browserbase Acceptable Use Policy vs. STR-automation) and the shared Intuit T&C/IP clearance blocker with Diomedes remain open and unaddressed.
-- **Source:** Granola: "Review Browserbase redlines" (Jul 21, 11:30 AM); decisions.md DEC-015; Slack #maximus-updates Daily AM Briefs + Night-Before Preps (Jul 22–23); Slack DMs — Brandon<>Allison Hess, Brandon<>Andrew Adams, Brandon<>Ashby Taylor (Jul 23–24, 2026-07-24 weekly sweep); Slack #maximus-updates Action Items update (Jul 24, 4:19 PM PT) + Friday Weekly Review (Jul 24, 2:14 PM PT) (2026-07-24 channel-sync)
 
 **COM-016** (see also Completed/Open history below) — Middesk (Quinn) → Gusto
 - **What:** Deliver the headless API by 10/1/2026 (verbal commitment on the call; not yet in writing)
@@ -23,8 +17,8 @@ Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 **COM-020** — Brandon → Chris Elkins / Jessica Sacks / Andrew Adams
 - **What:** Draft a philosophical-level MidDesk renewal negotiation POV (pillars: earned-maturity pricing, invoice-credit teeth, MFN clause waiver, "12 locals = 70% of market" scope philosophy) for them to react to
 - **Due:** ~2026-07-27. Renewal notice window opened 2026-07-24 and **closed 2026-07-28** (see partners.md Mid-desk entry — the "opens Jul 24" / "closes ~Jul 28" language is the same ~90-day-notice window described from its two ends, not a discrepancy; resolved 2026-07-23).
-- **Status:** **2 days overdue as of 2026-07-28 9:11 PM PT (Night-Before Prep)** — still not sent to Chris/Jessica/Andrew. The 90-day notice window closed today (Jul 28) with MidDesk setting renewal terms without Gusto's framing in place. Flagged as the single most time-critical item across every AM brief/night-before-prep/weekly-review since Jul 13; "if you do only one thing" line recurring through Jul 28 Night-Before Prep, which points to getting it out before the 9:30 AM PT Jul 29 Ashby/Igor sync as the next forcing function.
-- **Source:** Slack #maximus-updates — Daily AM Briefs + Night-Before Preps (Jul 16–28), Friday Weekly Review (Jul 17)
+- **Status:** **5 days overdue as of 2026-07-29 9:13 PM PT (Night-Before Prep)** — still not sent to Chris/Jessica/Andrew. The Jul 29 AM Brief's forcing function (send before the 9:30 AM PT Ashby/Igor "AI Disc. Continued" sync) passed without it happening. Flagged as the single most time-critical item across every AM brief/night-before-prep/weekly-review since Jul 13; the Jul 29 Night-Before Prep again names it the first task for Jul 30 AM ("if you do only one thing first thing tomorrow: Write the MidDesk negotiation POV").
+- **Source:** Slack #maximus-updates — Daily AM Briefs + Night-Before Preps (Jul 16–29), Friday Weekly Review (Jul 17)
 
 **COM-011** — Jessica Sacks → Brandon
 - **What:** Stack-rank Middesk agreement wish list (SLA penalties/invoice credits, order status transparency, escalation protocols) and send churn/attrition stats ahead of the Quinn call
@@ -47,6 +41,12 @@ Format: COM-XXX | Owner → Recipient | What | Due | Status | Source
 ---
 
 ## Completed
+
+**COM-022** — Allison Hess → Browserbase
+- **Completed:** 2026-07-29 — DocuSign completion email received 5:40 PM PT confirming all parties signed. End-of-July close target met.
+- **What:** Apply the three outstanding redline edits from the 2026-07-21 review (§3.3 strike "promoting"/"marketing" from permitted data uses; §3.3 add data subject-level de-identification language; §11.3 strike Gusto's obligation to pay Browserbase's breach-investigation costs) and send the revised contract back for signature.
+- **Note:** One administrative item remains open (not blocking closure): confirm the services start date (8/1 vs. 9/1) with Andrew Adams so Allison Hess can finalize it in Zip. The policy-based blocking risk (Browserbase Acceptable Use Policy vs. STR-account-closure automation) and the shared Intuit T&C/IP clearance blocker with Diomedes remain open and unaddressed — signature does not resolve either (see partners.md Browser Base entry).
+- **Confirmed via:** Slack #maximus-updates — Night-Before Prep Brief (Jul 29, 9:13 PM PT): "Browserbase: SIGNED AND CLOSED tonight ✅ WIN — DocuSign completion email hit your inbox at 5:40 PM PT today — all parties signed. End-of-July close target: met."
 
 **COM-018** — Brandon → Izzy Rogner-Hall
 - **Cancelled:** 2026-07-27 (per Brandon's explicit instruction: "not relevant, we pitched anthropic already")
