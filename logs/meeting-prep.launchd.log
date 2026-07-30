@@ -8941,3 +8941,4 @@ Phase 0 gate check complete. Today's remaining calendar (from 21:51 PDT to end o
 Since the fingerprint is unchanged (`NO_MEETINGS` → `NO_MEETINGS`), the gate holds and I'm stopping here per PHASE 0 instructions — no memory files, Granola, Glean, Slack, or Obsidian touched.
 
 **NO-OP: no calendar change since 2026-07-29 15:43:17 PDT — skipping full prep.**
+API Error: Connection closed mid-response. The response above may be incomplete.
