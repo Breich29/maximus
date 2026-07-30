@@ -157,6 +157,7 @@ _Last updated: 2026-07-24 (weekly memory sweep)_
 - **Slack ID:** U094SJGJ4LX
 - **Title:** PM – Tax Experiences
 - **Context:** Owns mid-desk relationship on product side. Works in lockstep with Chris Elkins on GBC/STR. In Chris<>Jessica<>Brandon kickoff May 21. Met in NYC context (Bushwick).
+- **⚠️ Update (2026-07-30, embargoed — not yet announced, expected public ~Jul 31–Aug 3):** Losing Middesk product-side ownership to Andrew Adams as part of a reorg moving STR/STAC into a new Entity Management team (STRC) — see decisions.md DEC-018. Andrew expects her to be a reluctant participant in the transition; Tax Experiences keeps KTLO until 45 days after the first new EM engineer joins.
 
 ### Bridgette Haymaker
 - **Email:** bridgette.haymaker@gusto.com
