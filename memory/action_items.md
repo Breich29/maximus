@@ -1,6 +1,7 @@
 # Action Items
 
-_Last updated: 2026-07-30 (action items scan — Browserbase MSA marked signed and closed [DocuSign completed Jul 30 12:40 AM PT, Order Form #5888]; merge conflict markers resolved)_
+_Last updated: 2026-07-31 (action items scan — doola/Arjun Mahadevan IRL meetup dismissed per Brandon 10:25 AM PT in #maximus-updates: "doola IRL meetup — mark dismissed, not doing it")_
+_Prior: 2026-07-30 (action items scan — Browserbase MSA marked signed and closed [DocuSign completed Jul 30 12:40 AM PT, Order Form #5888]; merge conflict markers resolved)_
 _Prior: 2026-07-27 (action items scan — Anthropic POC corrected: Astrid → Lina [per Brandon 11:22 AM PT Jul 27 in #maximus-updates: "There was no message from Astrid - where did you see this? the POC is Lina. Check email again when you read"])_
 _Prior: 2026-07-24 (weekly memory sweep: added Elena Sharma + Colleen Oates new-person flags, Izzy Rogner-Hall ambiguous-ownership-signal flag)_
 _Prior: 2026-07-19 (evening night-before-prep confirmation pass: added Brittany Halldorson new-person flag + AI Services Marketplace new-signal flag)_
@@ -84,7 +85,7 @@ _Lightweight follow-ups and "needs confirmation" items. Formal commitments track
 - [x] **COM-011 wish list — call occurred without it; no longer time-critical.** Jessica's stack-ranked Middesk wish list was never delivered before the 11:00 AM Quinn call (10 consecutive checks, ~20.5 hrs, zero movement). The call went well regardless (see DEC-009) — churn stats alone were sufficient leverage. Downgraded from P0/time-critical to normal-cadence follow-up; revisit with Jessica when convenient, not urgent.
 - [ ] **Pipeline Review (bi-weekly) — occurred 2026-07-14, 12:15–1:00 PM PT.** No Granola transcript synced yet as of 1:14 PM PT pass. Check back next pass for recap; if Quinn-call outcome or Browserbase timeline were reported out here, capture status.
 - [x] **"Roi || Brandon Connect Re: Gusto" (2026-07-14, 10:30 AM) — occurred.** Attendee roima195@gmail.com ("Roi") had no context in people.md or Granola; personal gmail addresses on both sides suggested personal/networking, not work. No recap yet available — confirm with Brandon what this was and whether it needs tracking.
-- [ ] **doola (Arjun Mahadevan)** — NDA signed, in-person happened. Arjun wants IRL meetup Jun 26 at 33rd+8th NYC. _28 days stale as of Jul 24 — Weekly Review flagged: close out or schedule._
+- [x] **doola (Arjun Mahadevan)** — NDA signed, in-person happened. Arjun wanted IRL meetup Jun 26 at 33rd+8th NYC. **Dismissed** per Brandon, 2026-07-31 10:25 AM PT in #maximus-updates: _"doola IRL meetup — mark dismissed, not doing it."_ Not a completion; the IRL meetup will not happen.
 - [ ] **Wyatt Angell** — added Brandon to Gusto↔Intuit bi-directional data thread. Wyatt OOO Jun 17–26; follow up after.
 - [ ] Legal Link SLA renegotiation / MidDesk — **90-day renewal notice window opened Jul 24.** No formal renewal strategy started. Browserbase MSA effectively closed (counter-redlines accepted Jul 23). 2x+ pricing expected ($70–90/registration). POV due ~Jul 27.
 - [ ] GustoPro partnerships (COM-009) — Jul 2 Anthropic pitch sync ✅ (Brittany + Ashby aligned). Jul 7 pitch sync ✅. Multi-auth MCP: 4–6 week bare MVP; #5 on H1 AI Interfaces.
