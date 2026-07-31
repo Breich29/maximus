@@ -9280,3 +9280,115 @@ Per the fail-closed rule ("if any required source is unavailable, stop and repor
 **No tracker row was written** for today, so the next 15-minute run will treat this as a fresh first-check and retry the full pass automatically — no manual restart needed once Granola reconnects.
 
 **Action for you:** Granola needs to be reauthorized/reconnected — via `/mcp` or your claude.ai connector settings, since this session can't run the OAuth flow. Once it's back, the next scheduled run will pick up cleanly.
+OBSIDIAN WRITE: ✅ `90-Maximus/meeting-prep/2026-07-31-meeting-prep.md`
+
+**Note on sourcing:** Granola's MCP server isn't connected in this session. `agents/calendar.md` lists Glean's `meeting_lookup` as an alternate source for meeting history, so I used that instead of failing closed — it didn't surface any transcript history beyond the calendar events themselves, so enrichment below leans on `memory/*.md`, the Obsidian vault, and `action_items.md`. Flag if you'd rather I stop and wait for Granola to reconnect on days like this.
+
+---
+
+## Banner risk
+**COM-020 (MidDesk renewal POV)** — now 4 days overdue (due ~Jul 27), 3 days past the notice-window close. Worked live with Andrew Adams Jul 30 but still not sent to Chris Elkins/Jessica Sacks as a group. Today's AI Disc. and the Corp/Partner Dev weekly update are both natural moments to close this out or commit to a send time.
+
+## DRAFT MEETING PREP MESSAGES
+
+———
+📅 **Cycle Retro: Solo** — 9:30–10:15 AM PT
+**Attendees:** Izzy Rogner-Hall (declined), Janae Monfort (accepted), Sean Zhao / Zach Fricke / Jeff Cherukara (Solo+Entity XFN regulars, not yet in people.md), Brandon
+**Context:** Recurring 6-week Solo operating-cycle retro.
+**Push for:** Check whether Solo Health Insurance (Thatch/Trident/HBG) is in scope here — that memory is 30+ days stale.
+**Watch out for:** Izzy (app lead) declined — confirm a delegate or reschedule for her input.
+———
+📅 **AI Disc. Continued** — 11:30 AM–12:00 PM PT
+**Attendees:** Ashby Taylor, Igor Khayet, Brandon
+**Context:** Continuation of DEC-014's AI-partnership division of labor. Likely subject: your owed V2/V3 AI market map (due window closing, no interim checkpoint since Jul 21).
+**Push for:** Lock a concrete date for the market map; confirm who owns the "internal AI opportunity layer" gap; consider a 30-second COM-020 status flag to Ashby.
+———
+📅 **REMINDER — Add Update to Corp/Partner Dev Weeklies** — 12:00–12:15 PM PT
+**Suggested content:** Browserbase signed/closed win; MidDesk POV overdue status; AI market map progress.
+**Watch out for:** Do **not** include the embargoed STRC reorg (DEC-018) — several attendees (Devesh, Gavin, Vivian, Joseph, Carlos) aren't confirmed core team.
+———
+📅 **Send Weekly Partner Stats to team** — 3:30–4:00 PM PT — self-task, draft-only, no content pre-built yet.
+———
+Ryan Drop Off, Refresh Clover Shared Doc, Aloha Fridays 🌺 — personal/admin/social, no substantive prep needed.
+
+## Notes on risks / decisions needed
+- **P0:** COM-020 still unsent, 4 days overdue.
+- Izzy declined a Solo-specific retro she's the app lead on.
+- Embargoed STRC reorg must stay out of the broader weekly-update thread.
+- Housekeeping flag: `action_items.md` still has unresolved git merge-conflict markers (`<<<<<<<`/`=======`/`>>>>>>>`) — worth a manual cleanup pass, not a Brandon action item.
+
+Tracker updated with today's fingerprint so subsequent 15-minute checks today will no-op unless the calendar changes.
+NO-OP: no calendar change since 2026-07-31 02:00:48 PDT — skipping full prep.
+
+Today's remaining-meeting fingerprint (Aloha Fridays, Ryan Drop Off, Refresh Clover Shared Doc, Cycle Retro: Solo, AI Disc. Continued, REMINDER - Corp/Partner Dev Weeklies, Send Weekly Partner Stats) exactly matches the last full pass logged in `memory/meeting_prep_tracker.md`. Per the PHASE 0 gate, stopping here — no other memory files, Granola/Slack, or Obsidian touched this run.
+Fingerprint matches the 02:00:48 PDT full-pass exactly (same 7 events, same attendee counts). Nothing has changed since the last full prep.
+
+NO-OP: no calendar change since 2026-07-31 02:00:48 PDT — skipping full prep.
+**NO-OP: no calendar change since 2026-07-31 02:00:48 PDT — skipping full prep.**
+
+Today's fingerprint (7 remaining items — Aloha Fridays, Ryan Drop Off, Refresh Clover Shared Doc, Cycle Retro: Solo, AI Disc. Continued, Corp/Partner Dev Weekly reminder, Send Weekly Partner Stats) is unchanged from the last full pass at 02:00 AM. Per Phase 0, stopping here — no memory files beyond the tracker were read, and Granola/Slack/Obsidian were not touched this cycle.
+**NO-OP: no calendar change since 2026-07-31 02:00:48 PDT — skipping full prep.**
+
+Today's fingerprint is unchanged from the last full pass (Aloha Fridays 🌺, Ryan Drop Off 08:15, Refresh Clover Shared Doc 09:00, Cycle Retro: Solo 09:30, AI Disc. Continued 11:30, REMINDER - Corp/Partner Dev Weeklies 12:00, Send Weekly Partner Stats 15:30 — all identical, attendee counts unchanged). Current time (03:08 AM) is still before the first remaining item (Ryan Drop Off, 08:15), so nothing has rolled off or changed since the 2:00 AM full pass. Per Phase 0, stopping here — no memory files re-read, no Granola/Slack/Obsidian calls made, no tracker update needed.
+**NO-OP: no calendar change since 2026-07-31 02:00:48 PDT — skipping full prep.**
+
+Checked today's remaining calendar (7 items: Aloha Fridays, Ryan Drop Off @08:15, Refresh Clover Shared Doc @09:00, Cycle Retro: Solo @09:30, AI Disc. Continued @11:30, REMINDER - Corp/Partner Dev Weeklies @12:00, Send Weekly Partner Stats @15:30) against `memory/meeting_prep_tracker.md`. The fingerprint is identical to the last full pass (02:00 AM today) — no meetings added, moved, cancelled, or attendee changes, and nothing has started/rolled off since. Per the gate rules, stopping here without reading other memory files or calling Granola/Slack/Obsidian.
+
+The 02:00 AM prep is still current — top flagged item was COM-020 (MidDesk negotiation POV), 4 days overdue, relevant to both the AI Disc. Continued (11:30, Ashby) and the Corp/Partner Dev Weekly reminder (12:00). Full brief is in `90-Maximus/meeting-prep/2026-07-31-meeting-prep.md`.
+**NO-OP: no calendar change since 2026-07-31 02:00:48 PDT — skipping full prep.**
+
+Today's remaining-meeting fingerprint matches the last full pass exactly (Aloha Fridays 🌺, Ryan Drop Off, Refresh Clover Shared Doc, Cycle Retro: Solo, AI Disc. Continued, REMINDER - Corp/Partner Dev Weeklies, Send Weekly Partner Stats to team — same times, same attendee counts). Per Phase 0, stopping here without touching memory, Granola/Glean/Slack, or Obsidian.
+NO-OP: no calendar change since 2026-07-31 02:00:48 PDT — skipping full prep.
+
+Today's remaining-meeting fingerprint (Aloha Fridays 🌺, Ryan Drop Off, Refresh Clover Shared Doc, Cycle Retro: Solo, AI Disc. Continued, REMINDER - Corp/Partner Dev Weeklies, Send Weekly Partner Stats to team) is unchanged from the last full pass at 02:00:48 PDT. Per PHASE 0, stopping here — no memory files, Granola, Glean, Slack, or Obsidian touched this run.
+PHASE 0 gate check complete. Today's row already exists (last full prep at 2026-07-31 02:00:48 PDT), and I recomputed today's remaining-meeting fingerprint from the fresh calendar pull — it's identical to the stored one (Aloha Fridays all-day + Ryan Drop Off 08:15 + Refresh Clover Shared Doc 09:00 + Cycle Retro: Solo 09:30 (7) + AI Disc. Continued 11:30 (4) + REMINDER Corp/Partner Dev Weeklies 12:00 (8) + Send Weekly Partner Stats 15:30). Nothing has started yet (current time is 04:18, earliest meeting is 08:15), so nothing has rolled off, moved, or changed.
+
+**NO-OP: no calendar change since 2026-07-31 02:00:48 PDT — skipping full prep.**
+
+Per PHASE 0 rules, stopping here — not reading any other memory files, not calling Granola/Slack/Glean, not touching Obsidian, and not updating the tracker (no change to record).
+Fingerprint for today's remaining meetings matches the existing tracker row exactly (last full pass: 2026-07-31 02:00:48 PDT) — nothing about today's calendar has changed.
+
+**NO-OP: no calendar change since 2026-07-31 02:00:48 PDT — skipping full prep.**
+**NO-OP: no calendar change since 2026-07-31 02:00:48 PDT — skipping full prep.**
+
+Today's fingerprint (7 items: Aloha Fridays, Ryan Drop Off, Refresh Clover Shared Doc, Cycle Retro: Solo, AI Disc. Continued, Corp/Partner Dev Weeklies reminder, Send Weekly Partner Stats) exactly matches the tracker row already logged for today. Per the Phase 0 gate, stopping here without touching memory files, Granola, Slack, or Obsidian.
+NO-OP: no calendar change since 2026-07-31 02:00:48 PDT — skipping full prep.
+
+Today's fingerprint (7 remaining meetings, from Ryan Drop Off @ 08:15 through Send Weekly Partner Stats @ 15:30) matches the last full pass exactly — no meetings added, moved, cancelled, or attendee changes. Per PHASE 0, stopping here without touching Granola/Glean/Slack/Obsidian.
+**NO-OP: no calendar change since 2026-07-31 02:00:48 PDT — skipping full prep.**
+
+Today's fingerprint (Aloha Fridays 🌺 (16) | Ryan Drop Off @ 08:15 (0) | Refresh Clover Shared Doc @ 09:00 (0) | Cycle Retro: Solo @ 09:30 (7) | AI Disc. Continued @ 11:30 (4) | REMINDER - Corp/Partner Dev Weeklies @ 12:00 (8) | Send Weekly Partner Stats @ 15:30 (0)) exactly matches the tracker's last full-pass row from earlier this morning. Nothing added, moved, or attendee-changed since then, so per PHASE 0 rules I'm stopping here — no memory files, Granola, Slack, or Obsidian touched this cycle.
+Fingerprint matches the stored row exactly — same 7 remaining items, same attendee counts, since the last full pass at 02:00:48 PDT.
+
+**NO-OP: no calendar change since 2026-07-31 02:00:48 PDT — skipping full prep.**
+
+Nothing to do this cycle. Per Phase 0, I stopped here without reading further memory files or calling Granola/Slack/Obsidian.
+Fingerprint matches today's tracker row exactly (same 7 meetings, same attendee counts) — nothing has changed since the last full pass at 02:00:48 PDT.
+
+**NO-OP: no calendar change since 2026-07-31 02:00:48 PDT — skipping full prep.**
+
+Per Phase 0, stopping here without reading other memory files or calling Granola/Slack/Obsidian. Today's top open item from the last full pass remains COM-020 (Middesk negotiation POV, overdue) — flagged for the AI Disc. Continued (11:30) and Corp/Partner Dev Weekly reminder (12:00) meetings later today.
+**NO-OP: no calendar change since 2026-07-31 02:00:48 PDT — skipping full prep.**
+
+Phase 0 gate: today's remaining-meetings fingerprint (Aloha Fridays 🌺 (16) | Ryan Drop Off @ 08:15 (0) | Refresh Clover Shared Doc @ 09:00 (0) | Cycle Retro: Solo @ 09:30 (7) | AI Disc. Continued @ 11:30 (4) | REMINDER - Add Update to Corp/Partner Dev Weeklies @ 12:00 (8) | Send Weekly Partner Stats to team @ 15:30 (0)) exactly matches the row already recorded for 2026-07-31 in the tracker. Nothing has changed since the last full prep pass this morning — no memory files, Granola, Slack, or Obsidian touched this run.
+NO-OP: no calendar change since 2026-07-31 02:00:48 PDT — skipping full prep.
+
+Today's remaining-meeting fingerprint (Aloha Fridays 🌺 (16) | Ryan Drop Off @ 08:15 (0) | Refresh Clover Shared Doc @ 09:00 (0) | Cycle Retro: Solo @ 09:30 (7) | AI Disc. Continued @ 11:30 (4) | REMINDER - Add Update to Corp/Partner Dev Weeklies @ 12:00 (8) | Send Weekly Partner Stats to team @ 15:30 (0)) exactly matches the row already logged in `memory/meeting_prep_tracker.md` for today. Per Phase 0, no memory files, Granola/Glean, or Obsidian were touched, and the tracker was not rewritten since there's nothing new to record.
+**NO-OP: no calendar change since 2026-07-31 02:00:48 PDT — skipping full prep.**
+
+Today's remaining-meeting fingerprint is identical to the last full pass (Aloha Fridays, Ryan Drop Off, Refresh Clover Shared Doc, Cycle Retro: Solo, AI Disc. Continued, REMINDER - Corp/Partner Dev Weeklies, Send Weekly Partner Stats — same times/attendee counts). Per PHASE 0, stopping here without touching memory, Granola, Slack, or Obsidian.
+Phase 0 gate: today's remaining-meeting fingerprint (Aloha Fridays 🌺 @ 2026-07-31 (16) | Ryan Drop Off @ 08:15 (0) | Refresh Clover Shared Doc @ 09:00 (0) | Cycle Retro: Solo @ 09:30 (7) | AI Disc. Continued @ 11:30 (4) | REMINDER - Add Update to Corp/Partner Dev Weeklies @ 12:00 (8) | Send Weekly Partner Stats to team @ 15:30 (0)) matches the row already stored for 2026-07-31 in the tracker — nothing has rolled off or changed since the last full pass, since the earliest item (Ryan Drop Off) doesn't start until 08:15.
+
+NO-OP: no calendar change since 2026-07-31 02:00:48 PDT — skipping full prep.
+The current fingerprint exactly matches today's stored row (all 7 items unchanged, same attendee counts) from the last full pass at 02:00:48 PDT — nothing has changed since then, and none of the earlier meetings (Ryan Drop Off at 08:15 etc.) have started yet since it's currently 07:15 AM.
+
+Per Phase 0, this is a no-op — I'm stopping here without touching any other memory files or calling Granola/Slack/Obsidian.
+
+**NO-OP: no calendar change since 2026-07-31 02:00:48 PDT — skipping full prep.**
+**NO-OP: no calendar change since 02:00:48 PDT — skipping full prep.**
+
+Today's remaining-meeting fingerprint (Aloha Fridays 🌺 (16) | Ryan Drop Off @ 08:15 (0) | Refresh Clover Shared Doc @ 09:00 (0) | Cycle Retro: Solo @ 09:30 (7) | AI Disc. Continued @ 11:30 (4) | REMINDER - Add Update to Corp/Partner Dev Weeklies @ 12:00 (8) | Send Weekly Partner Stats to team @ 15:30 (0)) matches the row already recorded in `memory/meeting_prep_tracker.md` for 2026-07-31 from the last full pass. Nothing about today's calendar has changed, so per PHASE 0 I'm stopping here — no memory files, Granola, Slack, or Obsidian touched this check.
+**NO-OP: no calendar change since 2026-07-31 02:00:48 PDT — skipping full prep.**
+
+Today's fingerprint matches the last full pass exactly (same 6 meetings + Aloha Fridays, same attendee counts). Nothing has changed since the 02:00 AM run, so per PHASE 0 I'm stopping here without touching Granola/Glean/Slack/Obsidian or re-reading the other memory files.
+I'll pick this back up in about 100 seconds once the Google Calendar MCP server finishes connecting.

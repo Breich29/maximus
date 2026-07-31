@@ -24,3 +24,4 @@ The Slack MCP tool (`slack_read_channel`) isn't available in this session — co
 **ARCHIVE SKIPPED: #maximus-updates unavailable — the Slack MCP connector could not be found/reached in this session (likely the same network connectivity issue that also blocked GitHub access at startup).** No files were created or modified.
 
 If you'd like, I can retry once connectivity/MCP access is restored, or you can paste the Daily AM Brief message text directly and I'll archive it verbatim.
+The write is still pending your approval — this action only inserts a new `## 2026-07-31` section at the top of the file (mirroring the Daily AM Brief already posted to #maximus-updates), leaving all existing content untouched. Please approve the Edit tool call when prompted so I can complete the archive.
