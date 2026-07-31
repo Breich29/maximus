@@ -146,3 +146,20 @@ Written:
 Skipped (already reflected / dedupe): 5 — remote.com dismissal (owned by Channel Scanner), COM-003 and COM-018 brief/memory conflicts (recurring, no Brandon confirmation), stale Diomedes-thesis-to-Tomer reference, thin "Poster Elite" mention
 
 Headline: **Browserbase is signed and closed** (COM-022 done). The **MidDesk POV is now 5 days overdue** — flagged as tomorrow's first priority in every brief. **Diomedes LOI Go/No-Go decision is tomorrow (Jul 30)**, recommendation is GO at $60M–$120M, and Ashby has a 12:30 PM call with Ben Stein the same day — don't touch the Crossbeam invite until Ashby signals after that call.
+**OBSIDIAN WRITE: ✅ /Users/brandon.reich/Documents/Gusto-PartnerDevBR/90-Maximus/memory-sync/2026-07-30-channel-sync.md**
+
+Channel Sync — 2026-07-30
+---
+Window synced: 2026-07-29 22:18 PDT → 2026-07-30 22:00 PDT
+Messages/threads processed: 5 (1 thread with 1 reply)
+Written:
+- Decisions: 0 new, 0 amended
+- Commitments: 0 new, 0 status changes
+- Partner status changes: Mid-desk (DRI named in writing — Andrew Adams), Browser Base (Zip PO #5888 fully approved/sent, admin-closed bar start date)
+- Project status changes: GBC/Browser Base (mirrors partners.md), GustoPro (new Firm Direct API program — Soren/Water's Edge/Curtis Wright), Anthropic Partnership (contact now consistently named "Lina Ochman"), Project Diomedes (post-LOI informal positive signal, no confirmed decision)
+- People updates: none (Curtis Wright, Lina Ochman, Dane Dominguez all left unresolved — bot-sourced/single-mention, not Brandon-confirmed)
+Skipped (already reflected / dedupe): 5 — COM-003 discrepancy, COM-018 discrepancy, COM-020 status (unchanged), Izzy's Lattice feedback requests (action_items.md territory), Dane Dominguez single-meeting mention
+
+**Flag for you:** the 4:24 PM Channel Scanner post today claims it fixed git merge-conflict markers left as literal content in `memory/action_items.md` — but my read-only check of that file shows the markers (`<<<<<<< HEAD` / `=======` / `>>>>>>> origin/main`) are still there, duplicating whole sections. I can't touch that file (it's the Channel Scanner's exclusive write surface), so this needs manual cleanup or a re-run of that routine.
+
+Full detail, including exact before/after text for every write, is in the Obsidian report linked above.

@@ -9184,3 +9184,99 @@ NO-OP: no calendar change since 2026-07-30 16:52:54 PDT — skipping full prep.
 Today's row already shows fingerprint `NO_MEETINGS` matching what I just found. Nothing has changed since the last full pass at 16:52:54 PDT.
 
 **NO-OP: no calendar change since 2026-07-30 16:52:54 PDT — skipping full prep.**
+No changes since the last full pass. Today's remaining-meeting fingerprint is still `NO_MEETINGS`, matching the tracker's last full prep at 16:52:54 PDT.
+
+NO-OP: no calendar change since 2026-07-30 16:52:54 PDT — skipping full prep.
+Today's row already has fingerprint `NO_MEETINGS`, matching the current fingerprint (no remaining meetings today, confirmed above).
+
+**NO-OP: no calendar change since 2026-07-30 16:52:54 PDT — skipping full prep.**
+Today's row already has fingerprint `NO_MEETINGS` from the 16:52 PDT pass, and the current fingerprint is also `NO_MEETINGS` — an exact match.
+
+**NO-OP: no calendar change since 2026-07-30 16:52:54 PDT — skipping full prep.**
+**NO-OP: no calendar change since 2026-07-30 16:52:54 PDT — skipping full prep.**
+
+Today's remaining calendar is empty (`NO_MEETINGS`), matching the fingerprint already recorded in `memory/meeting_prep_tracker.md` from the last full pass at 16:52:54 PDT. Per the PHASE 0 gate, no further memory reads, Granola/Glean/Slack calls, or Obsidian writes were made this cycle.
+NO-OP: no calendar change since 2026-07-30 16:52:54 PDT — skipping full prep. Today's row in `meeting_prep_tracker.md` already shows fingerprint `NO_MEETINGS`, and the current calendar check confirms no remaining meetings today — an exact match, so no fresh full pass is needed.
+NO-OP: no calendar change since 2026-07-30 16:52:54 PDT — skipping full prep.
+
+Fingerprint for the remainder of today (23:24 PDT onward) is `NO_MEETINGS`, matching the existing tracker row for 2026-07-30. No new meetings, moves, cancellations, or attendee changes since the last full pass. Per Phase 0, stopping here — no memory files, Granola, Glean, Slack, or Obsidian touched this run.
+Today's row exists with fingerprint `NO_MEETINGS`, matching exactly what I just computed. Nothing about today's calendar has changed since the last full pass.
+
+NO-OP: no calendar change since 2026-07-30 16:52:54 PDT — skipping full prep.
+**STOP — required source unavailable.**
+
+Phase 0 (change-detection gate) passed: no tracker row exists yet for today (2026-07-31), so this was correctly routed to a full prep pass. Today's fingerprint (6 remaining meetings, all-day Aloha Fridays excluded as already-started):
+
+`Ryan Drop Off @ 08:15 (0) | Refresh Clover Shared Doc @ 09:00 (0) | Cycle Retro: Solo @ 09:30 (7) | AI Disc. Continued @ 11:30 (4) | REMINDER - Add Update to Corp/Partner Dev Weeklies @ 12:00 (8) | Send Weekly Partner Stats to team @ 15:30 (0)`
+
+I loaded people.md, commitments.md, decisions.md, projects.md, and partners.md successfully. But PHASE 1 Step 4 requires querying **Granola** for recent meeting history, and the Granola MCP server is not connected in this session — it doesn't appear in the loaded tools, the "still connecting" list, or the (truncated) "requires authentication" list, and targeted searches (`Granola`, `query_granola_meetings`) return no matches.
+
+Per CLAUDE.md's hard rule — *"If a required MCP source is unavailable: STOP and report — do not assemble partial output"* — I'm stopping here rather than delivering a meeting-prep brief without Granola-sourced meeting history for today's Cycle Retro: Solo and AI Disc. Continued meetings.
+
+**What's needed to proceed:** Granola access needs to be authorized for this session (via `claude mcp` or `/mcp` in an interactive session — this session can't run that OAuth flow). I have not written anything to `meeting_prep_tracker.md` or Obsidian, so the next invocation will correctly retry a full pass once Granola is available.
+**STOP — required source unavailable, per fail-closed rule.**
+
+**Phase 0 (change-detection gate):** Passed through — no tracker row exists yet for today (2026-07-31), so this is the first check of the day and a full pass is warranted. Today's remaining calendar (as of 00:28 PT) has 7 items: Aloha Fridays (all-day), Ryan Drop Off (8:15), Refresh Clover Shared Doc (9:00), Cycle Retro: Solo (9:30), AI Disc. Continued (11:30, w/ Ashby + Igor), REMINDER – Add Update to Corp/Partner Dev Weeklies (12:00), Send Weekly Partner Stats to team (15:30).
+
+**Phase 1 (load context):** Local memory files (people.md, commitments.md, decisions.md, projects.md, partners.md) loaded successfully.
+
+**Blocker:** Phase 1 Step 4 requires querying **Granola** for the last 7 days of meeting history (per `agents/calendar.md` Sources list and `config/maximus.env`'s `MEETING_NOTES_SOURCE=granola`). The Granola MCP server is not present in this session at all — it's not in the connected-tools list, not in the "still connecting" list, and not in the "requires authentication" list. It appears to simply not be configured for this session, unlike Google Calendar/Notion/Glean/Slack, which are all reachable.
+
+Per this job's hard rule — *"If a required MCP source is unavailable: STOP and report — do not assemble partial output"* — I'm stopping here rather than building meeting prep off Glean/calendar alone and silently dropping Granola-sourced context (which matters directly for at least two of today's real meetings: Cycle Retro: Solo and AI Disc. Continued with Ashby/Igor, both of which have recent Granola history per projects.md).
+
+**What's needed:** The Granola connector needs to be added/authorized for this session — via `claude mcp` or `/mcp` in an interactive session. I have not written anything to the tracker or Obsidian for this run, so the next invocation's Phase 0 will still see no row for today and will correctly re-attempt a full pass once Granola is available.
+**FAIL-CLOSED: required source unavailable — stopping meeting prep.**
+
+Phase 0 change-detection gate ran clean: no tracker row exists yet for today (2026-07-31), so this was correctly identified as the first check of the day, and I proceeded into Phase 1 full prep.
+
+Phase 1 requires querying Granola for recent meeting history (last 7 days) per the meeting-prep instructions and `agents/calendar.md` sourcing rules. **The Granola MCP connector is not available in this session** — it doesn't appear in the loaded tools, the "still connecting" list, or the "requires authentication" list. It appears to not be configured for this session at all.
+
+Per the hard rule in CLAUDE.md ("If a required MCP source is unavailable: STOP and report — do not assemble partial output") and this job's own fail-closed instruction, I'm stopping rather than assembling a prep brief without meeting-history context.
+
+**What I have so far (already loaded, no partial output produced):**
+- Today's calendar (7 events): Aloha Fridays (all-day), Ryan Drop Off (08:15, personal), Refresh Clover Shared Doc (09:00, solo), Cycle Retro: Solo (09:30, izzy/zach/sean.zhao/janae/jeff), AI Disc. Continued (11:30, Ashby + Igor), REMINDER - Corp/Partner Dev Weeklies (12:00, Ashby/team), Send Weekly Partner Stats (15:30, solo)
+- All hot-memory files read (people, commitments, decisions, projects, partners)
+
+**Not done:** No prep brief assembled, no Obsidian write, no tracker update — all blocked on Granola.
+
+**Action needed:** Granola needs to be connected/authorized for this session before I can complete the prep (via `claude mcp` or `/mcp` in an interactive session, since I can't run the OAuth flow here). Once it's available, tell me and I'll resume Phase 1 from where I left off.
+**STOPPING — required source unavailable.**
+
+Phase 0 gate: no tracker row exists for today (2026-07-31), so this is the first check and requires a full Phase 1 pass. I loaded calendar, people, commitments, decisions, projects, and partners memory successfully, and pulled today's remaining calendar (6 real items + the all-day "Aloha Fridays" excluded per established precedent: Ryan Drop Off 08:15, Refresh Clover Shared Doc 09:00, Cycle Retro: Solo 09:30, AI Disc. Continued 11:30, Corp/Partner Dev Weeklies reminder 12:00, Send Weekly Partner Stats 15:30).
+
+But **Phase 1 Step 4 requires querying Granola** (`mcp__claude_ai_Granola_Gusto__query_granola_meetings` / `get_meeting_transcript`) for recent meeting history, and that MCP server is not available in this session at all — it doesn't appear in the connected, connecting, or auth-required tool lists. It's not just unauthenticated; it isn't configured/reachable here.
+
+Per the hard rule in CLAUDE.md ("If a required MCP source is unavailable: STOP and report — do not assemble partial output") and the job's own fail-closed instruction, I'm not proceeding to assemble meeting-prep briefs off partial context (Glean/memory only, no Granola transcript history). I also haven't written anything to the Obsidian vault or updated `meeting_prep_tracker.md`, since either would misrepresent this as a completed pass.
+
+**What's needed:** the Granola MCP connector needs to be re-added/reconnected for this session (this isn't something I can fix from here — it's a session/connector configuration issue, not an OAuth prompt I can trigger). Once it's available, re-run this job and it'll pick up cleanly at Phase 1.
+
+Want me to instead pull what I can from Glean's meeting lookup as a manual, clearly-labeled partial check (not the automated job's output), or hold until Granola's back?
+**FAIL-CLOSED — stopping before assembling meeting prep.**
+
+Phase 0 gate check completed normally: no tracker row exists yet for 2026-07-31, so this was correctly identified as the first full-prep check of the day (not a no-op).
+
+Phase 1 (load context) failed a required source check:
+
+- Calendar (Google Calendar MCP): ✅ available — pulled 7 remaining events for today
+- Local memory files (people/commitments/decisions/projects/partners.md): ✅ read successfully
+- **Granola MCP (`mcp__claude_ai_Granola_Gusto__query_granola_meetings` / `get_meeting_transcript`): ❌ unavailable** — the connector isn't present in this session at all (not "connecting," not listed as needing auth explicitly, just absent — likely among the batch of MCP servers still requiring authorization). This is an explicit, named required step in PHASE 1 (Step 4) for pulling last-7-days meeting history/transcripts for today's attendees (relevant given the Cycle Retro: Solo and AI Disc. Continued meetings today).
+
+Per the hard rule in CLAUDE.md — "If a required MCP source is unavailable: STOP and report — do not assemble partial output" — I'm not proceeding to Phase 2/3. I have **not** written anything to `memory/meeting_prep_tracker.md` or the Obsidian vault, so the next 15-minute run will still treat today as needing a fresh full pass and will retry Granola.
+
+**What you'd need to do:** authorize the Granola MCP connector (via claude.ai connector settings, since this is a `claude.ai` connector) so it shows up as connected. Once that's done, tell me and I'll re-run the full prep for today's remaining meetings (Cycle Retro: Solo @ 9:30, AI Disc. Continued @ 11:30 with Ashby/Igor, Corp/Partner Dev Weeklies reminder @ 12:00, plus the smaller solo blocks).
+**STOP — required source unavailable, full prep not assembled.**
+
+Per the fail-closed rule ("if any required source is unavailable, stop and report — do not assemble partial output"), I'm halting before Phase 2 enrichment.
+
+**What happened:**
+- Phase 0 gate: no tracker row exists for 2026-07-31 yet (first check of the day) → proceeded to Phase 1.
+- Phase 1 completed: pulled today's calendar (7 events, remaining from 01:39 AM PDT) and read all required memory files (people.md, commitments.md, decisions.md, projects.md, partners.md).
+- Phase 1 Step 4 requires querying Granola for last-7-days meeting history — **the Granola MCP connector (`claude.ai Granola_Gusto`) is not connected.** I checked three times via ToolSearch across the session; it never resolved (it's listed among "still connecting" servers from session start and never came online).
+
+**Why I'm not proceeding with a partial brief:** Two of today's three substantive meetings — Cycle Retro: Solo (9:30 AM) and AI Disc. Continued (11:30 AM, likely a continuation of the DEC-014 AI-partnerships sync) — depend on Granola for prior-meeting context (last retro notes, last AI-mapping sync outcomes). Assembling prep without that would risk stale or incomplete guidance on exactly the meetings that need history most.
+
+**What's not affected:** memory.md, commitments.md, decisions.md, etc. are all fine — this is purely the Granola connector.
+
+**No tracker row was written** for today, so the next 15-minute run will treat this as a fresh first-check and retry the full pass automatically — no manual restart needed once Granola reconnects.
+
+**Action for you:** Granola needs to be reauthorized/reconnected — via `/mcp` or your claude.ai connector settings, since this session can't run the OAuth flow. Once it's back, the next scheduled run will pick up cleanly.
