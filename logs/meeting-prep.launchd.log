@@ -9421,3 +9421,37 @@ Tracker and Obsidian note both updated in place; no further action needed from y
 NO-OP: no calendar change since 2026-07-31 09:09:50 PDT — skipping full prep.
 
 Today's remaining-meeting fingerprint (Cycle Retro: Solo @ 09:30 (7) | AI Disc. Continued @ 11:30 (4) | REMINDER - Add Update to Corp/Partner Dev Weeklies @ 12:00 (8) | Send Weekly Partner Stats to team @ 15:30 (0)) is unchanged from the last full pass at 09:09:50 PDT. Per PHASE 0, stopping here — no memory files, Granola, Slack, or Obsidian touched this check.
+**OBSIDIAN WRITE: ✅** `90-Maximus/meeting-prep/2026-07-31-meeting-prep.md`
+Tracker updated: `memory/meeting_prep_tracker.md` (2026-07-31 row, fingerprint + 09:43 note).
+
+## Why this ran a full pass
+The 15-min gate found more than roll-off: a new meeting, **"Discuss Middesk approach + negotiating rocks"** (1:30–2:00 PM, Chris Elkins), appeared on the calendar since the 09:09 AM check. This is a real addition, not bookkeeping — almost certainly Brandon's live delivery mechanism for **COM-020**, the Middesk renewal POV that's now 4 days overdue.
+
+## DRAFT MEETING PREP MESSAGES (full detail in the Obsidian note)
+
+**Discuss Middesk approach + negotiating rocks — 1:30–2:00 PM (NEW)**
+Attendee: Chris Elkins (**hasn't accepted yet**). Context: likely where Brandon walks Chris through the five "big rocks" worked out with Andrew Adams on Jul 30 (DEC-017) — billing-trigger codification, non-SLA quality thresholds + volume carrot, "dumb to build in-house" positioning, staged escalation ladder, and PFML/headless invoice credits. Push: get Chris's reaction, especially on #5; confirm whether this substitutes for or precedes a written send to Chris + Jessica + Andrew — COM-020 isn't closed until they've actually seen it. Watch: Chris's non-acceptance; STRC reorg (DEC-018) is still embargoed, so be careful referencing Andrew's upcoming PM role unless Chris is confirmed read-in.
+
+**Cycle Retro: Solo — 9:30–10:15 AM (in progress)** — Izzy declined; her Jul 24 "moving to us asap" DM stays off the group agenda, handle with her directly.
+
+**AI Disc. Continued — 11:30 AM** — push for a concrete V2/V3 AI market-map date; optionally give Ashby a 30-sec COM-020 status given the 1:30 PM Chris meeting.
+
+**REMINDER – Corp/Partner Dev Weekly (12:00)** — suggested content drafted (Browserbase win, MidDesk status incl. today's Chris conversation); keep STRC reorg out.
+
+**Send Weekly Partner Stats (3:30 PM)** — draft-only, pull current figures first.
+
+## Risks / Decisions Needed
+1. **COM-020 P0** — today's Chris meeting is the likely forcing function, but Chris hasn't accepted; confirm attendance.
+2. **Izzy Rogner-Hall** sensitive signal — handle outside the group retro.
+3. **STRC reorg (DEC-018)** still embargoed, expected public today — keep out of the weekly update and handle carefully in the Chris conversation.
+4. Slack search permission gap persists this session — couldn't independently verify anything newer than the 7:34 AM AM Brief.
+5. `action_items.md` still has unresolved git merge-conflict markers — data hygiene, not a Brandon action item.
+
+Full detail, including all five "big rocks" and the complete talking points, is in the Obsidian note.
+The fingerprint for the remaining meetings today matches exactly what was recorded at the last full pass (09:43:06 PDT):
+
+`Aloha Fridays 🌺 @ 2026-07-31 (16) | AI Disc. Continued @ 11:30 (4) | REMINDER - Add Update to Corp/Partner Dev Weeklies @ 12:00 (8) | Discuss Middesk approach + negotiating rocks @ 13:30 (2) | Send Weekly Partner Stats to team @ 15:30 (0)`
+
+**NO-OP: no calendar change since 09:43:06 PDT — skipping full prep.**
+
+Nothing has been added, moved, or cancelled since the last full pass. Cycle Retro: Solo has since started and rolled off the remaining-today window (consistent with the prior pass), but that's roll-off, not a real change, so no fresh enrichment or Obsidian write is needed. Existing prep note at `90-Maximus/meeting-prep/2026-07-31-meeting-prep.md` remains current.
